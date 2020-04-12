@@ -4,6 +4,10 @@
 
 ## Daftar online learning
 
+1. [SEO Basic]()
+1. [Coder Journey to UI/UX Galaxy]()
+1. [How to design a good database](https://github.com/phpid-jakarta/phpid-online-learning-2020/#how-to-design-a-good-database)
+
 ### SEO Basic
 
 - Waktu: Minggu, 12 April 2020
