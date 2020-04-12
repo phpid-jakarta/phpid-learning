@@ -4,9 +4,9 @@
 
 ## Daftar online learning
 
-1. [SEO Basic](https://github.com/phpid-jakarta/phpid-online-learning-2020/blob/master/README.md#seo-basic)
-1. [Coder Journey to UI/UX Galaxy](https://github.com/phpid-jakarta/phpid-online-learning-2020/blob/master/README.md#coder-journey-to-uiux-galaxy)
-1. [How to design a good database](https://github.com/phpid-jakarta/phpid-online-learning-2020/#how-to-design-a-good-database)
+1. [SEO Basic](#seo-basic)
+1. [Coder Journey to UI/UX Galaxy](#coder-journey-to-uiux-galaxy)
+1. [How to design a good database](#how-to-design-a-good-database)
 
 ### SEO Basic
 
