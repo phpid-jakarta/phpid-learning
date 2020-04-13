@@ -20,7 +20,9 @@
 - Waktu: Jumat, 10 April 2020
 - Pemateri: Prayudi Utomo
 - Slide: https://speakerdeck.com/yudiutomo/ux-introduction
-- Video: https://www.facebook.com/groups/phpid/permalink/10158062969406101/
+- Video: 
+   - Facebook: https://www.facebook.com/groups/phpid/permalink/10158062969406101/
+   - YouTube: https://youtu.be/Eh4FbIItxPc
 
 ### How to design a good database
 
