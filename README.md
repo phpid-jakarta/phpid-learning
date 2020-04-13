@@ -29,7 +29,9 @@
 - Waktu: Kamis, 9 April 2020
 - Pemateri: Nur Hidayat
 - Slide: https://slideshare.net/hidayat365/how-to-design-a-good-database
-- Video: https://youtu.be/pACuwalpQpk
+- Video: 
+    - https://youtu.be/fSQ8JamoAfg
+    - https://youtu.be/pACuwalpQpk
 
 ----
 
