@@ -13,7 +13,7 @@
 - Waktu: Minggu, 12 April 2020
 - Pemateri: Arbahud Rio Daroyni
 - Slide:
-- Video:
+- Video: https://youtu.be/emfHRGd5LuE
 
 ### Coder Journey to UI/UX Galaxy
 
