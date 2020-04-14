@@ -4,9 +4,19 @@
 
 ## Daftar online learning
 
+1. [Kinerja Web 101](#kinerja-web-101)
 1. [SEO Basic](#seo-basic)
 1. [Coder Journey to UI/UX Galaxy](#coder-journey-to-uiux-galaxy)
 1. [How to design a good database](#how-to-design-a-good-database)
+
+
+### Kinerja Web 101
+
+- Waktu: Selasa, 14 April 2020
+- Pemateri: Irfan Maulana
+- Slide: https://speakerdeck.com/mazipan/kinerja-web-101
+- Video:
+  - Facebook: https://m.facebook.com/groups/35688476100?view=permalink&id=10158077562731101
 
 ### SEO Basic
 
