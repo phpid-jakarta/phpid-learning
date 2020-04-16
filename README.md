@@ -31,7 +31,7 @@
 ### Migration from Procedural to OOP
 
 - Waktu: Kamis, 16 April 2020
-- Pemateri:
+- Pemateri: Achmad Mardiansyah
 - Slide:
 - Video: 
   - Facebook: https://www.facebook.com/groups/phpid/permalink/10158085993956101/
