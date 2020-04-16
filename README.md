@@ -50,7 +50,7 @@
 - Pemateri: Irfan Maulana
 - Slide: https://speakerdeck.com/mazipan/kinerja-web-101
 - Video:
-  - Facebook: https://m.facebook.com/groups/35688476100?view=permalink&id=10158077562731101
+  - Facebook: https://web.facebook.com/groups/phpid/permalink/10158077562731101/
 
 ### SEO Basic
 
