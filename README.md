@@ -4,11 +4,45 @@
 
 ## Daftar online learning
 
-1. [Kinerja Web 101](#kinerja-web-101)
-1. [SEO Basic](#seo-basic)
-1. [Coder Journey to UI/UX Galaxy](#coder-journey-to-uiux-galaxy)
-1. [How to design a good database](#how-to-design-a-good-database)
+- [#6 Migration from Procedurak to OOP](#migration-from-procedural-to-oop)
+- [#5 Why Documentation Matter)[#why-documentation-matter)
+- [#4 Kinerja Web 101](#kinerja-web-101)
+- [#3 SEO Basic](#seo-basic)
+- [#2 Coder Journey to UI/UX Galaxy](#coder-journey-to-uiux-galaxy)
+- [#1 How to design a good database](#how-to-design-a-good-database)
 
+### Next Topic
+
+- Waktu: Hari, XX April 2020
+- Pemateri:
+- Slide:
+- Video: 
+  - Facebook:
+  - YouTube:
+
+### Getting Started with Laravel LiveWire
+
+- Waktu: Minggu, 19 April 2020
+- Pemateri: Muhammad Amirul Ihsan (Creator Kawan Koding)
+- Slide:
+- Video: 
+  - Facebook:
+
+### Migration from Procedural to OOP
+
+- Waktu: Kamis, 16 April 2020
+- Pemateri:
+- Slide:
+- Video: 
+  - Facebook: https://www.facebook.com/groups/phpid/permalink/10158085993956101/
+
+### Why Documentation Matter
+
+- Waktu: Rabu, 15 April 2020
+- Pemateri: Wiguno
+- Slide:
+- Video: 
+  - Facebook: https://www.facebook.com/groups/phpid/permalink/10158081773851101/
 
 ### Kinerja Web 101
 
