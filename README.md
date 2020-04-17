@@ -4,7 +4,8 @@
 
 ## Daftar online learning
 
-- [#6 Migration from Procedurak to OOP](#migration-from-procedural-to-oop)
+- [#7 Getting Started with Laravel LiveWire](#getting-started-with-laravel-livewire)
+- [#6 Migration from Procedural to OOP](#migration-from-procedural-to-oop)
 - [#5 Why Documentation Matter](#why-documentation-matter)
 - [#4 Kinerja Web 101](#kinerja-web-101)
 - [#3 SEO Basic](#seo-basic)
