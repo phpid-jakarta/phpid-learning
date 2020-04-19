@@ -27,7 +27,7 @@
 - Pemateri: Muhammad Amirul Ihsan (Creator Kawan Koding)
 - Slide:
 - Video: 
-  - Facebook:
+  - Facebook: https://www.facebook.com/groups/phpid/permalink/10158099015066101/
 
 ### Migration from Procedural to OOP
 
