@@ -4,7 +4,7 @@
 
 ## Daftar online learning
 
-- [#7 Getting Started with Laravel LiveWire](#getting-started-with-laravel-livewire)
+- [#7 Laravel LiveWire 101](#laravel-livewire-101)
 - [#6 Migration from Procedural to OOP](#migration-from-procedural-to-oop)
 - [#5 Why Documentation Matter](#why-documentation-matter)
 - [#4 Kinerja Web 101](#kinerja-web-101)
@@ -21,7 +21,7 @@
   - Facebook:
   - YouTube:
 
-### Getting Started with Laravel LiveWire
+### Laravel LiveWire 101
 
 - Waktu: Minggu, 19 April 2020
 - Pemateri: Muhammad Amirul Ihsan (Creator Kawan Koding)
