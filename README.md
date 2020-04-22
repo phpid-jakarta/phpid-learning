@@ -15,7 +15,7 @@
 - [#2 Coder Journey to UI/UX Galaxy](#coder-journey-to-uiux-galaxy)
 - [#1 How to design a good database](#how-to-design-a-good-database)
 
-### Next Topic
+### Template sesi selanjutnya
 
 - Waktu: Hari, XX April 2020
 - Pemateri:
