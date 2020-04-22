@@ -89,6 +89,12 @@
     - https://youtu.be/fSQ8JamoAfg
     - https://youtu.be/pACuwalpQpk
 
+## Bantu kami
+
+Bantu kami memperbarui daftar ini 🙏
+Pantau grup [Facebook PHPID](https://www.facebook.com/groups/phpid), dan silahkan perbarui data setiap kali ada sesi baru.
+Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
+
 ----
 
 ©️ 2020 by PHPID Team
