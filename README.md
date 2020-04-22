@@ -1,5 +1,7 @@
 # phpid-online-learning-2020
 
+![PHPID](https://img.shields.io/badge/PHPID-Community-blue.svg) ![Contribution](https://img.shields.io/badge/Contributions-Welcome-green.svg)
+
 👩‍🏫 List of resources PHPID online learning 2020
 
 ## Daftar online learning
