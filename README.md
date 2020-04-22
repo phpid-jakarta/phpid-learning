@@ -4,6 +4,7 @@
 
 ## Daftar online learning
 
+- [#8 Social Media Digital Strategy](#social-media-digital-strategy)
 - [#7 Laravel LiveWire 101](#laravel-livewire-101)
 - [#6 Migration from Procedural to OOP](#migration-from-procedural-to-oop)
 - [#5 Why Documentation Matter](#why-documentation-matter)
@@ -20,6 +21,14 @@
 - Video: 
   - Facebook:
   - YouTube:
+
+### Social Media Digital Strategy
+
+- Waktu: Rabu, 22 April 2020
+- Pemateri: Fadhil Zikri Muhammad
+- Slide:
+- Video: 
+  - Facebook: https://www.facebook.com/groups/phpid/permalink/10158112589196101/
 
 ### Laravel LiveWire 101
 
@@ -51,7 +60,7 @@
 - Pemateri: Irfan Maulana
 - Slide: https://speakerdeck.com/mazipan/kinerja-web-101
 - Video:
-  - Facebook: https://web.facebook.com/groups/phpid/permalink/10158077562731101/
+  - Facebook: https://www.facebook.com/groups/phpid/permalink/10158077562731101/
 
 ### SEO Basic
 
