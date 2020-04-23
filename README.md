@@ -6,6 +6,7 @@
 
 ## Daftar online learning
 
+- [#9 Building CI/CD Pipeline](#building-cicd-pipeline)
 - [#8 Social Media Digital Strategy](#social-media-digital-strategy)
 - [#7 Laravel LiveWire 101](#laravel-livewire-101)
 - [#6 Migration from Procedural to OOP](#migration-from-procedural-to-oop)
@@ -24,6 +25,15 @@
   - Facebook:
   - YouTube:
 
+### Building CI/CD Pipeline
+
+- Waktu: Jumat, 24 April 2020
+- Pemateri: Petra Barus
+- Slide:
+- Video: 
+  - Facebook:
+  - YouTube:
+  
 ### Social Media Digital Strategy
 
 - Waktu: Rabu, 22 April 2020
