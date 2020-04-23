@@ -1,0 +1,22 @@
+{
+  "name": "phpid-online-learning-2020",
+  "version": "1.0.0",
+  "description": "👩‍🏫 List of resources PHPID online learning 2020",
+  "main": "toJson.js",
+  "scripts": {
+    "toJson": "node ./toJson.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phpid-jakarta/phpid-online-learning-2020.git"
+  },
+  "author": "Irfan Maulana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phpid-jakarta/phpid-online-learning-2020/issues"
+  },
+  "homepage": "https://github.com/phpid-jakarta/phpid-online-learning-2020#readme",
+  "dependencies": {
+  }
+}
