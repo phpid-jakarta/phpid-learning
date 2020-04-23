@@ -27,17 +27,17 @@ const main = async () => {
 			}
 		});
 
-		fs.writeFile('./data.json', JSON.stringify({
+		fs.writeFile(path.resolve('./data.json'), JSON.stringify({
 			data: allData
-		}), function (err,data) {
+		}), function (err) {
 			if (err) {
-				return console.log(err);
+				return console.log('❌ Error write file data.json', err);
 			}
-			console.log(data);
+			console.log('✅ Success write file data.json');
 		});
 
 	} catch (error) {
-		console.error(error);
+		console.error('❌ Error read file README.md', error);
 	}
 };
 
