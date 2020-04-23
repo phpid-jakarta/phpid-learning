@@ -22,8 +22,7 @@
 - Pemateri:
 - Slide:
 - Video: 
-  - Facebook:
-  - YouTube:
+  - 
 
 ### Building CI/CD Pipeline
 
@@ -31,8 +30,7 @@
 - Pemateri: Petra Barus
 - Slide:
 - Video: 
-  - Facebook:
-  - YouTube:
+  - 
   
 ### Social Media Digital Strategy
 
@@ -48,7 +46,7 @@
 - Pemateri: Muhammad Amirul Ihsan (Creator Kawan Koding)
 - Slide:
 - Video: 
-  - Facebook: https://www.facebook.com/groups/phpid/permalink/10158099015066101/
+  - https://www.facebook.com/groups/phpid/permalink/10158099015066101/
 
 ### Migration from Procedural to OOP
 
@@ -56,7 +54,7 @@
 - Pemateri: Achmad Mardiansyah
 - Slide:
 - Video: 
-  - Facebook: https://www.facebook.com/groups/phpid/permalink/10158085993956101/
+  - https://www.facebook.com/groups/phpid/permalink/10158085993956101/
 
 ### Why Documentation Matter
 
@@ -64,7 +62,7 @@
 - Pemateri: Wiguno
 - Slide:
 - Video: 
-  - Facebook: https://www.facebook.com/groups/phpid/permalink/10158081773851101/
+  - https://www.facebook.com/groups/phpid/permalink/10158081773851101/
 
 ### Kinerja Web 101
 
@@ -72,14 +70,15 @@
 - Pemateri: Irfan Maulana
 - Slide: https://speakerdeck.com/mazipan/kinerja-web-101
 - Video:
-  - Facebook: https://www.facebook.com/groups/phpid/permalink/10158077562731101/
+  - https://www.facebook.com/groups/phpid/permalink/10158077562731101/
 
 ### SEO Basic
 
 - Waktu: Minggu, 12 April 2020
 - Pemateri: Arbahud Rio Daroyni
 - Slide:
-- Video: https://youtu.be/emfHRGd5LuE
+- Video: 
+  - https://youtu.be/emfHRGd5LuE
 
 ### Coder Journey to UI/UX Galaxy
 
@@ -87,8 +86,8 @@
 - Pemateri: Prayudi Utomo
 - Slide: https://speakerdeck.com/yudiutomo/ux-introduction
 - Video: 
-   - Facebook: https://www.facebook.com/groups/phpid/permalink/10158062969406101/
-   - YouTube: https://youtu.be/Eh4FbIItxPc
+   - https://www.facebook.com/groups/phpid/permalink/10158062969406101/
+   - https://youtu.be/Eh4FbIItxPc
 
 ### How to design a good database
 
