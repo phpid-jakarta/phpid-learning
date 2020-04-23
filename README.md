@@ -22,7 +22,7 @@
 - Pemateri:
 - Slide:
 - Video: 
-  - 
+  - link
 
 ### Building CI/CD Pipeline
 
@@ -30,7 +30,7 @@
 - Pemateri: Petra Barus
 - Slide:
 - Video: 
-  - 
+  - link
   
 ### Social Media Digital Strategy
 
@@ -38,7 +38,7 @@
 - Pemateri: Fadhil Zikri Muhammad
 - Slide:
 - Video: 
-  - Facebook: https://www.facebook.com/groups/phpid/permalink/10158112589196101/
+  - https://www.facebook.com/groups/phpid/permalink/10158112589196101/
 
 ### Laravel LiveWire 101
 
