@@ -39,6 +39,10 @@ jobs:
       - name: Generate file json
         run: yarn toJson
 
+      - name: Modify last update
+        run: |
+          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
+          echo $d > LAST_UPDATED
       - name: Commit files report
         run: |
           git config --local user.email "action@github.com"
