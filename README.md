@@ -30,7 +30,7 @@
 - Pemateri: Petra Barus
 - Slide:
 - Video: 
-  - link
+  - https://www.facebook.com/groups/phpid/permalink/10158120909651101/
   
 ### Social Media Digital Strategy
 
