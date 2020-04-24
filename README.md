@@ -6,6 +6,7 @@
 
 ## Daftar online learning
 
+- [#10 Optimize Image on Your Website 101](#optimize-image-on-your-website-101)
 - [#9 Building CI/CD Pipeline](#building-cicd-pipeline)
 - [#8 Social Media Digital Strategy](#social-media-digital-strategy)
 - [#7 Laravel LiveWire 101](#laravel-livewire-101)
@@ -23,6 +24,14 @@
 - Slide:
 - Video: 
   - link
+
+### Optimize Image on Your Website 101
+
+- Waktu: Sabtu, 25 April 2020
+- Pemateri: Munir AP
+- Slide:
+- Video: 
+  - coming-soon
 
 ### Building CI/CD Pipeline
 
