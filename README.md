@@ -18,6 +18,14 @@
 - [#2 Coder Journey to UI/UX Galaxy](#coder-journey-to-uiux-galaxy)
 - [#1 How to design a good database](#how-to-design-a-good-database)
 
+### Template sesi selanjutnya
+
+- Waktu: Hari, XX April 2020
+- Pemateri:
+- Slide:
+- Video: 
+  - link
+
 ### Starting Your Career in the Data Science
 
 - Waktu: Minggu, 26 April 2020
