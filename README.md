@@ -6,6 +6,7 @@
 
 ## Daftar online learning
 
+- [#11 Starting Your Career in the Data Science](#starting-your-career-in-the-data-science)
 - [#10 Optimize Image on Your Website 101](#optimize-image-on-your-website-101)
 - [#9 Building CI/CD Pipeline](#building-cicd-pipeline)
 - [#8 Social Media Digital Strategy](#social-media-digital-strategy)
@@ -17,10 +18,10 @@
 - [#2 Coder Journey to UI/UX Galaxy](#coder-journey-to-uiux-galaxy)
 - [#1 How to design a good database](#how-to-design-a-good-database)
 
-### Template sesi selanjutnya
+### Starting Your Career in the Data Science
 
-- Waktu: Hari, XX April 2020
-- Pemateri:
+- Waktu: Minggu, 26 April 2020
+- Pemateri: Firman Brilian
 - Slide:
 - Video: 
   - link
