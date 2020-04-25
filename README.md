@@ -31,7 +31,7 @@
 - Pemateri: Munir AP
 - Slide:
 - Video: 
-  - coming-soon
+  - https://www.facebook.com/groups/phpid/permalink/10158125506621101/
 
 ### Building CI/CD Pipeline
 
