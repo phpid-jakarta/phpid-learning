@@ -6,6 +6,7 @@
 
 ## Daftar online learning
 
+- [#12 Berkarir sebagai Frontend Developer](#berkarir-sebagai-frontend-developer)
 - [#11 Starting Your Career in the Data Science](#starting-your-career-in-the-data-science)
 - [#10 Optimize Image on Your Website 101](#optimize-image-on-your-website-101)
 - [#9 Building CI/CD Pipeline](#building-cicd-pipeline)
@@ -26,13 +27,22 @@
 - Video: 
   - link
 
+### Berkarir sebagai Frontend Developer
+
+- Waktu: Selasa, 28 April 2020
+- Pemateri: Randi Viandra Putra
+- Slide:
+- Video: 
+  - link
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZYqd-qprz4oEtT_SgODLo7V5S3a7RsP9sep
+
 ### Starting Your Career in the Data Science
 
 - Waktu: Minggu, 26 April 2020
 - Pemateri: Firman Brilian
 - Slide:
 - Video: 
-  - link
+  - link 
 
 ### Optimize Image on Your Website 101
 
