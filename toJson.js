@@ -9,14 +9,14 @@ const main = async () => {
 		const allData = []
 
 		matchContent.forEach(ctx => {
-			if (!ctx.startsWith('### Template sesi selanjutnya')) {
+			if (!ctx.startsWith('### Template')) {
 				const dateRegex = /^- Waktu.*/gm;
 				const pemateriRegex = /^- Pemateri.*/gm;
 				const slideRegex = /^- Slide.*/gm;
 				const TopicRegex = /^\#{3}.*/gm;
 				const VideoRegex = /- Video.*\n.*\n.*/gm;
 				const videosRaw = ctx.match(VideoRegex)[0].replace('- Video: ', '').trim();
-				const splitVideos = videosRaw.split('\n').map(i => i.replace('- ', '').trim())
+				const splitVideos = videosRaw.split('\n').map(i => i.replace('- ', '').replace('Registrasi: ', '').trim())
 				allData.push({
 					"date": ctx.match(dateRegex)[0].replace('- Waktu: ', '').trim(),
 					"speaker": ctx.match(pemateriRegex)[0].replace('- Pemateri: ', '').trim(),
