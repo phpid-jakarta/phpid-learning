@@ -53,7 +53,7 @@
 ### Optimize Image on Your Website 101
 
 - Waktu: Sabtu, 25 April 2020
-- Pukul: 
+- Pukul: 16:30
 - Pemateri: Munir AP
 - URL:
 - Slide:
@@ -63,7 +63,7 @@
 ### Building CI/CD Pipeline
 
 - Waktu: Jumat, 24 April 2020
-- Pukul: 
+- Pukul: 16:30
 - Pemateri: Petra Barus
 - URL:
 - Slide:
@@ -73,7 +73,7 @@
 ### Social Media Digital Strategy
 
 - Waktu: Rabu, 22 April 2020
-- Pukul: 
+- Pukul: 19:30
 - Pemateri: Fadhil Zikri Muhammad
 - URL:
 - Slide:
@@ -83,7 +83,7 @@
 ### Laravel LiveWire 101
 
 - Waktu: Minggu, 19 April 2020
-- Pukul: 
+- Pukul: 19:30
 - Pemateri: Muhammad Amirul Ihsan (Creator Kawan Koding)
 - URL:
 - Slide:
@@ -93,7 +93,7 @@
 ### Migration from Procedural to OOP
 
 - Waktu: Kamis, 16 April 2020
-- Pukul: 
+- Pukul: 19:30
 - Pemateri: Achmad Mardiansyah
 - URL:
 - Slide:
@@ -103,7 +103,7 @@
 ### Why Documentation Matter
 
 - Waktu: Rabu, 15 April 2020
-- Pukul: 
+- Pukul: 19:30
 - Pemateri: Wiguno
 - URL:
 - Slide:
@@ -113,7 +113,7 @@
 ### Kinerja Web 101
 
 - Waktu: Selasa, 14 April 2020
-- Pukul: 
+- Pukul: 19:30
 - Pemateri: Irfan Maulana
 - URL:
 - Slide: https://speakerdeck.com/mazipan/kinerja-web-101
@@ -123,7 +123,7 @@
 ### SEO Basic
 
 - Waktu: Minggu, 12 April 2020
-- Pukul: 
+- Pukul: 19:30
 - Pemateri: Arbahud Rio Daroyni
 - URL:
 - Slide:
@@ -133,7 +133,7 @@
 ### Coder Journey to UI/UX Galaxy
 
 - Waktu: Jumat, 10 April 2020
-- Pukul: 
+- Pukul: 19:30
 - Pemateri: Prayudi Utomo
 - URL:
 - Slide: https://speakerdeck.com/yudiutomo/ux-introduction
@@ -144,7 +144,7 @@
 ### How to design a good database
 
 - Waktu: Kamis, 9 April 2020
-- Pukul: 
+- Pukul: 19:30
 - Pemateri: Nur Hidayat
 - URL:
 - Slide: https://slideshare.net/hidayat365/how-to-design-a-good-database
