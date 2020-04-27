@@ -22,7 +22,9 @@
 ### Template sesi selanjutnya
 
 - Waktu: Hari, XX April 2020
+- Pukul: 00:00
 - Pemateri:
+- URL: [url event]
 - Slide:
 - Video: 
   - link
@@ -30,7 +32,9 @@
 ### Berkarir sebagai Frontend Developer
 
 - Waktu: Selasa, 28 April 2020
+- Pukul: 16:30
 - Pemateri: Randi Viandra Putra
+- URL: https://web.facebook.com/groups/phpid/permalink/10158129892301101/
 - Slide:
 - Video: 
   - link
@@ -39,7 +43,9 @@
 ### Starting Your Career in the Data Science
 
 - Waktu: Minggu, 26 April 2020
+- Pukul: 16:30
 - Pemateri: Firman Brilian
+- URL: https://web.facebook.com/groups/phpid/permalink/10158125700301101/
 - Slide:
 - Video: 
   - link 
@@ -47,7 +53,9 @@
 ### Optimize Image on Your Website 101
 
 - Waktu: Sabtu, 25 April 2020
+- Pukul: 
 - Pemateri: Munir AP
+- URL:
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158125506621101/
@@ -55,7 +63,9 @@
 ### Building CI/CD Pipeline
 
 - Waktu: Jumat, 24 April 2020
+- Pukul: 
 - Pemateri: Petra Barus
+- URL:
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158120909651101/
@@ -63,7 +73,9 @@
 ### Social Media Digital Strategy
 
 - Waktu: Rabu, 22 April 2020
+- Pukul: 
 - Pemateri: Fadhil Zikri Muhammad
+- URL:
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158112589196101/
@@ -71,7 +83,9 @@
 ### Laravel LiveWire 101
 
 - Waktu: Minggu, 19 April 2020
+- Pukul: 
 - Pemateri: Muhammad Amirul Ihsan (Creator Kawan Koding)
+- URL:
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158099015066101/
@@ -79,7 +93,9 @@
 ### Migration from Procedural to OOP
 
 - Waktu: Kamis, 16 April 2020
+- Pukul: 
 - Pemateri: Achmad Mardiansyah
+- URL:
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158085993956101/
@@ -87,7 +103,9 @@
 ### Why Documentation Matter
 
 - Waktu: Rabu, 15 April 2020
+- Pukul: 
 - Pemateri: Wiguno
+- URL:
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158081773851101/
@@ -95,7 +113,9 @@
 ### Kinerja Web 101
 
 - Waktu: Selasa, 14 April 2020
+- Pukul: 
 - Pemateri: Irfan Maulana
+- URL:
 - Slide: https://speakerdeck.com/mazipan/kinerja-web-101
 - Video:
   - https://www.facebook.com/groups/phpid/permalink/10158077562731101/
@@ -103,7 +123,9 @@
 ### SEO Basic
 
 - Waktu: Minggu, 12 April 2020
+- Pukul: 
 - Pemateri: Arbahud Rio Daroyni
+- URL:
 - Slide:
 - Video: 
   - https://youtu.be/emfHRGd5LuE
@@ -111,7 +133,9 @@
 ### Coder Journey to UI/UX Galaxy
 
 - Waktu: Jumat, 10 April 2020
+- Pukul: 
 - Pemateri: Prayudi Utomo
+- URL:
 - Slide: https://speakerdeck.com/yudiutomo/ux-introduction
 - Video: 
    - https://www.facebook.com/groups/phpid/permalink/10158062969406101/
@@ -120,7 +144,9 @@
 ### How to design a good database
 
 - Waktu: Kamis, 9 April 2020
+- Pukul: 
 - Pemateri: Nur Hidayat
+- URL:
 - Slide: https://slideshare.net/hidayat365/how-to-design-a-good-database
 - Video: 
     - https://youtu.be/fSQ8JamoAfg
