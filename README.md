@@ -6,6 +6,7 @@
 
 ## Daftar online learning
 
+- [#13 Remote Worker](#remote-worker)
 - [#12 Berkarir sebagai Frontend Developer](#berkarir-sebagai-frontend-developer)
 - [#11 Starting Your Career in the Data Science](#starting-your-career-in-the-data-science)
 - [#10 Optimize Image on Your Website 101](#optimize-image-on-your-website-101)
@@ -29,6 +30,17 @@
 - Video: 
   - link
 
+### Remote Worker
+
+- Waktu: Kamis, 30 April 2020
+- Pukul: 16:30
+- Pemateri: Om Frangky Tumiwan
+- URL: [url event]
+- Slide:
+- Video: 
+  - link
+- Registrasi:  
+
 ### Berkarir sebagai Frontend Developer
 
 - Waktu: Selasa, 28 April 2020
@@ -48,7 +60,7 @@
 - URL: https://web.facebook.com/groups/phpid/permalink/10158125700301101/
 - Slide:
 - Video: 
-  - link 
+  - https://web.facebook.com/groups/phpid/permalink/10158133248636101/
 
 ### Optimize Image on Your Website 101
 
