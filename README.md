@@ -57,9 +57,9 @@
 
 - Waktu: Selasa, 28 April 2020
 - Pukul: 16:30
-- Pemateri: Randi Viandra Putra
+- Pemateri: Randy Vianda Putra
 - URL: https://web.facebook.com/groups/phpid/permalink/10158129892301101/
-- Slide:
+- Slide: https://speakerdeck.com/randyviandaputra/berkarir-sebagai-frontend-developer
 - Video: 
   - https://web.facebook.com/groups/phpid/permalink/10158137997021101/
 
