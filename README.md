@@ -6,6 +6,7 @@
 
 ## Daftar online learning
 
+- [#14 Coming Soon Yah](#coming-soon-yah)
 - [#13 Remote Worker](#remote-worker)
 - [#12 Berkarir sebagai Frontend Developer](#berkarir-sebagai-frontend-developer)
 - [#11 Starting Your Career in the Data Science](#starting-your-career-in-the-data-science)
@@ -30,16 +31,27 @@
 - Video: 
   - link
 
+### Coming Soon Yah
+
+- Waktu: Sabtu, 2 Mei 2020
+- Pukul: 16:30
+- Pemateri: Agit Naeta
+- URL: 
+- Slide:
+- Video: 
+  - link
+- Registrasi:
+
 ### Remote Worker
 
 - Waktu: Kamis, 30 April 2020
 - Pukul: 16:30
 - Pemateri: Om Frangky Tumiwan
-- URL: [url event]
+- URL: 
 - Slide:
 - Video: 
   - link
-- Registrasi:  
+- Registrasi: https://us02web.zoom.us/meeting/register/tZwofu2grjstGdy9geavuTWpp8oopk77yrGv
 
 ### Berkarir sebagai Frontend Developer
 
@@ -49,8 +61,7 @@
 - URL: https://web.facebook.com/groups/phpid/permalink/10158129892301101/
 - Slide:
 - Video: 
-  - link
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZYqd-qprz4oEtT_SgODLo7V5S3a7RsP9sep
+  - https://web.facebook.com/groups/phpid/permalink/10158137997021101/
 
 ### Starting Your Career in the Data Science
 
