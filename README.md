@@ -6,7 +6,7 @@
 
 ## Daftar online learning
 
-- [#14 Coming Soon Yah](#coming-soon-yah)
+- [#14 Tactics and Strategy to Define Digital Products](#tactics-and-strategy-to-define-digital-product)
 - [#13 Remote Worker](#remote-worker)
 - [#12 Berkarir sebagai Frontend Developer](#berkarir-sebagai-frontend-developer)
 - [#11 Starting Your Career in the Data Science](#starting-your-career-in-the-data-science)
@@ -31,7 +31,7 @@
 - Video: 
   - link
 
-### Coming Soon Yah
+### Tactics and Strategy to Define Digital Products
 
 - Waktu: Sabtu, 2 Mei 2020
 - Pukul: 16:30
@@ -40,7 +40,7 @@
 - Slide:
 - Video: 
   - link
-- Registrasi:
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZcqd-ivrzIjGNDrTp18dxvh7AdYX5_RZpba
 
 ### Remote Worker
 
