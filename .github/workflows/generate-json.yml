@@ -1,7 +1,6 @@
 name: Generate JSON
 
 on:
-  pull_request:
   push:
     branches:
       - master
