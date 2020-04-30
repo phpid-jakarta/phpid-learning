@@ -62,8 +62,7 @@
 - URL: 
 - Slide:
 - Video: 
-  - link
-- Registrasi: https://us02web.zoom.us/meeting/register/tZwofu2grjstGdy9geavuTWpp8oopk77yrGv
+  - https://web.facebook.com/groups/phpid/permalink/10158145835046101/
 
 ### Berkarir sebagai Frontend Developer
 
