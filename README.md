@@ -6,7 +6,8 @@
 
 ## Daftar online learning
 
-- [#15 Restfull API](#restful-api)
+- [#16 PHP7 - PHP8](#php7-php8)
+- [#15 Rest API dengan PHP OOP](#rest-api-dengan-php-oop)
 - [#14 Tactics and Strategy to Define Digital Products](#tactics-and-strategy-to-define-digital-product)
 - [#13 Remote Worker](#remote-worker)
 - [#12 Berkarir sebagai Frontend Developer](#berkarir-sebagai-frontend-developer)
@@ -24,7 +25,7 @@
 
 ### Template sesi selanjutnya
 
-- Waktu: Hari, XX April 2020
+- Waktu: Hari, XX Mei 2020
 - Pukul: 00:00
 - Pemateri:
 - URL: [url event]
@@ -32,7 +33,17 @@
 - Video: 
   - link
 
-### Restful API
+### PHP7 - PHP8
+
+- Waktu: Senin, 4 Mei 2020
+- Pukul: 16:20
+- Pemateri: om Prasetyo Wicaksono 
+- URL: [url event]
+- Slide:
+- Video: 
+  - link
+
+###  Rest API dengan PHP OOP 
 
 - Waktu: Minggu, 3 Mei 2020
 - Pukul: 16:30
@@ -41,7 +52,7 @@
 - Slide:
 - Video: 
   - link
-- Registrasi:  
+- Registrasi: https://us02web.zoom.us/meeting/register/tZwvf-irrzopGNeL3fH53KcxjHeWRvNzB104
 
 ### Tactics and Strategy to Define Digital Products
 
@@ -51,8 +62,8 @@
 - URL: 
 - Slide:
 - Video: 
-  - link
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZcqd-ivrzIjGNDrTp18dxvh7AdYX5_RZpba
+  - https://web.facebook.com/groups/phpid/permalink/10158153667346101/
+- Registrasi:  
 
 ### Remote Worker
 
