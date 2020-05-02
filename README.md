@@ -6,7 +6,7 @@
 
 ## Daftar online learning
 
-- [#16 PHP7 - PHP8](#php7-php8)
+- [#16 Evolusi Bahasa Pemrograman PHP](#evolusi-bahasa pemrograman-php)
 - [#15 Rest API dengan PHP OOP](#rest-api-dengan-php-oop)
 - [#14 Tactics and Strategy to Define Digital Products](#tactics-and-strategy-to-define-digital-product)
 - [#13 Remote Worker](#remote-worker)
@@ -33,7 +33,7 @@
 - Video: 
   - link
 
-### PHP7 - PHP8
+### Evolusi Bahasa Pemrograman PHP
 
 - Waktu: Senin, 4 Mei 2020
 - Pukul: 16:20
