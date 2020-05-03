@@ -6,7 +6,8 @@
 
 ## Daftar online learning
 
-- [#16 Evolusi Bahasa Pemrograman PHP](#evolusi-bahasa pemrograman-php)
+- [#17 Recruitment IT Talent](#recruitment-it-talent)
+- [#16 Evolution Of PHP](#evolution-of-php)
 - [#15 Rest API dengan PHP OOP](#rest-api-dengan-php-oop)
 - [#14 Tactics and Strategy to Define Digital Products](#tactics-and-strategy-to-define-digital-product)
 - [#13 Remote Worker](#remote-worker)
@@ -33,15 +34,26 @@
 - Video: 
   - link
 
-### Evolusi Bahasa Pemrograman PHP
+### Recruitment IT Talent
+
+- Waktu: Selasa, 5 Mei 2020
+- Pukul: 16:30
+- Pemateri: Ali GeekHunter 
+- URL: [url event]
+- Slide:
+- Video: 
+  - link
+
+### Evolution Of PHP
 
 - Waktu: Senin, 4 Mei 2020
-- Pukul: 16:20
+- Pukul: 16:00
 - Pemateri: om Prasetyo Wicaksono 
 - URL: [url event]
 - Slide:
 - Video: 
   - link
+- Registration:  https://us02web.zoom.us/meeting/register/tZcvdOygqjopHdH79dDkI4dmY_VxwN2kNHi9
 
 ###  Rest API dengan PHP OOP 
 
@@ -51,8 +63,7 @@
 - URL: 
 - Slide:
 - Video: 
-  - link
-- Registrasi: https://us02web.zoom.us/meeting/register/tZwvf-irrzopGNeL3fH53KcxjHeWRvNzB104
+  - https://web.facebook.com/groups/phpid/permalink/10158157539156101/
 
 ### Tactics and Strategy to Define Digital Products
 
