@@ -6,7 +6,8 @@
 
 ## Daftar online learning
 
-- [#17 Recruitment IT Talent](#recruitment-it-talent)
+- [#18 WEB RTC](#web-rtc)
+- [#17 Howto Secure your Next Job During Covid-19 Pandemic](#howto-secure-your-next-job-during-covid-19-pandemic)
 - [#16 Evolution Of PHP](#evolution-of-php)
 - [#15 Rest API dengan PHP OOP](#rest-api-dengan-php-oop)
 - [#14 Tactics and Strategy to Define Digital Products](#tactics-and-strategy-to-define-digital-product)
@@ -34,26 +35,37 @@
 - Video: 
   - link
 
-### Recruitment IT Talent
+### WEB RTC
 
-- Waktu: Selasa, 5 Mei 2020
-- Pukul: 16:30
-- Pemateri: Ali GeekHunter 
-- URL: [url event]
+- Waktu: Hari, XX Mei 2020
+- Pukul: 00:00
+- Pemateri: Om Fitra Aditya
+- URL: 
 - Slide:
 - Video: 
   - link
+
+
+###  Howto Secure your Next Job During Covid-19 Pandemic
+
+- Waktu: Selasa, 5 Mei 2020
+- Pukul: 16:30
+- Pemateri: Ali Pasha -  GeekHunter 
+- URL: 
+- Slide:
+- Video: 
+  - link
+-Registration:  https://us02web.zoom.us/meeting/register/tZwuc-igqT8qGdDtoTFEtzd1pTx0ZGhL7hvl
 
 ### Evolution Of PHP
 
 - Waktu: Senin, 4 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Prasetyo Wicaksono 
-- URL: [url event]
+- URL: 
 - Slide:
 - Video: 
-  - link
-- Registration:  https://us02web.zoom.us/meeting/register/tZcvdOygqjopHdH79dDkI4dmY_VxwN2kNHi9
+  - https://web.facebook.com/groups/phpid/permalink/10158161447446101/
 
 ###  Rest API dengan PHP OOP 
 
