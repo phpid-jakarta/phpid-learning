@@ -48,7 +48,7 @@
 
 ### WEB RTC
 
-- Waktu: Hari, XX Mei 2020
+- Waktu: Hari, 6 Mei 2020
 - Pukul: 00:00
 - Pemateri: Om Fitra Aditya
 - URL: 
