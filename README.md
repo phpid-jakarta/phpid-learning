@@ -6,6 +6,7 @@
 
 ## Daftar online learning
 
+- [#19 Standard Security Tips and Security](#standard-security-tips-and-security)
 - [#18 WEB RTC](#web-rtc)
 - [#17 Howto Secure your Next Job During Covid-19 Pandemic](#howto-secure-your-next-job-during-covid-19-pandemic)
 - [#16 Evolution Of PHP](#evolution-of-php)
@@ -35,6 +36,16 @@
 - Video: 
   - link
 
+### Standard Security Tips and Security
+
+- Waktu: Hari, 7 Mei 2020
+- Pukul: 00:00
+- Pemateri: om Dyan Galih
+- URL: 
+- Slide:
+- Video: 
+  - link
+
 ### WEB RTC
 
 - Waktu: Hari, XX Mei 2020
@@ -44,7 +55,7 @@
 - Slide:
 - Video: 
   - link
-
+- Registration: https://us02web.zoom.us/meeting/register/tZEld-usqTktGdALCBSm3PUAfUiAevCu5DoB
 
 ###  Howto Secure your Next Job During Covid-19 Pandemic
 
@@ -54,8 +65,7 @@
 - URL: 
 - Slide:
 - Video: 
-  - link
--Registration:  https://us02web.zoom.us/meeting/register/tZwuc-igqT8qGdDtoTFEtzd1pTx0ZGhL7hvl
+  - https://web.facebook.com/groups/phpid/permalink/10158165513971101/
 
 ### Evolution Of PHP
 
