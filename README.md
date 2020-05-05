@@ -38,7 +38,7 @@
 
 ### Standard Security Tips and Security
 
-- Waktu: Hari, 7 Mei 2020
+- Waktu: Kamis, 7 Mei 2020
 - Pukul: 00:00
 - Pemateri: om Dyan Galih
 - URL: 
@@ -48,7 +48,7 @@
 
 ### WEB RTC
 
-- Waktu: Hari, 6 Mei 2020
+- Waktu: Rabu, 6 Mei 2020
 - Pukul: 00:00
 - Pemateri: Om Fitra Aditya
 - URL: 
