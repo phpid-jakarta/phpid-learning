@@ -46,8 +46,8 @@ jobs:
           
       - name: Commit files report
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "mazipanneh@gmail.com"
+          git config --local user.name "mazipan"
           git add -A
           git commit -m "[Github Actions]: Generate json file"
           
