@@ -6,7 +6,8 @@
 
 ## Daftar online learning
 
-- [#19 Standard Security Tips and Security](#standard-security-tips-and-security)
+- [#20 Database Journey Continued](#database-journey-continued)
+- [#19 Personal Security Awareness](#personal-security-awareness)
 - [#18 WEB RTC](#web-rtc)
 - [#17 Howto Secure your Next Job During Covid-19 Pandemic](#howto-secure-your-next-job-during-covid-19-pandemic)
 - [#16 Evolution Of PHP](#evolution-of-php)
@@ -36,26 +37,36 @@
 - Video: 
   - link
 
-### Standard Security Tips and Security
+### Database Journey Continued
+
+- Waktu: Jumat, 8 Mei 2020
+- Pukul: 16:00
+- Pemateri: om Nur Hidayah
+- URL: 
+- Slide:
+- Video: 
+  - link
+
+### Personal Security Awareness
 
 - Waktu: Kamis, 7 Mei 2020
-- Pukul: 00:00
+- Pukul: 16:00
 - Pemateri: om Dyan Galih
 - URL: 
 - Slide:
 - Video: 
   - link
+  - Registration: https://us02web.zoom.us/meeting/register/tZcpceyurjooGtcF29dh1jKFZ51VLI7ewX8k
 
 ### WEB RTC
 
 - Waktu: Rabu, 6 Mei 2020
-- Pukul: 00:00
+- Pukul: 16:30
 - Pemateri: Om Fitra Aditya
 - URL: 
 - Slide:
 - Video: 
-  - link
-- Registration: https://us02web.zoom.us/meeting/register/tZEld-usqTktGdALCBSm3PUAfUiAevCu5DoB
+  - https://www.facebook.com/groups/phpid/permalink/10158169585076101/
 
 ###  Howto Secure your Next Job During Covid-19 Pandemic
 
