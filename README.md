@@ -9,7 +9,7 @@
 - [#20 Database Journey Continued](#database-journey-continued)
 - [#19 Personal Security Awareness](#personal-security-awareness)
 - [#18 WEB RTC](#web-rtc)
-- [#17 Howto Secure your Next Job During Covid-19 Pandemic](#howto-secure-your-next-job-during-covid-19-pandemic)
+- [#17 How to Secure your Next Job During Covid-19 Pandemic](#how-to-secure-your-next-job-during-covid-19-pandemic)
 - [#16 Evolution Of PHP](#evolution-of-php)
 - [#15 Rest API dengan PHP OOP](#rest-api-dengan-php-oop)
 - [#14 Tactics and Strategy to Define Digital Products](#tactics-and-strategy-to-define-digital-product)
@@ -56,7 +56,7 @@
 - Slide:
 - Video: 
   - link
-  - Registration: https://us02web.zoom.us/meeting/register/tZcpceyurjooGtcF29dh1jKFZ51VLI7ewX8k
+- Registrasi: https://us02web.zoom.us/meeting/register/tZcpceyurjooGtcF29dh1jKFZ51VLI7ewX8k
 
 ### WEB RTC
 
@@ -68,7 +68,7 @@
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158169585076101/
 
-###  Howto Secure your Next Job During Covid-19 Pandemic
+###  How to Secure your Next Job During Covid-19 Pandemic
 
 - Waktu: Selasa, 5 Mei 2020
 - Pukul: 16:30
