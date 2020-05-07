@@ -6,7 +6,8 @@
 
 ## Daftar online learning
 
-- [#20 Database Journey Continued](#database-journey-continued)
+- [#21 Sysadmin World](#sysadmin-world)
+- [#20 Do it with SQL - Journey to the Center of Database World](#do-it-with-sql-journey-to-the-center-of-database-world)
 - [#19 Personal Security Awareness](#personal-security-awareness)
 - [#18 WEB RTC](#web-rtc)
 - [#17 How to Secure your Next Job During Covid-19 Pandemic](#how-to-secure-your-next-job-during-covid-19-pandemic)
@@ -37,7 +38,17 @@
 - Video: 
   - link
 
-### Database Journey Continued
+### Sysadmin World
+
+- Waktu: Sabtu, 9 Mei 2020
+- Pukul: 16:00
+- Pemateri: om Musa Amin
+- URL: 
+- Slide:
+- Video: 
+  - link
+
+### Do it with SQL - Journey to the Center of Database World
 
 - Waktu: Jumat, 8 Mei 2020
 - Pukul: 16:00
@@ -46,6 +57,7 @@
 - Slide:
 - Video: 
   - link
+- Registration: https://us02web.zoom.us/meeting/register/tZcpfuqrrD8iHN1dwwI_RnfPtZVoqDZ32y6I 
 
 ### Personal Security Awareness
 
@@ -55,8 +67,7 @@
 - URL: 
 - Slide:
 - Video: 
-  - link
-- Registrasi: https://us02web.zoom.us/meeting/register/tZcpceyurjooGtcF29dh1jKFZ51VLI7ewX8k
+  - https://web.facebook.com/groups/phpid/permalink/10158173579131101/
 
 ### WEB RTC
 
