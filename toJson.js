@@ -65,14 +65,18 @@ const main = async () => {
                                 console.log('🌄 ', cover);
                                 console.log('🚪 ', register);
                                 console.log('📽️ ', videos);
-                                console.log('-----------------------------\n');
+                                console.log('\n-----------------------------\n');
 
 			}
 		});
 
 		fs.writeFile(path.resolve('./data.json'), JSON.stringify({
-                        message: 'field URL is deprecated, use registrasi',
-                        credits: 'PHPID Community',
+                        meta: {
+                          last_updated: new Date(),
+                          total: allData.length,
+                          message: 'field url is deprecated, use registrasi',
+                          credits: 'PHPID Community',
+                        },
 			data: allData,
 		}), function (err) {
 			if (err) {
