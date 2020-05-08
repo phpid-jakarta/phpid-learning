@@ -12,9 +12,14 @@ const REGEX_REGISTRASI = /^- Registrasi.*/gi;
 
 const getCoverUrl = (idx) => `https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/${idx}.jpg`;
 const getContent = (ctx, regex, titleString) => {
-  if (ctx.match(regex) && ctx.match(regex).length > 0) {
-    return ctx.match(regex)[0].replace(`${titleString}`, '').trim()
+  const res = ctx.match(regex);
+
+  console.log('👀  ', res);
+
+  if (res && res.length > 0) {
+    return res[0].replace(`${titleString}`, '').trim()
   }
+
   return '';
 }
 
@@ -29,21 +34,31 @@ const main = async () => {
                                 const sessionIndex = (matchContent.length - idx);
 				const videosRaw = getContent(ctx, REGEX_VIDEO, '- Video:');
 				const videos = videosRaw.split(',').map(i => i.replace('- ', '').trim());
-                                
-				allData.push({
-					"date": getContent(ctx, REGEX_DATE, '- Waktu:'),
-					"time": getContent(ctx, REGEX_TIME, '- Pukul:'),
-					"speaker": getContent(ctx, REGEX_SPEAKER, '- Pemateri:'),
-					"slide": getContent(ctx, REGEX_SLIDE, '- Slide:'),
-					"topic": getContent(ctx, REGEX_TITLE, '### '),
+                                const date = getContent(ctx, REGEX_DATE, '- Waktu:');
+                                const time = getContent(ctx, REGEX_TIME, '- Pukul:');
+                                const speaker = getContent(ctx, REGEX_SPEAKER, '- Pemateri:');
+                                const slide = getContent(ctx, REGEX_SLIDE, '- Slide:');
+                                const topic = getContent(ctx, REGEX_TITLE, '### ');
+                                const register = getContent(ctx, REGEX_REGISTRASI, '- Registrasi:');
+
+                                const data = {
+					"date": date,
+					"time": time,
+					"speaker": speaker,
+					"slide": slide,
+					"topic": topic,
 					"videos": videos,
 
                                         // field URL is deprecated, use registrasi field
-                                        "url": getContent(ctx, REGEX_REGISTRASI, '- Registrasi:'),
-                                        "registrasi": getContent(ctx, REGEX_REGISTRASI, '- Registrasi:'),
+                                        "url": register,
+                                        "registrasi": register,
 
                                         "cover": getCoverUrl(sessionIndex),
-				})
+				};
+
+				allData.push(data);
+                                console.log('👉 Get data: ', JSON.stringify(data));
+
 			}
 		});
 
