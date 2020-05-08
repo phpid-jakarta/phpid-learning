@@ -14,8 +14,6 @@ const getCoverUrl = (idx) => `https://github.com/phpid-jakarta/phpid-online-lear
 const getContent = (ctx, regex, titleString) => {
   const res = ctx.match(regex);
 
-  console.log('👀  ', res, ctx);
-
   if (res && res.length > 0) {
     return res[0].replace(`${titleString}`, '').trim()
   }
@@ -40,6 +38,7 @@ const main = async () => {
                                 const slide = getContent(ctx, REGEX_SLIDE, '- Slide:');
                                 const topic = getContent(ctx, REGEX_TITLE, '### ');
                                 const register = getContent(ctx, REGEX_REGISTRASI, '- Registrasi:');
+                                const cover = getCoverUrl(sessionIndex);
 
                                 const data = {
 					"date": date,
@@ -53,11 +52,20 @@ const main = async () => {
                                         "url": register,
                                         "registrasi": register,
 
-                                        "cover": getCoverUrl(sessionIndex),
+                                        "cover": cover,
 				};
 
 				allData.push(data);
-                                console.log('👉 Get data: ', JSON.stringify(data));
+
+                                console.log('📚 ', topic);
+                                console.log('🗓️ ', date);
+                                console.log('⏰ ', time);
+                                console.log('🎙️ ', speaker);
+                                console.log('🖥️ ', slide);
+                                console.log('🌄 ', cover);
+                                console.log('🚪 ', register);
+                                console.log('📽️ ', videos);
+                                console.log('-----------------------------\n');
 
 			}
 		});
