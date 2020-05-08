@@ -13,15 +13,15 @@ const main = async () => {
 		matchContent.forEach((ctx, idx) => {
 			if (!ctx.startsWith('### Template')) {
                                 const sessionIndex = (matchContent.length - idx);
-				const dateRegex = /^- Waktu.*/gm;
-				const timeRegex = /^- Pukul.*/gm;
-				const pemateriRegex = /^- Pemateri.*/gm;
-				const slideRegex = /^- Slide.*/gm;
-				const topicRegex = /^\#{3}.*/gm;
-				const videoRegex = /- Video.*\n.*\n.*/gm;
+				const dateRegex = /^- Waktu.*/gi;
+				const timeRegex = /^- Pukul.*/gi;
+				const pemateriRegex = /^- Pemateri.*/gi;
+				const slideRegex = /^- Slide.*/gi;
+				const topicRegex = /^\#{3}.*/gi;
+				const videoRegex = /^- Video.*/gi;
 				const videosRaw = ctx.match(videoRegex)[0].replace('- Video: ', '').trim();
-				const splitVideos = videosRaw.split('\n').map(i => i.replace('- ', '').replace('Registrasi: ', '').trim());
-                                const registerRegex = /- Registrasi.*\n.*\n.*/gm;
+				const splitVideos = videosRaw.split(',').map(i => i.replace('- ', '').trim());
+                                const registerRegex = /^- Registrasi.*/gi;
 				allData.push({
 					"date": ctx.match(dateRegex)[0].replace('- Waktu: ', '').trim(),
 					"time": ctx.match(timeRegex)[0].replace('- Pukul: ', '').trim(),
