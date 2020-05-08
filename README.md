@@ -10,7 +10,7 @@
 - [#21 Linux Server for PHP Developer](#linux-server-for-php-developer)
 - [#20 Do it with SQL - Journey to the Center of Database World](#do-it-with-sql-journey-to-the-center-of-database-world)
 - [#19 Personal Security Awareness](#personal-security-awareness)
-- [#18 WEB RTC](#web-rtc)
+- [#18 Web RTC](#web-rtc)
 - [#17 How to Secure your Next Job During Covid-19 Pandemic](#how-to-secure-your-next-job-during-covid-19-pandemic)
 - [#16 Evolution Of PHP](#evolution-of-php)
 - [#15 Rest API dengan PHP OOP](#rest-api-dengan-php-oop)
@@ -38,6 +38,7 @@
 - Slide:
 - Video: 
   - link
+- Registrasi: coming soon
 
 ### Vue.js
 
@@ -48,6 +49,7 @@
 - Slide:
 - Video: 
   - link
+- Registrasi: coming soon
 
 ### Linux Server for PHP Developer
 
@@ -58,7 +60,7 @@
 - Slide:
 - Video: 
   - link
-- Registration:  https://us02web.zoom.us/meeting/register/tZctdu-sqDIqGtTjAp1UFKTtkbOLEZhOfzNt
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZctdu-sqDIqGtTjAp1UFKTtkbOLEZhOfzNt
 
 ### Do it with SQL - Journey to the Center of Database World
 
@@ -68,7 +70,7 @@
 - URL: 
 - Slide:
 - Video: 
-  - https://web.facebook.com/groups/phpid/permalink/10158177433836101/
+  - https://www.facebook.com/groups/phpid/permalink/10158177433836101/
 
 ### Personal Security Awareness
 
@@ -78,9 +80,9 @@
 - URL: 
 - Slide:
 - Video: 
-  - https://web.facebook.com/groups/phpid/permalink/10158173579131101/
+  - https://www.facebook.com/groups/phpid/permalink/10158173579131101/
 
-### WEB RTC
+### Web RTC
 
 - Waktu: Rabu, 6 Mei 2020
 - Pukul: 16:30
@@ -98,7 +100,7 @@
 - URL: 
 - Slide:
 - Video: 
-  - https://web.facebook.com/groups/phpid/permalink/10158165513971101/
+  - https://www.facebook.com/groups/phpid/permalink/10158165513971101/
 
 ### Evolution Of PHP
 
@@ -108,7 +110,7 @@
 - URL: 
 - Slide:
 - Video: 
-  - https://web.facebook.com/groups/phpid/permalink/10158161447446101/
+  - https://www.facebook.com/groups/phpid/permalink/10158161447446101/
 
 ###  Rest API dengan PHP OOP 
 
@@ -118,7 +120,7 @@
 - URL: 
 - Slide:
 - Video: 
-  - https://web.facebook.com/groups/phpid/permalink/10158157539156101/
+  - https://www.facebook.com/groups/phpid/permalink/10158157539156101/
 
 ### Tactics and Strategy to Define Digital Products
 
@@ -128,7 +130,7 @@
 - URL: 
 - Slide:
 - Video: 
-  - https://web.facebook.com/groups/phpid/permalink/10158153667346101/
+  - https://www.facebook.com/groups/phpid/permalink/10158153667346101/
 - Registrasi:  
 
 ### Remote Worker
@@ -139,7 +141,7 @@
 - URL: 
 - Slide:
 - Video: 
-  - https://web.facebook.com/groups/phpid/permalink/10158145835046101/
+  - https://www.facebook.com/groups/phpid/permalink/10158145835046101/
 
 ### Berkarir sebagai Frontend Developer
 
@@ -149,7 +151,7 @@
 - URL: https://web.facebook.com/groups/phpid/permalink/10158129892301101/
 - Slide: https://speakerdeck.com/randyviandaputra/berkarir-sebagai-frontend-developer
 - Video: 
-  - https://web.facebook.com/groups/phpid/permalink/10158137997021101/
+  - https://www.facebook.com/groups/phpid/permalink/10158137997021101/
 
 ### Starting Your Career in the Data Science
 
@@ -159,7 +161,7 @@
 - URL: https://web.facebook.com/groups/phpid/permalink/10158125700301101/
 - Slide:
 - Video: 
-  - https://web.facebook.com/groups/phpid/permalink/10158133248636101/
+  - https://www.facebook.com/groups/phpid/permalink/10158133248636101/
 
 ### Optimize Image on Your Website 101
 
