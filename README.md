@@ -35,8 +35,7 @@
 - Pukul: 00:00
 - Pemateri:
 - Slide:
-- Video: 
-  - link
+- Video: link
 - Registrasi: coming soon
 
 ### Vue.js
@@ -45,8 +44,7 @@
 - Pukul: 16:00
 - Pemateri: Om Ian Mustafa
 - Slide:
-- Video: 
-  - link
+- Video: link
 - Registrasi: coming soon
 
 ### Linux Server for PHP Developer
@@ -55,9 +53,8 @@
 - Pukul: 16:00
 - Pemateri: om Musa Amin
 - Slide:
-- Video: 
-  - link
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZctdu-sqDIqGtTjAp1UFKTtkbOLEZhOfzNt
+- Video: link
+- Registrasi: https://us02web.zoom.us/meeting/register/tZctdu-sqDIqGtTjAp1UFKTtkbOLEZhOfzNt
 
 ### Do it with SQL - Journey to the Center of Database World
 
@@ -65,8 +62,7 @@
 - Pukul: 16:00
 - Pemateri: om Nur Hidayah
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158177433836101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158177433836101/
 
 ### Personal Security Awareness
 
@@ -74,8 +70,7 @@
 - Pukul: 16:00
 - Pemateri: om Dyan Galih
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158173579131101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158173579131101/
 
 ### Web RTC
 
@@ -83,8 +78,7 @@
 - Pukul: 16:30
 - Pemateri: Om Fitra Aditya
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158169585076101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158169585076101/
 
 ###  How to Secure your Next Job During Covid-19 Pandemic
 
@@ -92,8 +86,7 @@
 - Pukul: 16:30
 - Pemateri: Ali Pasha -  GeekHunter 
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158165513971101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158165513971101/
 
 ### Evolution Of PHP
 
@@ -101,8 +94,7 @@
 - Pukul: 16:00
 - Pemateri: om Prasetyo Wicaksono 
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158161447446101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158161447446101/
 
 ###  Rest API dengan PHP OOP 
 
@@ -110,8 +102,7 @@
 - Pukul: 16:30
 - Pemateri: Shindu Samodra
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158157539156101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158157539156101/
 
 ### Tactics and Strategy to Define Digital Products
 
@@ -119,8 +110,7 @@
 - Pukul: 16:30
 - Pemateri: Agit Naeta
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158153667346101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158153667346101/
 - Registrasi:  
 
 ### Remote Worker
@@ -129,8 +119,7 @@
 - Pukul: 16:30
 - Pemateri: Om Frangky Tumiwan
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158145835046101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158145835046101/
 
 ### Berkarir sebagai Frontend Developer
 
@@ -138,8 +127,7 @@
 - Pukul: 16:30
 - Pemateri: Randy Vianda Putra
 - Slide: https://speakerdeck.com/randyviandaputra/berkarir-sebagai-frontend-developer
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158137997021101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158137997021101/
 
 ### Starting Your Career in the Data Science
 
@@ -147,8 +135,7 @@
 - Pukul: 16:30
 - Pemateri: Firman Brilian
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158133248636101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158133248636101/
 
 ### Optimize Image on Your Website 101
 
@@ -156,8 +143,7 @@
 - Pukul: 16:30
 - Pemateri: Munir AP
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158125506621101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158125506621101/
 
 ### Building CI/CD Pipeline
 
@@ -165,8 +151,7 @@
 - Pukul: 16:30
 - Pemateri: Petra Barus
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158120909651101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158120909651101/
   
 ### Social Media Digital Strategy
 
@@ -174,8 +159,7 @@
 - Pukul: 19:30
 - Pemateri: Fadhil Zikri Muhammad
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158112589196101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158112589196101/
 
 ### Laravel LiveWire 101
 
@@ -183,8 +167,7 @@
 - Pukul: 19:30
 - Pemateri: Muhammad Amirul Ihsan
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158099015066101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158099015066101/
 
 ### Migration from Procedural to OOP
 
@@ -192,8 +175,7 @@
 - Pukul: 19:30
 - Pemateri: Achmad Mardiansyah
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158085993956101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158085993956101/
 
 ### Why Documentation Matter
 
@@ -201,8 +183,7 @@
 - Pukul: 19:30
 - Pemateri: Wiguno
 - Slide:
-- Video: 
-  - https://www.facebook.com/groups/phpid/permalink/10158081773851101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158081773851101/
 
 ### Kinerja Web 101
 
@@ -210,8 +191,7 @@
 - Pukul: 19:30
 - Pemateri: Irfan Maulana
 - Slide: https://speakerdeck.com/mazipan/kinerja-web-101
-- Video:
-  - https://www.facebook.com/groups/phpid/permalink/10158077562731101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158077562731101/
 
 ### SEO Basic
 
@@ -219,8 +199,7 @@
 - Pukul: 19:30
 - Pemateri: Arbahud Rio Daroyni
 - Slide:
-- Video: 
-  - https://youtu.be/emfHRGd5LuE
+- Video: https://youtu.be/emfHRGd5LuE
 
 ### Coder Journey to UI/UX Galaxy
 
@@ -228,9 +207,7 @@
 - Pukul: 19:30
 - Pemateri: Prayudi Utomo
 - Slide: https://speakerdeck.com/yudiutomo/ux-introduction
-- Video: 
-   - https://www.facebook.com/groups/phpid/permalink/10158062969406101/
-   - https://youtu.be/Eh4FbIItxPc
+- Video: https://www.facebook.com/groups/phpid/permalink/10158062969406101/
 
 ### How to design a good database
 
@@ -238,9 +215,7 @@
 - Pukul: 19:30
 - Pemateri: Nur Hidayat
 - Slide: https://slideshare.net/hidayat365/how-to-design-a-good-database
-- Video: 
-    - https://youtu.be/fSQ8JamoAfg
-    - https://youtu.be/pACuwalpQpk
+- Video: https://youtu.be/fSQ8JamoAfg
 
 ## Data diatas bisa juga diakses lewat
 
