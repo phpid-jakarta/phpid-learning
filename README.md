@@ -6,7 +6,7 @@
 
 ## Daftar online learning
 
-- [#22 Vue.js](#vue.js)
+- [#22 Vue.js](#vuejs)
 - [#21 Linux Server for PHP Developer](#linux-server-for-php-developer)
 - [#20 Do it with SQL - Journey to the Center of Database World](#do-it-with-sql-journey-to-the-center-of-database-world)
 - [#19 Personal Security Awareness](#personal-security-awareness)
@@ -41,8 +41,8 @@
 
 ### Vue.js
 
-- Waktu: Hari, XX Mei 2020
-- Pukul: 00:00
+- Waktu: Minggu, 10 Mei 2020
+- Pukul: 16:00
 - Pemateri: Om Ian Mustafa
 - URL: 
 - Slide:
