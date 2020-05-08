@@ -34,7 +34,6 @@
 - Waktu: Hari, XX Mei 2020
 - Pukul: 00:00
 - Pemateri:
-- URL: [url event]
 - Slide:
 - Video: 
   - link
@@ -45,7 +44,6 @@
 - Waktu: Minggu, 10 Mei 2020
 - Pukul: 16:00
 - Pemateri: Om Ian Mustafa
-- URL: 
 - Slide:
 - Video: 
   - link
@@ -56,7 +54,6 @@
 - Waktu: Sabtu, 9 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Musa Amin
-- URL: 
 - Slide:
 - Video: 
   - link
@@ -67,7 +64,6 @@
 - Waktu: Jumat, 8 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Nur Hidayah
-- URL: 
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158177433836101/
@@ -77,7 +73,6 @@
 - Waktu: Kamis, 7 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Dyan Galih
-- URL: 
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158173579131101/
@@ -87,7 +82,6 @@
 - Waktu: Rabu, 6 Mei 2020
 - Pukul: 16:30
 - Pemateri: Om Fitra Aditya
-- URL: 
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158169585076101/
@@ -97,7 +91,6 @@
 - Waktu: Selasa, 5 Mei 2020
 - Pukul: 16:30
 - Pemateri: Ali Pasha -  GeekHunter 
-- URL: 
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158165513971101/
@@ -107,7 +100,6 @@
 - Waktu: Senin, 4 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Prasetyo Wicaksono 
-- URL: 
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158161447446101/
@@ -117,7 +109,6 @@
 - Waktu: Minggu, 3 Mei 2020
 - Pukul: 16:30
 - Pemateri: Shindu Samodra
-- URL: 
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158157539156101/
@@ -127,7 +118,6 @@
 - Waktu: Sabtu, 2 Mei 2020
 - Pukul: 16:30
 - Pemateri: Agit Naeta
-- URL: 
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158153667346101/
@@ -138,7 +128,6 @@
 - Waktu: Kamis, 30 April 2020
 - Pukul: 16:30
 - Pemateri: Om Frangky Tumiwan
-- URL: 
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158145835046101/
@@ -148,7 +137,6 @@
 - Waktu: Selasa, 28 April 2020
 - Pukul: 16:30
 - Pemateri: Randy Vianda Putra
-- URL: https://web.facebook.com/groups/phpid/permalink/10158129892301101/
 - Slide: https://speakerdeck.com/randyviandaputra/berkarir-sebagai-frontend-developer
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158137997021101/
@@ -158,7 +146,6 @@
 - Waktu: Minggu, 26 April 2020
 - Pukul: 16:30
 - Pemateri: Firman Brilian
-- URL: https://web.facebook.com/groups/phpid/permalink/10158125700301101/
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158133248636101/
@@ -168,7 +155,6 @@
 - Waktu: Sabtu, 25 April 2020
 - Pukul: 16:30
 - Pemateri: Munir AP
-- URL:
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158125506621101/
@@ -178,7 +164,6 @@
 - Waktu: Jumat, 24 April 2020
 - Pukul: 16:30
 - Pemateri: Petra Barus
-- URL:
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158120909651101/
@@ -188,7 +173,6 @@
 - Waktu: Rabu, 22 April 2020
 - Pukul: 19:30
 - Pemateri: Fadhil Zikri Muhammad
-- URL:
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158112589196101/
@@ -197,8 +181,7 @@
 
 - Waktu: Minggu, 19 April 2020
 - Pukul: 19:30
-- Pemateri: Muhammad Amirul Ihsan (Creator Kawan Koding)
-- URL:
+- Pemateri: Muhammad Amirul Ihsan
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158099015066101/
@@ -208,7 +191,6 @@
 - Waktu: Kamis, 16 April 2020
 - Pukul: 19:30
 - Pemateri: Achmad Mardiansyah
-- URL:
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158085993956101/
@@ -218,7 +200,6 @@
 - Waktu: Rabu, 15 April 2020
 - Pukul: 19:30
 - Pemateri: Wiguno
-- URL:
 - Slide:
 - Video: 
   - https://www.facebook.com/groups/phpid/permalink/10158081773851101/
@@ -228,7 +209,6 @@
 - Waktu: Selasa, 14 April 2020
 - Pukul: 19:30
 - Pemateri: Irfan Maulana
-- URL:
 - Slide: https://speakerdeck.com/mazipan/kinerja-web-101
 - Video:
   - https://www.facebook.com/groups/phpid/permalink/10158077562731101/
@@ -238,7 +218,6 @@
 - Waktu: Minggu, 12 April 2020
 - Pukul: 19:30
 - Pemateri: Arbahud Rio Daroyni
-- URL:
 - Slide:
 - Video: 
   - https://youtu.be/emfHRGd5LuE
@@ -248,7 +227,6 @@
 - Waktu: Jumat, 10 April 2020
 - Pukul: 19:30
 - Pemateri: Prayudi Utomo
-- URL:
 - Slide: https://speakerdeck.com/yudiutomo/ux-introduction
 - Video: 
    - https://www.facebook.com/groups/phpid/permalink/10158062969406101/
@@ -259,15 +237,15 @@
 - Waktu: Kamis, 9 April 2020
 - Pukul: 19:30
 - Pemateri: Nur Hidayat
-- URL:
 - Slide: https://slideshare.net/hidayat365/how-to-design-a-good-database
 - Video: 
     - https://youtu.be/fSQ8JamoAfg
     - https://youtu.be/pACuwalpQpk
 
-## Versi JSON
+## Data diatas bisa juga diakses lewat
 
-Lihat berkas [data.json](data.json)
+- JSON: Lihat berkas [data.json](data.json)
+- [Carik Bot](https://carik.id/)
 
 ## Bantu kami
 
