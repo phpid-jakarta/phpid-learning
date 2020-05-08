@@ -1,6 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
+const getCoverUrl = (idx) => `https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/${idx}.jpg`;
+
 const main = async () => {
 	try {
 		const readmeContent = await fs.readFileSync(path.resolve(`./README.md`), { encoding: 'utf-8' });
@@ -8,8 +10,9 @@ const main = async () => {
 		const matchContent = readmeContent.match(regex);
 		const allData = []
 
-		matchContent.forEach(ctx => {
+		matchContent.forEach((ctx, idx) => {
 			if (!ctx.startsWith('### Template')) {
+                                const sessionIndex = (matchContent.length - idx);
 				const dateRegex = /^- Waktu.*/gm;
 				const timeRegex = /^- Pukul.*/gm;
 				const pemateriRegex = /^- Pemateri.*/gm;
@@ -27,6 +30,7 @@ const main = async () => {
 					"slide": ctx.match(slideRegex)[0].replace('- Slide:', '').trim(),
 					"topic": ctx.match(TopicRegex)[0].replace('### ', '').trim(),
 					"videos": splitVideos,
+                                        "cover": getCoverUrl(sessionIndex),
 				})
 			}
 		});
