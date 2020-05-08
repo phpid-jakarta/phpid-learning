@@ -2,19 +2,19 @@ const fs = require('fs');
 const path = require('path');
 
 const REGEX_SECTIONS = /^\#{3}.*\n\n- Waktu.*\n- Pukul.*\n- Pemateri.*\n- Slide.*\n- Video.*\n.*\n.*/gm;
-const REGEX_DATE = /^- Waktu.*/gi;
-const REGEX_TIME = /^- Pukul.*/gi;
-const REGEX_SPEAKER = /^- Pemateri.*/gi;
-const REGEX_SLIDE = /^- Slide.*/gi;
-const REGEX_VIDEO = /^- Video.*/gi;
-const REGEX_TITLE = /^\#{3}.*/gi;
-const REGEX_REGISTRASI = /^- Registrasi.*/gi;
+const REGEX_DATE = /^- Waktu.*/gm;
+const REGEX_TIME = /^- Pukul.*/gm;
+const REGEX_SPEAKER = /^- Pemateri.*/gm;
+const REGEX_SLIDE = /^- Slide.*/gm;
+const REGEX_VIDEO = /^- Video.*/gm;
+const REGEX_TITLE = /^\#{3}.*/gm;
+const REGEX_REGISTRASI = /^- Registrasi.*/gm;
 
 const getCoverUrl = (idx) => `https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/${idx}.jpg`;
 const getContent = (ctx, regex, titleString) => {
   const res = ctx.match(regex);
 
-  console.log('👀  ', res);
+  console.log('👀  ', res, ctx);
 
   if (res && res.length > 0) {
     return res[0].replace(`${titleString}`, '').trim()
