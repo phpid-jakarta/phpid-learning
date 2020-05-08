@@ -1,37 +1,47 @@
 const fs = require('fs');
 const path = require('path');
 
+const REGEX_SECTIONS = /^\#{3}.*\n\n- Waktu.*\n- Pukul.*\n- Pemateri.*\n- Slide.*\n- Video.*\n.*\n.*/gm;
+const REGEX_DATE = /^- Waktu.*/gi;
+const REGEX_TIME = /^- Pukul.*/gi;
+const REGEX_SPEAKER = /^- Pemateri.*/gi;
+const REGEX_SLIDE = /^- Slide.*/gi;
+const REGEX_VIDEO = /^- Video.*/gi;
+const REGEX_TITLE = /^\#{3}.*/gi;
+const REGEX_REGISTRASI = /^- Registrasi.*/gi;
+
 const getCoverUrl = (idx) => `https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/${idx}.jpg`;
+const getContent = (ctx, regex, titleString) => {
+  if (ctx.match(regex) && ctx.match(regex).length > 0) {
+    return ctx.match(regex)[0].replace(`${titleString}`, '').trim()
+  }
+  return '';
+}
 
 const main = async () => {
 	try {
 		const readmeContent = await fs.readFileSync(path.resolve(`./README.md`), { encoding: 'utf-8' });
-		const regex = /^\#{3}.*\n\n- Waktu.*\n- Pukul.*\n- Pemateri.*\n- Slide.*\n- Video.*\n.*\n.*/gm;
-		const matchContent = readmeContent.match(regex);
+		const matchContent = readmeContent.match(REGEX_SECTIONS);
 		const allData = []
 
 		matchContent.forEach((ctx, idx) => {
 			if (!ctx.startsWith('### Template')) {
                                 const sessionIndex = (matchContent.length - idx);
-				const dateRegex = /^- Waktu.*/gi;
-				const timeRegex = /^- Pukul.*/gi;
-				const pemateriRegex = /^- Pemateri.*/gi;
-				const slideRegex = /^- Slide.*/gi;
-				const topicRegex = /^\#{3}.*/gi;
-				const videoRegex = /^- Video.*/gi;
-				const videosRaw = ctx.match(videoRegex)[0].replace('- Video: ', '').trim();
-				const splitVideos = videosRaw.split(',').map(i => i.replace('- ', '').trim());
-                                const registerRegex = /^- Registrasi.*/gi;
+				const videosRaw = getContent(ctx, REGEX_VIDEO, '- Video:');
+				const videos = videosRaw.split(',').map(i => i.replace('- ', '').trim());
+                                
 				allData.push({
-					"date": ctx.match(dateRegex)[0].replace('- Waktu: ', '').trim(),
-					"time": ctx.match(timeRegex)[0].replace('- Pukul: ', '').trim(),
-					"speaker": ctx.match(pemateriRegex)[0].replace('- Pemateri: ', '').trim(),
-					"slide": ctx.match(slideRegex)[0].replace('- Slide:', '').trim(),
-					"topic": ctx.match(topicRegex)[0].replace('### ', '').trim(),
-					"videos": splitVideos,
+					"date": getContent(ctx, REGEX_DATE, '- Waktu:'),
+					"time": getContent(ctx, REGEX_TIME, '- Pukul:'),
+					"speaker": getContent(ctx, REGEX_SPEAKER, '- Pemateri:'),
+					"slide": getContent(ctx, REGEX_SLIDE, '- Slide:'),
+					"topic": getContent(ctx, REGEX_TITLE, '### '),
+					"videos": videos,
+
                                         // field URL is deprecated, use registrasi field
-                                        "url": ctx.match(registerRegex)[0].replace('- Registrasi: ', '').trim(),
-                                        "registrasi": ctx.match(registerRegex)[0].replace('- Registrasi: ', '').trim(),
+                                        "url": getContent(ctx, REGEX_REGISTRASI, '- Registrasi:'),
+                                        "registrasi": getContent(ctx, REGEX_REGISTRASI, '- Registrasi:'),
+
                                         "cover": getCoverUrl(sessionIndex),
 				})
 			}
