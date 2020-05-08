@@ -6,6 +6,7 @@
 
 ## Daftar online learning
 
+- [#22 Vue.js](#vue-js)
 - [#21 Sysadmin World](#sysadmin-world)
 - [#20 Do it with SQL - Journey to the Center of Database World](#do-it-with-sql-journey-to-the-center-of-database-world)
 - [#19 Personal Security Awareness](#personal-security-awareness)
@@ -38,7 +39,17 @@
 - Video: 
   - link
 
-### Sysadmin World
+### Vue.js
+
+- Waktu: Hari, XX Mei 2020
+- Pukul: 00:00
+- Pemateri: Om Ian Mustafa
+- URL: 
+- Slide:
+- Video: 
+  - link
+
+### Linux Server for PHP Developer
 
 - Waktu: Sabtu, 9 Mei 2020
 - Pukul: 16:00
@@ -47,6 +58,7 @@
 - Slide:
 - Video: 
   - link
+- Registration:  https://us02web.zoom.us/meeting/register/tZctdu-sqDIqGtTjAp1UFKTtkbOLEZhOfzNt
 
 ### Do it with SQL - Journey to the Center of Database World
 
@@ -56,8 +68,7 @@
 - URL: 
 - Slide:
 - Video: 
-  - link
-- Registration: https://us02web.zoom.us/meeting/register/tZcpfuqrrD8iHN1dwwI_RnfPtZVoqDZ32y6I 
+  - https://web.facebook.com/groups/phpid/permalink/10158177433836101/
 
 ### Personal Security Awareness
 
