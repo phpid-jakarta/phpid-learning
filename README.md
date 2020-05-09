@@ -6,8 +6,8 @@
 
 ## Daftar online learning
 
-- [#23 Project Management](#project-management)
-- [#22 Vue.js](#vuejs)
+- [#23 Belum_ada_judul](#belum-ada-judul)
+- [#22 Project Management](#project-management)
 - [#21 Linux Server for PHP Developer](#linux-server-for-php-developer)
 - [#20 Do it with SQL - Journey to the Center of Database World](#do-it-with-sql-journey-to-the-center-of-database-world)
 - [#19 Personal Security Awareness](#personal-security-awareness)
@@ -39,6 +39,15 @@
 - Video: link
 - Registrasi: coming soon
 
+### Belum_ada_judul
+
+- Waktu: Selasa, 12 Mei 2020
+- Pukul: 00:00
+- Pemateri: om Sastra Nababan
+- Slide:
+- Video: link
+- Registrasi: coming soon
+
 ### Project Management
 
 - Waktu: Senin, 11 Mei 2020
@@ -46,16 +55,7 @@
 - Pemateri: Ibu Falahah - Dosen Univ. Telkom Bandung
 - Slide:
 - Video: link
-- Registrasi: coming soon
-
-### Vue.js
-
-- Waktu: Minggu, 10 Mei 2020
-- Pukul: 16:00
-- Pemateri: Om Ian Mustafa
-- Slide:
-- Video: link
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZIkd-igpzgsHdw46VJTLus9XhqbZkc4dfay
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZMocuqtqT4rGNcreQFFgFj-ruhJeFwwfuOY
 
 ### Linux Server for PHP Developer
 
