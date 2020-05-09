@@ -7,7 +7,7 @@
 ## Daftar online learning
 
 - [#23 Belum_ada_judul](#belum-ada-judul)
-- [#22 Project Management](#project-management)
+- [#22 The Practical Guide howto become System Analyst](#the-practical-guide-howto+become-system-analyst)
 - [#21 Linux Server for PHP Developer](#linux-server-for-php-developer)
 - [#20 Do it with SQL - Journey to the Center of Database World](#do-it-with-sql-journey-to-the-center-of-database-world)
 - [#19 Personal Security Awareness](#personal-security-awareness)
@@ -48,7 +48,7 @@
 - Video: link
 - Registrasi: coming soon
 
-### Project Management
+### The Practical Guide howto become System Analyst
 
 - Waktu: Senin, 11 Mei 2020
 - Pukul: 16:00
