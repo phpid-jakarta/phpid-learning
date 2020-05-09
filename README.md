@@ -6,6 +6,7 @@
 
 ## Daftar online learning
 
+- [#23 Project Management](#project-management)
 - [#22 Vue.js](#vuejs)
 - [#21 Linux Server for PHP Developer](#linux-server-for-php-developer)
 - [#20 Do it with SQL - Journey to the Center of Database World](#do-it-with-sql-journey-to-the-center-of-database-world)
@@ -38,6 +39,15 @@
 - Video: link
 - Registrasi: coming soon
 
+### Project Management
+
+- Waktu: Senin, 11 Mei 2020
+- Pukul: 16:00
+- Pemateri: Ibu Falahah - Dosen Univ. Telkom Bandung
+- Slide:
+- Video: link
+- Registrasi: coming soon
+
 ### Vue.js
 
 - Waktu: Minggu, 10 Mei 2020
@@ -45,7 +55,7 @@
 - Pemateri: Om Ian Mustafa
 - Slide:
 - Video: link
-- Registrasi: coming soon
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZIkd-igpzgsHdw46VJTLus9XhqbZkc4dfay
 
 ### Linux Server for PHP Developer
 
@@ -53,15 +63,14 @@
 - Pukul: 16:00
 - Pemateri: om Musa Amin
 - Slide:
-- Video: link
-- Registrasi: https://us02web.zoom.us/meeting/register/tZctdu-sqDIqGtTjAp1UFKTtkbOLEZhOfzNt
+- Video: https://web.facebook.com/groups/phpid/permalink/10158181537861101/
 
 ### Do it with SQL - Journey to the Center of Database World
 
 - Waktu: Jumat, 8 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Nur Hidayah
-- Slide:
+- Slide: 
 - Video: https://www.facebook.com/groups/phpid/permalink/10158177433836101/
 
 ### Personal Security Awareness
