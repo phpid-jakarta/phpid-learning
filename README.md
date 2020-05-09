@@ -33,7 +33,7 @@
 ### Template sesi selanjutnya
 
 - Waktu: Hari, XX Mei 2020
-- Pukul: 00:00
+- Pukul: 16:00
 - Pemateri:
 - Slide:
 - Video: link
@@ -42,7 +42,7 @@
 ### Belum_ada_judul
 
 - Waktu: Selasa, 12 Mei 2020
-- Pukul: 00:00
+- Pukul: 16:00
 - Pemateri: om Sastra Nababan
 - Slide:
 - Video: link
