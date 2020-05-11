@@ -6,7 +6,8 @@
 
 ## Daftar online learning
 
-- [#23 Belum_ada_judul](#belum-ada-judul)
+- [#24 Pengembangan Sistem Informasi eGovernment](#pengembangan-sistem-informasi-egovernment)
+- [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code)
 - [#22 The Practical Guide howto become System Analyst](#the-practical-guide-howto+become-system-analyst)
 - [#21 Linux Server for PHP Developer](#linux-server-for-php-developer)
 - [#20 Do it with SQL - Journey to the Center of Database World](#do-it-with-sql-journey-to-the-center-of-database-world)
@@ -39,14 +40,23 @@
 - Video: link
 - Registrasi: coming soon
 
-### Belum_ada_judul
+### Pengembangan Sistem Informasi eGovernment
 
-- Waktu: Selasa, 12 Mei 2020
+- Waktu: Rabu, 13 Mei 2020
 - Pukul: 16:00
-- Pemateri: om Sastra Nababan
+- Pemateri: om Stenly Karouw
 - Slide:
 - Video: link
 - Registrasi: coming soon
+
+### Live Coding Music - Write Music with Code
+
+- Waktu: Selasa, 12 Mei 2020
+- Pukul: 16:30
+- Pemateri: om Sastra Nababan
+- Slide:
+- Video: link
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZIkdO6tpjkiHd25iU3Ce1ZP9Xupot8yvCSu
 
 ### The Practical Guide howto become System Analyst
 
@@ -54,8 +64,7 @@
 - Pukul: 16:00
 - Pemateri: Ibu Falahah - Dosen Univ. Telkom Bandung
 - Slide:
-- Video: link
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZMocuqtqT4rGNcreQFFgFj-ruhJeFwwfuOY
+- Video: https://web.facebook.com/groups/phpid/permalink/10158189208091101/
 
 ### Linux Server for PHP Developer
 
