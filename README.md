@@ -63,7 +63,7 @@
 - Waktu: Senin, 11 Mei 2020
 - Pukul: 16:00
 - Pemateri: Ibu Falahah - Dosen Univ. Telkom Bandung
-- Slide:
+- Slide: https://speakerdeck.com/flash68/system-analyst-short-guide
 - Video: https://web.facebook.com/groups/phpid/permalink/10158189208091101/
 
 ### Linux Server for PHP Developer
@@ -71,7 +71,7 @@
 - Waktu: Sabtu, 9 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Musa Amin
-- Slide:
+- Slide: https://musaamin.web.id/wp-content/uploads/2020/05/Linux-Server-untuk-Aplikasi-PHP.pdf
 - Video: https://web.facebook.com/groups/phpid/permalink/10158181537861101/
 
 ### Do it with SQL - Journey to the Center of Database World
@@ -79,7 +79,7 @@
 - Waktu: Jumat, 8 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Nur Hidayah
-- Slide: 
+- Slide: https://www.slideshare.net/hidayat365/do-it-with-sql-journey-to-the-center-of-database-worlds
 - Video: https://www.facebook.com/groups/phpid/permalink/10158177433836101/
 
 ### Personal Security Awareness
@@ -87,7 +87,7 @@
 - Waktu: Kamis, 7 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Dyan Galih
-- Slide:
+- Slide: 
 - Video: https://www.facebook.com/groups/phpid/permalink/10158173579131101/
 
 ### Web RTC
@@ -95,7 +95,7 @@
 - Waktu: Rabu, 6 Mei 2020
 - Pukul: 16:30
 - Pemateri: Om Fitra Aditya
-- Slide:
+- Slide: https://docs.google.com/presentation/d/1rT4BSSXCYEzF9eCQJ1Bbnr65p2LZtMndrENzNQNN4Q8/edit?usp=sharing
 - Video: https://www.facebook.com/groups/phpid/permalink/10158169585076101/
 
 ###  How to Secure your Next Job During Covid-19 Pandemic
@@ -103,7 +103,7 @@
 - Waktu: Selasa, 5 Mei 2020
 - Pukul: 16:30
 - Pemateri: Ali Pasha -  GeekHunter 
-- Slide:
+- Slide: 
 - Video: https://www.facebook.com/groups/phpid/permalink/10158165513971101/
 
 ### Evolution Of PHP
