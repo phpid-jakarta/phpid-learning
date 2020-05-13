@@ -6,8 +6,10 @@
 
 ## Daftar online learning
 
-- [#24 Pengembangan Sistem Informasi eGovernment](#pengembangan-sistem-informasi-egovernment)
-- [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code)
+- [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code) (rescheduled)
+- [#24 Pengembangan Sistem Informasi eGovernment](#pengembangan-sistem-informasi-egovernment) (rescheduled)
+- [#26 Codepolitan](#codepolitan)
+- [#25 PostgreSQL: DDL dan SQL](#postgreSQL-ddl-dan-sql)
 - [#22 The Practical Guide howto become System Analyst](#the-practical-guide-howto+become-system-analyst)
 - [#21 Linux Server for PHP Developer](#linux-server-for-php-developer)
 - [#20 Do it with SQL - Journey to the Center of Database World](#do-it-with-sql-journey-to-the-center-of-database-world)
@@ -40,23 +42,41 @@
 - Video: link
 - Registrasi: coming soon
 
-### Pengembangan Sistem Informasi eGovernment
+### Live Coding Music - Write Music with Code (rescheduled)
 
-- Waktu: Rabu, 13 Mei 2020
-- Pukul: 16:00
-- Pemateri: om Stenly Karouw
-- Slide:
-- Video: link
-- Registrasi: coming soon
-
-### Live Coding Music - Write Music with Code
-
-- Waktu: Selasa, 12 Mei 2020
+- Waktu: Minggu, 17 Mei 2020
 - Pukul: 16:30
 - Pemateri: om Sastra Nababan
 - Slide:
 - Video: link
 - Registrasi:  https://us02web.zoom.us/meeting/register/tZIkdO6tpjkiHd25iU3Ce1ZP9Xupot8yvCSu
+
+### Pengembangan Sistem Informasi eGovernment (rescheduled)
+
+- Waktu: Sabtu, 16 Mei 2020
+- Pukul: 16:00
+- Pemateri: om Stenly Karouw
+- Slide:
+- Video: link
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZAode2vrDIoH9eyZOiTxF1XcBxixNSsnGdi
+
+### Codepolitan
+
+- Waktu: Jumat, 15 Mei 2020
+- Pukul: 16:00
+- Pemateri: om Kresna Galuh
+- Slide:
+- Video: link
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZ0rd-usrT4sEtEiKJHVqll8pM9gMrc_A744
+
+### PostgreSQL: DDL dan SQL
+
+- Waktu: Kamis, 14 Mei 2020
+- Pukul: 16:00
+- Pemateri: om Abdul Hadi
+- Slide:
+- Video: link
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZUvf-morTsiG9Em2xPgCHcvFyDnqmd7BNAb 
 
 ### The Practical Guide howto become System Analyst
 
