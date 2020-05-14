@@ -1,19 +1,46 @@
 doctype html
 html(lang="")
 	head
+		meta(name="viewport", content="initial-scale=1, minimum-scale=1, maximum-scale=7, user-scalable=yes, width=device-width")
+		link(rel="preconnect" href="https://unpkg.com" crossorigin="")
 		link(rel="stylesheet", href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css")
+		title PHPID Online Learning 2020
 	body
-		div.row.flex-center
+		header.row.flex-center
 			.text-center
 				h1 PHPID Online Learning 2020
 		div.row.flex-center
 			each val, index in d.data
 				.margin.card(style='width: 20rem;')
-					img(src=val.cover, alt='Card example image')
+					img.lazyload(data-src=val.cover, loading="lazy" alt=val.topic)
 					.card-body
+						span.badge.secondary(style="margin-right: .5em;")=val.date
+						span.badge.success=val.time + ' WIB'
 						h4.card-title=val.topic
-						h5.card-subtitle Nice looking subtitle.
+						h5.card-subtitle=val.speaker
 						p.card-text
 							| Notice that the card width in this example have been set to 20rem, otherwise it will try to fill the current container/row where the card is.
-						a(href=val.videos[0], style="background-image: none")
-							button Tonton Video
+						if val.videos[0] && val.videos[0] !== 'link'
+							a(href=val.videos[0], style="background-image: none")
+								button.btn-secondary Tonton Video
+						if val.slide && val.slide !== 'empty'
+							a(href=val.slide, style="background-image: none")
+								button.btn-success Lihat Slide
+		footer.row.flex-center
+			.text-center
+				span Crafted with ❤️ by PHPID Dev Teams, © 2020
+
+		script.
+			if ('loading' in HTMLImageElement.prototype) {
+			const images = document.querySelectorAll("img.lazyload");
+			images.forEach(img => {
+			img.src = img.dataset.src;
+			});
+			} else {
+			// Dynamically import the LazySizes library
+			let script = document.createElement("script");
+			script.async = true;
+			script.src =
+			"https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.8/lazysizes.min.js";
+			document.body.appendChild(script);
+			}
