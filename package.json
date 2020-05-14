@@ -4,19 +4,21 @@
   "description": "👩‍🏫 List of resources PHPID online learning 2020",
   "main": "toJson.js",
   "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
     "toJson": "node ./toJson.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/phpid-jakarta/phpid-online-learning-2020.git"
-  },
-  "author": "Irfan Maulana",
+  "repository": "git+https://github.com/phpid-jakarta/phpid-online-learning-2020.git",
+  "author": "PHPID Teams",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/phpid-jakarta/phpid-online-learning-2020/issues"
   },
   "homepage": "https://github.com/phpid-jakarta/phpid-online-learning-2020#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.4"
   }
 }
