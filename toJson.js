@@ -12,11 +12,13 @@ const REGEX_REGISTRASI = /^- Registrasi.*/gm;
 
 const getCoverUrl = (idx) =>
   `https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/${idx}.jpg`;
+
 const getContent = (ctx, regex, titleString) => {
   const res = ctx.match(regex);
 
   if (res && res.length > 0) {
-    return res[0].replace(`${titleString}`, '').trim();
+    const text = res[0].replace(`${titleString}`, '');
+    return `${text}`.trim();
   }
 
   return '';
@@ -93,10 +95,11 @@ const main = async () => {
         }
         console.log('✅ Success write file data.json');
       }
-		);
+    );
 
-		fs.writeFile(
-      path.resolve('./data.js'), `module.exports = ${JSON.stringify(fileContent)}`,
+    fs.writeFile(
+      path.resolve('./data.js'),
+      `module.exports = ${JSON.stringify(fileContent)}`,
       function (err) {
         if (err) {
           return console.log('❌ Error write file data.json', err);

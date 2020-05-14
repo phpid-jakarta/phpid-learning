@@ -37,8 +37,8 @@
 
 - Waktu: Hari, XX Mei 2020
 - Pukul: 16:00
-- Pemateri:
-- Slide:
+- Pemateri: empty
+- Slide: empty
 - Video: link
 - Registrasi: coming soon
 
@@ -47,7 +47,7 @@
 - Waktu: Minggu, 17 Mei 2020
 - Pukul: 16:30
 - Pemateri: om Sastra Nababan
-- Slide:
+- Slide: empty
 - Video: link
 - Registrasi:  https://us02web.zoom.us/meeting/register/tZIkdO6tpjkiHd25iU3Ce1ZP9Xupot8yvCSu
 
@@ -56,7 +56,7 @@
 - Waktu: Sabtu, 16 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Stenly Karouw
-- Slide:
+- Slide: empty
 - Video: link
 - Registrasi:  https://us02web.zoom.us/meeting/register/tZAode2vrDIoH9eyZOiTxF1XcBxixNSsnGdi
 
@@ -65,7 +65,7 @@
 - Waktu: Jumat, 15 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Kresna Galuh
-- Slide:
+- Slide: empty
 - Video: link
 - Registrasi:  https://us02web.zoom.us/meeting/register/tZ0rd-usrT4sEtEiKJHVqll8pM9gMrc_A744
 
@@ -74,9 +74,9 @@
 - Waktu: Kamis, 14 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Abdul Hadi
-- Slide:
+- Slide: empty
 - Video: link
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZUvf-morTsiG9Em2xPgCHcvFyDnqmd7BNAb 
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZUvf-morTsiG9Em2xPgCHcvFyDnqmd7BNAb
 
 ### The Practical Guide howto become System Analyst
 
@@ -85,6 +85,7 @@
 - Pemateri: Ibu Falahah - Dosen Univ. Telkom Bandung
 - Slide: https://speakerdeck.com/flash68/system-analyst-short-guide
 - Video: https://web.facebook.com/groups/phpid/permalink/10158189208091101/
+- Registrasi: empty
 
 ### Linux Server for PHP Developer
 
@@ -93,6 +94,7 @@
 - Pemateri: om Musa Amin
 - Slide: https://musaamin.web.id/wp-content/uploads/2020/05/Linux-Server-untuk-Aplikasi-PHP.pdf
 - Video: https://web.facebook.com/groups/phpid/permalink/10158181537861101/
+- Registrasi: empty
 
 ### Do it with SQL - Journey to the Center of Database World
 
@@ -101,14 +103,16 @@
 - Pemateri: om Nur Hidayah
 - Slide: https://www.slideshare.net/hidayat365/do-it-with-sql-journey-to-the-center-of-database-worlds
 - Video: https://www.facebook.com/groups/phpid/permalink/10158177433836101/
+- Registrasi:
 
 ### Personal Security Awareness
 
 - Waktu: Kamis, 7 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Dyan Galih
-- Slide: 
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158173579131101/
+- Registrasi: empty
 
 ### Web RTC
 
@@ -117,47 +121,52 @@
 - Pemateri: Om Fitra Aditya
 - Slide: https://docs.google.com/presentation/d/1rT4BSSXCYEzF9eCQJ1Bbnr65p2LZtMndrENzNQNN4Q8/edit?usp=sharing
 - Video: https://www.facebook.com/groups/phpid/permalink/10158169585076101/
+- Registrasi: empty
 
 ###  How to Secure your Next Job During Covid-19 Pandemic
 
 - Waktu: Selasa, 5 Mei 2020
 - Pukul: 16:30
-- Pemateri: Ali Pasha -  GeekHunter 
-- Slide: 
+- Pemateri: Ali Pasha -  GeekHunter
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158165513971101/
+- Registrasi: empty
 
 ### Evolution Of PHP
 
 - Waktu: Senin, 4 Mei 2020
 - Pukul: 16:00
-- Pemateri: om Prasetyo Wicaksono 
-- Slide:
+- Pemateri: om Prasetyo Wicaksono
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158161447446101/
+- Registrasi: empty
 
-###  Rest API dengan PHP OOP 
+###  Rest API dengan PHP OOP
 
 - Waktu: Minggu, 3 Mei 2020
 - Pukul: 16:30
 - Pemateri: Shindu Samodra
-- Slide:
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158157539156101/
+- Registrasi: empty
 
 ### Tactics and Strategy to Define Digital Products
 
 - Waktu: Sabtu, 2 Mei 2020
 - Pukul: 16:30
 - Pemateri: Agit Naeta
-- Slide:
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158153667346101/
-- Registrasi:  
+- Registrasi: empty
 
 ### Remote Worker
 
 - Waktu: Kamis, 30 April 2020
 - Pukul: 16:30
 - Pemateri: Om Frangky Tumiwan
-- Slide:
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158145835046101/
+- Registrasi: empty
 
 ### Berkarir sebagai Frontend Developer
 
@@ -166,62 +175,70 @@
 - Pemateri: Randy Vianda Putra
 - Slide: https://speakerdeck.com/randyviandaputra/berkarir-sebagai-frontend-developer
 - Video: https://www.facebook.com/groups/phpid/permalink/10158137997021101/
+- Registrasi: empty
 
 ### Starting Your Career in the Data Science
 
 - Waktu: Minggu, 26 April 2020
 - Pukul: 16:30
 - Pemateri: Firman Brilian
-- Slide:
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158133248636101/
+- Registrasi: empty
 
 ### Optimize Image on Your Website 101
 
 - Waktu: Sabtu, 25 April 2020
 - Pukul: 16:30
 - Pemateri: Munir AP
-- Slide:
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158125506621101/
+- Registrasi: empty
 
 ### Building CI/CD Pipeline
 
 - Waktu: Jumat, 24 April 2020
 - Pukul: 16:30
 - Pemateri: Petra Barus
-- Slide:
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158120909651101/
-  
+- Registrasi: empty
+
 ### Social Media Digital Strategy
 
 - Waktu: Rabu, 22 April 2020
 - Pukul: 19:30
 - Pemateri: Fadhil Zikri Muhammad
-- Slide:
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158112589196101/
+- Registrasi: empty
 
 ### Laravel LiveWire 101
 
 - Waktu: Minggu, 19 April 2020
 - Pukul: 19:30
 - Pemateri: Muhammad Amirul Ihsan
-- Slide:
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158099015066101/
+- Registrasi: empty
 
 ### Migration from Procedural to OOP
 
 - Waktu: Kamis, 16 April 2020
 - Pukul: 19:30
 - Pemateri: Achmad Mardiansyah
-- Slide:
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158085993956101/
+- Registrasi: empty
 
 ### Why Documentation Matter
 
 - Waktu: Rabu, 15 April 2020
 - Pukul: 19:30
 - Pemateri: Wiguno
-- Slide:
+- Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158081773851101/
+- Registrasi: empty
 
 ### Kinerja Web 101
 
@@ -230,14 +247,16 @@
 - Pemateri: Irfan Maulana
 - Slide: https://speakerdeck.com/mazipan/kinerja-web-101
 - Video: https://www.facebook.com/groups/phpid/permalink/10158077562731101/
+- Registrasi: empty
 
 ### SEO Basic
 
 - Waktu: Minggu, 12 April 2020
 - Pukul: 19:30
 - Pemateri: Arbahud Rio Daroyni
-- Slide:
+- Slide: empty
 - Video: https://youtu.be/emfHRGd5LuE
+- Registrasi: empty
 
 ### Coder Journey to UI/UX Galaxy
 
@@ -246,6 +265,7 @@
 - Pemateri: Prayudi Utomo
 - Slide: https://speakerdeck.com/yudiutomo/ux-introduction
 - Video: https://www.facebook.com/groups/phpid/permalink/10158062969406101/
+- Registrasi: empty
 
 ### How to design a good database
 
@@ -254,6 +274,7 @@
 - Pemateri: Nur Hidayat
 - Slide: https://slideshare.net/hidayat365/how-to-design-a-good-database
 - Video: https://youtu.be/fSQ8JamoAfg
+- Registrasi: empty
 
 ## Data diatas bisa juga diakses lewat
 
