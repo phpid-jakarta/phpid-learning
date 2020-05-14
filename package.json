@@ -4,8 +4,9 @@
   "description": "👩‍🏫 List of resources PHPID online learning 2020",
   "main": "toJson.js",
   "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html",
+    "dev": "parcel src/index.pug",
+    "devopen": "parcel src/index.pug --open 'google chrome'",
+    "build": "parcel build src/index.pug",
     "toJson": "node ./toJson.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +20,7 @@
   "dependencies": {},
   "devDependencies": {
     "parcel": "^1.12.4",
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.4",
+    "pug": "^2.0.4"
   }
 }

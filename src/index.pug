@@ -1,0 +1,19 @@
+doctype html
+html(lang="")
+	head
+		link(rel="stylesheet", href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css")
+	body
+		div.row.flex-center
+			.text-center
+				h1 PHPID Online Learning 2020
+		div.row.flex-center
+			each val, index in d.data
+				.margin.card(style='width: 20rem;')
+					img(src=val.cover, alt='Card example image')
+					.card-body
+						h4.card-title=val.topic
+						h5.card-subtitle Nice looking subtitle.
+						p.card-text
+							| Notice that the card width in this example have been set to 20rem, otherwise it will try to fill the current container/row where the card is.
+						a(href=val.videos[0], style="background-image: none")
+							button Tonton Video
