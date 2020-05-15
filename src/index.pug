@@ -1,23 +1,107 @@
 doctype html
-html(lang="")
+html(lang="id")
 	head
-		meta(name="viewport", content="initial-scale=1, minimum-scale=1, maximum-scale=7, user-scalable=yes, width=device-width")
-		link(rel="preconnect" href="https://unpkg.com" crossorigin="")
+		meta(charset='utf-8')
+		meta(http-equiv='x-ua-compatible', content='ie=edge')
+		meta(name="viewport", content="initial-scale=1, minimum-scale=1, maximum-scale=7, user-scalable=yes, width=device-width, shrink-to-fit=no")
+		link(rel="preconnect dns-prefetch" href="https://unpkg.com" crossorigin="")
+		link(rel='preconnect dns-prefetch', href='https://www.google-analytics.com'  crossorigin="")
 		link(rel="stylesheet", href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css")
 		title PHPID Online Learning 2020
-                
-    // Global site tag (gtag.js) - Google Analytics
-    script(async="" src="https://www.googletagmanager.com/gtag/js?id=UA-97096911-1")
-    script.
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-97096911-1');
+
+		meta(name='description', content='Daftar online learning yang diadakan oleh PHPID community')
+		meta(property='og:site_name', content='PHPID')
+		meta(property='og:type', content='website')
+		meta(property='og:title', content='PHPID Online Learning 2020')
+		meta(property='og:description', content='Daftar online learning yang diadakan oleh PHPID community')
+		meta(property='og:url', content='https://phpid-jakarta.github.io/phpid-online-learning-2020/')
+		meta(property='og:image', content='../meta-image.png')
+		meta(property='og:image:width', content='1200')
+		meta(property='og:image:height', content='630')
+		meta(property='article:publisher', content='https://www.facebook.com/groups/phpid/')
+
+		meta(name='twitter:card', content='summary_large_image')
+		meta(name='twitter:title', content='PHPID Online Learning 2020')
+		meta(name='twitter:description', content='Daftar online learning yang diadakan oleh PHPID community')
+		meta(name='twitter:url', content='https://phpid-jakarta.github.io/phpid-online-learning-2020/')
+		meta(name='twitter:image', content='../meta-image.png')
+		meta(name='twitter:site', content='PHPID')
+
+		link(rel='apple-touch-icon', sizes='57x57', href='./favicon/apple-icon-57x57.png')
+		link(rel='apple-touch-icon', sizes='60x60', href='./favicon/apple-icon-60x60.png')
+		link(rel='apple-touch-icon', sizes='72x72', href='./favicon/apple-icon-72x72.png')
+		link(rel='apple-touch-icon', sizes='76x76', href='./favicon/apple-icon-76x76.png')
+		link(rel='apple-touch-icon', sizes='114x114', href='./favicon/apple-icon-114x114.png')
+		link(rel='apple-touch-icon', sizes='120x120', href='./favicon/apple-icon-120x120.png')
+		link(rel='apple-touch-icon', sizes='144x144', href='./favicon/apple-icon-144x144.png')
+		link(rel='apple-touch-icon', sizes='152x152', href='./favicon/apple-icon-152x152.png')
+		link(rel='apple-touch-icon', sizes='180x180', href='./favicon/apple-icon-180x180.png')
+		link(rel='icon', type='image/png', sizes='192x192', href='./favicon/android-icon-192x192.png')
+
+		link(rel='icon', type='image/png', sizes='32x32', href='./favicon/favicon-32x32.png')
+		link(rel='icon', type='image/png', sizes='96x96', href='./favicon/favicon-96x96.png')
+		link(rel='icon', type='image/png', sizes='16x16', href='./favicon/favicon-16x16.png')
+
+		meta(name='msapplication-TileColor', content='#212121')
+		meta(name='msapplication-TileImage', content='./favicon/ms-icon-144x144.png')
+		meta(name='theme-color', content='#212121')
+
+		script#ld-website(type='application/ld+json').
+			{"@context":"http://schema.org","@type":"WebSite","url":"https://phpid-jakarta.github.io/phpid-online-learning-2020/","description":"Daftar online learning yang diadakan oleh PHPID community","image":"../meta-image.png","thumbnailUrl":"../meta-image.png","name":"PHPID","sameAs":["https://www.facebook.com/groups/phpid"]}
+		script#ld-org(type='application/ld+json').
+			{"@context":"https://schema.org","@type":"Organization","name":"PHPID","logo":{"@type":"ImageObject","url":"../meta-image.png"}}
+
+		// Global site tag (gtag.js) - Google Analytics
+		script(async="" src="https://www.googletagmanager.com/gtag/js?id=UA-97096911-1")
+		script.
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-97096911-1');
+
+		style.
+			body, html {
+				height: 100%;
+				margin: 0;
+			}
+			.hero-image {
+				min-height: 80vh;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+				position: relative;
+				background-color: #212121;
+			}
+			.hero-text {
+				text-align: center;
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
+				color: white;
+			}
+			.hero-text button {
+				border: none;
+				outline: 0;
+				display: inline-block;
+				padding: 10px 25px;
+				color: black;
+				background-color: #ddd;
+				text-align: center;
+				cursor: pointer;
+			}
+			.hero-text button:hover {
+				background-color: #555;
+				color: white;
+			}
 
 	body
-		header.row.flex-center
-			.text-center
+		.hero-image
+			.hero-text
 				h1 PHPID Online Learning 2020
+				a(href="https://github.com/phpid-jakarta/phpid-online-learning-2020/", target="_blank", rel="noopener", title="Github")
+					button Github Repository
+
 		div.row.flex-center
 			each val, index in d.data
 				.margin.card(style='width: 20rem;')

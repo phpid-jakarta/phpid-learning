@@ -4,9 +4,9 @@
   "description": "👩‍🏫 List of resources PHPID online learning 2020",
   "main": "toJson.js",
   "scripts": {
-    "dev": "parcel src/index.pug",
-    "devopen": "parcel src/index.pug --open 'google chrome'",
-    "build": "parcel build src/index.pug",
+    "dev": "parcel src/index.pug --public-url http://localhost:1234 ",
+    "devopen": "parcel src/index.pug --public-url http://localhost:1234 --open 'google chrome'",
+    "build": "rimraf ./dist && parcel build src/index.pug --public-url https://phpid-jakarta.github.io/phpid-online-learning-2020/",
     "toJson": "node ./toJson.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +17,9 @@
     "url": "https://github.com/phpid-jakarta/phpid-online-learning-2020/issues"
   },
   "homepage": "https://github.com/phpid-jakarta/phpid-online-learning-2020#readme",
-  "dependencies": {},
+  "dependencies": {
+    "rimraf": "^3.0.2"
+  },
   "devDependencies": {
     "parcel": "^1.12.4",
     "parcel-bundler": "^1.12.4",
