@@ -305,6 +305,7 @@
 
 ## Data diatas bisa juga diakses lewat
 
+- Web UI: https://phpid-jakarta.github.io/phpid-online-learning-2020/
 - JSON: Lihat berkas [data.json](data.json)
 - [Carik Bot](https://carik.id/)
 
