@@ -13,7 +13,7 @@
 ## Daftar online learning
 
 - [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code) (rescheduled)
-- [#24 Pengembangan Sistem Informasi eGovernment](#pengembangan-sistem-informasi-egovernment) (rescheduled)
+- [#24 Pengembangan Sistem Informasi eGovernment](#pengembangan-sistem-informasi-egovernment) (cancelled)
 - [#26 Codepolitan](#codepolitan)
 - [#25 PostgreSQL: DDL dan SQL](#postgreSQL-ddl-dan-sql)
 - [#22 The Practical Guide howto become System Analyst](#the-practical-guide-howto+become-system-analyst)
@@ -59,7 +59,7 @@
 - Registrasi:  https://us02web.zoom.us/meeting/register/tZIkdO6tpjkiHd25iU3Ce1ZP9Xupot8yvCSu
 - Sesi: 23
 
-### Pengembangan Sistem Informasi eGovernment (rescheduled)
+### Pengembangan Sistem Informasi eGovernment (cancelled)
 
 - Waktu: Sabtu, 16 Mei 2020
 - Pukul: 16:00
