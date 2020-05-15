@@ -12,7 +12,7 @@ html(lang="")
 		div.row.flex-center
 			each val, index in d.data
 				.margin.card(style='width: 20rem;')
-					img.lazyload(data-src=val.cover, loading="lazy" alt=val.topic)
+					img.lazyload(data-src=val.cover, src="https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg", loading="lazy" alt=val.topic)
 					.card-body
 						span.badge.secondary(style="margin-right: .5em;")=val.date
 						span.badge.success=val.time + ' WIB'
@@ -40,15 +40,14 @@ html(lang="")
 
 		script.
 			if ('loading' in HTMLImageElement.prototype) {
-			const images = document.querySelectorAll("img.lazyload");
-			images.forEach(img => {
-			img.src = img.dataset.src;
-			});
+				const images = document.querySelectorAll("img.lazyload");
+				images.forEach(img => {
+					img.src = img.dataset.src;
+				});
 			} else {
-			// Dynamically import the LazySizes library
-			let script = document.createElement("script");
-			script.async = true;
-			script.src =
-			"https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.8/lazysizes.min.js";
-			document.body.appendChild(script);
+				// Dynamically import the LazySizes library
+				let script = document.createElement("script");
+				script.async = true;
+				script.src = "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.8/lazysizes.min.js";
+				document.body.appendChild(script);
 			}
