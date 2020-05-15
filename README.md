@@ -79,8 +79,8 @@
 - Pukul: 16:00
 - Pemateri: om Abdul Hadi
 - Slide: empty
-- Video: link
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZUvf-morTsiG9Em2xPgCHcvFyDnqmd7BNAb
+- Video: https://www.facebook.com/groups/phpid/permalink/10158199413581101/
+- Registrasi: empty
 - Sesi: 25
 
 ### The Practical Guide howto become System Analyst
