@@ -4,6 +4,12 @@
 
 👩‍🏫 List of resources PHPID online learning 2020
 
+## Data bisa juga diakses lewat
+
+- Web UI: [s.id/phpid-learning](https://s.id/phpid-learning)
+- JSON: Lihat berkas [data.json](data.json)
+- [Carik Bot](https://carik.id/)
+
 ## Daftar online learning
 
 - [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code) (rescheduled)
@@ -302,12 +308,6 @@
 - Video: https://youtu.be/fSQ8JamoAfg
 - Registrasi: empty
 - Sesi: 1
-
-## Data diatas bisa juga diakses lewat
-
-- Web UI: https://phpid-jakarta.github.io/phpid-online-learning-2020/
-- JSON: Lihat berkas [data.json](data.json)
-- [Carik Bot](https://carik.id/)
 
 ## Bantu kami
 
