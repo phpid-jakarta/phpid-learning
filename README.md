@@ -69,7 +69,7 @@
 - Pukul: 16:00
 - Pemateri: om Kresna Galuh
 - Slide: empty
-- Video: link
+- Video: https://www.facebook.com/groups/phpid/permalink/10158203092216101/
 - Registrasi:  https://us02web.zoom.us/meeting/register/tZ0rd-usrT4sEtEiKJHVqll8pM9gMrc_A744
 - Sesi: 26
 
