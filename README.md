@@ -41,6 +41,7 @@
 - Slide: empty
 - Video: link
 - Registrasi: coming soon
+- Sesi: 27
 
 ### Live Coding Music - Write Music with Code (rescheduled)
 
@@ -50,6 +51,7 @@
 - Slide: empty
 - Video: link
 - Registrasi:  https://us02web.zoom.us/meeting/register/tZIkdO6tpjkiHd25iU3Ce1ZP9Xupot8yvCSu
+- Sesi: 23
 
 ### Pengembangan Sistem Informasi eGovernment (rescheduled)
 
@@ -59,6 +61,7 @@
 - Slide: empty
 - Video: link
 - Registrasi:  https://us02web.zoom.us/meeting/register/tZAode2vrDIoH9eyZOiTxF1XcBxixNSsnGdi
+- Sesi: 24
 
 ### Codepolitan
 
@@ -68,6 +71,7 @@
 - Slide: empty
 - Video: link
 - Registrasi:  https://us02web.zoom.us/meeting/register/tZ0rd-usrT4sEtEiKJHVqll8pM9gMrc_A744
+- Sesi: 26
 
 ### PostgreSQL: DDL dan SQL
 
@@ -77,6 +81,7 @@
 - Slide: empty
 - Video: link
 - Registrasi:  https://us02web.zoom.us/meeting/register/tZUvf-morTsiG9Em2xPgCHcvFyDnqmd7BNAb
+- Sesi: 25
 
 ### The Practical Guide howto become System Analyst
 
@@ -86,6 +91,7 @@
 - Slide: https://speakerdeck.com/flash68/system-analyst-short-guide
 - Video: https://web.facebook.com/groups/phpid/permalink/10158189208091101/
 - Registrasi: empty
+- Sesi: 22
 
 ### Linux Server for PHP Developer
 
@@ -95,6 +101,7 @@
 - Slide: https://musaamin.web.id/wp-content/uploads/2020/05/Linux-Server-untuk-Aplikasi-PHP.pdf
 - Video: https://web.facebook.com/groups/phpid/permalink/10158181537861101/
 - Registrasi: empty
+- Sesi: 21
 
 ### Do it with SQL - Journey to the Center of Database World
 
@@ -103,7 +110,8 @@
 - Pemateri: om Nur Hidayah
 - Slide: https://www.slideshare.net/hidayat365/do-it-with-sql-journey-to-the-center-of-database-worlds
 - Video: https://www.facebook.com/groups/phpid/permalink/10158177433836101/
-- Registrasi:
+- Registrasi: empty
+- Sesi: 20
 
 ### Personal Security Awareness
 
@@ -113,6 +121,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158173579131101/
 - Registrasi: empty
+- Sesi: 19
 
 ### Web RTC
 
@@ -122,6 +131,7 @@
 - Slide: https://docs.google.com/presentation/d/1rT4BSSXCYEzF9eCQJ1Bbnr65p2LZtMndrENzNQNN4Q8/edit?usp=sharing
 - Video: https://www.facebook.com/groups/phpid/permalink/10158169585076101/
 - Registrasi: empty
+- Sesi: 18
 
 ###  How to Secure your Next Job During Covid-19 Pandemic
 
@@ -131,6 +141,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158165513971101/
 - Registrasi: empty
+- Sesi: 17
 
 ### Evolution Of PHP
 
@@ -140,6 +151,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158161447446101/
 - Registrasi: empty
+- Sesi: 16
 
 ###  Rest API dengan PHP OOP
 
@@ -149,6 +161,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158157539156101/
 - Registrasi: empty
+- Sesi: 15
 
 ### Tactics and Strategy to Define Digital Products
 
@@ -158,6 +171,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158153667346101/
 - Registrasi: empty
+- Sesi: 14
 
 ### Remote Worker
 
@@ -167,6 +181,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158145835046101/
 - Registrasi: empty
+- Sesi: 13
 
 ### Berkarir sebagai Frontend Developer
 
@@ -176,6 +191,7 @@
 - Slide: https://speakerdeck.com/randyviandaputra/berkarir-sebagai-frontend-developer
 - Video: https://www.facebook.com/groups/phpid/permalink/10158137997021101/
 - Registrasi: empty
+- Sesi: 12
 
 ### Starting Your Career in the Data Science
 
@@ -185,6 +201,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158133248636101/
 - Registrasi: empty
+- Sesi: 11
 
 ### Optimize Image on Your Website 101
 
@@ -194,6 +211,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158125506621101/
 - Registrasi: empty
+- Sesi: 10
 
 ### Building CI/CD Pipeline
 
@@ -203,6 +221,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158120909651101/
 - Registrasi: empty
+- Sesi: 9
 
 ### Social Media Digital Strategy
 
@@ -212,6 +231,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158112589196101/
 - Registrasi: empty
+- Sesi: 8
 
 ### Laravel LiveWire 101
 
@@ -221,6 +241,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158099015066101/
 - Registrasi: empty
+- Sesi: 7
 
 ### Migration from Procedural to OOP
 
@@ -230,6 +251,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158085993956101/
 - Registrasi: empty
+- Sesi: 6
 
 ### Why Documentation Matter
 
@@ -239,6 +261,7 @@
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158081773851101/
 - Registrasi: empty
+- Sesi: 5
 
 ### Kinerja Web 101
 
@@ -248,6 +271,7 @@
 - Slide: https://speakerdeck.com/mazipan/kinerja-web-101
 - Video: https://www.facebook.com/groups/phpid/permalink/10158077562731101/
 - Registrasi: empty
+- Sesi: 4
 
 ### SEO Basic
 
@@ -257,6 +281,7 @@
 - Slide: empty
 - Video: https://youtu.be/emfHRGd5LuE
 - Registrasi: empty
+- Sesi: 3
 
 ### Coder Journey to UI/UX Galaxy
 
@@ -266,6 +291,7 @@
 - Slide: https://speakerdeck.com/yudiutomo/ux-introduction
 - Video: https://www.facebook.com/groups/phpid/permalink/10158062969406101/
 - Registrasi: empty
+- Sesi: 2
 
 ### How to design a good database
 
@@ -275,6 +301,7 @@
 - Slide: https://slideshare.net/hidayat365/how-to-design-a-good-database
 - Video: https://youtu.be/fSQ8JamoAfg
 - Registrasi: empty
+- Sesi: 1
 
 ## Data diatas bisa juga diakses lewat
 

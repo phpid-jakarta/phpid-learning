@@ -1,17 +1,25 @@
 const fs = require('fs');
 const path = require('path');
 
-const REGEX_SECTIONS = /^\#{3}.*\n\n- Waktu.*\n- Pukul.*\n- Pemateri.*\n- Slide.*\n- Video.*\n.*\n.*/gm;
+const REGEX_SECTIONS = /^\#{3}.*\n\n- Waktu.*\n- Pukul.*\n- Pemateri.*\n- Slide.*\n- Video.*\n- Registrasi.*\n- Sesi.*/gm;
+const REGEX_TITLE = /^\#{3}.*/gm;
 const REGEX_DATE = /^- Waktu.*/gm;
 const REGEX_TIME = /^- Pukul.*/gm;
 const REGEX_SPEAKER = /^- Pemateri.*/gm;
 const REGEX_SLIDE = /^- Slide.*/gm;
 const REGEX_VIDEO = /^- Video.*/gm;
-const REGEX_TITLE = /^\#{3}.*/gm;
 const REGEX_REGISTRASI = /^- Registrasi.*/gm;
+const REGEX_SESI = /^- Sesi.*/gm;
 
-const getCoverUrl = (idx) =>
-  `https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/${idx}.jpg`;
+const getCoverUrl = (idx) => {
+	const basePathImage = `https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover`;
+	const filePath = path.resolve(`./cover/${idx}.jpg`);
+	if (fs.existsSync(filePath)) {
+    return `${basePathImage}/${idx}.jpg`
+	}
+
+	return `${basePathImage}/default.jpg`
+};
 
 const getContent = (ctx, regex, titleString) => {
   const res = ctx.match(regex);
@@ -32,9 +40,8 @@ const main = async () => {
     const matchContent = readmeContent.match(REGEX_SECTIONS);
     const allData = [];
 
-    matchContent.forEach((ctx, idx) => {
+    matchContent.forEach((ctx) => {
       if (!ctx.startsWith('### Template')) {
-        const sessionIndex = matchContent.length - idx;
         const videosRaw = getContent(ctx, REGEX_VIDEO, '- Video:');
         const videos = videosRaw
           .split(',')
@@ -45,7 +52,8 @@ const main = async () => {
         const slide = getContent(ctx, REGEX_SLIDE, '- Slide:');
         const topic = getContent(ctx, REGEX_TITLE, '### ');
         const register = getContent(ctx, REGEX_REGISTRASI, '- Registrasi:');
-        const cover = getCoverUrl(sessionIndex);
+        const sesi = getContent(ctx, REGEX_SESI, '- Sesi:');
+        const cover = getCoverUrl(sesi);
 
         const data = {
           date: date,

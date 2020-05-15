@@ -19,13 +19,21 @@ html(lang="")
 						h4.card-title=val.topic
 						h5.card-subtitle=val.speaker
 						p.card-text
-							| Notice that the card width in this example have been set to 20rem, otherwise it will try to fill the current container/row where the card is.
 						if val.videos[0] && val.videos[0] !== 'link'
-							a(href=val.videos[0], style="background-image: none")
+							a(href=val.videos[0], target="_blank", rel="noopener", style="background-image: none", title="Video")
 								button.btn-secondary Tonton Video
+						else if val.registrasi && registrasi !== 'empty'
+							a(href=val.registrasi, target="_blank", rel="noopener", style="background-image: none", title="Registrasi")
+								button.btn-warning Registrasi
 						if val.slide && val.slide !== 'empty'
-							a(href=val.slide, style="background-image: none")
+							a(href=val.slide, target="_blank", rel="noopener", style="background-image: none", title="Slide")
 								button.btn-success Lihat Slide
+		footer.row.flex-center.margin
+			.text-center
+				span
+				| Menemukan bug? atau ingin berkontribusi?
+				| kunjungi&nbsp;
+				a(href="https://github.com/phpid-jakarta/phpid-online-learning-2020/", target="_blank", rel="noopener", title="Github") Github repository
 		footer.row.flex-center
 			.text-center
 				span Crafted with ❤️ by PHPID Dev Teams, © 2020
