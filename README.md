@@ -74,9 +74,9 @@
 - Waktu: Jumat, 15 Mei 2020
 - Pukul: 16:00
 - Pemateri: om Kresna Galuh
-- Slide: empty
+- Slide: https://docs.google.com/presentation/d/1Z4LHVF4_PRM0D1iHjdPiGaETyBS0kfbLoVT3vckabB0/edit?usp=sharing
 - Video: https://www.facebook.com/groups/phpid/permalink/10158203092216101/
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZ0rd-usrT4sEtEiKJHVqll8pM9gMrc_A744
+- Registrasi: empty
 - Sesi: 26
 
 ### PostgreSQL: DDL dan SQL
