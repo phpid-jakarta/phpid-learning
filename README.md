@@ -12,7 +12,7 @@
 
 ## Daftar online learning
 
-- [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code) (rescheduled)
+- [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code)
 - [#24 Pengembangan Sistem Informasi eGovernment](#pengembangan-sistem-informasi-egovernment) (cancelled)
 - [#26 Codepolitan](#codepolitan)
 - [#25 PostgreSQL: DDL dan SQL](#postgreSQL-ddl-dan-sql)
@@ -49,13 +49,13 @@
 - Registrasi: coming soon
 - Sesi: 27
 
-### Live Coding Music - Write Music with Code (rescheduled)
+### Live Coding Music - Write Music with Code
 
 - Waktu: Minggu, 17 Mei 2020
 - Pukul: 16:30
 - Pemateri: om Sastra Nababan
 - Slide: empty
-- Video: link
+- Video: https://www.facebook.com/groups/phpid/permalink/10158209696501101/
 - Registrasi:  https://us02web.zoom.us/meeting/register/tZIkdO6tpjkiHd25iU3Ce1ZP9Xupot8yvCSu
 - Sesi: 23
 
