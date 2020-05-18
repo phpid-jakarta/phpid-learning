@@ -46,7 +46,7 @@
 - Pukul: 16:00
 - Pemateri: empty
 - Slide: empty
-- Video: link
+- Video: empty
 - Registrasi: coming soon
 - Sesi: 28
 
@@ -56,7 +56,7 @@
 - Pukul: 16:30
 - Pemateri: om Sony Arianto Kurniawan
 - Slide: empty
-- Video: empty
+- Video: https://www.facebook.com/peterjkambey/videos/10219674327906507/
 - Registrasi: https://us02web.zoom.us/meeting/register/tZ0sdOipqTooH9YXn0yPFw6LOFcdXx6qcSPh
 - Sesi: 27
 
@@ -67,7 +67,7 @@
 - Pemateri: om Sastra Nababan
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158209696501101/
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZIkdO6tpjkiHd25iU3Ce1ZP9Xupot8yvCSu
+- Registrasi: https://us02web.zoom.us/meeting/register/tZIkdO6tpjkiHd25iU3Ce1ZP9Xupot8yvCSu
 - Sesi: 23
 
 ### Pengembangan Sistem Informasi eGovernment (cancelled)
@@ -76,8 +76,8 @@
 - Pukul: 16:00
 - Pemateri: om Stenly Karouw
 - Slide: empty
-- Video: link
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZAode2vrDIoH9eyZOiTxF1XcBxixNSsnGdi
+- Video: empty
+- Registrasi: empty
 - Sesi: 24
 
 ### Codepolitan
@@ -150,11 +150,11 @@
 - Registrasi: empty
 - Sesi: 18
 
-###  How to Secure your Next Job During Covid-19 Pandemic
+### How to Secure your Next Job During Covid-19 Pandemic
 
 - Waktu: Selasa, 5 Mei 2020
 - Pukul: 16:30
-- Pemateri: Ali Pasha -  GeekHunter
+- Pemateri: Ali Pasha - GeekHunter
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158165513971101/
 - Registrasi: empty
@@ -170,7 +170,7 @@
 - Registrasi: empty
 - Sesi: 16
 
-###  Rest API dengan PHP OOP
+### Rest API dengan PHP OOP
 
 - Waktu: Minggu, 3 Mei 2020
 - Pukul: 16:30
@@ -328,6 +328,6 @@ Pantau grup [Facebook PHPID](https://www.facebook.com/groups/phpid) dan silahkan
 
 Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
-----
+---
 
 ©️ 2020 by PHPID Team
