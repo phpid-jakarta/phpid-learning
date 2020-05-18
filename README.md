@@ -12,6 +12,7 @@
 
 ## Daftar online learning
 
+- [#27 Ngobrol Santai Bareng om Sony Kurniawan](#ngobrol-santai-bareng-om-sony-kurniawan)
 - [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code)
 - [#24 Pengembangan Sistem Informasi eGovernment](#pengembangan-sistem-informasi-egovernment) (cancelled)
 - [#26 Codepolitan](#codepolitan)
@@ -47,6 +48,16 @@
 - Slide: empty
 - Video: link
 - Registrasi: coming soon
+- Sesi: 28
+
+### Ngobrol Santai Bareng om Sony Kurniawan
+
+- Waktu: Senin, 18 Mei 2020
+- Pukul: 16:30
+- Pemateri: om Sony Arianto Kurniawan
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZ0sdOipqTooH9YXn0yPFw6LOFcdXx6qcSPh
 - Sesi: 27
 
 ### Live Coding Music - Write Music with Code
