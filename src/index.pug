@@ -112,10 +112,10 @@ html(lang="id")
 						h4.card-title=val.topic
 						h5.card-subtitle=val.speaker
 						p.card-text
-						if val.videos[0] && val.videos[0] !== 'link'
+						if val.videos[0] && val.videos[0] !== 'empty'
 							a(href=val.videos[0], target="_blank", rel="noopener", style="background-image: none", title="Video")
 								button.btn-secondary Tonton Video
-						else if val.registrasi && registrasi !== 'empty'
+						else if val.registrasi && val.registrasi !== 'empty'
 							a(href=val.registrasi, target="_blank", rel="noopener", style="background-image: none", title="Registrasi")
 								button.btn-warning Registrasi
 						if val.slide && val.slide !== 'empty'
