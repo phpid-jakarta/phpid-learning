@@ -65,13 +65,17 @@ html(lang="id")
 			body, html {
 				height: 100%;
 				margin: 0;
+				scroll-behavior:smooth;
+			}
+			a {
+				background-image:none;
 			}
 			.hero-image {
 				min-height: 100vh;
 				background: url('https://i.imgur.com/i7O8Une.png');
 				background-position: center center;
 				background-repeat: no-repeat;
-				background-size: 400px;
+				background-size: 500px;
 				position: relative;
 				background-color: #212121;
 			}
@@ -109,6 +113,21 @@ html(lang="id")
 				background-color: #555;
 				color: white;
 			}
+			.hero-arrow {
+				position: absolute;
+				bottom: 20px;
+				display: flex;
+				width: 100%;
+				justify-content:center;
+				align-items: center;
+				flex-direction: column;
+				color:white;
+			}
+			.hero-arrow button {
+				border-color:white;
+				color:white;
+				margin-top:20px;
+			}
 
 	body
 		.hero-image
@@ -117,8 +136,12 @@ html(lang="id")
 				h2.animate__animated.animate__bounce 2020
 				a(href="https://github.com/phpid-jakarta/phpid-online-learning-2020/", target="_blank", rel="noopener", title="Github")
 					button.animate__animated.animate__bounceIn Github Repository
+			.hero-arrow
+				span.animate__animated.animate__bounceIn.animate__delay-1s Lihat Semua Pemateri
+				a(href="#content-speaker")
+					button.animate__animated.animate__bounceIn.animate__delay-1s ⭣
 
-		div.row.flex-center
+		div.row.flex-center#content-speaker
 			each val, index in d.data
 				.margin.card(style='width: 20rem;')
 					img.lazyload(data-src=val.cover, src="https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg", loading="lazy" alt=val.topic)
@@ -148,22 +171,28 @@ html(lang="id")
 				span Crafted with ❤️ by PHPID Dev Teams, © 2020
 
 		script.
-			if ('loading' in HTMLImageElement.prototype) {				
+			if ('loading' in HTMLImageElement.prototype) {		
 				if ('IntersectionObserver' in window){
+					const heroImage = document.querySelector('.hero-image')		
 					const cards = document.querySelectorAll('.card')
 					const iobs = new IntersectionObserver((entries, observe)=>{
 						entries.forEach(entry => {
 							if(entry.isIntersecting){
-								let card = entry.target
-								let img = entry.target.childNodes[0]
-								card.classList.add("animate__animated")
-								card.classList.add("animate__zoomIn")
-								img.src = img.dataset.src
-								img.classList.remove('lazyload')
-								iobs.unobserve(card)
+								if(entry.target.classList == 'hero-image'){
+									window.scrollTo({behavior: "smooth", top:0});
+								} else {
+									let card = entry.target
+									let img = entry.target.childNodes[0]
+									img.src = img.dataset.src
+									card.classList.add("animate__animated")
+									card.classList.add("animate__zoomIn")
+									img.classList.remove('lazyload')
+									iobs.unobserve(card)
+								}
 							} 
 						})
 					})
+					iobs.observe(heroImage)
 					cards.forEach(card => iobs.observe(card))
 				} else {
 					const images = document.querySelectorAll("img.lazyload");
