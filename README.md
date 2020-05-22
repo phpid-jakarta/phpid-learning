@@ -57,7 +57,7 @@
 - Pemateri: om Sony Arianto Kurniawan
 - Slide: empty
 - Video: https://www.facebook.com/peterjkambey/videos/10219674327906507/
-- Registrasi: https://us02web.zoom.us/meeting/register/tZ0sdOipqTooH9YXn0yPFw6LOFcdXx6qcSPh
+- Registrasi: empty
 - Sesi: 27
 
 ### Live Coding Music - Write Music with Code
@@ -67,7 +67,7 @@
 - Pemateri: om Sastra Nababan
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158209696501101/
-- Registrasi: https://us02web.zoom.us/meeting/register/tZIkdO6tpjkiHd25iU3Ce1ZP9Xupot8yvCSu
+- Registrasi: empty
 - Sesi: 23
 
 ### Pengembangan Sistem Informasi eGovernment (cancelled)

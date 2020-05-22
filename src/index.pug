@@ -46,6 +46,8 @@ html(lang="id")
 		meta(name='msapplication-TileImage', content='./favicon/ms-icon-144x144.png')
 		meta(name='theme-color', content='#212121')
 
+		link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css")
+
 		script#ld-website(type='application/ld+json').
 			{"@context":"http://schema.org","@type":"WebSite","url":"https://phpid-jakarta.github.io/phpid-online-learning-2020/","description":"Daftar online learning yang diadakan oleh PHPID community","image":"../meta-image.png","thumbnailUrl":"../meta-image.png","name":"PHPID","sameAs":["https://www.facebook.com/groups/phpid"]}
 		script#ld-org(type='application/ld+json').
@@ -63,12 +65,17 @@ html(lang="id")
 			body, html {
 				height: 100%;
 				margin: 0;
+				scroll-behavior:smooth;
+			}
+			a {
+				background-image:none;
 			}
 			.hero-image {
-				min-height: 80vh;
-				background-position: center;
+				min-height: 100vh;
+				background: url('https://i.imgur.com/i7O8Une.png');
+				background-position: center center;
 				background-repeat: no-repeat;
-				background-size: cover;
+				background-size: 500px;
 				position: relative;
 				background-color: #212121;
 			}
@@ -79,6 +86,18 @@ html(lang="id")
 				left: 50%;
 				transform: translate(-50%, -50%);
 				color: white;
+				
+			}
+			.hero-text h1 {
+				font-size: 2.5rem;
+				margin: 0 0 0 0;
+			}
+			.hero-text h1 span{
+				font-weight: normal;
+			}
+			.hero-text h2{
+				font-size: 2rem;
+				margin: 0 0 2rem 0;
 			}
 			.hero-text button {
 				border: none;
@@ -94,15 +113,35 @@ html(lang="id")
 				background-color: #555;
 				color: white;
 			}
+			.hero-arrow {
+				position: absolute;
+				bottom: 20px;
+				display: flex;
+				width: 100%;
+				justify-content:center;
+				align-items: center;
+				flex-direction: column;
+				color:white;
+			}
+			.hero-arrow button {
+				border-color:white;
+				color:white;
+				margin-top:20px;
+			}
 
 	body
 		.hero-image
 			.hero-text
-				h1 PHPID Online Learning 2020
+				h1.animate__animated.animate__bounce PHPID Online Learning 
+				h2.animate__animated.animate__bounce 2020
 				a(href="https://github.com/phpid-jakarta/phpid-online-learning-2020/", target="_blank", rel="noopener", title="Github")
-					button Github Repository
+					button.animate__animated.animate__bounceIn Github Repository
+			.hero-arrow
+				span.animate__animated.animate__bounceIn.animate__delay-1s Lihat Semua Pemateri
+				a(href="#content-speaker")
+					button.animate__animated.animate__bounceIn.animate__delay-1s &darr;
 
-		div.row.flex-center
+		div.row.flex-center#content-speaker
 			each val, index in d.data
 				.margin.card(style='width: 20rem;')
 					img.lazyload(data-src=val.cover, src="https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg", loading="lazy" alt=val.topic)
@@ -132,11 +171,35 @@ html(lang="id")
 				span Crafted with ❤️ by PHPID Dev Teams, © 2020
 
 		script.
-			if ('loading' in HTMLImageElement.prototype) {
-				const images = document.querySelectorAll("img.lazyload");
-				images.forEach(img => {
-					img.src = img.dataset.src;
-				});
+			if ('loading' in HTMLImageElement.prototype) {		
+				if ('IntersectionObserver' in window){
+					const heroImage = document.querySelector('.hero-image')		
+					const cards = document.querySelectorAll('.card')
+					const iobs = new IntersectionObserver((entries, observe)=>{
+						entries.forEach(entry => {
+							if(entry.isIntersecting){
+								if(entry.target.classList == 'hero-image'){
+									window.scrollTo({behavior: "smooth", top:0});
+								} else {
+									let card = entry.target
+									let img = entry.target.childNodes[0]
+									img.src = img.dataset.src
+									card.classList.add("animate__animated")
+									card.classList.add("animate__zoomIn")
+									img.classList.remove('lazyload')
+									iobs.unobserve(card)
+								}
+							} 
+						})
+					})
+					iobs.observe(heroImage)
+					cards.forEach(card => iobs.observe(card))
+				} else {
+					const images = document.querySelectorAll("img.lazyload");
+					images.forEach(img => {
+						img.src = img.dataset.src;
+					});
+				}
 			} else {
 				// Dynamically import the LazySizes library
 				let script = document.createElement("script");
