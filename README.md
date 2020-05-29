@@ -12,6 +12,7 @@
 
 ## Daftar online learning
 
+- [#28 Ngobrol Santai Bareng om Peter & 2 Jam bikin Absensi Online](#ngobrol-santai-bareng-om-peter-2-jam-bikin-aplikasi-absensi-online)
 - [#27 Ngobrol Santai Bareng om Sony Kurniawan](#ngobrol-santai-bareng-om-sony-kurniawan)
 - [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code)
 - [#24 Pengembangan Sistem Informasi eGovernment](#pengembangan-sistem-informasi-egovernment) (cancelled)
@@ -42,23 +43,23 @@
 
 ### Template sesi selanjutnya
 
-- Waktu: Hari, XX Mei 2020
+- Waktu: Hari, XX Juni 2020
 - Pukul: 16:00
 - Pemateri: empty
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
-- Sesi: 28
+- Sesi: 29
 
-### Ngobrol Santai Bareng om Sony Kurniawan
+### Ngobrol Santai Bareng om Peter - 2 Jam Bikin Aplikasi Absensi Online
 
-- Waktu: Senin, 18 Mei 2020
-- Pukul: 16:30
-- Pemateri: om Sony Arianto Kurniawan
+- Waktu: Senin, 1 Juni 2020
+- Pukul: 18:00
+- Pemateri: om Peter Kambey - Om Nur Hidayat
 - Slide: empty
-- Video: https://www.facebook.com/peterjkambey/videos/10219674327906507/
-- Registrasi: empty
-- Sesi: 27
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZIof--vqz8oG9HURHAsO9mJPj1h2Arn_fY_
+- Sesi: 28
 
 ### Live Coding Music - Write Music with Code
 
