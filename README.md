@@ -12,7 +12,7 @@
 
 ## Daftar online learning
 
-- [#28 Ngobrol Santai Bareng om Peter & 2 Jam bikin Absensi Online](#ngobrol-santai-bareng-om-peter-2-jam-bikin-aplikasi-absensi-online)
+- [#28 Ngobrol Santai Bareng om Peter & 2 Jam bikin Absensi Online](#ngobrol-santai-bareng-om-peter---2-jam-bikin-aplikasi-absensi-online)
 - [#27 Ngobrol Santai Bareng om Sony Kurniawan](#ngobrol-santai-bareng-om-sony-kurniawan)
 - [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code)
 - [#24 Pengembangan Sistem Informasi eGovernment](#pengembangan-sistem-informasi-egovernment) (cancelled)
