@@ -58,7 +58,7 @@
 - Pemateri: om Peter Kambey - Om Nur Hidayat
 - Slide: empty
 - Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZIof--vqz8oG9HURHAsO9mJPj1h2Arn_fY_
+- Registrasi: https://us02web.zoom.us/meeting/register/tZIof--vqz8oG9HURHAsO9mJPj1h2Arn_fY_/
 - Sesi: 28
 
 ### Live Coding Music - Write Music with Code
