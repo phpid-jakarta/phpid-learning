@@ -61,6 +61,16 @@
 - Registrasi: https://us02web.zoom.us/meeting/register/tZIof--vqz8oG9HURHAsO9mJPj1h2Arn_fY_/
 - Sesi: 28
 
+### Ngobrol Santai Bareng om Sony Kurniawan
+
+- Waktu: Senin, 18 Mei 2020
+- Pukul: 16:00
+- Pemateri: om Sony A Kurniawan
+- Slide: empty
+- Video: https://web.facebook.com/groups/phpid/permalink/10158213170081101/
+- Registrasi: 
+- Sesi: 27
+
 ### Live Coding Music - Write Music with Code
 
 - Waktu: Minggu, 17 Mei 2020
