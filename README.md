@@ -57,8 +57,8 @@
 - Pukul: 18:00
 - Pemateri: om Peter Kambey - Om Nur Hidayat
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZIof--vqz8oG9HURHAsO9mJPj1h2Arn_fY_/
+- Video: https://web.facebook.com/groups/phpid/permalink/10158258757901101/
+- Registrasi: 
 - Sesi: 28
 
 ### Ngobrol Santai Bareng om Sony Kurniawan
