@@ -12,6 +12,9 @@
 
 ## Daftar online learning
 
+
+- [#30 Scaling Application to 1 Millions Users](#scaling-application-to-1-millions-users)
+- [#29 The Change Maker Framework](#the-change-maker-framework)
 - [#28 Ngobrol Santai Bareng om Peter & 2 Jam bikin Absensi Online](#ngobrol-santai-bareng-om-peter---2-jam-bikin-aplikasi-absensi-online)
 - [#27 Ngobrol Santai Bareng om Sony Kurniawan](#ngobrol-santai-bareng-om-sony-kurniawan)
 - [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code)
@@ -49,6 +52,26 @@
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
+- Sesi: 31
+
+### Scaling Application to 1 Millions Users
+
+- Waktu: Senin, 8 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Petra Novandi Barus - AWS 
+- Slide: empty
+- Video: empty
+- Registrasi:   https://us02web.zoom.us/meeting/register/tZUkf-GvrDMiH9c3WGgTxkDpv8qm5JvIAdww
+- Sesi: 30
+
+### The Change Maker Framework
+
+- Waktu: Sabtu, 6 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Steven Salim
+- Slide: empty
+- Video: empty
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZwtc-yvpjgjHND2LAQhszHAMRFrEiWcMGpG
 - Sesi: 29
 
 ### Ngobrol Santai Bareng om Peter - 2 Jam Bikin Aplikasi Absensi Online
