@@ -13,6 +13,7 @@
 ## Daftar online learning
 
 
+- [#31 Upcoming. Will Update Soon](#upcoming-will-update-soon)
 - [#30 Scaling Application to 1 Millions Users](#scaling-application-to-1-millions-users)
 - [#29 The Change Maker Framework](#the-change-maker-framework)
 - [#28 Ngobrol Santai Bareng om Peter & 2 Jam bikin Absensi Online](#ngobrol-santai-bareng-om-peter---2-jam-bikin-aplikasi-absensi-online)
@@ -47,11 +48,21 @@
 ### Template sesi selanjutnya
 
 - Waktu: Hari, XX Juni 2020
-- Pukul: 16:00
+- Pukul: 19:00
 - Pemateri: empty
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
+- Sesi: 32
+
+### Upcoming. Will Update Soon
+
+- Waktu: Selasa, 9 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Buyung Bahari 
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZ0qce-oqzkpHdJxPNlqSDpPCE52uaZio6ej 
 - Sesi: 31
 
 ### Scaling Application to 1 Millions Users
@@ -70,8 +81,8 @@
 - Pukul: 19:00
 - Pemateri: Om Steven Salim
 - Slide: empty
-- Video: empty
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZwtc-yvpjgjHND2LAQhszHAMRFrEiWcMGpG
+- Video: https://web.facebook.com/groups/phpid/permalink/10158275425251101/
+- Registrasi: 
 - Sesi: 29
 
 ### Ngobrol Santai Bareng om Peter - 2 Jam Bikin Aplikasi Absensi Online
