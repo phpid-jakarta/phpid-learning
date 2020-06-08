@@ -13,6 +13,7 @@
 ## Daftar online learning
 
 
+- [#32 Upcoming Title](#upcoming-title)
 - [#31 Software Estimation Jump Start](#software-estimation-jump-start)
 - [#30 Scaling Application to 1 Millions Users](#scaling-application-to-1-millions-users)
 - [#29 The Change Maker Framework](#the-change-maker-framework)
@@ -53,6 +54,16 @@
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
+- Sesi: 33
+
+### Upcoming Title
+
+- Waktu: Kamis, 11 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Firman Brillian  
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZYsdeqhrTkvE9Sqz063zO6SRQZHhNNO_ZCu
 - Sesi: 32
 
 ### Software Estimation Jump Start
@@ -71,8 +82,8 @@
 - Pukul: 19:00
 - Pemateri: Om Petra Novandi Barus - AWS 
 - Slide: empty
-- Video: empty
-- Registrasi:   https://us02web.zoom.us/meeting/register/tZUkf-GvrDMiH9c3WGgTxkDpv8qm5JvIAdww
+- Video: https://web.facebook.com/groups/phpid/permalink/10158282004611101/
+- Registrasi: 
 - Sesi: 30
 
 ### The Change Maker Framework
