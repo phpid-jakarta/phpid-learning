@@ -13,7 +13,7 @@
 ## Daftar online learning
 
 
-- [#31 Upcoming. Will Update Soon](#upcoming-will-update-soon)
+- [#31 Software Estimation Jump Start](#software-estimation-jump-start)
 - [#30 Scaling Application to 1 Millions Users](#scaling-application-to-1-millions-users)
 - [#29 The Change Maker Framework](#the-change-maker-framework)
 - [#28 Ngobrol Santai Bareng om Peter & 2 Jam bikin Absensi Online](#ngobrol-santai-bareng-om-peter---2-jam-bikin-aplikasi-absensi-online)
@@ -55,7 +55,7 @@
 - Registrasi: coming soon
 - Sesi: 32
 
-### Upcoming. Will Update Soon
+### Software Estimation Jump Start
 
 - Waktu: Selasa, 9 Juni 2020
 - Pukul: 19:00
