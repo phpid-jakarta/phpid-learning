@@ -72,8 +72,8 @@
 - Pukul: 19:00
 - Pemateri: Om Buyung Bahari 
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZ0qce-oqzkpHdJxPNlqSDpPCE52uaZio6ej 
+- Video: https://web.facebook.com/groups/phpid/permalink/10158285183441101/
+- Registrasi: empty
 - Sesi: 31
 
 ### Scaling Application to 1 Millions Users
@@ -83,7 +83,7 @@
 - Pemateri: Om Petra Novandi Barus - AWS 
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158282004611101/
-- Registrasi: 
+- Registrasi: empty
 - Sesi: 30
 
 ### The Change Maker Framework
@@ -93,7 +93,7 @@
 - Pemateri: Om Steven Salim
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158275425251101/
-- Registrasi: 
+- Registrasi: empty
 - Sesi: 29
 
 ### Ngobrol Santai Bareng om Peter - 2 Jam Bikin Aplikasi Absensi Online
@@ -103,7 +103,7 @@
 - Pemateri: om Peter Kambey - Om Nur Hidayat
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158258757901101/
-- Registrasi: 
+- Registrasi: empty 
 - Sesi: 28
 
 ### Ngobrol Santai Bareng om Sony Kurniawan
@@ -113,7 +113,7 @@
 - Pemateri: om Sony A Kurniawan
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158213170081101/
-- Registrasi: 
+- Registrasi: empty
 - Sesi: 27
 
 ### Live Coding Music - Write Music with Code
