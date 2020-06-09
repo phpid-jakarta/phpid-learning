@@ -13,7 +13,7 @@
 ## Daftar online learning
 
 
-- [#32 Upcoming Title](#upcoming-title)
+- [#32 Python For Data Science](#python-for-data-science)
 - [#31 Software Estimation Jump Start](#software-estimation-jump-start)
 - [#30 Scaling Application to 1 Millions Users](#scaling-application-to-1-millions-users)
 - [#29 The Change Maker Framework](#the-change-maker-framework)
@@ -56,7 +56,7 @@
 - Registrasi: coming soon
 - Sesi: 33
 
-### Upcoming Title
+### Python For Data Science
 
 - Waktu: Kamis, 11 Juni 2020
 - Pukul: 19:00
