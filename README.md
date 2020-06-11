@@ -13,6 +13,8 @@
 ## Daftar online learning
 
 
+- [#34 Why developer must care about Open Source?](#why-developer-must-care-about-open-source)
+- [#33 Web Accessibility](#web-accessibility)
 - [#32 Python For Data Science](#python-for-data-science)
 - [#31 Software Estimation Jump Start](#software-estimation-jump-start)
 - [#30 Scaling Application to 1 Millions Users](#scaling-application-to-1-millions-users)
@@ -54,6 +56,26 @@
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
+- Sesi: 35
+
+### Why developer must care about Open Source?
+
+- Waktu: Minggu, 14 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Munir AP
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZcucuutrz8iH9GVYs7X8_CZwNkYIKxIxj5P
+- Sesi: 34
+
+### Web Accessibility
+
+- Waktu: Sabtu, 13 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Prayudi Utomo
+- Slide: empty
+- Video: empty
+- Registrasi:  https://us02web.zoom.us/meeting/register/tZMpdemgrTgpHtwfctZv0UnHGNOqQR0u4fY2
 - Sesi: 33
 
 ### Python For Data Science
@@ -62,8 +84,8 @@
 - Pukul: 19:00
 - Pemateri: Om Firman Brillian  
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZYsdeqhrTkvE9Sqz063zO6SRQZHhNNO_ZCu
+- Video: https://www.facebook.com/groups/phpid/permalink/10158291607461101/
+- Registrasi: empty
 - Sesi: 32
 
 ### Software Estimation Jump Start
