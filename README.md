@@ -74,8 +74,8 @@
 - Pukul: 19:00
 - Pemateri: Om Prayudi Utomo
 - Slide: empty
-- Video: empty
-- Registrasi:  https://us02web.zoom.us/meeting/register/tZMpdemgrTgpHtwfctZv0UnHGNOqQR0u4fY2
+- Video: https://web.facebook.com/groups/phpid/permalink/10158298024301101/
+- Registrasi:  empty
 - Sesi: 33
 
 ### Python For Data Science
