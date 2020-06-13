@@ -61,7 +61,7 @@
 ### Why developer must care about Open Source?
 
 - Waktu: Minggu, 14 Juni 2020
-- Pukul: 19:00
+- Pukul: 18:00
 - Pemateri: Om Munir AP
 - Slide: empty
 - Video: empty
