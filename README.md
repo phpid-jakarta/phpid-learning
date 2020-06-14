@@ -75,8 +75,8 @@
 - Pukul: 19:00
 - Pemateri: Om Munir AP
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZcucuutrz8iH9GVYs7X8_CZwNkYIKxIxj5P
+- Video: https://web.facebook.com/groups/phpid/permalink/10158301109521101/
+- Registrasi: empty
 - Sesi: 34
 
 ### Web Accessibility
