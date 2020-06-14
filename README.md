@@ -8,11 +8,12 @@
 
 - Web UI: [s.id/phpid-learning](https://s.id/phpid-learning)
 - JSON: Lihat berkas [data.json](data.json)
-- [Carik Bot](https://carik.id/)
+- [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
 
 
+- [#35 Upcoming](#upcoming)
 - [#34 Why developer must care about Open Source?](#why-developer-must-care-about-open-source)
 - [#33 Web Accessibility](#web-accessibility)
 - [#32 Python For Data Science](#python-for-data-science)
@@ -56,6 +57,16 @@
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
+- Sesi: 36
+
+### Upcoming
+
+- Waktu: Sabtu, 20 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Eryk Pratama
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZUkcu2ppzotGdH-F9I9Jewi6PQXJKr3epgx
 - Sesi: 35
 
 ### Why developer must care about Open Source?
