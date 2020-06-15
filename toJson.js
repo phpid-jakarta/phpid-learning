@@ -18,7 +18,7 @@ const getCoverUrl = (idx) => {
     return `${basePathImage}/${idx}.jpg`
 	}
 
-	return `${basePathImage}/default.jpg`
+	return `${basePathImage}/not-found.jpg`
 };
 
 const getContent = (ctx, regex, titleString) => {
