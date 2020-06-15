@@ -4,9 +4,7 @@ html(lang="id")
 		meta(charset='utf-8')
 		meta(http-equiv='x-ua-compatible', content='ie=edge')
 		meta(name="viewport", content="initial-scale=1, minimum-scale=1, maximum-scale=7, user-scalable=yes, width=device-width, shrink-to-fit=no")
-		link(rel="preconnect dns-prefetch" href="https://unpkg.com" crossorigin="")
 		link(rel='preconnect dns-prefetch', href='https://www.google-analytics.com'  crossorigin="")
-		link(rel="stylesheet", href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css")
 		title PHPID Online Learning 2020
 
 		meta(name='description', content='Daftar online learning yang diadakan oleh PHPID community')
@@ -46,7 +44,6 @@ html(lang="id")
 		meta(name='msapplication-TileImage', content='./favicon/ms-icon-144x144.png')
 		meta(name='theme-color', content='#212121')
 
-		link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css")
 
 		script#ld-website(type='application/ld+json').
 			{"@context":"http://schema.org","@type":"WebSite","url":"https://phpid-jakarta.github.io/phpid-online-learning-2020/","description":"Daftar online learning yang diadakan oleh PHPID community","image":"../meta-image.png","thumbnailUrl":"../meta-image.png","name":"PHPID","sameAs":["https://www.facebook.com/groups/phpid"]}
@@ -72,7 +69,7 @@ html(lang="id")
 			}
 			.hero-image {
 				min-height: 100vh;
-				background: url('https://i.imgur.com/i7O8Une.png');
+				background: url('./bg-hero.png');
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: 500px;
@@ -86,7 +83,7 @@ html(lang="id")
 				left: 50%;
 				transform: translate(-50%, -50%);
 				color: white;
-				
+
 			}
 			.hero-text h1 {
 				font-size: 2.5rem;
@@ -129,10 +126,12 @@ html(lang="id")
 				margin-top:20px;
 			}
 
+		link(rel="stylesheet", href="./paper.min.css")
+		link(rel="stylesheet", href="./animate.min.css")
 	body
 		.hero-image
 			.hero-text
-				h1.animate__animated.animate__bounce PHPID Online Learning 
+				h1.animate__animated.animate__bounce PHPID Online Learning
 				h2.animate__animated.animate__bounce 2020
 				a(href="https://github.com/phpid-jakarta/phpid-online-learning-2020/", target="_blank", rel="noopener", title="Github")
 					button.animate__animated.animate__bounceIn Github Repository
@@ -171,9 +170,9 @@ html(lang="id")
 				span Crafted with ❤️ by PHPID Dev Teams, © 2020
 
 		script.
-			if ('loading' in HTMLImageElement.prototype) {		
+			if ('loading' in HTMLImageElement.prototype) {
 				if ('IntersectionObserver' in window){
-					const heroImage = document.querySelector('.hero-image')		
+					const heroImage = document.querySelector('.hero-image')
 					const cards = document.querySelectorAll('.card')
 					const iobs = new IntersectionObserver((entries, observe)=>{
 						entries.forEach(entry => {
@@ -189,7 +188,7 @@ html(lang="id")
 									img.classList.remove('lazyload')
 									iobs.unobserve(card)
 								}
-							} 
+							}
 						})
 					})
 					iobs.observe(heroImage)
