@@ -8,10 +8,19 @@
 
 - Web UI: [s.id/phpid-learning](https://s.id/phpid-learning)
 - JSON: Lihat berkas [data.json](data.json)
-- [Carik Bot](https://carik.id/)
+- [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
 
+
+- [#35 Enabling Data Governance](#enabling-data-governance)
+- [#34 Why developer must care about Open Source?](#why-developer-must-care-about-open-source)
+- [#33 Web Accessibility](#web-accessibility)
+- [#32 Python For Data Science](#python-for-data-science)
+- [#31 Software Estimation Jump Start](#software-estimation-jump-start)
+- [#30 Scaling Application to 1 Millions Users](#scaling-application-to-1-millions-users)
+- [#29 The Change Maker Framework](#the-change-maker-framework)
+- [#28 Ngobrol Santai Bareng om Peter & 2 Jam bikin Absensi Online](#ngobrol-santai-bareng-om-peter---2-jam-bikin-aplikasi-absensi-online)
 - [#27 Ngobrol Santai Bareng om Sony Kurniawan](#ngobrol-santai-bareng-om-sony-kurniawan)
 - [#23 Live Coding Music - Write Music with Code](#live-coding-music-write-music-with-code)
 - [#24 Pengembangan Sistem Informasi eGovernment](#pengembangan-sistem-informasi-egovernment) (cancelled)
@@ -42,21 +51,101 @@
 
 ### Template sesi selanjutnya
 
-- Waktu: Hari, XX Mei 2020
-- Pukul: 16:00
+- Waktu: Hari, XX Juni 2020
+- Pukul: 19:00
 - Pemateri: empty
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
+- Sesi: 36
+
+### Enabling Data Governance
+
+- Waktu: Sabtu, 20 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Eryk Pratama
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZUkcu2ppzotGdH-F9I9Jewi6PQXJKr3epgx
+- Sesi: 35
+
+### Why developer must care about Open Source?
+
+- Waktu: Minggu, 14 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Munir AP
+- Slide: empty
+- Video: https://web.facebook.com/groups/phpid/permalink/10158301109521101/
+- Registrasi: empty
+- Sesi: 34
+
+### Web Accessibility
+
+- Waktu: Sabtu, 13 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Prayudi Utomo
+- Slide: empty
+- Video: https://web.facebook.com/groups/phpid/permalink/10158298024301101/
+- Registrasi:  empty
+- Sesi: 33
+
+### Python For Data Science
+
+- Waktu: Kamis, 11 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Firman Brillian  
+- Slide: empty
+- Video: https://www.facebook.com/groups/phpid/permalink/10158291607461101/
+- Registrasi: empty
+- Sesi: 32
+
+### Software Estimation Jump Start
+
+- Waktu: Selasa, 9 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Buyung Bahari 
+- Slide: empty
+- Video: https://web.facebook.com/groups/phpid/permalink/10158285183441101/
+- Registrasi: empty
+- Sesi: 31
+
+### Scaling Application to 1 Millions Users
+
+- Waktu: Senin, 8 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Petra Novandi Barus - AWS 
+- Slide: empty
+- Video: https://web.facebook.com/groups/phpid/permalink/10158282004611101/
+- Registrasi: empty
+- Sesi: 30
+
+### The Change Maker Framework
+
+- Waktu: Sabtu, 6 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Steven Salim
+- Slide: empty
+- Video: https://web.facebook.com/groups/phpid/permalink/10158275425251101/
+- Registrasi: empty
+- Sesi: 29
+
+### Ngobrol Santai Bareng om Peter - 2 Jam Bikin Aplikasi Absensi Online
+
+- Waktu: Senin, 1 Juni 2020
+- Pukul: 18:00
+- Pemateri: om Peter Kambey - Om Nur Hidayat
+- Slide: empty
+- Video: https://web.facebook.com/groups/phpid/permalink/10158258757901101/
+- Registrasi: empty 
 - Sesi: 28
 
 ### Ngobrol Santai Bareng om Sony Kurniawan
 
 - Waktu: Senin, 18 Mei 2020
-- Pukul: 16:30
-- Pemateri: om Sony Arianto Kurniawan
+- Pukul: 16:00
+- Pemateri: om Sony A Kurniawan
 - Slide: empty
-- Video: https://www.facebook.com/peterjkambey/videos/10219674327906507/
+- Video: https://web.facebook.com/groups/phpid/permalink/10158213170081101/
 - Registrasi: empty
 - Sesi: 27
 
