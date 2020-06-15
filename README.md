@@ -13,7 +13,7 @@
 ## Daftar online learning
 
 
-- [#35 Upcoming](#upcoming)
+- [#35 Enabling Data Governance](#enabling-data-governance)
 - [#34 Why developer must care about Open Source?](#why-developer-must-care-about-open-source)
 - [#33 Web Accessibility](#web-accessibility)
 - [#32 Python For Data Science](#python-for-data-science)
@@ -59,7 +59,7 @@
 - Registrasi: coming soon
 - Sesi: 36
 
-### Upcoming
+### Enabling Data Governance
 
 - Waktu: Sabtu, 20 Juni 2020
 - Pukul: 19:00
