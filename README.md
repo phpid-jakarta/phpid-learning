@@ -13,6 +13,7 @@
 ## Daftar online learning
 
 
+- [#36 Introduction to Microservice](#introduction-to-microservice)
 - [#35 Enabling Data Governance](#enabling-data-governance)
 - [#34 Why developer must care about Open Source?](#why-developer-must-care-about-open-source)
 - [#33 Web Accessibility](#web-accessibility)
@@ -57,6 +58,16 @@
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
+- Sesi: 37
+
+### Introduction to Microservice
+
+- Waktu: Senin, 22 Juni 2020
+- Pukul: 19:00
+- Pemateri: Om Petra Novandi Barus - AWS 
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZIof-qrrjouHteqhbO6lEicTi-t6ckEhSSZ
 - Sesi: 36
 
 ### Enabling Data Governance
