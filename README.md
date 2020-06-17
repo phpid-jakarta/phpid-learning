@@ -13,7 +13,7 @@
 ## Daftar online learning
 
 
-- [#36 Introduction to Microservice](#introduction-to-microservice)
+- [#36 Membuat Aplikasi PHP Microservices dengan AWS](#membuat-aplikasi-php-microservices-dengan-aws)
 - [#35 Enabling Data Governance](#enabling-data-governance)
 - [#34 Why developer must care about Open Source?](#why-developer-must-care-about-open-source)
 - [#33 Web Accessibility](#web-accessibility)
@@ -60,7 +60,7 @@
 - Registrasi: coming soon
 - Sesi: 37
 
-### Introduction to Microservice
+### Membuat Aplikasi PHP Microservices dengan AWS
 
 - Waktu: Senin, 22 Juni 2020
 - Pukul: 19:00
