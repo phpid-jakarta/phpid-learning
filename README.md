@@ -13,7 +13,7 @@
 ## Daftar online learning
 
 
-- [#36 Membuat Aplikasi PHP Microservices dengan AWS](#membuat-aplikasi-php-microservices-dengan-aws)
+- [#36 Membuat Aplikasi PHP Microservices dengan AWS](#membuat-aplikasi-php-microservices-dengan-aws) (rescheduled)
 - [#35 Enabling Data Governance](#enabling-data-governance)
 - [#34 Why developer must care about Open Source?](#why-developer-must-care-about-open-source)
 - [#33 Web Accessibility](#web-accessibility)
@@ -60,9 +60,9 @@
 - Registrasi: coming soon
 - Sesi: 37
 
-### Membuat Aplikasi PHP Microservices dengan AWS
+### Membuat Aplikasi PHP Microservices dengan AWS (reschedule)
 
-- Waktu: Senin, 22 Juni 2020
+- Waktu: Senin, 29 Juni 2020
 - Pukul: 19:00
 - Pemateri: Om Petra Novandi Barus - AWS 
 - Slide: empty
