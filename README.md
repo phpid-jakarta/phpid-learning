@@ -13,6 +13,7 @@
 ## Daftar online learning
 
 
+- [#37 Coming Soon Title](#coming-soon-title)
 - [#36 Membuat Aplikasi PHP Microservices dengan AWS](#membuat-aplikasi-php-microservices-dengan-aws) (rescheduled)
 - [#35 Enabling Data Governance](#enabling-data-governance)
 - [#34 Why developer must care about Open Source?](#why-developer-must-care-about-open-source)
@@ -60,6 +61,16 @@
 - Registrasi: coming soon
 - Sesi: 37
 
+### Coming Soon Title
+
+- Waktu: Sabtu, 27 Juni 2020
+- Pukul: 19:00
+- Pemateri: Muhamad Surya Iksanudin
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZUtcO2hqj0vG9Vwdztsmx4W0Kdg04jWDe75
+- Sesi: 37
+
 ### Membuat Aplikasi PHP Microservices dengan AWS (reschedule)
 
 - Waktu: Senin, 29 Juni 2020
@@ -76,8 +87,8 @@
 - Pukul: 19:00
 - Pemateri: Om Eryk Pratama
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZUkcu2ppzotGdH-F9I9Jewi6PQXJKr3epgx
+- Video: https://web.facebook.com/groups/phpid/permalink/10158319487861101/
+- Registrasi: empty
 - Sesi: 35
 
 ### Why developer must care about Open Source?
