@@ -61,7 +61,7 @@
 - Registrasi: coming soon
 - Sesi: 37
 
-### Coming Soon Title
+### 2021, PHP masih cocok untuk dipelajari?
 
 - Waktu: Sabtu, 27 Juni 2020
 - Pukul: 19:00
