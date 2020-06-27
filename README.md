@@ -13,8 +13,9 @@
 ## Daftar online learning
 
 
+- [#38 Upcoming With Galih Pratama](#upcoming-with-galih-pratama)
 - [#37 2021, PHP masih cocok untuk dipelajari?](#2021-php-masih-cocok-untuk-dipelajari)
-- [#36 Membuat Aplikasi PHP Microservices dengan AWS](#membuat-aplikasi-php-microservices-dengan-aws) (rescheduled)
+- [#36 Membuat Aplikasi PHP Microservices dengan AWS](#membuat-aplikasi-php-microservices-dengan-aws) (cancelled)
 - [#35 Enabling Data Governance](#enabling-data-governance)
 - [#34 Why developer must care about Open Source?](#why-developer-must-care-about-open-source)
 - [#33 Web Accessibility](#web-accessibility)
@@ -59,7 +60,17 @@
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
-- Sesi: 37
+- Sesi: 39
+
+### Upcoming With Galih Pratama
+
+- Waktu: Sabtu, 4 Juli 2020
+- Pukul: 19:00
+- Pemateri: Galih Pratama
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZApf-ipqj0tHtzZ5m5l_Wt0qSjslbxprWTT
+- Sesi: 38
 
 ### 2021, PHP masih cocok untuk dipelajari?
 
@@ -67,18 +78,18 @@
 - Pukul: 19:00
 - Pemateri: Muhamad Surya Iksanudin
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZUtcO2hqj0vG9Vwdztsmx4W0Kdg04jWDe75
+- Video: https://web.facebook.com/groups/phpid/permalink/10158342490356101/
+- Registrasi: empty
 - Sesi: 37
 
-### Membuat Aplikasi PHP Microservices dengan AWS (reschedule)
+### Membuat Aplikasi PHP Microservices dengan AWS (cancelled)
 
 - Waktu: Senin, 29 Juni 2020
 - Pukul: 19:00
 - Pemateri: Om Petra Novandi Barus - AWS 
 - Slide: empty
 - Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZIof-qrrjouHteqhbO6lEicTi-t6ckEhSSZ
+- Registrasi: empty
 - Sesi: 36
 
 ### Enabling Data Governance
