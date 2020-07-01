@@ -13,7 +13,7 @@
 ## Daftar online learning
 
 
-- [#38 Upcoming With Galih Pratama](#upcoming-with-galih-pratama)
+- [#38 Developer Jadi Pengajar, why not?](#developer-jadi-pengajar-why-not)
 - [#37 2021, PHP masih cocok untuk dipelajari?](#2021-php-masih-cocok-untuk-dipelajari)
 - [#36 Membuat Aplikasi PHP Microservices dengan AWS](#membuat-aplikasi-php-microservices-dengan-aws) (cancelled)
 - [#35 Enabling Data Governance](#enabling-data-governance)
@@ -62,7 +62,7 @@
 - Registrasi: coming soon
 - Sesi: 39
 
-### Upcoming With Galih Pratama
+### Developer Jadi Pengajar, Why Not?
 
 - Waktu: Sabtu, 4 Juli 2020
 - Pukul: 19:00
