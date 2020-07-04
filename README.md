@@ -13,6 +13,7 @@
 ## Daftar online learning
 
 
+- [#39 Mendeploy Situs Wordpress yang Scalable di AWS](#mendeploy-situs-wordpress-yang-scalable-di-aws)
 - [#38 Developer Jadi Pengajar, why not?](#developer-jadi-pengajar-why-not)
 - [#37 2021, PHP masih cocok untuk dipelajari?](#2021-php-masih-cocok-untuk-dipelajari)
 - [#36 Membuat Aplikasi PHP Microservices dengan AWS](#membuat-aplikasi-php-microservices-dengan-aws) (cancelled)
@@ -60,6 +61,16 @@
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
+- Sesi: 40
+
+### Mendeploy Situs Wordpress yang Scalable di AWS
+
+- Waktu: Kamis, 9 Juli 2020
+- Pukul: 19:00
+- Pemateri: Petra Novandi Barus
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZMkc-6przwuE9Za8pJ8GLB84WyrBxX5YYUf
 - Sesi: 39
 
 ### Developer Jadi Pengajar, Why Not?
@@ -68,8 +79,8 @@
 - Pukul: 19:00
 - Pemateri: Galih Pratama
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZApf-ipqj0tHtzZ5m5l_Wt0qSjslbxprWTT
+- Video: https://web.facebook.com/groups/phpid/permalink/10158368473496101/
+- Registrasi: empty
 - Sesi: 38
 
 ### 2021, PHP masih cocok untuk dipelajari?
