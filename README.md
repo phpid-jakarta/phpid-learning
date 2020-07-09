@@ -12,7 +12,6 @@
 
 ## Daftar online learning
 
-
 - [#39 Mendeploy Situs Wordpress yang Scalable di AWS](#mendeploy-situs-wordpress-yang-scalable-di-aws)
 - [#38 Developer Jadi Pengajar, why not?](#developer-jadi-pengajar-why-not)
 - [#37 2021, PHP masih cocok untuk dipelajari?](#2021-php-masih-cocok-untuk-dipelajari)
@@ -97,7 +96,7 @@
 
 - Waktu: Senin, 29 Juni 2020
 - Pukul: 19:00
-- Pemateri: Om Petra Novandi Barus - AWS 
+- Pemateri: Om Petra Novandi Barus - AWS
 - Slide: empty
 - Video: empty
 - Registrasi: empty
@@ -130,14 +129,14 @@
 - Pemateri: Om Prayudi Utomo
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158298024301101/
-- Registrasi:  empty
+- Registrasi: empty
 - Sesi: 33
 
 ### Python For Data Science
 
 - Waktu: Kamis, 11 Juni 2020
 - Pukul: 19:00
-- Pemateri: Om Firman Brillian  
+- Pemateri: Om Firman Brillian
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158291607461101/
 - Registrasi: empty
@@ -147,7 +146,7 @@
 
 - Waktu: Selasa, 9 Juni 2020
 - Pukul: 19:00
-- Pemateri: Om Buyung Bahari 
+- Pemateri: Om Buyung Bahari
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158285183441101/
 - Registrasi: empty
@@ -157,7 +156,7 @@
 
 - Waktu: Senin, 8 Juni 2020
 - Pukul: 19:00
-- Pemateri: Om Petra Novandi Barus - AWS 
+- Pemateri: Om Petra Novandi Barus - AWS
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158282004611101/
 - Registrasi: empty
@@ -180,7 +179,7 @@
 - Pemateri: om Peter Kambey - Om Nur Hidayat
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158258757901101/
-- Registrasi: empty 
+- Registrasi: empty
 - Sesi: 28
 
 ### Ngobrol Santai Bareng om Sony Kurniawan
