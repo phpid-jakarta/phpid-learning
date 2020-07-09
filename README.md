@@ -69,8 +69,8 @@
 - Pukul: 19:00
 - Pemateri: Petra Novandi Barus
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZMkc-6przwuE9Za8pJ8GLB84WyrBxX5YYUf
+- Video: https://www.facebook.com/groups/phpid/permalink/10158384081171101/
+- Registrasi: empty
 - Sesi: 39
 
 ### Developer Jadi Pengajar, Why Not?
