@@ -13,7 +13,7 @@
 ## Daftar online learning
 
 
-- [#41 CRM World](#crm-world)
+- [#41 Belajar Konsep CRM & Menggunakan Software CRM Gratis](#belajar-konsep-crm-&-menggunakan-software-crm-gratis)
 - [#40 The Journey of Test-Driven Development](#the-journey-of-test-driven-development)
 - [#39 Mendeploy Situs Wordpress yang Scalable di AWS](#mendeploy-situs-wordpress-yang-scalable-di-aws)
 - [#38 Developer Jadi Pengajar, why not?](#developer-jadi-pengajar-why-not)
@@ -65,7 +65,7 @@
 - Registrasi: coming soon
 - Sesi: 42
 
-### CRM World
+### Belajar Konsep CRM & Menggunakan Software CRM Gratis
 
 - Waktu: Kamis, 16 Juli 2020
 - Pukul: 19:00
