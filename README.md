@@ -13,6 +13,8 @@
 ## Daftar online learning
 
 
+- [#41 CRM World](#crm-world)
+- [#40 The Journey of Test-Driven Development](#the-journey-of-test-driven-development)
 - [#39 Mendeploy Situs Wordpress yang Scalable di AWS](#mendeploy-situs-wordpress-yang-scalable-di-aws)
 - [#38 Developer Jadi Pengajar, why not?](#developer-jadi-pengajar-why-not)
 - [#37 2021, PHP masih cocok untuk dipelajari?](#2021-php-masih-cocok-untuk-dipelajari)
