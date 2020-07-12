@@ -55,12 +55,32 @@
 
 ### Template sesi selanjutnya
 
-- Waktu: Hari, XX Juni 2020
+- Waktu: Hari, XX Juli 2020
 - Pukul: 19:00
 - Pemateri: empty
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
+- Sesi: 42
+
+### CRM World
+
+- Waktu: Kamis, 16 Juli 2020
+- Pukul: 19:00
+- Pemateri: Arga Dinata
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZYpc--rpjsjEtR5Ir0xTVof9wzLG0txi5MQ
+- Sesi: 41
+
+### The Journey of Test-Driven Development
+
+- Waktu: Selasa, 14 Juli 2020
+- Pukul: 19:00
+- Pemateri: Freddy Munandar - Sarccom
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZIocuuqrTouHND88cSvYqfUrMCskK5WVQCZ
 - Sesi: 40
 
 ### Mendeploy Situs Wordpress yang Scalable di AWS
