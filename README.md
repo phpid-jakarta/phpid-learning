@@ -81,8 +81,8 @@
 - Pukul: 19:00
 - Pemateri: Freddy Munandar - Sarccom
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZIocuuqrTouHND88cSvYqfUrMCskK5WVQCZ
+- Video: https://www.facebook.com/groups/phpid/permalink/10158398833371101/
+- Registrasi: empty
 - Sesi: 40
 
 ### Mendeploy Situs Wordpress yang Scalable di AWS
