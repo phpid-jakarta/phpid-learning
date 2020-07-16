@@ -80,7 +80,7 @@
 - Waktu: Selasa, 14 Juli 2020
 - Pukul: 19:00
 - Pemateri: Freddy Munandar - Sarccom
-- Slide: empty
+- Slide: https://www.linkedin.com/posts/activity-6688998406926536704-KmYM
 - Video: https://www.facebook.com/groups/phpid/permalink/10158398833371101/
 - Registrasi: empty
 - Sesi: 40
