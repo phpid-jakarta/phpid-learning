@@ -70,8 +70,8 @@
 - Waktu: Kamis, 16 Juli 2020
 - Pukul: 19:00
 - Pemateri: Arga Dinata
-- Slide: empty
-- Video: empty
+- Slide: https://www.facebook.com/groups/phpid/permalink/10158405253286101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158405066486101/
 - Registrasi: https://us02web.zoom.us/meeting/register/tZYpc--rpjsjEtR5Ir0xTVof9wzLG0txi5MQ
 - Sesi: 41
 
