@@ -12,6 +12,8 @@
 
 ## Daftar online learning
 
+- [#41 Belajar Konsep CRM & Menggunakan Software CRM Gratis](#belajar-konsep-crm--menggunakan-software-crm-gratis)
+- [#40 The Journey of Test-Driven Development](#the-journey-of-test-driven-development)
 - [#39 Mendeploy Situs Wordpress yang Scalable di AWS](#mendeploy-situs-wordpress-yang-scalable-di-aws)
 - [#38 Developer Jadi Pengajar, why not?](#developer-jadi-pengajar-why-not)
 - [#37 2021, PHP masih cocok untuk dipelajari?](#2021-php-masih-cocok-untuk-dipelajari)
@@ -54,12 +56,32 @@
 
 ### Template sesi selanjutnya
 
-- Waktu: Hari, XX Juni 2020
+- Waktu: Hari, XX Juli 2020
 - Pukul: 19:00
 - Pemateri: empty
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
+- Sesi: 42
+
+### Belajar Konsep CRM & Menggunakan Software CRM Gratis
+
+- Waktu: Kamis, 16 Juli 2020
+- Pukul: 19:00
+- Pemateri: Arga Dinata
+- Slide: https://www.facebook.com/groups/phpid/permalink/10158405253286101/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158405066486101/
+- Registrasi: https://us02web.zoom.us/meeting/register/tZYpc--rpjsjEtR5Ir0xTVof9wzLG0txi5MQ
+- Sesi: 41
+
+### The Journey of Test-Driven Development
+
+- Waktu: Selasa, 14 Juli 2020
+- Pukul: 19:00
+- Pemateri: Freddy Munandar - Sarccom
+- Slide: https://www.linkedin.com/posts/activity-6688998406926536704-KmYM
+- Video: https://www.facebook.com/groups/phpid/permalink/10158398833371101/
+- Registrasi: empty
 - Sesi: 40
 
 ### Mendeploy Situs Wordpress yang Scalable di AWS
@@ -68,8 +90,8 @@
 - Pukul: 19:00
 - Pemateri: Petra Novandi Barus
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZMkc-6przwuE9Za8pJ8GLB84WyrBxX5YYUf
+- Video: https://www.facebook.com/groups/phpid/permalink/10158384081171101/
+- Registrasi: empty
 - Sesi: 39
 
 ### Developer Jadi Pengajar, Why Not?
