@@ -44,10 +44,6 @@ html(lang="id")
 		meta(name='msapplication-TileImage', content='./favicon/ms-icon-144x144.png')
 		meta(name='theme-color', content='#212121')
 
-<<<<<<< HEAD
-=======
-		link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css")
->>>>>>> munir
 
 		script#ld-website(type='application/ld+json').
 			{"@context":"http://schema.org","@type":"WebSite","url":"https://phpid-jakarta.github.io/phpid-online-learning-2020/","description":"Daftar online learning yang diadakan oleh PHPID community","image":"../meta-image.png","thumbnailUrl":"../meta-image.png","name":"PHPID","sameAs":["https://www.facebook.com/groups/phpid"]}
@@ -73,11 +69,7 @@ html(lang="id")
 			}
 			.hero-image {
 				min-height: 100vh;
-<<<<<<< HEAD
 				background: url('./bg-hero.png');
-=======
-				background: url('https://i.imgur.com/i7O8Une.png');
->>>>>>> munir
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: 500px;
@@ -91,11 +83,6 @@ html(lang="id")
 				left: 50%;
 				transform: translate(-50%, -50%);
 				color: white;
-<<<<<<< HEAD
-
-=======
-				
->>>>>>> munir
 			}
 			.hero-text h1 {
 				font-size: 2.5rem;
@@ -132,12 +119,9 @@ html(lang="id")
 				flex-direction: column;
 				color:white;
 			}
-<<<<<<< HEAD
 			.hero-arrow a {
 				text-decoration: none;
 			}
-=======
->>>>>>> munir
 			.hero-arrow button {
 				border-color:white;
 				color:white;
@@ -149,11 +133,7 @@ html(lang="id")
 	body
 		.hero-image
 			.hero-text
-<<<<<<< HEAD
 				h1.animate__animated.animate__bounce PHPID Online Learning
-=======
-				h1.animate__animated.animate__bounce PHPID Online Learning 
->>>>>>> munir
 				h2.animate__animated.animate__bounce 2020
 				a(href="https://github.com/phpid-jakarta/phpid-online-learning-2020/", target="_blank", rel="noopener", title="Github")
 					button.animate__animated.animate__bounceIn Github Repository
@@ -192,15 +172,9 @@ html(lang="id")
 				span Crafted with ❤️ by PHPID Dev Teams, © 2020
 
 		script.
-<<<<<<< HEAD
 			if ('loading' in HTMLImageElement.prototype) {
 				if ('IntersectionObserver' in window){
 					const heroImage = document.querySelector('.hero-image')
-=======
-			if ('loading' in HTMLImageElement.prototype) {		
-				if ('IntersectionObserver' in window){
-					const heroImage = document.querySelector('.hero-image')		
->>>>>>> munir
 					const cards = document.querySelectorAll('.card')
 					const iobs = new IntersectionObserver((entries, observe)=>{
 						entries.forEach(entry => {
@@ -216,11 +190,7 @@ html(lang="id")
 									img.classList.remove('lazyload')
 									iobs.unobserve(card)
 								}
-<<<<<<< HEAD
 							}
-=======
-							} 
->>>>>>> munir
 						})
 					})
 					iobs.observe(heroImage)
