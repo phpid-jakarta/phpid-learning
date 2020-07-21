@@ -48,8 +48,9 @@ html(lang="id")
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
-			gtag('config', 'UA-97096911-1');
+			gtag('config', 'UA-97096911-1');			
 
+		// Internal Style CSS
 		style.
 			body, html {
 				height: 100%;
@@ -57,11 +58,12 @@ html(lang="id")
 				scroll-behavior:smooth;
 			}
 			a {
-				background-image:none;
+				background-image:none !important;
+				text-decoration:none;
 			}
 			.hero-image {
 				min-height: 100vh;
-				background: url('./bg-hero.png');
+				background: url('./new_bg_hero.webp');
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: 500px;
@@ -76,16 +78,17 @@ html(lang="id")
 				transform: translate(-50%, -50%);
 				color: white;
 			}
-			.hero-text h1 {
-				font-size: 2.5rem;
-				margin: 0 0 0 0;
+			.hero-text h1{
+				margin: 20px 0 0 0;
+				font-size:2.5rem;
 			}
-			.hero-text h1 span{
-				font-weight: normal;
+			.hero-text h3 {
+				margin: 0;
+				font-size:1.8rem;
 			}
-			.hero-text h2{
-				font-size: 2rem;
-				margin: 0 0 2rem 0;
+			.hero-text span{
+				display:block;
+				margin-bottom:20px;
 			}
 			.hero-text button {
 				border: none;
@@ -96,6 +99,7 @@ html(lang="id")
 				background-color: #ddd;
 				text-align: center;
 				cursor: pointer;
+				margin: 5px;
 			}
 			.hero-text button:hover {
 				background-color: #555;
@@ -120,20 +124,51 @@ html(lang="id")
 				color:white;
 				margin-top:20px;
 			}
+			#content-speaker{
+				max-width:90%;
+				margin:0 auto;
+				padding: 50px 0px;
+			}
+			#content-speaker .card{
+				height:100%;
+				margin-bottom:20px;
+			}
 
+			@media only screen and (min-width:700px){
+				#content-speaker .card{
+					width:400px;
+				}
+			}
+
+		// Check Enviroment Mode
 		if env !== 'development'
+			// Paper CSS
 			link(rel="stylesheet", href="paper.css")
+
+			// Animate CSS
 			link(rel="stylesheet", href="animate.css")
+
+			// Masonry Library
+			script(src="masonry.min.js")
 		else
+			// CDN Paper CSS
 			link(rel="stylesheet", href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css")
+
+			// CDN Animate CSS
 			link(rel="stylesheet", href="https://unpkg.com/animate.css@4.1.0/animate.css")
+
+			// CDN Masonry CSS
+			script(src="https://unpkg.com/masonry-layout@4.2.2/dist/masonry.pkgd.min.js")
 	body
 		.hero-image
 			.hero-text
-				h1.animate__animated.animate__bounce PHPID Online Learning
-				h2.animate__animated.animate__bounce 2020
+				h3.animate__animated.animate__bounce PHPID Online Learning 2020
+				h1.animate__animated.animate__bounce=d.data.length + ' Materi'
+				span.animate__animated.animate__bounce=d.data[0].date.split(",")[1] + " - " +d.data[d.data.length-1].date.split(",")[1]
 				a(href="https://github.com/phpid-jakarta/phpid-online-learning-2020/", target="_blank", rel="noopener", title="Github")
-					button.animate__animated.animate__bounceIn Github Repository
+					button.animate__animated.animate__bounceIn Github
+				a(href="https://www.facebook.com/groups/phpid/", target="_blank", rel="noopener", title="Facebook Group PHPID")
+					button.btn-secondary.animate__animated.animate__bounceIn FB Group
 			.hero-arrow
 				span.animate__animated.animate__bounceIn.animate__delay-1s Lihat Semua Pemateri
 				a(href="#content-speaker")
@@ -141,7 +176,7 @@ html(lang="id")
 
 		div.row.flex-center#content-speaker
 			each val, index in d.data
-				.margin.card(style='width: 20rem;')
+				.card
 					img.lazyload(data-src=val.cover, src="https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg", loading="lazy" alt=val.topic)
 					.card-body
 						span.badge.secondary(style="margin-right: .5em;")=val.date
@@ -171,6 +206,13 @@ html(lang="id")
 		script.
 			if ('loading' in HTMLImageElement.prototype) {
 				if ('IntersectionObserver' in window){
+					const contentSpeaker = document.querySelector('#content-speaker')
+					let masonry = new Masonry(contentSpeaker, {
+						itemSelector: '.card',
+						columnWidth: 400,
+						gutter:20
+					})
+
 					const heroImage = document.querySelector('.hero-image')
 					const cards = document.querySelectorAll('.card')
 					const iobs = new IntersectionObserver((entries, observe)=>{
@@ -184,7 +226,14 @@ html(lang="id")
 									img.src = img.dataset.src
 									card.classList.add("animate__animated")
 									card.classList.add("animate__zoomIn")
+									card.style.height = "auto"
 									img.classList.remove('lazyload')
+									masonry.layout()
+									var el = document 
+									var event = document.createEvent('HTMLEvents')
+									event.initEvent('resize', true, false)
+									el.dispatchEvent(event)
+
 									iobs.unobserve(card)
 								}
 							}
