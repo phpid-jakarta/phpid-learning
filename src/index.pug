@@ -80,11 +80,11 @@ html(lang="id")
 			}
 			.hero-text h1{
 				margin: 20px 0 0 0;
-				font-size:2.5rem;
+				font-size:2rem;
 			}
 			.hero-text h3 {
 				margin: 0;
-				font-size:1.8rem;
+				font-size:1.25rem;
 			}
 			.hero-text span{
 				display:block;
@@ -126,17 +126,27 @@ html(lang="id")
 			}
 			#content-speaker{
 				max-width:90%;
-				margin:0 auto;
-				padding: 50px 0px;
+				margin:50px auto;
 			}
 			#content-speaker .card{
-				height:100%;
 				margin-bottom:20px;
 			}
-
+			#content-speaker .card .card-body{
+				min-height:200px;
+				background:white;
+			}
+			#content-speaker .card .card-body button{
+				margin:5px;
+			}
+			#content-speaker .card .card-body a+a{
+				margin:0;
+			}
 			@media only screen and (min-width:700px){
-				#content-speaker .card{
-					width:400px;
+				.hero-text h3 {
+					font-size:1.8rem;
+				}
+				.hero-text h1{
+					font-size:2.5rem;
 				}
 			}
 
@@ -149,7 +159,7 @@ html(lang="id")
 			link(rel="stylesheet", href="animate.css")
 
 			// Masonry Library
-			script(src="masonry.min.js")
+			script(src="macy.min.js")
 		else
 			// CDN Paper CSS
 			link(rel="stylesheet", href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css")
@@ -158,7 +168,7 @@ html(lang="id")
 			link(rel="stylesheet", href="https://unpkg.com/animate.css@4.1.0/animate.css")
 
 			// CDN Masonry CSS
-			script(src="https://unpkg.com/masonry-layout@4.2.2/dist/masonry.pkgd.min.js")
+			script(src="https://cdn.jsdelivr.net/npm/macy@2")
 	body
 		.hero-image
 			.hero-text
@@ -174,7 +184,7 @@ html(lang="id")
 				a(href="#content-speaker")
 					button.animate__animated.animate__bounceIn.animate__delay-1s &darr;
 
-		div.row.flex-center#content-speaker
+		div#content-speaker
 			each val, index in d.data
 				.card
 					img.lazyload(data-src=val.cover, src="https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg", loading="lazy" alt=val.topic)
@@ -205,14 +215,20 @@ html(lang="id")
 
 		script.
 			if ('loading' in HTMLImageElement.prototype) {
+				// Intersection Observer Validation
 				if ('IntersectionObserver' in window){
-					const contentSpeaker = document.querySelector('#content-speaker')
-					let masonry = new Masonry(contentSpeaker, {
-						itemSelector: '.card',
-						columnWidth: 400,
-						gutter:20
-					})
-
+					// Initiate Masonry Library
+					const macy = Macy({
+						container: '#content-speaker',
+						trueOrder: false,
+						waitForImages: true,
+						margin: 20,
+						columns: 3,
+						breakAt: {
+							520: 1,
+							400: 1
+						}
+					});
 					const heroImage = document.querySelector('.hero-image')
 					const cards = document.querySelectorAll('.card')
 					const iobs = new IntersectionObserver((entries, observe)=>{
@@ -226,15 +242,9 @@ html(lang="id")
 									img.src = img.dataset.src
 									card.classList.add("animate__animated")
 									card.classList.add("animate__zoomIn")
-									card.style.height = "auto"
 									img.classList.remove('lazyload')
-									masonry.layout()
-									var el = document 
-									var event = document.createEvent('HTMLEvents')
-									event.initEvent('resize', true, false)
-									el.dispatchEvent(event)
-
 									iobs.unobserve(card)
+									macy.recalculate(true)	// Recalculate Masonry when element is intersecting
 								}
 							}
 						})
