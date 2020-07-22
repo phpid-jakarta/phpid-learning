@@ -70,7 +70,7 @@
 - Pukul: 19:00
 - Pemateri: Arga Dinata
 - Slide: https://www.facebook.com/groups/phpid/permalink/10158405253286101/
-- Video: https://www.facebook.com/groups/phpid/permalink/10158405066486101/
+- Video: https://www.facebook.com/peterjkambey/videos/10220185761212020
 - Registrasi: https://us02web.zoom.us/meeting/register/tZYpc--rpjsjEtR5Ir0xTVof9wzLG0txi5MQ
 - Sesi: 41
 
@@ -80,7 +80,7 @@
 - Pukul: 19:00
 - Pemateri: Freddy Munandar - Sarccom
 - Slide: https://www.linkedin.com/posts/activity-6688998406926536704-KmYM
-- Video: https://www.facebook.com/groups/phpid/permalink/10158398833371101/
+- Video: https://www.facebook.com/peterjkambey/videos/10220170296345408
 - Registrasi: empty
 - Sesi: 40
 
@@ -90,7 +90,7 @@
 - Pukul: 19:00
 - Pemateri: Petra Novandi Barus
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158384081171101/
+- Video: https://www.facebook.com/peterjkambey/videos/10220133445224153
 - Registrasi: empty
 - Sesi: 39
 
