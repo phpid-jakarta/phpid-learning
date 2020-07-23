@@ -91,7 +91,7 @@
 - Pukul: 19:00
 - Pemateri: Freddy Munandar - Sarccom
 - Slide: https://www.linkedin.com/posts/activity-6688998406926536704-KmYM
-- Video: https://www.facebook.com/groups/phpid/permalink/10158398833371101/
+- Video: https://www.facebook.com/peterjkambey/videos/10220170296345408
 - Registrasi: empty
 - Sesi: 40
 
@@ -101,7 +101,7 @@
 - Pukul: 19:00
 - Pemateri: Petra Novandi Barus
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158384081171101/
+- Video: https://www.facebook.com/peterjkambey/videos/10220133445224153
 - Registrasi: empty
 - Sesi: 39
 
@@ -129,7 +129,7 @@
 
 - Waktu: Senin, 29 Juni 2020
 - Pukul: 19:00
-- Pemateri: Om Petra Novandi Barus - AWS 
+- Pemateri: Om Petra Novandi Barus - AWS
 - Slide: empty
 - Video: empty
 - Registrasi: empty
@@ -162,14 +162,14 @@
 - Pemateri: Om Prayudi Utomo
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158298024301101/
-- Registrasi:  empty
+- Registrasi: empty
 - Sesi: 33
 
 ### Python For Data Science
 
 - Waktu: Kamis, 11 Juni 2020
 - Pukul: 19:00
-- Pemateri: Om Firman Brillian  
+- Pemateri: Om Firman Brillian
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158291607461101/
 - Registrasi: empty
@@ -179,7 +179,7 @@
 
 - Waktu: Selasa, 9 Juni 2020
 - Pukul: 19:00
-- Pemateri: Om Buyung Bahari 
+- Pemateri: Om Buyung Bahari
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158285183441101/
 - Registrasi: empty
@@ -189,7 +189,7 @@
 
 - Waktu: Senin, 8 Juni 2020
 - Pukul: 19:00
-- Pemateri: Om Petra Novandi Barus - AWS 
+- Pemateri: Om Petra Novandi Barus - AWS
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158282004611101/
 - Registrasi: empty
@@ -212,7 +212,7 @@
 - Pemateri: om Peter Kambey - Om Nur Hidayat
 - Slide: empty
 - Video: https://web.facebook.com/groups/phpid/permalink/10158258757901101/
-- Registrasi: empty 
+- Registrasi: empty
 - Sesi: 28
 
 ### Ngobrol Santai Bareng om Sony Kurniawan

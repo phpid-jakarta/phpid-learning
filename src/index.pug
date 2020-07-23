@@ -48,8 +48,9 @@ html(lang="id")
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
-			gtag('config', 'UA-97096911-1');
+			gtag('config', 'UA-97096911-1');			
 
+		// Internal Style CSS
 		style.
 			body, html {
 				height: 100%;
@@ -57,11 +58,12 @@ html(lang="id")
 				scroll-behavior:smooth;
 			}
 			a {
-				background-image:none;
+				background-image:none !important;
+				text-decoration:none;
 			}
 			.hero-image {
 				min-height: 100vh;
-				background: url('./bg-hero.png');
+				background: url('./new_bg_hero.webp');
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: 500px;
@@ -75,18 +77,18 @@ html(lang="id")
 				left: 50%;
 				transform: translate(-50%, -50%);
 				color: white;
-
 			}
-			.hero-text h1 {
-				font-size: 2.5rem;
-				margin: 0 0 0 0;
+			.hero-text h1{
+				margin: 20px 0 0 0;
+				font-size:2rem;
 			}
-			.hero-text h1 span{
-				font-weight: normal;
+			.hero-text h3 {
+				margin: 0;
+				font-size:1.25rem;
 			}
-			.hero-text h2{
-				font-size: 2rem;
-				margin: 0 0 2rem 0;
+			.hero-text span{
+				display:block;
+				margin-bottom:20px;
 			}
 			.hero-text button {
 				border: none;
@@ -97,6 +99,7 @@ html(lang="id")
 				background-color: #ddd;
 				text-align: center;
 				cursor: pointer;
+				margin: 5px;
 			}
 			.hero-text button:hover {
 				background-color: #555;
@@ -121,28 +124,123 @@ html(lang="id")
 				color:white;
 				margin-top:20px;
 			}
+			#content-speaker{
+				max-width:90%;
+				margin:50px auto;
+			}
+			#content-speaker .card{
+				margin-bottom:20px;
+			}
+			#content-speaker .card .card-body{
+				min-height:200px;
+				background:white;
+			}
+			#content-speaker .card .card-body button{
+				margin:5px;
+			}
+			#content-speaker .card .card-body a+a{
+				margin:0;
+			}
+			#modal-video{
+				position:fixed;
+				width:100%;
+				top:0;
+				display:none;
+			}
+			#modal-video .wrapper{
+				height:100vh;
+				background: black;
+				opacity:0.88;
+			}
+			#modal-video .card{
+				position:absolute;
+				width:100%;
+				height:100vh;
+				background:white;
+				top:0;
+				border: none;
+			}
+			#modal-video .card .card-body{
+				position: relative;
+			}
+			#modal-video .card .card-body .card-actions{
+				position: absolute;
+				width:100%;
+				bottom:0;
+				text-align:center;
+			}
+			#modal-video .card .card-body .card-actions button{
+				display:block;
+				margin: 10px 0px;
+			}
+			#modal-video .card iframe{
+				width:100%;
+			}
+			@media only screen and (min-width:700px){
+				.hero-text h3 {
+					font-size:1.8rem;
+				}
+				.hero-text h1{
+					font-size:2.5rem;
+				}
+				#modal-video .card{
+					width:800px;
+					height: 700px;
+					top: 50%;
+					left: 50%;
+					transform: translate(-50%, -50%);
+				}
+				#modal-video .card .card-body .card-actions{
+					text-align:left;
+				}
+				#modal-video .card .card-body .card-actions button{
+					display:inline;
+					margin: 10px 10px;
+				}
+				#modal-video .card iframe{
+					height: 450px;
+				}
+			}
 
+		// Check Enviroment Mode
 		if env !== 'development'
+			// Paper CSS
 			link(rel="stylesheet", href="paper.css")
+
+			// Animate CSS
 			link(rel="stylesheet", href="animate.css")
+
+			// Masonry Library
+			script(src="macy.min.js")
 		else
+			// CDN Paper CSS
 			link(rel="stylesheet", href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css")
+
+			// CDN Animate CSS
 			link(rel="stylesheet", href="https://unpkg.com/animate.css@4.1.0/animate.css")
+
+			// CDN Masonry CSS
+			script(src="https://cdn.jsdelivr.net/npm/macy@2")
 	body
+		// Hero Section
 		.hero-image
 			.hero-text
-				h1.animate__animated.animate__bounce PHPID Online Learning
-				h2.animate__animated.animate__bounce 2020
+				h3.animate__animated.animate__bounce PHPID Online Learning 2020
+				h1.animate__animated.animate__bounce=d.data.length + ' Materi'
+				span.animate__animated.animate__bounce=d.data[0].date.split(",")[1] + " - " +d.data[d.data.length-1].date.split(",")[1]
 				a(href="https://github.com/phpid-jakarta/phpid-online-learning-2020/", target="_blank", rel="noopener", title="Github")
-					button.animate__animated.animate__bounceIn Github Repository
+					button.animate__animated.animate__bounceIn Github
+				a(href="https://www.facebook.com/groups/phpid/", target="_blank", rel="noopener", title="Facebook Group PHPID")
+					button.btn-secondary.animate__animated.animate__bounceIn FB Group
 			.hero-arrow
 				span.animate__animated.animate__bounceIn.animate__delay-1s Lihat Semua Pemateri
 				a(href="#content-speaker")
 					button.animate__animated.animate__bounceIn.animate__delay-1s &darr;
 
-		div.row.flex-center#content-speaker
+		// Content Speaker Section
+		#content-speaker
 			each val, index in d.data
-				.margin.card(style='width: 20rem;')
+				.card
 					img.lazyload(data-src=val.cover, src="https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg", loading="lazy" alt=val.topic)
 					.card-body
 						span.badge.secondary(style="margin-right: .5em;")=val.date
@@ -151,14 +249,33 @@ html(lang="id")
 						h5.card-subtitle=val.speaker
 						p.card-text
 						if val.videos[0] && val.videos[0] !== 'empty'
-							a(href=val.videos[0], target="_blank", rel="noopener", style="background-image: none", title="Video")
-								button.btn-secondary Tonton Video
+							button(onclick="showModal(this)", data-video=val.videos[0]).btn-secondary Tonton Video
 						else if val.registrasi && val.registrasi !== 'empty'
 							a(href=val.registrasi, target="_blank", rel="noopener", style="background-image: none", title="Registrasi")
 								button.btn-warning Registrasi
 						if val.slide && val.slide !== 'empty'
 							a(href=val.slide, target="_blank", rel="noopener", style="background-image: none", title="Slide")
 								button.btn-success Lihat Slide
+
+		// Modal Section
+		#modal-video
+			.wrapper
+			.card
+				iframe(
+					src="", 
+					style="border:none;overflow:hidden", 
+					scrolling="no", 
+					frameBorder="0", 
+					allowTransparency="true", 
+					allow="encrypted-media", 
+					allowFullScreen="true")
+				.card-body
+					p Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil laboriosam vel incidunt error dolorem dolores qui eius accusamus, ab, aspernatur molestias minima commodi molestiae. Ullam sint nemo deserunt minima eum!
+					.card-actions
+						a(href="https://www.facebook.com/groups/phpid/", target="_blank", rel="noopener", title="Facebook Group PHPID")
+							button.btn-secondary Lihat di Facebook
+						button(onclick="closeModal()").btn-danger Tutup Pemutar
+		// Footer Section
 		footer.row.flex-center.margin
 			.text-center
 				span
@@ -169,11 +286,51 @@ html(lang="id")
 			.text-center
 				span Crafted with ❤️ by PHPID Dev Teams, © 2020
 
+		// Javascript Code
 		script.
+			function iframeURL(link){
+				const linkSplit = link.split("/")
+				if(linkSplit[2].includes("youtu")){
+					return `https://youtube.com/embed/${linkSplit[3]}`
+				}
+				if(linkSplit[2].includes('facebook')){
+					return `https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(link)}&show_text=false&width=734&height=400`
+				}
+			}
+
+			function showModal(element){
+				const modal = document.querySelector('#modal-video')
+				const iframe = document.querySelector('#modal-video .card iframe')
+				const linkDirect = document.querySelector('#modal-video .card .card-body .card-actions a')
+				iframe.setAttribute('src', iframeURL(element.dataset.video))
+				modal.style.display = "block"
+				linkDirect.setAttribute('href', element.dataset.video)
+			}
+
+			function closeModal(){
+				const modal = document.querySelector('#modal-video')
+				const iframe = document.querySelector('#modal-video .card iframe')
+				modal.style = "display:none;"
+				iframe.setAttribute('src', '')
+			}
+
 			if ('loading' in HTMLImageElement.prototype) {
+				// Intersection Observer Validation
 				if ('IntersectionObserver' in window){
+					// Initiate Masonry Library
+					const macy = Macy({
+						container: '#content-speaker',
+						trueOrder: false,
+						waitForImages: true,
+						margin: 20,
+						columns: 3,
+						breakAt: {
+							520: 1,
+							400: 1
+						}
+					});
 					const heroImage = document.querySelector('.hero-image')
-					const cards = document.querySelectorAll('.card')
+					const cards = document.querySelectorAll('#content-speaker .card') // Select All Card Element on Content Speaker Section
 					const iobs = new IntersectionObserver((entries, observe)=>{
 						entries.forEach(entry => {
 							if(entry.isIntersecting){
@@ -187,6 +344,7 @@ html(lang="id")
 									card.classList.add("animate__zoomIn")
 									img.classList.remove('lazyload')
 									iobs.unobserve(card)
+									macy.recalculate(true)	// Recalculate Masonry when element is intersecting
 								}
 							}
 						})
