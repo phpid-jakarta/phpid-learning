@@ -12,6 +12,7 @@
 
 ## Daftar online learning
 
+- [#42 Ask Me Anything with Om Luri Darmawan](#Ask-me-anything-with-om-luri-darmawan)
 - [#41 Belajar Konsep CRM & Menggunakan Software CRM Gratis](#belajar-konsep-crm--menggunakan-software-crm-gratis)
 - [#40 The Journey of Test-Driven Development](#the-journey-of-test-driven-development)
 - [#39 Mendeploy Situs Wordpress yang Scalable di AWS](#mendeploy-situs-wordpress-yang-scalable-di-aws)
@@ -64,6 +65,16 @@
 - Registrasi: coming soon
 - Sesi: 42
 
+### Ask Me Anything with Om Luri Darmawan
+
+- Waktu: Sabtu, 25 Juli 2020
+- Pukul: 19:00
+- Pemateri: Luri Darmawan
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZcvc-mhqD8iGNyQDFjsnd0tkqnbjidD1eOu
+- Sesi: 42
+
 ### Belajar Konsep CRM & Menggunakan Software CRM Gratis
 
 - Waktu: Kamis, 16 Juli 2020
@@ -71,7 +82,7 @@
 - Pemateri: Arga Dinata
 - Slide: https://www.facebook.com/groups/phpid/permalink/10158405253286101/
 - Video: https://www.facebook.com/groups/phpid/permalink/10158405066486101/
-- Registrasi: https://us02web.zoom.us/meeting/register/tZYpc--rpjsjEtR5Ir0xTVof9wzLG0txi5MQ
+- Registrasi: empty
 - Sesi: 41
 
 ### The Journey of Test-Driven Development
