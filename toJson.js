@@ -62,11 +62,7 @@ const main = async () => {
           slide: slide,
           topic: topic,
           videos: videos,
-
-          // field URL is deprecated, use registrasi field
-          url: register,
           registrasi: register,
-
           cover: cover,
         };
 
@@ -88,7 +84,6 @@ const main = async () => {
       meta: {
         last_updated: new Date(),
         total: allData.length,
-        message: 'field url is deprecated, use registrasi',
         credits: 'PHPID Community',
       },
       data: allData,
