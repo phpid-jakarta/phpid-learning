@@ -289,7 +289,13 @@ html(lang="id")
 		// Javascript Code
 		script.
 			function iframeURL(link){
-				return `https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(link)}&show_text=false&width=734&height=400`
+				const linkSplit = link.split("/")
+				if(linkSplit[2].includes("youtu")){
+					return `https://youtube.com/embed/${linkSplit[3]}`
+				}
+				if(linkSplit[2].includes('facebook')){
+					return `https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(link)}&show_text=false&width=734&height=400`
+				}
 			}
 
 			function showModal(element){
@@ -308,7 +314,6 @@ html(lang="id")
 				iframe.setAttribute('src', '')
 			}
 
-			console.log(document.querySelector('#modal-video .card iframe'))
 			if ('loading' in HTMLImageElement.prototype) {
 				// Intersection Observer Validation
 				if ('IntersectionObserver' in window){
