@@ -318,18 +318,23 @@ html(lang="id")
 				// Intersection Observer Validation
 				if ('IntersectionObserver' in window){
 					// Initiate Masonry Library
-					const macy = Macy({
+                                        let macy = null;
+
+					try{
+                                                macy = Macy({
 						container: '#content-speaker',
 						trueOrder: false,
 						waitForImages: true,
 						margin: 20,
 						columns: 3,
 						breakAt: {
-							520: 1,
-							400: 1
+					          520: 1,
+						  400: 1
 						}
-					});
-					const heroImage = document.querySelector('.hero-image')
+					        });
+					} catch(){}
+
+                                        const heroImage = document.querySelector('.hero-image')
 					const cards = document.querySelectorAll('#content-speaker .card') // Select All Card Element on Content Speaker Section
 					const iobs = new IntersectionObserver((entries, observe)=>{
 						entries.forEach(entry => {
@@ -344,7 +349,7 @@ html(lang="id")
 									card.classList.add("animate__zoomIn")
 									img.classList.remove('lazyload')
 									iobs.unobserve(card)
-									macy.recalculate(true)	// Recalculate Masonry when element is intersecting
+									macy && macy.recalculate && macy.recalculate(true)	// Recalculate Masonry when element is intersecting
 								}
 							}
 						})
