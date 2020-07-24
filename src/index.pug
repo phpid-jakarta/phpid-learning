@@ -54,28 +54,22 @@ html(lang="id")
 			gtag('config', 'UA-97096911-1');
 
 		// Internal Style CSS
-		script(async="" src="main.css")
-
+		link(rel="stylesheet", href="main.less")
 
 		// Check Enviroment Mode
 		if env !== 'development'
 			// Paper CSS
-			link(rel="stylesheet", href="vendors/paper.css")
-
+			link(rel="stylesheet", href="vendors/less/paper.css")
 			// Animate CSS
-			link(rel="stylesheet", href="vendors/animate.css")
-
-			// Masonry Library
-			script(src="https://cdn.jsdelivr.net/npm/macy@2")
+			link(rel="stylesheet", href="vendors/less/animate.css")
 		else
 			// CDN Paper CSS
 			link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/papercss@1.6.1/dist/paper.min.css")
-
 			// CDN Animate CSS
 			link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css")
 
-			// CDN Masonry CSS
-			script(src="https://cdn.jsdelivr.net/npm/macy@2")
+		// CDN Masonry CSS
+		script(src="https://cdn.jsdelivr.net/npm/macy@2")
 	body
 		// Hero Section
 		.hero-image
