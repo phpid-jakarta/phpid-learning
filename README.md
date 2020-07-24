@@ -64,6 +64,7 @@
 - Video: empty
 - Registrasi: coming soon
 - Sesi: 42
+- Deskripsi: -
 
 ### Ask Me Anything with Om Luri Darmawan
 
@@ -74,6 +75,7 @@
 - Video: empty
 - Registrasi: https://us02web.zoom.us/meeting/register/tZcvc-mhqD8iGNyQDFjsnd0tkqnbjidD1eOu
 - Sesi: 42
+- Deskripsi: -
 
 ### Belajar Konsep CRM & Menggunakan Software CRM Gratis
 
@@ -81,9 +83,10 @@
 - Pukul: 19:00
 - Pemateri: Arga Dinata
 - Slide: https://www.facebook.com/groups/phpid/permalink/10158405253286101/
-- Video: https://www.facebook.com/groups/phpid/permalink/10158405066486101/
+- Video: https://www.facebook.com/peterjkambey/videos/10220185761212020
 - Registrasi: empty
 - Sesi: 41
+- Deskripsi: Om Arga Dinata, Konsultan Senior yang banyak menggarap proyek2 CRM di perusahaan-perusahaan terkenal
 
 ### The Journey of Test-Driven Development
 
@@ -94,6 +97,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10220170296345408
 - Registrasi: empty
 - Sesi: 40
+- Deskripsi: Om Freddy Founder Senior Developer, Founder/Pengurus SARCCOM - Software Architect Indonesia Community
 
 ### Mendeploy Situs Wordpress yang Scalable di AWS
 
@@ -104,6 +108,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10220133445224153
 - Registrasi: empty
 - Sesi: 39
+- Deskripsi: -
 
 ### Developer Jadi Pengajar, Why Not?
 
@@ -111,9 +116,10 @@
 - Pukul: 19:00
 - Pemateri: Galih Pratama
 - Slide: empty
-- Video: https://web.facebook.com/groups/phpid/permalink/10158368473496101/
+- Video: https://www.facebook.com/peterjkambey/videos/10220092304035649
 - Registrasi: empty
 - Sesi: 38
+- Deskripsi: -
 
 ### 2021, PHP masih cocok untuk dipelajari?
 
@@ -121,9 +127,10 @@
 - Pukul: 19:00
 - Pemateri: Muhamad Surya Iksanudin
 - Slide: empty
-- Video: https://web.facebook.com/groups/phpid/permalink/10158342490356101/
+- Video: https://www.facebook.com/peterjkambey/videos/10220026566992264
 - Registrasi: empty
 - Sesi: 37
+- Deskripsi: -
 
 ### Membuat Aplikasi PHP Microservices dengan AWS (cancelled)
 
@@ -134,6 +141,7 @@
 - Video: empty
 - Registrasi: empty
 - Sesi: 36
+- Deskripsi: -
 
 ### Enabling Data Governance
 
@@ -141,9 +149,10 @@
 - Pukul: 19:00
 - Pemateri: Om Eryk Pratama
 - Slide: empty
-- Video: https://web.facebook.com/groups/phpid/permalink/10158319487861101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219963481295161
 - Registrasi: empty
 - Sesi: 35
+- Deskripsi: -
 
 ### Why developer must care about Open Source?
 
@@ -151,9 +160,10 @@
 - Pukul: 19:00
 - Pemateri: Om Munir AP
 - Slide: empty
-- Video: https://web.facebook.com/groups/phpid/permalink/10158301109521101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219914973922507
 - Registrasi: empty
 - Sesi: 34
+- Deskripsi: -
 
 ### Web Accessibility
 
@@ -161,9 +171,10 @@
 - Pukul: 19:00
 - Pemateri: Om Prayudi Utomo
 - Slide: empty
-- Video: https://web.facebook.com/groups/phpid/permalink/10158298024301101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219888776907598
 - Registrasi: empty
 - Sesi: 33
+- Deskripsi: -
 
 ### Python For Data Science
 
@@ -171,9 +182,10 @@
 - Pukul: 19:00
 - Pemateri: Om Firman Brillian
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158291607461101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219888776907598
 - Registrasi: empty
 - Sesi: 32
+- Deskripsi: -
 
 ### Software Estimation Jump Start
 
@@ -181,9 +193,10 @@
 - Pukul: 19:00
 - Pemateri: Om Buyung Bahari
 - Slide: empty
-- Video: https://web.facebook.com/groups/phpid/permalink/10158285183441101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219872592703003
 - Registrasi: empty
 - Sesi: 31
+- Deskripsi: -
 
 ### Scaling Application to 1 Millions Users
 
@@ -191,9 +204,10 @@
 - Pukul: 19:00
 - Pemateri: Om Petra Novandi Barus - AWS
 - Slide: empty
-- Video: https://web.facebook.com/groups/phpid/permalink/10158282004611101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219864037649132
 - Registrasi: empty
 - Sesi: 30
+- Deskripsi: -
 
 ### The Change Maker Framework
 
@@ -204,6 +218,7 @@
 - Video: https://web.facebook.com/groups/phpid/permalink/10158275425251101/
 - Registrasi: empty
 - Sesi: 29
+- Deskripsi: -
 
 ### Ngobrol Santai Bareng om Peter - 2 Jam Bikin Aplikasi Absensi Online
 
@@ -214,6 +229,7 @@
 - Video: https://web.facebook.com/groups/phpid/permalink/10158258757901101/
 - Registrasi: empty
 - Sesi: 28
+- Deskripsi: -
 
 ### Ngobrol Santai Bareng om Sony Kurniawan
 
@@ -224,6 +240,7 @@
 - Video: https://web.facebook.com/groups/phpid/permalink/10158213170081101/
 - Registrasi: empty
 - Sesi: 27
+- Deskripsi: -
 
 ### Live Coding Music - Write Music with Code
 
@@ -234,6 +251,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158209696501101/
 - Registrasi: empty
 - Sesi: 23
+- Deskripsi: -
 
 ### Pengembangan Sistem Informasi eGovernment (cancelled)
 
@@ -244,6 +262,7 @@
 - Video: empty
 - Registrasi: empty
 - Sesi: 24
+- Deskripsi: -
 
 ### Codepolitan
 
@@ -254,6 +273,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158203092216101/
 - Registrasi: empty
 - Sesi: 26
+- Deskripsi: -
 
 ### PostgreSQL: DDL dan SQL
 
@@ -264,6 +284,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158199413581101/
 - Registrasi: empty
 - Sesi: 25
+- Deskripsi: -
 
 ### The Practical Guide howto become System Analyst
 
@@ -274,6 +295,7 @@
 - Video: https://web.facebook.com/groups/phpid/permalink/10158189208091101/
 - Registrasi: empty
 - Sesi: 22
+- Deskripsi: -
 
 ### Linux Server for PHP Developer
 
@@ -284,6 +306,7 @@
 - Video: https://web.facebook.com/groups/phpid/permalink/10158181537861101/
 - Registrasi: empty
 - Sesi: 21
+- Deskripsi: -
 
 ### Do it with SQL - Journey to the Center of Database World
 
@@ -294,6 +317,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158177433836101/
 - Registrasi: empty
 - Sesi: 20
+- Deskripsi: -
 
 ### Personal Security Awareness
 
@@ -304,6 +328,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158173579131101/
 - Registrasi: empty
 - Sesi: 19
+- Deskripsi: -
 
 ### Web RTC
 
@@ -314,6 +339,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158169585076101/
 - Registrasi: empty
 - Sesi: 18
+- Deskripsi: -
 
 ### How to Secure your Next Job During Covid-19 Pandemic
 
@@ -324,6 +350,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158165513971101/
 - Registrasi: empty
 - Sesi: 17
+- Deskripsi: -
 
 ### Evolution Of PHP
 
@@ -334,6 +361,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158161447446101/
 - Registrasi: empty
 - Sesi: 16
+- Deskripsi: -
 
 ### Rest API dengan PHP OOP
 
@@ -344,6 +372,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158157539156101/
 - Registrasi: empty
 - Sesi: 15
+- Deskripsi: -
 
 ### Tactics and Strategy to Define Digital Products
 
@@ -354,6 +383,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158153667346101/
 - Registrasi: empty
 - Sesi: 14
+- Deskripsi: -
 
 ### Remote Worker
 
@@ -364,6 +394,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158145835046101/
 - Registrasi: empty
 - Sesi: 13
+- Deskripsi: -
 
 ### Berkarir sebagai Frontend Developer
 
@@ -374,6 +405,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158137997021101/
 - Registrasi: empty
 - Sesi: 12
+- Deskripsi: -
 
 ### Starting Your Career in the Data Science
 
@@ -384,6 +416,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158133248636101/
 - Registrasi: empty
 - Sesi: 11
+- Deskripsi: -
 
 ### Optimize Image on Your Website 101
 
@@ -394,6 +427,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158125506621101/
 - Registrasi: empty
 - Sesi: 10
+- Deskripsi: -
 
 ### Building CI/CD Pipeline
 
@@ -404,6 +438,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158120909651101/
 - Registrasi: empty
 - Sesi: 9
+- Deskripsi: -
 
 ### Social Media Digital Strategy
 
@@ -414,6 +449,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158112589196101/
 - Registrasi: empty
 - Sesi: 8
+- Deskripsi: -
 
 ### Laravel LiveWire 101
 
@@ -424,6 +460,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158099015066101/
 - Registrasi: empty
 - Sesi: 7
+- Deskripsi: -
 
 ### Migration from Procedural to OOP
 
@@ -434,6 +471,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158085993956101/
 - Registrasi: empty
 - Sesi: 6
+- Deskripsi: -
 
 ### Why Documentation Matter
 
@@ -444,6 +482,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158081773851101/
 - Registrasi: empty
 - Sesi: 5
+- Deskripsi: -
 
 ### Kinerja Web 101
 
@@ -454,6 +493,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158077562731101/
 - Registrasi: empty
 - Sesi: 4
+- Deskripsi: -
 
 ### SEO Basic
 
@@ -464,6 +504,7 @@
 - Video: https://youtu.be/emfHRGd5LuE
 - Registrasi: empty
 - Sesi: 3
+- Deskripsi: -
 
 ### Coder Journey to UI/UX Galaxy
 
@@ -474,6 +515,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158062969406101/
 - Registrasi: empty
 - Sesi: 2
+- Deskripsi: -
 
 ### How to design a good database
 
@@ -484,6 +526,7 @@
 - Video: https://youtu.be/fSQ8JamoAfg
 - Registrasi: empty
 - Sesi: 1
+- Deskripsi: -
 
 ## Bantu kami
 

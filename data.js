@@ -1,6 +1,6 @@
 module.exports = {
   meta: {
-    last_updated: "2020-07-24T03:05:19.292Z",
+    last_updated: "2020-07-24T12:16:37.622Z",
     total: 42,
     credits: "PHPID Community",
   },
@@ -16,6 +16,7 @@ module.exports = {
         "https://us02web.zoom.us/meeting/register/tZcvc-mhqD8iGNyQDFjsnd0tkqnbjidD1eOu",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/42.jpg",
+      deskripsi: "",
     },
     {
       date: "Kamis, 16 Juli 2020",
@@ -25,11 +26,12 @@ module.exports = {
         "https://www.facebook.com/groups/phpid/permalink/10158405253286101/",
       topic: "Belajar Konsep CRM & Menggunakan Software CRM Gratis",
       videos: [
-        "https://www.facebook.com/groups/phpid/permalink/10158405066486101/",
+        "https://www.facebook.com/peterjkambey/videos/10220185761212020",
       ],
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/41.jpg",
+      deskripsi: "",
     },
     {
       date: "Selasa, 14 Juli 2020",
@@ -43,6 +45,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/40.jpg",
+      deskripsi: "",
     },
     {
       date: "Kamis, 9 Juli 2020",
@@ -56,6 +59,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/39.jpg",
+      deskripsi: "",
     },
     {
       date: "Sabtu, 4 Juli 2020",
@@ -64,11 +68,12 @@ module.exports = {
       slide: "empty",
       topic: "Developer Jadi Pengajar, Why Not?",
       videos: [
-        "https://web.facebook.com/groups/phpid/permalink/10158368473496101/",
+        "https://www.facebook.com/peterjkambey/videos/10220092304035649",
       ],
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/38.jpg",
+      deskripsi: "",
     },
     {
       date: "Sabtu, 27 Juni 2020",
@@ -77,11 +82,12 @@ module.exports = {
       slide: "empty",
       topic: "2021, PHP masih cocok untuk dipelajari?",
       videos: [
-        "https://web.facebook.com/groups/phpid/permalink/10158342490356101/",
+        "https://www.facebook.com/peterjkambey/videos/10220026566992264",
       ],
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/37.jpg",
+      deskripsi: "",
     },
     {
       date: "Senin, 29 Juni 2020",
@@ -93,6 +99,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/36.jpg",
+      deskripsi: "",
     },
     {
       date: "Sabtu, 20 Juni 2020",
@@ -101,11 +108,12 @@ module.exports = {
       slide: "empty",
       topic: "Enabling Data Governance",
       videos: [
-        "https://web.facebook.com/groups/phpid/permalink/10158319487861101/",
+        "https://www.facebook.com/peterjkambey/videos/10219963481295161",
       ],
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/35.jpg",
+      deskripsi: "",
     },
     {
       date: "Minggu, 14 Juni 2020",
@@ -114,11 +122,12 @@ module.exports = {
       slide: "empty",
       topic: "Why developer must care about Open Source?",
       videos: [
-        "https://web.facebook.com/groups/phpid/permalink/10158301109521101/",
+        "https://www.facebook.com/peterjkambey/videos/10219914973922507",
       ],
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/34.jpg",
+      deskripsi: "",
     },
     {
       date: "Sabtu, 13 Juni 2020",
@@ -127,11 +136,12 @@ module.exports = {
       slide: "empty",
       topic: "Web Accessibility",
       videos: [
-        "https://web.facebook.com/groups/phpid/permalink/10158298024301101/",
+        "https://www.facebook.com/peterjkambey/videos/10219888776907598",
       ],
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/33.jpg",
+      deskripsi: "",
     },
     {
       date: "Kamis, 11 Juni 2020",
@@ -140,11 +150,12 @@ module.exports = {
       slide: "empty",
       topic: "Python For Data Science",
       videos: [
-        "https://www.facebook.com/groups/phpid/permalink/10158291607461101/",
+        "https://www.facebook.com/peterjkambey/videos/10219888776907598",
       ],
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/32.jpg",
+      deskripsi: "",
     },
     {
       date: "Selasa, 9 Juni 2020",
@@ -153,11 +164,12 @@ module.exports = {
       slide: "empty",
       topic: "Software Estimation Jump Start",
       videos: [
-        "https://web.facebook.com/groups/phpid/permalink/10158285183441101/",
+        "https://www.facebook.com/peterjkambey/videos/10219872592703003",
       ],
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/31.jpg",
+      deskripsi: "",
     },
     {
       date: "Senin, 8 Juni 2020",
@@ -166,11 +178,12 @@ module.exports = {
       slide: "empty",
       topic: "Scaling Application to 1 Millions Users",
       videos: [
-        "https://web.facebook.com/groups/phpid/permalink/10158282004611101/",
+        "https://www.facebook.com/peterjkambey/videos/10219864037649132",
       ],
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/30.jpg",
+      deskripsi: "",
     },
     {
       date: "Sabtu, 6 Juni 2020",
@@ -184,6 +197,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/29.jpg",
+      deskripsi: "",
     },
     {
       date: "Senin, 1 Juni 2020",
@@ -198,6 +212,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/28.jpg",
+      deskripsi: "",
     },
     {
       date: "Senin, 18 Mei 2020",
@@ -211,6 +226,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/27.jpg",
+      deskripsi: "",
     },
     {
       date: "Minggu, 17 Mei 2020",
@@ -224,6 +240,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/23.jpg",
+      deskripsi: "",
     },
     {
       date: "Sabtu, 16 Mei 2020",
@@ -235,6 +252,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/not-found.jpg",
+      deskripsi: "",
     },
     {
       date: "Jumat, 15 Mei 2020",
@@ -249,6 +267,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/26.jpg",
+      deskripsi: "",
     },
     {
       date: "Kamis, 14 Mei 2020",
@@ -262,6 +281,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/25.jpg",
+      deskripsi: "",
     },
     {
       date: "Senin, 11 Mei 2020",
@@ -275,6 +295,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/22.jpg",
+      deskripsi: "",
     },
     {
       date: "Sabtu, 9 Mei 2020",
@@ -289,6 +310,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/21.jpg",
+      deskripsi: "",
     },
     {
       date: "Jumat, 8 Mei 2020",
@@ -303,6 +325,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/20.jpg",
+      deskripsi: "",
     },
     {
       date: "Kamis, 7 Mei 2020",
@@ -316,6 +339,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/19.jpg",
+      deskripsi: "",
     },
     {
       date: "Rabu, 6 Mei 2020",
@@ -330,6 +354,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/18.jpg",
+      deskripsi: "",
     },
     {
       date: "Selasa, 5 Mei 2020",
@@ -343,6 +368,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/17.jpg",
+      deskripsi: "",
     },
     {
       date: "Senin, 4 Mei 2020",
@@ -356,6 +382,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/16.jpg",
+      deskripsi: "",
     },
     {
       date: "Minggu, 3 Mei 2020",
@@ -369,6 +396,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/15.jpg",
+      deskripsi: "",
     },
     {
       date: "Sabtu, 2 Mei 2020",
@@ -382,6 +410,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/14.jpg",
+      deskripsi: "",
     },
     {
       date: "Kamis, 30 April 2020",
@@ -395,6 +424,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/13.jpg",
+      deskripsi: "",
     },
     {
       date: "Selasa, 28 April 2020",
@@ -409,6 +439,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/12.jpg",
+      deskripsi: "",
     },
     {
       date: "Minggu, 26 April 2020",
@@ -422,6 +453,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/11.jpg",
+      deskripsi: "",
     },
     {
       date: "Sabtu, 25 April 2020",
@@ -435,6 +467,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/10.jpg",
+      deskripsi: "",
     },
     {
       date: "Jumat, 24 April 2020",
@@ -448,6 +481,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/9.jpg",
+      deskripsi: "",
     },
     {
       date: "Rabu, 22 April 2020",
@@ -461,6 +495,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/8.jpg",
+      deskripsi: "",
     },
     {
       date: "Minggu, 19 April 2020",
@@ -474,6 +509,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/7.jpg",
+      deskripsi: "",
     },
     {
       date: "Kamis, 16 April 2020",
@@ -487,6 +523,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/6.jpg",
+      deskripsi: "",
     },
     {
       date: "Rabu, 15 April 2020",
@@ -500,6 +537,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/5.jpg",
+      deskripsi: "",
     },
     {
       date: "Selasa, 14 April 2020",
@@ -513,6 +551,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/4.jpg",
+      deskripsi: "",
     },
     {
       date: "Minggu, 12 April 2020",
@@ -525,6 +564,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/3.jpg",
+      deskripsi: "",
     },
     {
       date: "Jumat, 10 April 2020",
@@ -538,6 +578,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/2.jpg",
+      deskripsi: "",
     },
     {
       date: "Kamis, 9 April 2020",
@@ -549,6 +590,7 @@ module.exports = {
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/1.jpg",
+      deskripsi: "",
     },
   ],
 };
