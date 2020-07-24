@@ -35,17 +35,19 @@ if ('loading' in HTMLImageElement.prototype) {
     let macy = null;
 
     try {
-      macy = Macy({
-        container: '#content-speaker',
-        trueOrder: false,
-        waitForImages: true,
-        margin: 20,
-        columns: 3,
-        breakAt: {
-          520: 1,
-          400: 1,
-        },
-      });
+			if (Macy) {
+				macy = Macy({
+					container: '#content-speaker',
+					trueOrder: false,
+					waitForImages: true,
+					margin: 20,
+					columns: 3,
+					breakAt: {
+						520: 1,
+						400: 1,
+					},
+				});
+			}
     } catch (e) {
       console.debug(e);
     }
