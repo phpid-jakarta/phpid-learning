@@ -6,6 +6,7 @@ html(lang="id")
 		meta(name="viewport", content="initial-scale=1, minimum-scale=1, maximum-scale=7, user-scalable=yes, width=device-width, shrink-to-fit=no")
 		link(rel='preconnect dns-prefetch', href='https://www.google-analytics.com'  crossorigin="")
 		link(rel='preconnect dns-prefetch', href='https://www.googletagmanager.com'  crossorigin="")
+		link(rel='preconnect dns-prefetch', href='https://fonts.googleapis.com'  crossorigin="")
 		link(rel='preconnect dns-prefetch', href='https://cdn.jsdelivr.net'  crossorigin="")
 
 		title PHPID Online Learning 2020
@@ -55,13 +56,11 @@ html(lang="id")
 
 		// Internal Style CSS
 		link(rel="stylesheet", href="main.less")
+		link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Neucha&family=Patrick+Hand+SC&display=swap")
 
 		// Check Enviroment Mode
 		if env !== 'development'
-			// Paper CSS
-			link(rel="stylesheet", href="vendors/less/paper.css")
-			// Animate CSS
-			link(rel="stylesheet", href="vendors/less/animate.css")
+			link(rel="stylesheet", href="vendors/less/vendor.less")
 		else
 			// CDN Paper CSS
 			link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/papercss@1.6.1/dist/paper.min.css")
