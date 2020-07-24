@@ -5,6 +5,10 @@ html(lang="id")
 		meta(http-equiv='x-ua-compatible', content='ie=edge')
 		meta(name="viewport", content="initial-scale=1, minimum-scale=1, maximum-scale=7, user-scalable=yes, width=device-width, shrink-to-fit=no")
 		link(rel='preconnect dns-prefetch', href='https://www.google-analytics.com'  crossorigin="")
+		link(rel='preconnect dns-prefetch', href='https://www.googletagmanager.com'  crossorigin="")
+		link(rel='preconnect dns-prefetch', href='https://fonts.googleapis.com'  crossorigin="")
+		link(rel='preconnect dns-prefetch', href='https://cdn.jsdelivr.net'  crossorigin="")
+
 		title PHPID Online Learning 2020
 
 		meta(name='description', content='Daftar online learning yang diadakan oleh PHPID community')
@@ -50,98 +54,41 @@ html(lang="id")
 			gtag('js', new Date());
 			gtag('config', 'UA-97096911-1');
 
-		style.
-			body, html {
-				height: 100%;
-				margin: 0;
-				scroll-behavior:smooth;
-			}
-			a {
-				background-image:none;
-			}
-			.hero-image {
-				min-height: 100vh;
-				background: url('./bg-hero.png');
-				background-position: center center;
-				background-repeat: no-repeat;
-				background-size: 500px;
-				position: relative;
-				background-color: #212121;
-			}
-			.hero-text {
-				text-align: center;
-				position: absolute;
-				top: 50%;
-				left: 50%;
-				transform: translate(-50%, -50%);
-				color: white;
-			}
-			.hero-text h1 {
-				font-size: 2.5rem;
-				margin: 0 0 0 0;
-			}
-			.hero-text h1 span{
-				font-weight: normal;
-			}
-			.hero-text h2{
-				font-size: 2rem;
-				margin: 0 0 2rem 0;
-			}
-			.hero-text button {
-				border: none;
-				outline: 0;
-				display: inline-block;
-				padding: 10px 25px;
-				color: black;
-				background-color: #ddd;
-				text-align: center;
-				cursor: pointer;
-			}
-			.hero-text button:hover {
-				background-color: #555;
-				color: white;
-			}
-			.hero-arrow {
-				position: absolute;
-				bottom: 20px;
-				display: flex;
-				width: 100%;
-				justify-content:center;
-				align-items: center;
-				flex-direction: column;
-				color:white;
-			}
-			.hero-arrow a {
-				text-decoration: none;
-				background-image: none;
-			}
-			.hero-arrow button {
-				border-color:white;
-				color:white;
-				margin-top:20px;
-			}
+		//	CSS Style & Fonts
+		link(rel="stylesheet", href="main.less")
+		link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Neucha&family=Patrick+Hand+SC&display=swap")
 
+		// Check Enviroment Mode
 		if env !== 'development'
-			link(rel="stylesheet", href="paper.css")
-			link(rel="stylesheet", href="animate.css")
+			link(rel="stylesheet", href="vendors/less/vendor.less")
 		else
-			link(rel="stylesheet", href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css")
-			link(rel="stylesheet", href="https://unpkg.com/animate.css@4.1.0/animate.css")
+			// CDN Paper CSS
+			link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/papercss@1.6.1/dist/paper.min.css")
+			// CDN Animate CSS
+			link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css")
+			// CDN Masonry CSS
+			script(src="https://cdn.jsdelivr.net/npm/macy@2")
+
 	body
+		// Hero Section
 		.hero-image
 			.hero-text
-				h1.animate__animated.animate__bounce PHPID Online Learning
-				h2.animate__animated.animate__bounce 2020
+				h3.animate__animated.animate__bounce PHPID Online Learning 2020
+				h1.animate__animated.animate__bounce=d.data.length + ' Materi'
+				span.animate__animated.animate__bounce=d.data[0].date.split(",")[1] + " - " +d.data[d.data.length-1].date.split(",")[1]
 				a(href="https://github.com/phpid-jakarta/phpid-online-learning-2020/", target="_blank", rel="noopener", title="Github")
-					button.animate__animated.animate__bounceIn Github Repository
+					button.animate__animated.animate__bounceIn Github
+				a(href="https://www.facebook.com/groups/phpid/", target="_blank", rel="noopener", title="Facebook Group PHPID")
+					button.btn-secondary.animate__animated.animate__bounceIn FB Group
 			.hero-arrow
 				span.animate__animated.animate__bounceIn.animate__delay-1s Lihat Semua Pemateri
 				a(href="#content-speaker")
 					button.animate__animated.animate__bounceIn.animate__delay-1s &darr;
 
-		div.row.flex-center#content-speaker
+		// Content Speaker Section
+		#content-speaker
 			each val, index in d.data
-				.margin.card(style='width: 20rem;')
+				.card
 					img.lazyload(data-src=val.cover, src="https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg", loading="lazy" alt=val.topic)
 					.card-body
 						span.badge.secondary(style="margin-right: .5em;")=val.date
@@ -150,14 +97,33 @@ html(lang="id")
 						h5.card-subtitle=val.speaker
 						p.card-text
 						if val.videos[0] && val.videos[0] !== 'empty'
-							a(href=val.videos[0], target="_blank", rel="noopener", style="background-image: none", title="Video")
-								button.btn-secondary Tonton Video
+							button(onclick="showModal(this)", data-video=val.videos[0]).btn-secondary Tonton Video
 						else if val.registrasi && val.registrasi !== 'empty'
 							a(href=val.registrasi, target="_blank", rel="noopener", style="background-image: none", title="Registrasi")
 								button.btn-warning Registrasi
 						if val.slide && val.slide !== 'empty'
 							a(href=val.slide, target="_blank", rel="noopener", style="background-image: none", title="Slide")
 								button.btn-success Lihat Slide
+
+		// Modal Section
+		#modal-video
+			.wrapper
+			.card
+				iframe(
+					src="",
+					style="border:none;overflow:hidden",
+					scrolling="no",
+					frameBorder="0",
+					allowTransparency="true",
+					allow="encrypted-media",
+					allowFullScreen="true")
+				.card-body
+					// p Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil laboriosam vel incidunt error dolorem dolores qui eius accusamus, ab, aspernatur molestias minima commodi molestiae. Ullam sint nemo deserunt minima eum!
+					.card-actions
+						a(href="https://www.facebook.com/groups/phpid/", target="_blank", rel="noopener", title="Facebook Group PHPID")
+							button.btn-secondary Lihat di Facebook
+						button(onclick="closeModal()").btn-danger Tutup Pemutar
+		// Footer Section
 		footer.row.flex-center.margin
 			.text-center
 				span
@@ -168,40 +134,6 @@ html(lang="id")
 			.text-center
 				span Crafted with ❤️ by PHPID Dev Teams, © 2020
 
-		script.
-			if ('loading' in HTMLImageElement.prototype) {
-				if ('IntersectionObserver' in window){
-					const heroImage = document.querySelector('.hero-image')
-					const cards = document.querySelectorAll('.card')
-					const iobs = new IntersectionObserver((entries, observe)=>{
-						entries.forEach(entry => {
-							if(entry.isIntersecting){
-								if(entry.target.classList == 'hero-image'){
-									window.scrollTo({behavior: "smooth", top:0});
-								} else {
-									let card = entry.target
-									let img = entry.target.childNodes[0]
-									img.src = img.dataset.src
-									card.classList.add("animate__animated")
-									card.classList.add("animate__zoomIn")
-									img.classList.remove('lazyload')
-									iobs.unobserve(card)
-								}
-							}
-						})
-					})
-					iobs.observe(heroImage)
-					cards.forEach(card => iobs.observe(card))
-				} else {
-					const images = document.querySelectorAll("img.lazyload");
-					images.forEach(img => {
-						img.src = img.dataset.src;
-					});
-				}
-			} else {
-				// Dynamically import the LazySizes library
-				let script = document.createElement("script");
-				script.async = true;
-				script.src = "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.8/lazysizes.min.js";
-				document.body.appendChild(script);
-			}
+		// Javascript Code
+		script(src="main.js")
+

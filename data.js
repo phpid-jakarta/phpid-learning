@@ -1,8 +1,7 @@
 module.exports = {
   meta: {
-    last_updated: "2020-07-21T04:18:18.325Z",
+    last_updated: "2020-07-24T03:05:19.292Z",
     total: 42,
-    message: "field url is deprecated, use registrasi",
     credits: "PHPID Community",
   },
   data: [
@@ -13,8 +12,6 @@ module.exports = {
       slide: "empty",
       topic: "Ask Me Anything with Om Luri Darmawan",
       videos: ["empty"],
-      url:
-        "https://us02web.zoom.us/meeting/register/tZcvc-mhqD8iGNyQDFjsnd0tkqnbjidD1eOu",
       registrasi:
         "https://us02web.zoom.us/meeting/register/tZcvc-mhqD8iGNyQDFjsnd0tkqnbjidD1eOu",
       cover:
@@ -30,7 +27,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158405066486101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/41.jpg",
@@ -42,9 +38,8 @@ module.exports = {
       slide: "https://www.linkedin.com/posts/activity-6688998406926536704-KmYM",
       topic: "The Journey of Test-Driven Development",
       videos: [
-        "https://www.facebook.com/groups/phpid/permalink/10158398833371101/",
+        "https://www.facebook.com/peterjkambey/videos/10220170296345408",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/40.jpg",
@@ -56,9 +51,8 @@ module.exports = {
       slide: "empty",
       topic: "Mendeploy Situs Wordpress yang Scalable di AWS",
       videos: [
-        "https://www.facebook.com/groups/phpid/permalink/10158384081171101/",
+        "https://www.facebook.com/peterjkambey/videos/10220133445224153",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/39.jpg",
@@ -72,7 +66,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158368473496101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/38.jpg",
@@ -86,7 +79,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158342490356101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/37.jpg",
@@ -98,7 +90,6 @@ module.exports = {
       slide: "empty",
       topic: "Membuat Aplikasi PHP Microservices dengan AWS (cancelled)",
       videos: ["empty"],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/36.jpg",
@@ -112,7 +103,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158319487861101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/35.jpg",
@@ -126,7 +116,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158301109521101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/34.jpg",
@@ -140,7 +129,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158298024301101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/33.jpg",
@@ -154,7 +142,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158291607461101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/32.jpg",
@@ -168,7 +155,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158285183441101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/31.jpg",
@@ -182,7 +168,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158282004611101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/30.jpg",
@@ -196,7 +181,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158275425251101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/29.jpg",
@@ -211,7 +195,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158258757901101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/28.jpg",
@@ -225,7 +208,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158213170081101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/27.jpg",
@@ -239,7 +221,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158209696501101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/23.jpg",
@@ -251,7 +232,6 @@ module.exports = {
       slide: "empty",
       topic: "Pengembangan Sistem Informasi eGovernment (cancelled)",
       videos: ["empty"],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/not-found.jpg",
@@ -266,7 +246,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158203092216101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/26.jpg",
@@ -280,7 +259,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158199413581101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/25.jpg",
@@ -294,7 +272,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158189208091101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/22.jpg",
@@ -309,7 +286,6 @@ module.exports = {
       videos: [
         "https://web.facebook.com/groups/phpid/permalink/10158181537861101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/21.jpg",
@@ -324,7 +300,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158177433836101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/20.jpg",
@@ -338,7 +313,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158173579131101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/19.jpg",
@@ -353,7 +327,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158169585076101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/18.jpg",
@@ -367,7 +340,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158165513971101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/17.jpg",
@@ -381,7 +353,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158161447446101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/16.jpg",
@@ -395,7 +366,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158157539156101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/15.jpg",
@@ -409,7 +379,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158153667346101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/14.jpg",
@@ -423,7 +392,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158145835046101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/13.jpg",
@@ -438,7 +406,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158137997021101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/12.jpg",
@@ -452,7 +419,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158133248636101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/11.jpg",
@@ -466,7 +432,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158125506621101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/10.jpg",
@@ -480,7 +445,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158120909651101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/9.jpg",
@@ -494,7 +458,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158112589196101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/8.jpg",
@@ -508,7 +471,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158099015066101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/7.jpg",
@@ -522,7 +484,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158085993956101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/6.jpg",
@@ -536,7 +497,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158081773851101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/5.jpg",
@@ -550,7 +510,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158077562731101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/4.jpg",
@@ -563,7 +522,6 @@ module.exports = {
         "https://www.linkedin.com/posts/arbahud-rio-daroyni-062100146_step-by-step-belajar-seo-dasar-activity-6655336421471158272-Sbw5",
       topic: "SEO Basic",
       videos: ["https://youtu.be/emfHRGd5LuE"],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/3.jpg",
@@ -577,7 +535,6 @@ module.exports = {
       videos: [
         "https://www.facebook.com/groups/phpid/permalink/10158062969406101/",
       ],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/2.jpg",
@@ -589,7 +546,6 @@ module.exports = {
       slide: "https://slideshare.net/hidayat365/how-to-design-a-good-database",
       topic: "How to design a good database",
       videos: ["https://youtu.be/fSQ8JamoAfg"],
-      url: "empty",
       registrasi: "empty",
       cover:
         "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/1.jpg",
