@@ -97,7 +97,7 @@ html(lang="id")
 						h5.card-subtitle=val.speaker
 						p.card-text
 						if val.videos[0] && val.videos[0] !== 'empty'
-							button(onclick="showModal(this)", data-video=val.videos[0]).btn-secondary Tonton Video
+							button(onclick="showModal(this)", data-video=val.videos[0], data-desc=val.deskripsi).btn-secondary Tonton Video
 						else if val.registrasi && val.registrasi !== 'empty'
 							a(href=val.registrasi, target="_blank", rel="noopener", style="background-image: none", title="Registrasi")
 								button.btn-warning Registrasi
@@ -118,7 +118,7 @@ html(lang="id")
 					allow="encrypted-media",
 					allowFullScreen="true")
 				.card-body
-					// p Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil laboriosam vel incidunt error dolorem dolores qui eius accusamus, ab, aspernatur molestias minima commodi molestiae. Ullam sint nemo deserunt minima eum!
+					p
 					.card-actions
 						a(href="https://www.facebook.com/groups/phpid/", target="_blank", rel="noopener", title="Facebook Group PHPID")
 							button.btn-secondary Lihat di Facebook
