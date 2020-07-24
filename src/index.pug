@@ -5,6 +5,10 @@ html(lang="id")
 		meta(http-equiv='x-ua-compatible', content='ie=edge')
 		meta(name="viewport", content="initial-scale=1, minimum-scale=1, maximum-scale=7, user-scalable=yes, width=device-width, shrink-to-fit=no")
 		link(rel='preconnect dns-prefetch', href='https://www.google-analytics.com'  crossorigin="")
+		link(rel='preconnect dns-prefetch', href='https://www.googletagmanager.com'  crossorigin="")
+		link(rel='preconnect dns-prefetch', href='https://fonts.googleapis.com'  crossorigin="")
+		link(rel='preconnect dns-prefetch', href='https://cdn.jsdelivr.net'  crossorigin="")
+
 		title PHPID Online Learning 2020
 
 		meta(name='description', content='Daftar online learning yang diadakan oleh PHPID community')
@@ -50,177 +54,21 @@ html(lang="id")
 			gtag('js', new Date());
 			gtag('config', 'UA-97096911-1');			
 
-		// Internal Style CSS
-		style.
-			body, html {
-				height: 100%;
-				margin: 0;
-				scroll-behavior:smooth;
-			}
-			a {
-				background-image:none !important;
-				text-decoration:none;
-			}
-			.hero-image {
-				min-height: 100vh;
-				background: url('./new_bg_hero.webp');
-				background-position: center center;
-				background-repeat: no-repeat;
-				background-size: 500px;
-				position: relative;
-				background-color: #212121;
-			}
-			.hero-text {
-				text-align: center;
-				position: absolute;
-				top: 50%;
-				left: 50%;
-				transform: translate(-50%, -50%);
-				color: white;
-			}
-			.hero-text h1{
-				margin: 20px 0 0 0;
-				font-size:2rem;
-			}
-			.hero-text h3 {
-				margin: 0;
-				font-size:1.25rem;
-			}
-			.hero-text span{
-				display:block;
-				margin-bottom:20px;
-			}
-			.hero-text button {
-				border: none;
-				outline: 0;
-				display: inline-block;
-				padding: 10px 25px;
-				color: black;
-				background-color: #ddd;
-				text-align: center;
-				cursor: pointer;
-				margin: 5px;
-			}
-			.hero-text button:hover {
-				background-color: #555;
-				color: white;
-			}
-			.hero-arrow {
-				position: absolute;
-				bottom: 20px;
-				display: flex;
-				width: 100%;
-				justify-content:center;
-				align-items: center;
-				flex-direction: column;
-				color:white;
-			}
-			.hero-arrow a {
-				text-decoration: none;
-				background-image: none;
-			}
-			.hero-arrow button {
-				border-color:white;
-				color:white;
-				margin-top:20px;
-			}
-			#content-speaker{
-				max-width:90%;
-				margin:50px auto;
-			}
-			#content-speaker .card{
-				margin-bottom:20px;
-			}
-			#content-speaker .card .card-body{
-				min-height:200px;
-				background:white;
-			}
-			#content-speaker .card .card-body button{
-				margin:5px;
-			}
-			#content-speaker .card .card-body a+a{
-				margin:0;
-			}
-			#modal-video{
-				position:fixed;
-				width:100%;
-				top:0;
-				display:none;
-			}
-			#modal-video .wrapper{
-				height:100vh;
-				background: black;
-				opacity:0.88;
-			}
-			#modal-video .card{
-				position:absolute;
-				width:100%;
-				height:100vh;
-				background:white;
-				top:0;
-				border: none;
-			}
-			#modal-video .card .card-body{
-				position: relative;
-			}
-			#modal-video .card .card-body .card-actions{
-				position: absolute;
-				width:100%;
-				bottom:0;
-				text-align:center;
-			}
-			#modal-video .card .card-body .card-actions button{
-				display:block;
-				margin: 10px 0px;
-			}
-			#modal-video .card iframe{
-				width:100%;
-			}
-			@media only screen and (min-width:700px){
-				.hero-text h3 {
-					font-size:1.8rem;
-				}
-				.hero-text h1{
-					font-size:2.5rem;
-				}
-				#modal-video .card{
-					width:800px;
-					height: 700px;
-					top: 50%;
-					left: 50%;
-					transform: translate(-50%, -50%);
-				}
-				#modal-video .card .card-body .card-actions{
-					text-align:left;
-				}
-				#modal-video .card .card-body .card-actions button{
-					display:inline;
-					margin: 10px 10px;
-				}
-				#modal-video .card iframe{
-					height: 450px;
-				}
-			}
+		//	CSS Style & Fonts
+		link(rel="stylesheet", href="main.less")
+		link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Neucha&family=Patrick+Hand+SC&display=swap")
 
 		// Check Enviroment Mode
 		if env !== 'development'
-			// Paper CSS
-			link(rel="stylesheet", href="paper.css")
-
-			// Animate CSS
-			link(rel="stylesheet", href="animate.css")
-
-			// Masonry Library
-			script(src="https://raw.githubusercontent.com/phpid-jakarta/phpid-online-learning-2020/master/src/macy.min.js")
+			link(rel="stylesheet", href="vendors/less/vendor.less")
 		else
 			// CDN Paper CSS
-			link(rel="stylesheet", href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css")
-
+			link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/papercss@1.6.1/dist/paper.min.css")
 			// CDN Animate CSS
-			link(rel="stylesheet", href="https://unpkg.com/animate.css@4.1.0/animate.css")
-
+			link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css")
 			// CDN Masonry CSS
 			script(src="https://cdn.jsdelivr.net/npm/macy@2")
+
 	body
 		// Hero Section
 		.hero-image
@@ -262,15 +110,15 @@ html(lang="id")
 			.wrapper
 			.card
 				iframe(
-					src="", 
-					style="border:none;overflow:hidden", 
-					scrolling="no", 
-					frameBorder="0", 
-					allowTransparency="true", 
-					allow="encrypted-media", 
+					src="",
+					style="border:none;overflow:hidden",
+					scrolling="no",
+					frameBorder="0",
+					allowTransparency="true",
+					allow="encrypted-media",
 					allowFullScreen="true")
 				.card-body
-					p Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil laboriosam vel incidunt error dolorem dolores qui eius accusamus, ab, aspernatur molestias minima commodi molestiae. Ullam sint nemo deserunt minima eum!
+					// p Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil laboriosam vel incidunt error dolorem dolores qui eius accusamus, ab, aspernatur molestias minima commodi molestiae. Ullam sint nemo deserunt minima eum!
 					.card-actions
 						a(href="https://www.facebook.com/groups/phpid/", target="_blank", rel="noopener", title="Facebook Group PHPID")
 							button.btn-secondary Lihat di Facebook
@@ -287,80 +135,5 @@ html(lang="id")
 				span Crafted with ❤️ by PHPID Dev Teams, © 2020
 
 		// Javascript Code
-		script.
-			function iframeURL(link){
-				const linkSplit = link.split("/")
-				if(linkSplit[2].includes("youtu")){
-					return `https://youtube.com/embed/${linkSplit[3]}`
-				}
-				if(linkSplit[2].includes('facebook')){
-					return `https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(link)}&show_text=false&width=734&height=400`
-				}
-			}
+		script(src="main.js")
 
-			function showModal(element){
-				const modal = document.querySelector('#modal-video')
-				const iframe = document.querySelector('#modal-video .card iframe')
-				const linkDirect = document.querySelector('#modal-video .card .card-body .card-actions a')
-				iframe.setAttribute('src', iframeURL(element.dataset.video))
-				modal.style.display = "block"
-				linkDirect.setAttribute('href', element.dataset.video)
-			}
-
-			function closeModal(){
-				const modal = document.querySelector('#modal-video')
-				const iframe = document.querySelector('#modal-video .card iframe')
-				modal.style = "display:none;"
-				iframe.setAttribute('src', '')
-			}
-
-			if ('loading' in HTMLImageElement.prototype) {
-				// Intersection Observer Validation
-				if ('IntersectionObserver' in window){
-					// Initiate Masonry Library
-					const macy = Macy({
-						container: '#content-speaker',
-						trueOrder: false,
-						waitForImages: true,
-						margin: 20,
-						columns: 3,
-						breakAt: {
-							520: 1,
-							400: 1
-						}
-					});
-					const heroImage = document.querySelector('.hero-image')
-					const cards = document.querySelectorAll('#content-speaker .card') // Select All Card Element on Content Speaker Section
-					const iobs = new IntersectionObserver((entries, observe)=>{
-						entries.forEach(entry => {
-							if(entry.isIntersecting){
-								if(entry.target.classList == 'hero-image'){
-									window.scrollTo({behavior: "smooth", top:0});
-								} else {
-									let card = entry.target
-									let img = entry.target.childNodes[0]
-									img.src = img.dataset.src
-									card.classList.add("animate__animated")
-									card.classList.add("animate__zoomIn")
-									img.classList.remove('lazyload')
-									iobs.unobserve(card)
-									macy.recalculate(true)	// Recalculate Masonry when element is intersecting
-								}
-							}
-						})
-					})
-					iobs.observe(heroImage)
-					cards.forEach(card => iobs.observe(card))
-				} else {
-					const images = document.querySelectorAll("img.lazyload");
-					images.forEach(img => {
-						img.src = img.dataset.src;
-					});
-				}
-			} else {
-				// Dynamically import the LazySizes library
-				let script = document.createElement("script");
-				script.async = true;
-				script.src = "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.8/lazysizes.min.js";
-				document.body.appendChild(script);
-			}
