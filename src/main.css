@@ -1,0 +1,179 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+a {
+  background-image: none !important;
+  text-decoration: none;
+}
+
+.hero-image {
+  min-height: 100vh;
+  background: url('./new_bg_hero.webp');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 500px;
+  position: relative;
+  background-color: #212121;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-text h1 {
+  margin: 20px 0 0 0;
+  font-size: 2rem;
+}
+
+.hero-text h3 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.hero-text span {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+
+.hero-arrow {
+  position: absolute;
+  bottom: 20px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+}
+
+.hero-arrow a {
+  text-decoration: none;
+  background-image: none;
+}
+
+.hero-arrow button {
+  border-color: white;
+  color: white;
+  margin-top: 20px;
+}
+
+#content-speaker {
+  max-width: 90%;
+  margin: 50px auto;
+}
+
+#content-speaker .card {
+  margin-bottom: 20px;
+}
+
+#content-speaker .card .card-body {
+  min-height: 200px;
+  background: white;
+}
+
+#content-speaker .card .card-body button {
+  margin: 5px;
+}
+
+#content-speaker .card .card-body a+a {
+  margin: 0;
+}
+
+#modal-video {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  display: none;
+}
+
+#modal-video .wrapper {
+  height: 100vh;
+  background: black;
+  opacity: 0.88;
+}
+
+#modal-video .card {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  background: white;
+  top: 0;
+  border: none;
+}
+
+#modal-video .card .card-body {
+  position: relative;
+}
+
+#modal-video .card .card-body .card-actions {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+}
+
+#modal-video .card .card-body .card-actions button {
+  display: block;
+  margin: 10px 0px;
+}
+
+#modal-video .card iframe {
+  width: 100%;
+}
+
+@media only screen and (min-width:700px) {
+  .hero-text h3 {
+    font-size: 1.8rem;
+  }
+
+  .hero-text h1 {
+    font-size: 2.5rem;
+  }
+
+  #modal-video .card {
+    width: 800px;
+    height: 700px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  #modal-video .card .card-body .card-actions {
+    text-align: left;
+  }
+
+  #modal-video .card .card-body .card-actions button {
+    display: inline;
+    margin: 10px 10px;
+  }
+
+  #modal-video .card iframe {
+    height: 450px;
+  }
+}
