@@ -60,6 +60,7 @@ html(lang="id")
 
 		// Check Enviroment Mode
 		if env !== 'development'
+			// Note, this vendor only can use after parcel build
 			link(rel="stylesheet", href="vendors/less/vendor.less")
 		else
 			// CDN Paper CSS
@@ -136,5 +137,5 @@ html(lang="id")
 				span Crafted with ❤️ by PHPID Dev Teams, © 2020
 
 		// Javascript Code
-		script(src="main.js")
+		script(type='text/javascript', src="main.js")
 

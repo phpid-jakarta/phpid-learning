@@ -4,8 +4,8 @@
   "description": "👩‍🏫 List of resources PHPID online learning 2020",
   "main": "toJson.js",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development parcel src/index.pug --public-url http://localhost:1234 ",
-    "devopen": "cross-env NODE_ENV=development parcel src/index.pug --public-url http://localhost:1234 --open 'google chrome'",
+    "dev": "cross-env NODE_ENV=development parcel src/index.pug",
+    "devopen": "cross-env NODE_ENV=development parcel src/index.pug --open 'google chrome'",
     "build": "cross-env NODE_ENV=production rimraf ./dist && parcel build src/index.pug --public-url https://phpid-jakarta.github.io/phpid-online-learning-2020/",
     "toJson": "node ./toJson.js",
     "test": "echo \"Error: no test specified\" && exit 1"
