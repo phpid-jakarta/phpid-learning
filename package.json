@@ -4,11 +4,12 @@
   "description": "👩‍🏫 List of resources PHPID online learning 2020",
   "main": "toJson.js",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development parcel src/index.pug",
-    "devopen": "cross-env NODE_ENV=development parcel src/index.pug --open 'google chrome'",
-    "build": "cross-env NODE_ENV=production rimraf ./dist && parcel build src/index.pug --public-url https://phpid-jakarta.github.io/phpid-online-learning-2020/",
     "toJson": "node ./toJson.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "sapper dev",
+    "build": "sapper build",
+    "start": "node __sapper__/build",
+    "export": "cross-env NODE_ENV=production sapper export --basepath phpid-online-learning-2020",
+    "lint": "eslint **/*.svelte --fix"
   },
   "repository": "git+https://github.com/phpid-jakarta/phpid-online-learning-2020.git",
   "author": "PHPID Teams",
@@ -18,14 +19,31 @@
   },
   "homepage": "https://github.com/phpid-jakarta/phpid-online-learning-2020#readme",
   "dependencies": {
-    "cross-env": "^7.0.2",
-    "rimraf": "^3.0.2"
+    "compression": "1.7.4",
+    "macy": "2.5.1",
+    "polka": "1.0.0-next.11",
+    "sirv-cli": "0.4.6"
   },
   "devDependencies": {
-    "less": "^3.12.2",
-    "parcel": "^1.12.4",
-    "parcel-bundler": "^1.12.4",
-    "parcel-plugin-purgecss": "^3.0.0",
-    "pug": "^2.0.4"
+    "cross-env": "7.0.2",
+    "dotenv": "8.2.0",
+    "eslint": "7.5.0",
+    "eslint-config-standard": "14.1.1",
+    "eslint-plugin-import": "2.22.0",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-standard": "4.0.1",
+    "eslint-plugin-svelte3": "2.7.3",
+    "less": "3.12.2",
+    "mkdirp": "1.0.4",
+    "npm-run-all": "4.1.5",
+    "rimraf": "3.0.2",
+    "sapper": "0.27.16",
+    "svelte": "3.24.0",
+    "svelte-loader": "2.13.6",
+    "webpack": "4.44.0"
+  },
+  "engines": {
+    "node": ">=10"
   }
 }
