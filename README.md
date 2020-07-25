@@ -215,7 +215,7 @@
 - Pukul: 19:00
 - Pemateri: Om Steven Salim
 - Slide: empty
-- Video: https://web.facebook.com/groups/phpid/permalink/10158275425251101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219845832474014
 - Registrasi: empty
 - Sesi: 29
 - Deskripsi: -
@@ -226,7 +226,7 @@
 - Pukul: 18:00
 - Pemateri: om Peter Kambey - Om Nur Hidayat
 - Slide: empty
-- Video: https://web.facebook.com/groups/phpid/permalink/10158258757901101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219798560652248
 - Registrasi: empty
 - Sesi: 28
 - Deskripsi: -
@@ -237,7 +237,7 @@
 - Pukul: 16:00
 - Pemateri: om Sony A Kurniawan
 - Slide: empty
-- Video: https://web.facebook.com/groups/phpid/permalink/10158213170081101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219674327906507
 - Registrasi: empty
 - Sesi: 27
 - Deskripsi: -
@@ -248,7 +248,7 @@
 - Pukul: 16:30
 - Pemateri: om Sastra Nababan
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158209696501101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219664721066342
 - Registrasi: empty
 - Sesi: 23
 - Deskripsi: -
@@ -270,7 +270,7 @@
 - Pukul: 16:00
 - Pemateri: om Kresna Galuh
 - Slide: https://docs.google.com/presentation/d/1Z4LHVF4_PRM0D1iHjdPiGaETyBS0kfbLoVT3vckabB0/edit?usp=sharing
-- Video: https://www.facebook.com/groups/phpid/permalink/10158203092216101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219644689445564
 - Registrasi: empty
 - Sesi: 26
 - Deskripsi: -
@@ -281,7 +281,7 @@
 - Pukul: 16:00
 - Pemateri: om Abdul Hadi
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158199413581101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219634513351168
 - Registrasi: empty
 - Sesi: 25
 - Deskripsi: -
@@ -292,7 +292,7 @@
 - Pukul: 16:00
 - Pemateri: Ibu Falahah - Dosen Univ. Telkom Bandung
 - Slide: https://speakerdeck.com/flash68/system-analyst-short-guide
-- Video: https://web.facebook.com/groups/phpid/permalink/10158189208091101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219608505780995
 - Registrasi: empty
 - Sesi: 22
 - Deskripsi: -
@@ -303,7 +303,7 @@
 - Pukul: 16:00
 - Pemateri: om Musa Amin
 - Slide: https://musaamin.web.id/wp-content/uploads/2020/05/Linux-Server-untuk-Aplikasi-PHP.pdf
-- Video: https://web.facebook.com/groups/phpid/permalink/10158181537861101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219586488470576
 - Registrasi: empty
 - Sesi: 21
 - Deskripsi: -
@@ -314,7 +314,7 @@
 - Pukul: 16:00
 - Pemateri: om Nur Hidayah
 - Slide: https://www.slideshare.net/hidayat365/do-it-with-sql-journey-to-the-center-of-database-worlds
-- Video: https://www.facebook.com/groups/phpid/permalink/10158177433836101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219575493195701
 - Registrasi: empty
 - Sesi: 20
 - Deskripsi: -
@@ -325,7 +325,7 @@
 - Pukul: 16:00
 - Pemateri: om Dyan Galih
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158173579131101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219564541841924
 - Registrasi: empty
 - Sesi: 19
 - Deskripsi: -
@@ -336,7 +336,7 @@
 - Pukul: 16:30
 - Pemateri: Om Fitra Aditya
 - Slide: https://docs.google.com/presentation/d/1rT4BSSXCYEzF9eCQJ1Bbnr65p2LZtMndrENzNQNN4Q8/edit?usp=sharing
-- Video: https://www.facebook.com/groups/phpid/permalink/10158169585076101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219553693850731
 - Registrasi: empty
 - Sesi: 18
 - Deskripsi: -
@@ -347,7 +347,7 @@
 - Pukul: 16:30
 - Pemateri: Ali Pasha - GeekHunter
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158165513971101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219542443169471
 - Registrasi: empty
 - Sesi: 17
 - Deskripsi: -
@@ -358,7 +358,7 @@
 - Pukul: 16:00
 - Pemateri: om Prasetyo Wicaksono
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158161447446101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219532379837894
 - Registrasi: empty
 - Sesi: 16
 - Deskripsi: -
@@ -369,7 +369,7 @@
 - Pukul: 16:30
 - Pemateri: Shindu Samodra
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158157539156101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219521400483417
 - Registrasi: empty
 - Sesi: 15
 - Deskripsi: -
@@ -380,7 +380,7 @@
 - Pukul: 16:30
 - Pemateri: Agit Naeta
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158153667346101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219510663695004
 - Registrasi: empty
 - Sesi: 14
 - Deskripsi: -
@@ -391,7 +391,7 @@
 - Pukul: 16:30
 - Pemateri: Om Frangky Tumiwan
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158145835046101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219491497055850
 - Registrasi: empty
 - Sesi: 13
 - Deskripsi: -
@@ -402,7 +402,7 @@
 - Pukul: 16:30
 - Pemateri: Randy Vianda Putra
 - Slide: https://speakerdeck.com/randyviandaputra/berkarir-sebagai-frontend-developer
-- Video: https://www.facebook.com/groups/phpid/permalink/10158137997021101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219471755322319
 - Registrasi: empty
 - Sesi: 12
 - Deskripsi: -
@@ -413,7 +413,7 @@
 - Pukul: 16:30
 - Pemateri: Firman Brilian
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158133248636101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219460519601433
 - Registrasi: empty
 - Sesi: 11
 - Deskripsi: -
@@ -424,7 +424,7 @@
 - Pukul: 16:30
 - Pemateri: Munir AP
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158125506621101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219439233869303
 - Registrasi: empty
 - Sesi: 10
 - Deskripsi: -
@@ -435,7 +435,7 @@
 - Pukul: 16:30
 - Pemateri: Petra Barus
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158120909651101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219428640684480
 - Registrasi: empty
 - Sesi: 9
 - Deskripsi: -
@@ -446,7 +446,7 @@
 - Pukul: 19:30
 - Pemateri: Fadhil Zikri Muhammad
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158112589196101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219410023379059
 - Registrasi: empty
 - Sesi: 8
 - Deskripsi: -
@@ -457,7 +457,7 @@
 - Pukul: 19:30
 - Pemateri: Muhammad Amirul Ihsan
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158099015066101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219376923231576
 - Registrasi: empty
 - Sesi: 7
 - Deskripsi: -
@@ -468,7 +468,7 @@
 - Pukul: 19:30
 - Pemateri: Achmad Mardiansyah
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158085993956101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219344732706833
 - Registrasi: empty
 - Sesi: 6
 - Deskripsi: -
@@ -479,7 +479,7 @@
 - Pukul: 19:30
 - Pemateri: Wiguno
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/permalink/10158081773851101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219333692590837
 - Registrasi: empty
 - Sesi: 5
 - Deskripsi: -
@@ -490,7 +490,7 @@
 - Pukul: 19:30
 - Pemateri: Irfan Maulana
 - Slide: https://speakerdeck.com/mazipan/kinerja-web-101
-- Video: https://www.facebook.com/groups/phpid/permalink/10158077562731101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219322209183759
 - Registrasi: empty
 - Sesi: 4
 - Deskripsi: -
@@ -512,7 +512,7 @@
 - Pukul: 19:30
 - Pemateri: Prayudi Utomo
 - Slide: https://speakerdeck.com/yudiutomo/ux-introduction
-- Video: https://www.facebook.com/groups/phpid/permalink/10158062969406101/
+- Video: https://www.facebook.com/peterjkambey/videos/10219281729691797
 - Registrasi: empty
 - Sesi: 2
 - Deskripsi: -
