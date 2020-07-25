@@ -99,7 +99,7 @@ html(lang="id")
 						h5.card-subtitle=val.speaker
 						p.card-text
 						if val.videos[0] && val.videos[0] !== 'empty'
-							button(onclick="showModal(this)", data-video=val.videos[0], data-desc=val.deskripsi).btn-secondary Tonton Video
+							button(onclick="showModal(this)", data-video=val.videos[0], data-desc=val.deskripsi, data-title=val.topic+";"+val.speaker).btn-secondary Tonton Video
 						else if val.registrasi && val.registrasi !== 'empty'
 							a(href=val.registrasi, target="_blank", rel="noopener", style="background-image: none", title="Registrasi")
 								button.btn-warning Registrasi
@@ -120,10 +120,12 @@ html(lang="id")
 					allow="encrypted-media",
 					allowFullScreen="true")
 				.card-body
+					h4.card-title 
+					h5.card-subtitle 
 					p
 					.card-actions
 						a(href="https://www.facebook.com/groups/phpid/", target="_blank", rel="noopener", title="Facebook Group PHPID")
-							button.btn-secondary Lihat di Facebook
+							button.btn-secondary Lihat Sumber Video
 						button(onclick="closeModal()").btn-danger Tutup Pemutar
 		// Footer Section
 		footer.row.flex-center.margin

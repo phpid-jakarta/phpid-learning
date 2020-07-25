@@ -75,7 +75,7 @@
 - Video: empty
 - Registrasi: https://us02web.zoom.us/meeting/register/tZcvc-mhqD8iGNyQDFjsnd0tkqnbjidD1eOu
 - Sesi: 42
-- Deskripsi: -
+- Deskripsi: Ask Me Anything with om Luri Darmawan. Founder Carik ChatBot paling fenomenal 2020 didaftar di 1000 group telegram/wa/line/messenger.
 
 ### Belajar Konsep CRM & Menggunakan Software CRM Gratis
 

@@ -19,10 +19,19 @@ window.showModal = function showModal(element) {
   const textDescription = document.querySelector(
     "#modal-video .card .card-body p"
   );
+  const textTitle = document.querySelector(
+    "#modal-video .card .card-body .card-title"
+  );
+  const textSubtitle = document.querySelector(
+    "#modal-video .card .card-body .card-subtitle"
+  );
+  console.log(textDescription);
   iframe.setAttribute("src", iframeURL(element.dataset.video));
   modal.style.display = "block";
   linkDirect.setAttribute("href", element.dataset.video);
   textDescription.innerHTML = element.dataset.desc;
+  textTitle.innerHTML = element.dataset.title.split(";")[0];
+  textSubtitle.innerHTML = element.dataset.title.split(";")[1];
 };
 
 window.closeModal = function closeModal() {

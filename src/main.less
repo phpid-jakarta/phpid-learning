@@ -101,7 +101,7 @@ a {
   margin: 5px;
 }
 
-#content-speaker .card .card-body a+a {
+#content-speaker .card .card-body a + a {
   margin: 0;
 }
 
@@ -135,7 +135,12 @@ a {
   position: absolute;
   width: 100%;
   bottom: 0;
-  text-align: center;
+  left: 0;
+  bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 #modal-video .card .card-body .card-actions button {
@@ -147,7 +152,7 @@ a {
   width: 100%;
 }
 
-@media only screen and (min-width:700px) {
+@media only screen and (min-width: 700px) {
   .hero-text h3 {
     font-size: 1.8rem;
   }

@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const REGEX_SECTIONS = /^\#{3}.*\n\n- Waktu.*\n- Pukul.*\n- Pemateri.*\n- Slide.*\n- Video.*\n- Registrasi.*\n- Sesi.*/gm;
+const REGEX_SECTIONS = /^\#{3}.*\n\n- Waktu.*\n- Pukul.*\n- Pemateri.*\n- Slide.*\n- Video.*\n- Registrasi.*\n- Sesi.*\n- Deskripsi.*\n/gm;
 const REGEX_TITLE = /^\#{3}.*/gm;
 const REGEX_DATE = /^- Waktu.*/gm;
 const REGEX_TIME = /^- Pukul.*/gm;
