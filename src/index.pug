@@ -93,7 +93,7 @@ html(lang="id")
 		#content-speaker
 			each val, index in d.data
 				.card
-					img.lazyload(data-src=val.cover, data-sizes="auto", src="https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg", loading="lazy", alt=val.topic)
+					img.lazyload(data-src=val.cover, data-sizes="auto", src="https://cdn.jsdelivr.net/gh/phpid-jakarta/phpid-online-learning-2020@master/cover/default.jpg", loading="lazy", alt=val.topic)
 					.card-body
 						span.badge.secondary(style="margin-right: .5em;")=val.date
 						span.badge.success=val.time + ' WIB'
