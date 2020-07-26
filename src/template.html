@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width,initial-scale=1.0'>
+  <meta name='theme-color' content='#343a40'>
+
+  <title>PHPID Online Learning 2020 by PHPID</title>
+  <meta name="description" content="Daftar online learning yang diadakan oleh komunitas PHPID" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://phpid-jakarta.github.io/phpid-online-learning-2020/meta-image.png" />
+  <meta name="twitter:site" content="@PHP_Indonesia" />
+
+  <meta property="og:title" content="PHPID Online Learning 2020 by PHPID" />
+  <meta property="og:description" content="Daftar online learning yang diadakan oleh komunitas PHPID" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://phpid-jakarta.github.io/phpid-online-learning-2020/" />
+  <meta property="og:image" content="https://phpid-jakarta.github.io/phpid-online-learning-2020/meta-image.png" />
+
+  %sapper.base%
+
+  <link rel='manifest' href='/phpid-online-learning-2020/manifest.json' crossorigin='use-credentials'>
+  <link rel='icon' type='image/png' href='/phpid-online-learning-2020/icon-32.png'>
+
+  <script id="ld-website" type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://phpid-jakarta.github.io/phpid-online-learning-2020/","description":"Daftar online learning yang diadakan oleh PHPID community","image":"https://phpid-jakarta.github.io/phpid-online-learning-2020/meta-image.png","thumbnailUrl":"https://phpid-jakarta.github.io/phpid-online-learning-2020/meta-image.png","name":"PHPID","sameAs":["https://www.facebook.com/groups/phpid"]}</script>
+  <script id="ld-org" type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Organization","name":"PHPID","logo":{"@type":"ImageObject","url":"https://phpid-jakarta.github.io/phpid-online-learning-2020/meta-image.png"}}
+  </script>
+
+  %sapper.styles%
+  %sapper.head%
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/papercss@1.6.1/dist/paper.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css">
+
+  <!-- Google Fonts -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Neucha&amp;family=Patrick+Hand+SC&amp;display=swap">
+  <!-- Google Fonts -->
+
+  <style>
+    body,
+    html {
+      height: 100%;
+      margin: 0;
+      scroll-behavior: smooth;
+    }
+
+    a {
+      background-image: none !important;
+      text-decoration: none;
+    }
+    /* IS MOBILE */
+    @media (max-width: 576px) {
+      .hide-on-mobile {
+        display: none !important;
+        ;
+      }
+    }
+
+    /* IS NOT MOBILE */
+    @media (min-width: 576px) {
+      .show-on-mobile-only {
+        display: none !important;
+        ;
+      }
+    }
+
+    body.light {
+      --bg-color: #fff;
+      --bg-card: #fff;
+      --text-color: #212529;
+      --border-line: 1px solid rgba(0, 0, 0, .125);
+    }
+
+    body.dark {
+      --bg-color: #111f31;
+      --bg-card: #111f31;
+      --text-color: #fff;
+      --border-line: 1px solid #fff;
+    }
+
+    body {
+      --bs-font-sans-serif: 'Montserrat', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      /* background-color: var(--bg-color); */
+      /* color: var(--text-color); */
+    }
+  </style>
+
+  <!-- Google Analytics -->
+  <!-- <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-97096911-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-97096911-1');
+  </script> -->
+
+</head>
+
+<body class="light">
+  <div id='sapper'>%sapper.html%</div>
+  %sapper.scripts%
+
+  <script>
+    (function () {
+      window.__header_theme = { 'dark': '#343a40', 'light': '#343a40' };
+      window.__onThemeChange = function () { };
+      var preferredTheme;
+      try {
+        preferredTheme = localStorage.getItem('theme');
+      } catch (err) { }
+
+      function setTheme(newTheme) {
+        window.__theme = newTheme;
+        preferredTheme = newTheme;
+        document.body.className = newTheme;
+        document.querySelector('meta[name="theme-color"]').setAttribute("content", window.__header_theme[newTheme]);
+        window.__onThemeChange(newTheme);
+      }
+
+      window.__setPreferredTheme = function (newTheme) {
+        setTheme(newTheme);
+        try {
+          localStorage.setItem('theme', newTheme);
+        } catch (err) { }
+      }
+
+      var darkQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      darkQuery.addListener(function (e) {
+        window.__setPreferredTheme(e.matches ? 'dark' : 'light')
+      });
+
+      setTheme(preferredTheme || (darkQuery.matches ? 'dark' : 'light'));
+    })();
+  </script>
+  <script async="" src="https://cdn.jsdelivr.net/npm/macy@2"></script>
+</body>
+
+</html>

@@ -11,7 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
-
+- [#43 *will update soon*](#will-update-soon)
 - [#42 Ask Me Anything with Om Luri Darmawan](#Ask-me-anything-with-om-luri-darmawan)
 - [#41 Belajar Konsep CRM & Menggunakan Software CRM Gratis](#belajar-konsep-crm--menggunakan-software-crm-gratis)
 - [#40 The Journey of Test-Driven Development](#the-journey-of-test-driven-development)
@@ -66,14 +66,25 @@
 - Sesi: 42
 - Deskripsi: -
 
+### will update soon
+
+- Waktu: Sabtu, 1 Agustus 2020
+- Pukul: 19:00
+- Pemateri: Anne Regina
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZIlfuCsqDIsG920wfiveGUMKrBoOrC4dbDs
+- Sesi: 43
+- Deskripsi: 
+
 ### Ask Me Anything with Om Luri Darmawan
 
 - Waktu: Sabtu, 25 Juli 2020
 - Pukul: 19:00
 - Pemateri: Luri Darmawan
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZcvc-mhqD8iGNyQDFjsnd0tkqnbjidD1eOu
+- Video: https://web.facebook.com/peterjkambey/videos/10220255840643962/
+- Registrasi: empty
 - Sesi: 42
 - Deskripsi: Ask Me Anything with om Luri Darmawan. Founder Carik ChatBot paling fenomenal 2020 didaftar di 1000 group telegram/wa/line/messenger.
 

@@ -1,5 +1,4 @@
 name: Generate JSON
-
 on:
   push:
     branches:
@@ -7,7 +6,6 @@ on:
 
 jobs:
   generate_json:
-
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -15,16 +13,13 @@ jobs:
         with:
          persist-credentials: false
          fetch-depth: 0
-
       - name: Use node 12
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-
       - name: Get yarn cache
         id: yarn-cache
         run: echo "::set-output name=dir::$(yarn cache dir)"
-
       - name: Cache Node.js modules
         uses: actions/cache@v1
         with:
@@ -32,33 +27,31 @@ jobs:
           key: ${{ runner.OS }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
             ${{ runner.OS }}-yarn-
-
       - name: Install dependencies
         run: yarn
-
       - name: Generate file json
         run: yarn toJson
-
       - name: Modify last update
         run: |
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > LAST_UPDATED
-
       - name: Build UI
-        run: yarn build
-
+        run: yarn export
+      - uses: actions/upload-artifact@v2
+        with:
+          name: build-artifact
+          path: __sapper__/export/phpid-online-learning-2020/
       - name: GitHub Pages Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./__sapper__/export/phpid-online-learning-2020/
       - name: Commit files report
         run: |
           git config --local user.email "mazipanneh@gmail.com"
           git config --local user.name "mazipan"
           git add -A
-          git commit -m "[Github Actions]: Generate json file"
-
+          git commit -m "🚀 Auto generate by Github Actions"
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.5.0
         with:
