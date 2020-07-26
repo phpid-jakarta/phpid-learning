@@ -1,3 +1,7 @@
+var _state_ = {
+  isModalOpen: false
+}
+
 window.iframeURL = function iframeURL(link) {
   const linkSplit = link.split("/");
   if (linkSplit[2].includes("youtu")) {
@@ -32,6 +36,8 @@ window.showModal = function showModal(element) {
   textDescription.innerHTML = element.dataset.desc;
   textTitle.innerHTML = element.dataset.title.split(";")[0];
   textSubtitle.innerHTML = element.dataset.title.split(";")[1];
+
+  _state_.isModalOpen = true;
 };
 
 window.closeModal = function closeModal() {
@@ -39,6 +45,8 @@ window.closeModal = function closeModal() {
   const iframe = document.querySelector("#modal-video .card iframe");
   modal.style = "display:none;";
   iframe.setAttribute("src", "");
+
+  _state_.isModalOpen = false;
 };
 
 if ("loading" in HTMLImageElement.prototype) {
@@ -101,3 +109,9 @@ if ("loading" in HTMLImageElement.prototype) {
     "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.8/lazysizes.min.js";
   document.body.appendChild(script);
 }
+
+document.addEventListener('keydown', function (e) {
+  if (e.key == "Escape" && _state_.isModalOpen) {
+    window.closeModal();
+  }
+});
