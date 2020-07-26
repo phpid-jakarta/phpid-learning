@@ -57,21 +57,21 @@ html(lang="id")
 			gtag('config', 'UA-97096911-1');			
 
 		//	CSS Style & Fonts
-		link(rel="stylesheet", href="main.less")
-		link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Neucha&family=Patrick+Hand+SC&display=swap")
+		link(rel="stylesheet", href="main.less", media="all")
+		link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Neucha&family=Patrick+Hand+SC&display=swap", media="all")
 
 		// Check Enviroment Mode
 		if env !== 'development'
 			// Note, this vendor only can use after parcel build
-			link(rel="stylesheet", href="vendors/less/vendor.less")
+			link(rel="stylesheet", href="vendors/less/vendor.less", media="all")
 		else
 			// CDN Paper CSS
-			link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/papercss@1.6.1/dist/paper.min.css")
+			link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/papercss@1.6.1/dist/paper.min.css", media="all")
 			// CDN Animate CSS
-			link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css")
 			
 		// CDN Masonry CSS
 		script(src="https://cdn.jsdelivr.net/npm/macy@2")
+			link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css", media="all")
 
 	body
 		// Hero Section
