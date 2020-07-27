@@ -11,7 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
-- [#43 *will update soon*](#will-update-soon)
+- [#43 Anak IT merasa salah jurusan?](#anak-it-merasa-salah-jurusan)
 - [#42 Ask Me Anything with Om Luri Darmawan](#Ask-me-anything-with-om-luri-darmawan)
 - [#41 Belajar Konsep CRM & Menggunakan Software CRM Gratis](#belajar-konsep-crm--menggunakan-software-crm-gratis)
 - [#40 The Journey of Test-Driven Development](#the-journey-of-test-driven-development)
@@ -66,7 +66,7 @@
 - Sesi: 42
 - Deskripsi: -
 
-### will update soon
+### Anak IT merasa salah jurusan?
 
 - Waktu: Sabtu, 1 Agustus 2020
 - Pukul: 19:00
