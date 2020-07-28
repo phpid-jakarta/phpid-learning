@@ -51,12 +51,11 @@ module.exports = {
           }
         },
         {
-          test: /\.(png|webp|jpe?g|gif)$/i,
-          use: [
-            {
-              loader: 'file-loader'
-            }
-          ]
+          test: /\.(png|jpe?g|gif)$/i,
+          loader: 'file-loader',
+          options: {
+            publicPath: 'phpid-online-learning-2020'
+          }
         },
         {
           test: /\.css$/,
