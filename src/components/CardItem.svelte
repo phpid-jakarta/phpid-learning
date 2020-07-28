@@ -4,12 +4,20 @@
 
   let src =
     "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg";
+  let loaded = false;
   let node = null;
   let observer = null;
 
   function onIntersect(entries) {
     if (entries[0].isIntersecting) {
-      src = item.cover;
+      const img = new Image();
+      img.addEventListener('load', function() {
+        src = item.cover;
+        setTimeout(() => {
+          loaded = true;
+        }, 500);
+      }, false);
+      img.src = item.cover;
       observer && observer.unobserve(node);
       window.__macy &&
         window.__macy.recalculate &&
@@ -23,16 +31,35 @@
       threshold: 1.0
     });
 
-    node = document.querySelector(`.js-card--${item.id}`);
+    node = document.querySelector(`.js-image--${item.id}`);
     observer && node && observer.observe(node);
   });
 </script>
 
 <style>
   .card {
-    margin-bottom: 20px;
+    width: 100%;
+    margin-bottom: 13px;
   }
 
+  @media only screen and (min-width: 700px) {
+    .card {
+      width: calc(33.3333% - 13.3333px);
+      margin-right: 13px;
+    }
+  }
+  .card-image {
+    width: auto;
+    min-height: 200px;
+    object-fit: cover;
+    transition: filter .3s linear;
+  }
+  .card-image.is--loading {
+    filter: blur(5px);
+  }
+  .card-image.is--loaded {
+    filter: blur(0);
+  }
   .card .card-body {
     min-height: 200px;
     background: white;
@@ -47,8 +74,8 @@
   }
 </style>
 
-<div class="card js-card--{item.id}">
-  <img class="lazyload" data-src={item.cover} {src} alt={item.topic} />
+<div class="card">
+  <img class="card-image {loaded ? 'is--loaded' : 'is--loading'} js-image--{item.id}" data-src={item.cover} {src} alt={item.topic} />
   <div class="card-body">
     <span class="badge secondary" style="margin-right: .5em">{item.date}</span>
     <span class="badge success">{item.time} WIB</span>

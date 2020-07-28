@@ -10,8 +10,8 @@
   onMount(async () => {
     try {
       const Macy = await import("macy");
-      if (Macy) {
-        window.__macy = Macy({
+      if (Macy && Macy.default) {
+        window.__macy = Macy.default({
           container: "#content-speaker",
           trueOrder: false,
           waitForImages: true,
@@ -23,8 +23,8 @@
           }
         });
       }
-    } catch (e) {
-      console.debug("Error masonry", e);
+    } catch (err) {
+      console.debug("Error masonry", err);
     }
   });
 </script>
@@ -41,6 +41,9 @@
   #content-speaker {
     max-width: 90%;
     margin: 50px auto;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
   }
 </style>
 
