@@ -5,6 +5,9 @@
   <meta charset='utf-8'>
   <meta name='viewport' content='width=device-width,initial-scale=1.0'>
   <meta name='theme-color' content='#343a40'>
+  <link rel='preconnect dns-prefetch' href='https://www.google-analytics.com' crossorigin="">
+  <link rel='preconnect dns-prefetch' href='https://www.googletagmanager.com' crossorigin="">
+  <link rel='preconnect dns-prefetch' href='https://fonts.googleapis.com' crossorigin="">
 
   <title>PHPID Online Learning 2020 by PHPID</title>
   <meta name="description" content="Daftar online learning yang diadakan oleh komunitas PHPID" />
@@ -31,9 +34,6 @@
 
   %sapper.styles%
   %sapper.head%
-
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/papercss@1.6.1/dist/paper.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css">
 
   <!-- Google Fonts -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Neucha&amp;family=Patrick+Hand+SC&amp;display=swap">
@@ -89,13 +89,13 @@
   </style>
 
   <!-- Google Analytics -->
-  <!-- <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-97096911-1"></script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-97096911-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'UA-97096911-1');
-  </script> -->
+  </script>
 
 </head>
 
@@ -135,7 +135,6 @@
       setTheme(preferredTheme || (darkQuery.matches ? 'dark' : 'light'));
     })();
   </script>
-  <script async="" src="https://cdn.jsdelivr.net/npm/macy@2"></script>
 </body>
 
 </html>

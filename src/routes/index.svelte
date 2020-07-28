@@ -7,11 +7,12 @@
   import Footer from "../components/Footer.svelte";
   import Modal from "../components/Modal.svelte";
 
-  onMount(() => {
+  onMount(async () => {
     try {
+      const Macy = await import("macy");
       if (Macy) {
         window.__macy = Macy({
-          container: '#content-speaker',
+          container: "#content-speaker",
           trueOrder: false,
           waitForImages: true,
           margin: 20,
@@ -20,10 +21,10 @@
             520: 1,
             400: 1
           }
-        })
+        });
       }
     } catch (e) {
-      console.debug('Error masonry', e)
+      console.debug("Error masonry", e);
     }
   });
 </script>
@@ -61,4 +62,3 @@
   <Footer />
   <Modal />
 </main>
-

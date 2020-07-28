@@ -5,7 +5,7 @@
 <style>
 .hero-image {
   min-height: 100vh;
-  background: url("./new_bg_hero.webp");
+  background: url('./assets/new_bg_hero.webp');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 500px;
