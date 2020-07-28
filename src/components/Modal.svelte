@@ -6,13 +6,13 @@
   display: none;
 }
 
-#modal-video .wrapper {
+.wrapper {
   height: 100vh;
   background: black;
   opacity: 0.88;
 }
 
-#modal-video .card {
+.card {
   position: absolute;
   width: 100%;
   height: 100vh;
@@ -21,11 +21,14 @@
   border: none;
 }
 
-#modal-video .card .card-body {
+.card .card-body {
   position: relative;
 }
+.card-title, .card-subtitle {
+  font-family: "Neucha", sans-serif;
+}
 
-#modal-video .card .card-body .card-actions {
+.card .card-body .card-actions {
   position: absolute;
   width: 100%;
   bottom: 0;
@@ -37,16 +40,16 @@
   flex-direction: column;
 }
 
-#modal-video .card .card-body .card-actions button {
+.card .card-body .card-actions button {
   display: block;
   margin: 10px 0px;
 }
 
-#modal-video .card iframe {
+.card iframe {
   width: 100%;
 }
 @media only screen and (min-width: 700px) {
-  #modal-video .card {
+  .card {
     width: 800px;
     height: 700px;
     top: 50%;
@@ -54,18 +57,18 @@
     transform: translate(-50%, -50%);
   }
 
-  #modal-video .card .card-body .card-actions {
+  .card .card-body .card-actions {
     text-align: left;
     display: block;
     bottom: 0;
   }
 
-  #modal-video .card .card-body .card-actions button {
+  .card .card-body .card-actions button {
     display: inline;
     margin: 10px 10px;
   }
 
-  #modal-video .card iframe {
+  .card iframe {
     height: 450px;
   }
 }

@@ -60,6 +60,9 @@
   .card-image.is--loaded {
     filter: blur(0);
   }
+  .card-title, .card-subtitle {
+    font-family: "Neucha", sans-serif;
+  }
   .card .card-body {
     min-height: 200px;
     background: white;
