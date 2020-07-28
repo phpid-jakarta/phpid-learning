@@ -39,11 +39,13 @@
 .hero-text h1 {
   margin: 20px 0 0 0;
   font-size: 2rem;
+  font-family: "Neucha", sans-serif;
 }
 
 .hero-text h3 {
   margin: 0;
   font-size: 1.25rem;
+  font-family: "Neucha", sans-serif;
 }
 
 .hero-text span {
