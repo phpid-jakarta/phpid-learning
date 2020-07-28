@@ -28,16 +28,18 @@
 }
 
 .hero-text {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
   text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
 }
 
 .hero-text h1 {
-  margin: 20px 0 0 0;
+  margin: 20px 0;
   font-size: 2rem;
   font-family: "Neucha", sans-serif;
 }
@@ -69,7 +71,9 @@
   background-color: #555;
   color: white;
 }
-
+.hero-button {
+  display: flex;
+}
 .hero-arrow {
   position: absolute;
   bottom: 20px;
@@ -109,12 +113,14 @@
       <h1 class="animate__animated animate__bounce">PHPID Online Learning 2020</h1>
       <h3 class="animate__animated animate__bounce">{$allData.length} Materi</h3>
       <span class="animate__animated animate__bounce">{dateRange}</span>
-      <a href="https://github.com/phpid-jakarta/phpid-online-learning-2020/" target="_blank" rel="noopener" title="Github">
-        <button class="animate__animated animate__bounceIn">Github</button>
-      </a>
-      <a href="https://www.facebook.com/groups/phpid/" target="_blank" rel="noopener" title="Facebook Group PHPID">
-        <button class="btn-secondary animate__animated animate__bounceIn">FB Group</button>
-      </a>
+      <div class="hero-button">
+        <a href="https://github.com/phpid-jakarta/phpid-online-learning-2020/" target="_blank" rel="noopener" title="Github">
+          <button class="animate__animated animate__bounceIn">Github</button>
+        </a>
+        <a href="https://www.facebook.com/groups/phpid/" target="_blank" rel="noopener" title="Facebook Group PHPID">
+          <button class="btn-secondary animate__animated animate__bounceIn">FB Group</button>
+        </a>
+      </div>
     </div>
     <div class="hero-arrow">
       <span class="animate__animated animate__bounceIn animate__delay-1s">Lihat Semua Pemateri</span>
