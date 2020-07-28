@@ -1,9 +1,18 @@
 <script>
   import { allData } from "../store";
 
+  const getDateOnly = (val = '') => {
+    let res = val;
+    const arr = res.split(',')
+    if (arr && arr.length > 1) {
+      res = arr[1].trim();
+    }
+    return res;
+  }
+
   const dataLength = $allData.length;
-  const dataStart = $allData[0].date.split(',')[1].trim();
-  const dataEnd = $allData[dataLength - 1].date.split(',')[1].trim();
+  const dataStart = getDateOnly($allData[0].date);
+  const dataEnd = getDateOnly($allData[dataLength - 1].date);
   const dateRange = `${dataStart} - ${dataEnd}`;
 </script>
 

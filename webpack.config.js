@@ -30,6 +30,31 @@ const preprocess = sveltePreprocess({
   }
 })
 
+const fileLoader = {
+  test: /\.(webp|png|jpe?g|gif)$/i,
+  loader: 'file-loader',
+  options: {
+    name: dev ? '[name].[ext]' : '[name].[contenthash].[ext]',
+    publicPath: '/phpid-online-learning-2020/client'
+  }
+}
+
+const cssLoader = {
+  test: /\.css$/,
+  use: [
+    {
+      loader: MiniCssExtractPlugin.loader,
+      options: {
+        publicPath: 'phpid-online-learning-2020'
+        // publicPath: (resourcePath, context) => {
+        //   return path.relative(path.dirname(resourcePath), context) + '/'
+        // }
+      }
+    },
+    'css-loader'
+  ]
+}
+
 module.exports = {
   client: {
     entry: config.client.entry(),
@@ -50,27 +75,8 @@ module.exports = {
             }
           }
         },
-        {
-          test: /\.(png|jpe?g|gif)$/i,
-          loader: 'file-loader',
-          options: {
-            publicPath: 'phpid-online-learning-2020'
-          }
-        },
-        {
-          test: /\.css$/,
-          use: [
-            {
-              loader: MiniCssExtractPlugin.loader,
-              options: {
-                publicPath: (resourcePath, context) => {
-                  return path.relative(path.dirname(resourcePath), context) + '/'
-                }
-              }
-            },
-            'css-loader'
-          ]
-        }
+        fileLoader,
+        cssLoader
       ]
     },
     mode,
@@ -82,8 +88,8 @@ module.exports = {
         'process.env.NODE_ENV': JSON.stringify(mode)
       }),
       new MiniCssExtractPlugin({
-        filename: '[name].css',
-        chunkFilename: '[id].css'
+        name: dev ? '[name].css' : '[name].[contenthash].css',
+        chunkFilename: dev ? '[name].css' : '[name].[contenthash].css'
       })
     ].filter(Boolean),
     devtool: dev && 'inline-source-map'
@@ -107,7 +113,9 @@ module.exports = {
               preprocess
             }
           }
-        }
+        },
+        fileLoader,
+        cssLoader
       ]
     },
     mode: process.env.NODE_ENV,
