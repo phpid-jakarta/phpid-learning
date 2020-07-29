@@ -48,7 +48,7 @@
 </style>
 
 <svelte:head>
-  <title>Ajari Koding oleh PHPID</title>
+  <title>PHPID Online Learning 2020 by PHPID</title>
 </svelte:head>
 
 <main id="page-index">
