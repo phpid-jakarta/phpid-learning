@@ -1,11 +1,25 @@
 <script>
   import { allData } from "../store";
+
+  const getDateOnly = (val = '') => {
+    let res = val;
+    const arr = res.split(',')
+    if (arr && arr.length > 1) {
+      res = arr[1].trim();
+    }
+    return res;
+  }
+
+  const dataLength = $allData.length;
+  const dataStart = getDateOnly($allData[0].date);
+  const dataEnd = getDateOnly($allData[dataLength - 1].date);
+  const dateRange = `${dataStart} - ${dataEnd}`;
 </script>
 
 <style>
 .hero-image {
   min-height: 100vh;
-  background: url("./new_bg_hero.webp");
+  background: url('./assets/new_bg_hero.webp');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 500px;
@@ -14,22 +28,26 @@
 }
 
 .hero-text {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
   text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
 }
 
 .hero-text h1 {
-  margin: 20px 0 0 0;
+  margin: 20px 0;
   font-size: 2rem;
+  font-family: "Neucha", sans-serif;
 }
 
 .hero-text h3 {
   margin: 0;
   font-size: 1.25rem;
+  font-family: "Neucha", sans-serif;
 }
 
 .hero-text span {
@@ -53,7 +71,9 @@
   background-color: #555;
   color: white;
 }
-
+.hero-button {
+  display: flex;
+}
 .hero-arrow {
   position: absolute;
   bottom: 20px;
@@ -90,12 +110,23 @@
 <header class="header">
   <div class="hero-image">
     <div class="hero-text">
-      <h3 class="animate__animated animate__bounce">PHPID Online Learning 2020</h3>
-      <h1 class="animate__animated animate__bounce">{$allData.length} Materi</h1><span class="animate__animated animate__bounce">{$allData[0].date} - {$allData[$allData.length - 1].date}</span><a href="https://github.com/phpid-jakarta/phpid-online-learning-2020/" target="_blank" rel="noopener" title="Github">
-        <button class="animate__animated animate__bounceIn">Github</button></a><a href="https://www.facebook.com/groups/phpid/" target="_blank" rel="noopener" title="Facebook Group PHPID">
-        <button class="btn-secondary animate__animated animate__bounceIn">FB Group</button></a>
+      <h1 class="animate__animated animate__bounce">PHPID Online Learning 2020</h1>
+      <h3 class="animate__animated animate__bounce">{$allData.length} Materi</h3>
+      <span class="animate__animated animate__bounce">{dateRange}</span>
+      <div class="hero-button">
+        <a href="https://github.com/phpid-jakarta/phpid-online-learning-2020/" target="_blank" rel="noopener" title="Github">
+          <button class="animate__animated animate__bounceIn">Github</button>
+        </a>
+        <a href="https://www.facebook.com/groups/phpid/" target="_blank" rel="noopener" title="Facebook Group PHPID">
+          <button class="btn-secondary animate__animated animate__bounceIn">FB Group</button>
+        </a>
+      </div>
     </div>
-    <div class="hero-arrow"><span class="animate__animated animate__bounceIn animate__delay-1s">Lihat Semua Pemateri</span><a href="#content-speaker">
-        <button class="animate__animated animate__bounceIn animate__delay-1s">&darr;</button></a></div>
+    <div class="hero-arrow">
+      <span class="animate__animated animate__bounceIn animate__delay-1s">Lihat Semua Pemateri</span>
+      <a href="#content-speaker">
+        <button class="animate__animated animate__bounceIn animate__delay-1s">&darr;</button>
+      </a>
+    </div>
   </div>
 </header>

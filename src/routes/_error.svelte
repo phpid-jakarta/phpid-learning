@@ -28,7 +28,7 @@
 </style>
 
 <svelte:head>
-	<title>Error {status} | Ajari Koding</title>
+	<title>Error {status} | PHPID Online Learning 2020 by PHPID</title>
 </svelte:head>
 
 <main id="page-error">

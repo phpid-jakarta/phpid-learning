@@ -2,7 +2,7 @@
 
 ![PHPID](https://img.shields.io/badge/PHPID-Community-blue?cacheSeconds=604800) ![Contribution](https://img.shields.io/badge/Contributions-Welcome-green.svg?cacheSeconds=604800) ![Generate JSON](https://github.com/phpid-jakarta/phpid-online-learning-2020/workflows/Generate%20JSON/badge.svg?branch=master)
 
-👩‍🏫 List of resources PHPID online learning 2020
+[![PHPID Online Learning 2020](meta-image.png)](https://s.id/phpid-learning)
 
 ## Data bisa juga diakses lewat
 
@@ -11,7 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
-- [#43 *will update soon*](#will-update-soon)
+- [#43 Anak IT merasa salah jurusan?](#anak-it-merasa-salah-jurusan)
 - [#42 Ask Me Anything with Om Luri Darmawan](#Ask-me-anything-with-om-luri-darmawan)
 - [#41 Belajar Konsep CRM & Menggunakan Software CRM Gratis](#belajar-konsep-crm--menggunakan-software-crm-gratis)
 - [#40 The Journey of Test-Driven Development](#the-journey-of-test-driven-development)
@@ -66,7 +66,7 @@
 - Sesi: 42
 - Deskripsi: -
 
-### will update soon
+### Anak IT merasa salah jurusan?
 
 - Waktu: Sabtu, 1 Agustus 2020
 - Pukul: 19:00
