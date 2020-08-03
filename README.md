@@ -11,6 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#44 Data Science Methodology](#data-science-methodology)
 - [#43 Anak IT merasa salah jurusan?](#anak-it-merasa-salah-jurusan)
 - [#42 Ask Me Anything with Om Luri Darmawan](#Ask-me-anything-with-om-luri-darmawan)
 - [#41 Belajar Konsep CRM & Menggunakan Software CRM Gratis](#belajar-konsep-crm--menggunakan-software-crm-gratis)
@@ -63,8 +64,19 @@
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
-- Sesi: 42
+- Sesi: 45
 - Deskripsi: -
+
+### Data Science Methodology
+
+- Waktu: Sabtu, 8 Agustus 2020
+- Pukul: 19:00
+- Pemateri: Imam Aris Munandar
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZIvdOyhpjwuGdJIz7cRT9EOi_eH8ghTfMAi
+- Sesi: 44
+- Deskripsi: 
 
 ### Anak IT merasa salah jurusan?
 
@@ -72,10 +84,10 @@
 - Pukul: 19:00
 - Pemateri: Anne Regina
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZIlfuCsqDIsG920wfiveGUMKrBoOrC4dbDs
+- Video: https://www.facebook.com/peterjkambey/videos/10220309143376497/
+- Registrasi: empty
 - Sesi: 43
-- Deskripsi: 
+- Deskripsi: How to survive and be a champion in the Technology fields berdasarkan pengalaman, pengamatan, pembelajaran pemateri
 
 ### Ask Me Anything with Om Luri Darmawan
 
