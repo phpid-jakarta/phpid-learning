@@ -5,7 +5,6 @@
   let src =
     "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg";
   let loaded = false;
-  let node = null;
   let observer = null;
 
   function onIntersect(entries) {
@@ -31,7 +30,7 @@
       threshold: 1.0
     });
 
-    node = document.querySelector(`.js-image--${item.id}`);
+    const node = document.querySelector(`.js-image--${item.id}`);
     observer && node && observer.observe(node);
   });
 </script>
