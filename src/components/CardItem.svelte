@@ -5,24 +5,24 @@
   let src =
     "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg";
   let loaded = false;
-  let node = null;
   let observer = null;
 
   function onIntersect(entries) {
-    if (entries[0].isIntersecting) {
-      const img = new Image();
-      img.addEventListener('load', function() {
-        src = item.cover;
-        setTimeout(() => {
-          loaded = true;
-        }, 500);
-      }, false);
-      img.src = item.cover;
-      observer && observer.unobserve(node);
-      window.__macy &&
-        window.__macy.recalculate &&
-        window.__macy.recalculate(true);
-    }
+    entries.forEach(node => {
+      if (!node.isIntersecting) return false;
+
+      node.target.onload = () => {
+        loaded = true;
+
+        window.__macy &&
+          window.__macy.recalculate &&
+          window.__macy.recalculate(true);
+      };
+
+      node.target.src = item.cover;
+
+      observer && observer.unobserve(node.target);
+    });
   }
 
   onMount(() => {
@@ -31,7 +31,7 @@
       threshold: 1.0
     });
 
-    node = document.querySelector(`.js-image--${item.id}`);
+    const node = document.querySelector(`.js-image--${item.id}`);
     observer && node && observer.observe(node);
   });
 </script>
@@ -58,6 +58,7 @@
     filter: blur(5px);
   }
   .card-image.is--loaded {
+    transition-delay: .5s;
     filter: blur(0);
   }
   .card-title, .card-subtitle {
