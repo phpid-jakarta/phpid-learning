@@ -8,20 +8,21 @@
   let observer = null;
 
   function onIntersect(entries) {
-    if (entries[0].isIntersecting) {
-      const img = new Image();
-      img.addEventListener('load', function() {
-        src = item.cover;
-        setTimeout(() => {
-          loaded = true;
-        }, 500);
-      }, false);
-      img.src = item.cover;
-      observer && observer.unobserve(node);
-      window.__macy &&
-        window.__macy.recalculate &&
-        window.__macy.recalculate(true);
-    }
+    entries.forEach(node => {
+      if (!node.isIntersecting) return false;
+
+      node.target.onload = () => {
+        loaded = true;
+
+        window.__macy &&
+          window.__macy.recalculate &&
+          window.__macy.recalculate(true);
+      };
+
+      node.target.src = item.cover;
+
+      observer && observer.unobserve(node.target);
+    });
   }
 
   onMount(() => {
