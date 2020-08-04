@@ -58,6 +58,7 @@
     filter: blur(5px);
   }
   .card-image.is--loaded {
+    transition-delay: .5s;
     filter: blur(0);
   }
   .card-title, .card-subtitle {
