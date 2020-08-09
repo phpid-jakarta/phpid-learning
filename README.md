@@ -11,6 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#45 How to Become a Solution Analyst for Banking Industry](#how-to-become-a-solution-analyst-for-banking-industry)
 - [#44 Data Science Methodology](#data-science-methodology)
 - [#43 Anak IT merasa salah jurusan?](#anak-it-merasa-salah-jurusan)
 - [#42 Ask Me Anything with Om Luri Darmawan](#Ask-me-anything-with-om-luri-darmawan)
@@ -67,14 +68,25 @@
 - Sesi: 45
 - Deskripsi: -
 
+### How to Become a Solution Analyst for Banking Industry
+
+- Waktu: Minggu, 16 Agustus 2020
+- Pukul: 19:00
+- Pemateri: Juwita Sihombing
+- Slide: empty
+- Video: empty
+- Registrasi: https://us02web.zoom.us/meeting/register/tZEsdO2vrDkvEtKdRY69ENEH5nfDzASIG0Qa
+- Sesi: 45
+- Deskripsi: 
+
 ### Data Science Methodology
 
 - Waktu: Sabtu, 8 Agustus 2020
 - Pukul: 19:00
 - Pemateri: Imam Aris Munandar
 - Slide: empty
-- Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZIvdOyhpjwuGdJIz7cRT9EOi_eH8ghTfMAi
+- Video: https://www.facebook.com/groups/phpid/permalink/10158471678691101/
+- Registrasi : empty
 - Sesi: 44
 - Deskripsi: 
 
