@@ -86,7 +86,7 @@
 - Pemateri: Imam Aris Munandar
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10158471678691101/
-- Registrasi : empty
+- Registrasi: empty
 - Sesi: 44
 - Deskripsi: 
 
