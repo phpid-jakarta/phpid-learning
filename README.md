@@ -77,7 +77,7 @@
 - Video: empty
 - Registrasi: https://us02web.zoom.us/meeting/register/tZEsdO2vrDkvEtKdRY69ENEH5nfDzASIG0Qa
 - Sesi: 45
-- Deskripsi: 
+- Deskripsi:
 
 ### Data Science Methodology
 
@@ -88,7 +88,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158471678691101/
 - Registrasi: empty
 - Sesi: 44
-- Deskripsi: 
+- Deskripsi:
 
 ### Anak IT merasa salah jurusan?
 
@@ -206,7 +206,7 @@
 - Pukul: 19:00
 - Pemateri: Om Prayudi Utomo
 - Slide: empty
-- Video: https://www.facebook.com/peterjkambey/videos/10219888776907598
+- Video: https://www.facebook.com/peterjkambey/videos/10219905788772884
 - Registrasi: empty
 - Sesi: 33
 - Deskripsi: -
