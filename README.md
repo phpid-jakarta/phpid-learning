@@ -11,6 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#46 Optimizing & Scaling MySQL Web Application](#optimizing-scaling-mysql-web-application)
 - [#45 How to Become a Solution Analyst for Banking Industry](#how-to-become-a-solution-analyst-for-banking-industry)
 - [#44 Data Science Methodology](#data-science-methodology)
 - [#43 Anak IT merasa salah jurusan?](#anak-it-merasa-salah-jurusan)
@@ -65,8 +66,19 @@
 - Slide: empty
 - Video: empty
 - Registrasi: coming soon
-- Sesi: 45
+- Sesi: 47
 - Deskripsi: -
+
+### Optimizing & Scaling MySQL Web Application
+
+- Waktu: Minggu, 6 September 2020
+- Pukul: 18:30
+- Pemateri: Nur Hidayat
+- Slide: empty
+- Video: https://web.facebook.com/groups/phpid/permalink/10158547046866101/
+- Registrasi: empty
+- Sesi: 46
+- Deskripsi:
 
 ### How to Become a Solution Analyst for Banking Industry
 
@@ -75,7 +87,7 @@
 - Pemateri: Juwita Sihombing
 - Slide: empty
 - Video: empty
-- Registrasi: https://us02web.zoom.us/meeting/register/tZEsdO2vrDkvEtKdRY69ENEH5nfDzASIG0Qa
+- Registrasi: empty
 - Sesi: 45
 - Deskripsi:
 
