@@ -11,7 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
-- [#46 Optimizing & Scaling MySQL Web Application](#optimizing-scaling-mysql-web-application)
+- [#46 Optimizing & Scaling MySQL Web Application](#optimizing--scaling-mysql-web-application)
 - [#45 How to Become a Solution Analyst for Banking Industry](#how-to-become-a-solution-analyst-for-banking-industry)
 - [#44 Data Science Methodology](#data-science-methodology)
 - [#43 Anak IT merasa salah jurusan?](#anak-it-merasa-salah-jurusan)
