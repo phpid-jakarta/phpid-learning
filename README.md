@@ -11,6 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#47 Membangun Aplikasi Laravel Microservices dengan AWS](#membangun-aplikasi-laravel-microservices-dengan-aws)
 - [#46 Optimizing & Scaling MySQL Web Application](#optimizing--scaling-mysql-web-application)
 - [#45 How to Become a Solution Analyst for Banking Industry](#how-to-become-a-solution-analyst-for-banking-industry)
 - [#44 Data Science Methodology](#data-science-methodology)
@@ -68,6 +69,17 @@
 - Registrasi: coming soon
 - Sesi: 47
 - Deskripsi: -
+
+### Membangun Aplikasi Laravel Microservices dengan AWS
+
+- Waktu: Jumat, 18 September 2020
+- Pukul: 18:00
+- Pemateri: Petra Novandi Barus
+- Slide: empty
+- Video: empty
+- Registrasi: empty
+- Sesi: 47
+- Deskripsi:
 
 ### Optimizing & Scaling MySQL Web Application
 
