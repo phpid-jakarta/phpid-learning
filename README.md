@@ -74,7 +74,7 @@
 
 ### Mengenal Teknologi Web Terdesentralisasi
 
-- Waktu: Minggu, 6 Oktober 2020
+- Waktu: Minggu, 4 Oktober 2020
 - Pukul: 18:30
 - Pemateri: Kabul Kurniawan
 - Slide: empty
