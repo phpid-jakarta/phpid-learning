@@ -11,6 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#48 Mengenal Teknologi Web Terdesentralisasi](#mengenal-teknologi-web-terdesentralisasi)
 - [#47 Membangun Aplikasi Laravel Microservices dengan AWS](#membangun-aplikasi-laravel-microservices-dengan-aws)
 - [#46 Optimizing & Scaling MySQL Web Application](#optimizing--scaling-mysql-web-application)
 - [#45 How to Become a Solution Analyst for Banking Industry](#how-to-become-a-solution-analyst-for-banking-industry)
@@ -61,13 +62,25 @@
 
 ### Template sesi selanjutnya
 
-- Waktu: Hari, XX Juli 2020
+- Waktu: Hari, XX Oktober 2020
 - Pukul: 19:00
 - Pemateri: empty
 - Slide: empty
 - Video: empty
-- Registrasi: coming soon
-- Sesi: 47
+- Registrasi: empty
+- Sesi: 48
+- Deskripsi: -
+
+
+### Mengenal Teknologi Web Terdesentralisasi
+
+- Waktu: Minggu, 6 Oktober 2020
+- Pukul: 16:00
+- Pemateri: Kabul Kurniawan
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/8cHqQSY9S
+- Sesi: 48
 - Deskripsi: -
 
 ### Membangun Aplikasi Laravel Microservices dengan AWS
