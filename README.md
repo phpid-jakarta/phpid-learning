@@ -11,6 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#49 Static Wordpress Hosting dengan S3 dan CloudFront](#static-wordpress-hosting-dengan-s3-dan-cloudfront)
 - [#48 Mengenal Teknologi Web Terdesentralisasi](#mengenal-teknologi-web-terdesentralisasi)
 - [#47 Membangun Aplikasi Laravel Microservices dengan AWS](#membangun-aplikasi-laravel-microservices-dengan-aws)
 - [#46 Optimizing & Scaling MySQL Web Application](#optimizing--scaling-mysql-web-application)
@@ -71,6 +72,17 @@
 - Sesi: 48
 - Deskripsi: -
 
+
+### Static Wordpress Hosting dengan S3 dan CloudFront
+
+- Waktu: Kamis, 22 Oktober 2020
+- Pukul: 19:00
+- Pemateri: Rio Astamal
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/1744900422345766
+- Sesi: 49
+- Deskripsi: -
 
 ### Mengenal Teknologi Web Terdesentralisasi
 
