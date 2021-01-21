@@ -11,6 +11,8 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#51 PHP Native Series: PDO & MySQL](#php-native-series-pdo-mysql)
+- [#50 Amazon Simple Storage Service (S3) For PHP Developer](#amazon-simple-storage-service-(S3)-for-php-developer)
 - [#49 Static Wordpress Hosting dengan S3 dan CloudFront](#static-wordpress-hosting-dengan-s3-dan-cloudfront)
 - [#48 Mengenal Teknologi Web Terdesentralisasi](#mengenal-teknologi-web-terdesentralisasi)
 - [#47 Membangun Aplikasi Laravel Microservices dengan AWS](#membangun-aplikasi-laravel-microservices-dengan-aws)
@@ -72,6 +74,28 @@
 - Sesi: 48
 - Deskripsi: -
 
+
+### PHP Native Series: PDO & MySQL
+
+- Waktu: Rabu, 27 Januari 2021
+- Pukul: 19:00
+- Pemateri: Petra Novandi Baru
+- Slide: empty
+- Video: empty
+- Registrasi: empty
+- Sesi: 51
+- Deskripsi: -
+
+### Amazon Simple Storage Service (S3) For PHP Developer
+
+- Waktu: Selasa, 26 Januari 2021
+- Pukul: 19:00
+- Pemateri: Gunawan Wibisono
+- Slide: empty
+- Video: empty
+- Registrasi: empty
+- Sesi: 50
+- Deskripsi: -
 
 ### Static Wordpress Hosting dengan S3 dan CloudFront
 
