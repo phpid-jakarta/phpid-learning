@@ -11,8 +11,8 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
-- [#51 PHP Native Series: PDO & MySQL](#php-native-series-pdo-mysql)
-- [#50 Amazon Simple Storage Service (S3) For PHP Developer](#amazon-simple-storage-service-(S3)-for-php-developer)
+- [#51 PHP Native Series: PDO & MySQL](#php-native-series-pdo--mysql)
+- [#50 Amazon Simple Storage Service (S3) For PHP Developer](#amazon-simple-storage-service-s3-for-php-developer)
 - [#49 Static Wordpress Hosting dengan S3 dan CloudFront](#static-wordpress-hosting-dengan-s3-dan-cloudfront)
 - [#48 Mengenal Teknologi Web Terdesentralisasi](#mengenal-teknologi-web-terdesentralisasi)
 - [#47 Membangun Aplikasi Laravel Microservices dengan AWS](#membangun-aplikasi-laravel-microservices-dengan-aws)
