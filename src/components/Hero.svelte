@@ -110,7 +110,7 @@
 <header class="header">
   <div class="hero-image">
     <div class="hero-text">
-      <h1 class="animate__animated animate__bounce">PHPID Online Learning 2020</h1>
+      <h1 class="animate__animated animate__bounce">PHPID Online Learning</h1>
       <h3 class="animate__animated animate__bounce">{$allData.length} Materi</h3>
       <span class="animate__animated animate__bounce">{dateRange}</span>
       <div class="hero-button">
@@ -123,7 +123,7 @@
       </div>
     </div>
     <div class="hero-arrow">
-      <span class="animate__animated animate__bounceIn animate__delay-1s">Lihat Semua Pemateri</span>
+      <span class="animate__animated animate__bounceIn animate__delay-1s">Lihat Semua Materi</span>
       <a href="#content-speaker">
         <button class="animate__animated animate__bounceIn animate__delay-1s">&darr;</button>
       </a>
