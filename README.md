@@ -6,7 +6,7 @@
 
 ## Data bisa juga diakses lewat
 
-- Web UI: [s.id/phpid-learning](https://s.id/phpid-learning)
+- Web UI: [https://phpid-jakarta.github.io/phpid-learning/](https://phpid-jakarta.github.io/phpid-learning/)
 - JSON: Lihat berkas [data.json](data.json)
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
