@@ -91,7 +91,7 @@
 - Pukul: 19:00
 - Pemateri: Gunawan Wibisono
 - Slide: empty
-- Video: empty
+- Video: https://www.facebook.com/groups/phpid/permalink/10158903307736101/
 - Registrasi: empty
 - Sesi: 50
 - Deskripsi: -
