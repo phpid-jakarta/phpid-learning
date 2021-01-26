@@ -113,8 +113,8 @@
 - Pukul: 18:30
 - Pemateri: Kabul Kurniawan
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/8cHqQSY9S
+- Video: https://www.facebook.com/story.php?story_fbid=10222872532977916&id=1114812411
+- Registrasi: empty
 - Sesi: 48
 - Deskripsi: -
 
