@@ -78,7 +78,7 @@
 
 - Waktu: Rabu, 27 Januari 2021
 - Pukul: 19:00
-- Pemateri: Gunawan Wibisono
+- Pemateri: Petra Novandi Barus
 - Slide: empty
 - Video: empty
 - Registrasi: empty
@@ -89,7 +89,7 @@
 
 - Waktu: Selasa, 26 Januari 2021
 - Pukul: 19:00
-- Pemateri: Petra Novandi Baru
+- Pemateri: Gunawan Wibisono
 - Slide: empty
 - Video: empty
 - Registrasi: empty
