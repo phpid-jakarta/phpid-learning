@@ -3,7 +3,7 @@
   export let item;
 
   let src =
-    "https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover/default.jpg";
+    "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/default.jpg";
   let loaded = false;
   let observer = null;
 

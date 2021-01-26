@@ -25,7 +25,7 @@ const writeFile = (pathFile, contentString) => {
 }
 
 const getCoverUrl = (idx) => {
-  const basePathImage = 'https://github.com/phpid-jakarta/phpid-online-learning-2020/raw/master/cover'
+  const basePathImage = 'https://github.com/phpid-jakarta/phpid-learning/raw/master/cover'
   const filePath = path.resolve(`./cover/${idx}.jpg`)
   if (fs.existsSync(filePath)) {
     return `${basePathImage}/${idx}.jpg`

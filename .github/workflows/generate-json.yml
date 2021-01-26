@@ -40,12 +40,12 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:
           name: build-artifact
-          path: __sapper__/export/phpid-online-learning-2020/
+          path: __sapper__/export/phpid-learning/
       - name: GitHub Pages Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./__sapper__/export/phpid-online-learning-2020/
+          publish_dir: ./__sapper__/export/phpid-learning/
       - name: Commit files report
         run: |
           git config --local user.email "mazipanneh@gmail.com"

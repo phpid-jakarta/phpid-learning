@@ -8,7 +8,7 @@ const dev = NODE_ENV === 'development'
 
 polka() // You can also use Express
   .use(
-    '/phpid-online-learning-2020',
+    '/phpid-learning',
     compression({ threshold: 0 }),
     sirv('static', { dev }),
     sapper.middleware()

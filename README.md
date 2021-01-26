@@ -1,6 +1,6 @@
 # Belajar daring bersama PHPID
 
-![PHPID](https://img.shields.io/badge/PHPID-Community-blue?cacheSeconds=604800) ![Contribution](https://img.shields.io/badge/Contributions-Welcome-green.svg?cacheSeconds=604800) ![Generate JSON](https://github.com/phpid-jakarta/phpid-online-learning-2020/workflows/Generate%20JSON/badge.svg?branch=master)
+![PHPID](https://img.shields.io/badge/PHPID-Community-blue?cacheSeconds=604800) ![Contribution](https://img.shields.io/badge/Contributions-Welcome-green.svg?cacheSeconds=604800) ![Generate JSON](https://github.com/phpid-jakarta/phpid-learning/workflows/Generate%20JSON/badge.svg?branch=master)
 
 [![Belajar daring bersama PHPID](phpid-learning.jpg)](https://s.id/phpid-learning)
 

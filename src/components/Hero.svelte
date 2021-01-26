@@ -114,7 +114,7 @@
       <h3 class="animate__animated animate__bounce">{$allData.length} Materi</h3>
       <span class="animate__animated animate__bounce">{dateRange}</span>
       <div class="hero-button">
-        <a href="https://github.com/phpid-jakarta/phpid-online-learning-2020/" target="_blank" rel="noopener" title="Github">
+        <a href="https://github.com/phpid-jakarta/phpid-learning/" target="_blank" rel="noopener" title="Github">
           <button class="animate__animated animate__bounceIn">Github</button>
         </a>
         <a href="https://www.facebook.com/groups/phpid/" target="_blank" rel="noopener" title="Facebook Group PHPID">

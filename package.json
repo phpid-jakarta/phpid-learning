@@ -1,23 +1,23 @@
 {
-  "name": "phpid-online-learning-2020",
+  "name": "phpid-learning",
   "version": "1.0.0",
-  "description": "👩‍🏫 List of resources PHPID online learning 2020",
+  "description": "👩‍🏫 Belajar daring bersama PHPID",
   "main": "toJson.js",
   "scripts": {
     "toJson": "node ./toJson.js",
     "dev": "sapper dev",
     "build": "sapper build",
     "start": "node __sapper__/build",
-    "export": "cross-env NODE_ENV=production sapper export --basepath phpid-online-learning-2020",
+    "export": "cross-env NODE_ENV=production sapper export --basepath phpid-learning",
     "lint": "eslint **/*.svelte --fix"
   },
-  "repository": "git+https://github.com/phpid-jakarta/phpid-online-learning-2020.git",
+  "repository": "git+https://github.com/phpid-jakarta/phpid-learning.git",
   "author": "PHPID Teams",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/phpid-jakarta/phpid-online-learning-2020/issues"
+    "url": "https://github.com/phpid-jakarta/phpid-learning/issues"
   },
-  "homepage": "https://github.com/phpid-jakarta/phpid-online-learning-2020#readme",
+  "homepage": "https://github.com/phpid-jakarta/phpid-learning#readme",
   "dependencies": {
     "compression": "1.7.4",
     "macy": "^2.5.1",

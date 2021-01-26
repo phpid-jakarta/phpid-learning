@@ -35,7 +35,7 @@ const fileLoader = {
   loader: 'file-loader',
   options: {
     name: dev ? '[name].[ext]' : '[name].[contenthash].[ext]',
-    publicPath: '/phpid-online-learning-2020/client'
+    publicPath: '/phpid-learning/client'
   }
 }
 
@@ -45,7 +45,7 @@ const cssLoader = {
     {
       loader: MiniCssExtractPlugin.loader,
       options: {
-        publicPath: 'phpid-online-learning-2020'
+        publicPath: 'phpid-learning'
         // publicPath: (resourcePath, context) => {
         //   return path.relative(path.dirname(resourcePath), context) + '/'
         // }
