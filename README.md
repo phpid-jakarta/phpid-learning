@@ -74,7 +74,7 @@
 - Sesi: 48
 - Deskripsi: -
 
-### Amazon Simple Storage Service (S3) For PHP Developer
+### Amazon Simple Storage Service (S3) For PHP Developer (Cancelled)
 
 - Waktu: Rabu, 27 Januari 2021
 - Pukul: 19:00
