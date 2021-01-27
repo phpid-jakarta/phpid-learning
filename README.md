@@ -11,7 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
-- [#51 Amazon Simple Storage Service (S3) For PHP Developer](#amazon-simple-storage-service-s3-for-php-developer)
+- [#51 Amazon Simple Storage Service (S3) For PHP Developer](#amazon-simple-storage-service-s3-for-php-developer) (cancelled)
 - [#50 PHP Native Series: PDO & MySQL](#php-native-series-pdo--mysql)
 - [#49 Static Wordpress Hosting dengan S3 dan CloudFront](#static-wordpress-hosting-dengan-s3-dan-cloudfront)
 - [#48 Mengenal Teknologi Web Terdesentralisasi](#mengenal-teknologi-web-terdesentralisasi)
