@@ -11,6 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#52 Belajar Menghindari SQL Injection Melalui Simulasi](#belajar-menghindari-sql-injection-melalui-simulasi)
 - [#51 Amazon Simple Storage Service (S3) For PHP Developer](#amazon-simple-storage-service-s3-for-php-developer) (cancelled)
 - [#50 PHP Native Series: PDO & MySQL](#php-native-series-pdo--mysql)
 - [#49 Static Wordpress Hosting dengan S3 dan CloudFront](#static-wordpress-hosting-dengan-s3-dan-cloudfront)
@@ -71,7 +72,18 @@
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 48
+- Sesi: 53
+- Deskripsi: -
+
+### Belajar Menghindari SQL Injection Melalui Simulasi
+
+- Waktu: Selasa, 2 Februari 2021
+- Pukul: 19:00
+- Pemateri: Rio Astamal
+- Slide: empty
+- Video: empty
+- Registrasi: empty
+- Sesi: 52
 - Deskripsi: -
 
 ### Amazon Simple Storage Service (S3) For PHP Developer (Cancelled)
