@@ -82,7 +82,7 @@
 - Pemateri: Rio Astamal
 - Slide: empty
 - Video: empty
-- Registrasi: empty
+- Registrasi: https://www.facebook.com/events/418406809435850/
 - Sesi: 52
 - Deskripsi: -
 
