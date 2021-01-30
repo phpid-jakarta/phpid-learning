@@ -11,6 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#53 Digital Marketing Roadmap](#digital-marketing-roadmap)
 - [#52 Belajar Menghindari SQL Injection Melalui Simulasi](#belajar-menghindari-sql-injection-melalui-simulasi)
 - [#51 Amazon Simple Storage Service (S3) For PHP Developer](#amazon-simple-storage-service-s3-for-php-developer) (cancelled)
 - [#50 PHP Native Series: PDO & MySQL](#php-native-series-pdo--mysql)
@@ -72,8 +73,19 @@
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 53
+- Sesi: 54
 - Deskripsi: -
+
+### Digital Marketing Roadmap
+
+- Waktu: Selasa, 9 Februari 2021
+- Pukul: 19:00
+- Pemateri: Zeembry Neo - Founder BabaStudio
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/124206059503593/
+- Sesi: 53
+- Deskripsi: https://zoom.us/meeting/register/tJ0vc-uqrjIjH9Qgwcanjc6E_y7ACuTLmTDU 
 
 ### Belajar Menghindari SQL Injection Melalui Simulasi
 
@@ -84,7 +96,7 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/418406809435850/
 - Sesi: 52
-- Deskripsi: -
+- Deskripsi: https://zoom.us/j/95908647932?pwd=b0IvdExudHlRb0ZVbENPYTZ0L2RJZz09
 
 ### Amazon Simple Storage Service (S3) For PHP Developer (Cancelled)
 
