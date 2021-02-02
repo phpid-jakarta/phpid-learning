@@ -93,8 +93,8 @@
 - Pukul: 19:00
 - Pemateri: Rio Astamal
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/418406809435850/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158929046711101/
+- Registrasi: empty
 - Sesi: 52
 - Deskripsi: https://zoom.us/j/95908647932?pwd=b0IvdExudHlRb0ZVbENPYTZ0L2RJZz09
 
