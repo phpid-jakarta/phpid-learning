@@ -105,7 +105,7 @@
 - Pemateri: Petra Novandi Barus
 - Slide: empty
 - Video: empty
-- Registrasi: empty
+- Registrasi: https://www.facebook.com/events/774442323169857
 - Sesi: 51
 - Deskripsi: -
 
