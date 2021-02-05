@@ -13,7 +13,7 @@
 ## Daftar online learning
 - [#53 Digital Marketing Roadmap](#digital-marketing-roadmap)
 - [#52 Belajar Menghindari SQL Injection Melalui Simulasi](#belajar-menghindari-sql-injection-melalui-simulasi)
-- [#51 Amazon Simple Storage Service (S3) For PHP Developer](#amazon-simple-storage-service-s3-for-php-developer) (cancelled)
+- [#51 Amazon Simple Storage Service (S3) For PHP Developer](#amazon-simple-storage-service-s3-for-php-developer)
 - [#50 PHP Native Series: PDO & MySQL](#php-native-series-pdo--mysql)
 - [#49 Static Wordpress Hosting dengan S3 dan CloudFront](#static-wordpress-hosting-dengan-s3-dan-cloudfront)
 - [#48 Mengenal Teknologi Web Terdesentralisasi](#mengenal-teknologi-web-terdesentralisasi)
@@ -98,9 +98,9 @@
 - Sesi: 52
 - Deskripsi: https://zoom.us/j/95908647932?pwd=b0IvdExudHlRb0ZVbENPYTZ0L2RJZz09
 
-### Amazon Simple Storage Service (S3) For PHP Developer (Cancelled)
+### Amazon Simple Storage Service (S3) For PHP Developer
 
-- Waktu: Rabu, 27 Januari 2021
+- Waktu: Rabu, 10 Februari 2021
 - Pukul: 19:00
 - Pemateri: Petra Novandi Barus
 - Slide: empty
