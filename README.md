@@ -11,6 +11,9 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#56 Rapid Frontend Ninja Development with NodeJS & CSS Frameworks](#rapid-frontend-ninja-development-with-NodeJS-css-frameworks)
+- [#55 Machine Learning dengan PHP](#machine-learning-dengan-php)
+- [#54 From Zero to Hero with Code Igniter](#from-zero-to-hero-with-code-igniter)
 - [#53 Digital Marketing Roadmap](#digital-marketing-roadmap)
 - [#52 Belajar Menghindari SQL Injection Melalui Simulasi](#belajar-menghindari-sql-injection-melalui-simulasi)
 - [#51 Amazon Simple Storage Service (S3) For PHP Developer](#amazon-simple-storage-service-s3-for-php-developer)
@@ -75,6 +78,39 @@
 - Registrasi: empty
 - Sesi: 54
 - Deskripsi: -
+
+### Rapid Frontend Ninja Development with NodeJS & CSS Frameworks
+
+- Waktu: Rabu, 17 Februari 2021
+- Pukul: 19:00
+- Pemateri: Yohanes Raymond
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/3654508197952213
+- Sesi: 56
+- Deskripsi: empty
+
+### Machine Learning dengan PHP
+
+- Waktu: Jumat, 19 Februari 2021
+- Pukul: 19:00
+- Pemateri: Achmad Solichin
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/1147955499001906/
+- Sesi: 55
+- Deskripsi: empty
+
+### From Zero to Hero with Code Igniter
+
+- Waktu: Selasa, 16 Februari 2021
+- Pukul: 19:00
+- Pemateri: Darsono
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/2246528345492086/
+- Sesi: 54
+- Deskripsi: empty 
 
 ### Digital Marketing Roadmap
 
