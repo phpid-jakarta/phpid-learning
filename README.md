@@ -118,8 +118,8 @@
 - Pukul: 19:00
 - Pemateri: Zeembry Neo - Founder BabaStudio
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/124206059503593/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158948802746101/
+- Registrasi: empty
 - Sesi: 53
 - Deskripsi: https://zoom.us/meeting/register/tJ0vc-uqrjIjH9Qgwcanjc6E_y7ACuTLmTDU 
 
