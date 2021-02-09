@@ -11,7 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
-- [#56 Rapid Frontend Ninja Development with NodeJS & CSS Frameworks](#rapid-frontend-ninja-development-with-NodeJS-css-frameworks)
+- [#56 Rapid Frontend Ninja Development with NodeJS & CSS Frameworks](#rapid-frontend-ninja-development-with-nodejs--css-frameworks)
 - [#55 Machine Learning dengan PHP](#machine-learning-dengan-php)
 - [#54 From Zero to Hero with Code Igniter](#from-zero-to-hero-with-code-igniter)
 - [#53 Digital Marketing Roadmap](#digital-marketing-roadmap)
