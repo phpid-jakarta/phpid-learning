@@ -140,8 +140,8 @@
 - Pukul: 19:00
 - Pemateri: Petra Novandi Barus
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/774442323169857
+- Video: https://www.facebook.com/groups/phpid/permalink/10158951408891101/
+- Registrasi: empty
 - Sesi: 51
 - Deskripsi: -
 
