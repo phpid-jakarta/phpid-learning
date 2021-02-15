@@ -11,6 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#57 Data Analytics with DBMS](#data-analytics-with-dbms)
 - [#56 Rapid Frontend Ninja Development with NodeJS & CSS Frameworks](#rapid-frontend-ninja-development-with-nodejs--css-frameworks)
 - [#55 Machine Learning dengan PHP](#machine-learning-dengan-php)
 - [#54 From Zero to Hero with Code Igniter](#from-zero-to-hero-with-code-igniter)
@@ -76,8 +77,19 @@
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 54
+- Sesi: 58
 - Deskripsi: -
+
+### Data Analytics with DBMS
+
+- Waktu: Selasa, 23 Februari 2021
+- Pukul: 19:00
+- Pemateri: Achmad Mardiansyah
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/339184524004070
+- Sesi: 57
+- Deskripsi: empty
 
 ### Rapid Frontend Ninja Development with NodeJS & CSS Frameworks
 
