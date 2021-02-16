@@ -119,8 +119,8 @@
 - Pukul: 19:00
 - Pemateri: Darsono
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/2246528345492086/
+- Video: https://www.facebook.com/groups/phpid/permalink/10158966674966101/
+- Registrasi: empty
 - Sesi: 54
 - Deskripsi: empty 
 
