@@ -109,8 +109,8 @@
 - Pukul: 19:00
 - Pemateri: Yohanes Raymond
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/3654508197952213
+- Video: https://www.facebook.com/groups/phpid/permalink/10158969160051101/
+- Registrasi: empty
 - Sesi: 56
 - Deskripsi: empty
 
