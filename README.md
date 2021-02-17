@@ -11,6 +11,7 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 
 ## Daftar online learning
+- [#58 PHP dan Mikrotik API](#php-dan-mikrotik-api)
 - [#57 Data Analytics with DBMS](#data-analytics-with-dbms)
 - [#56 Rapid Frontend Ninja Development with NodeJS & CSS Frameworks](#rapid-frontend-ninja-development-with-nodejs--css-frameworks)
 - [#55 Machine Learning dengan PHP](#machine-learning-dengan-php)
@@ -77,8 +78,19 @@
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 58
+- Sesi: 59
 - Deskripsi: -
+
+### PHP dan Mikrotik API
+
+- Waktu: Selasa, 2 Maret 2021
+- Pukul: 19:00
+- Pemateri: Arie Wijayanto
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/1764975193676559
+- Sesi: 58
+- Deskripsi: empty
 
 ### Data Analytics with DBMS
 
