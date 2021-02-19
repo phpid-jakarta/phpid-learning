@@ -48,7 +48,7 @@
 </style>
 
 <svelte:head>
-  <title>PHPID Online Learning 2020 by PHPID</title>
+  <title>Online Learning by PHPID</title>
 </svelte:head>
 
 <main id="page-index">

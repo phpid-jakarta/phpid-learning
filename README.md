@@ -731,4 +731,4 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ---
 
-©️ 2020 by PHPID Team
+©️ 2020 - present by PHPID Team

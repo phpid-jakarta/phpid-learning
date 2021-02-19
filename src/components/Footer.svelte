@@ -22,7 +22,7 @@
            title="Github"
         >
           many awesome contributors
-        </a>, © 2020</span>
+        </a>, © 2020 - present</span>
     </div>
   </section>
 </footer>
