@@ -47,10 +47,6 @@
   }
 </style>
 
-<svelte:head>
-  <title>Online Learning by PHPID</title>
-</svelte:head>
-
 <main id="page-index">
   <Hero />
   <article class="app-content">
