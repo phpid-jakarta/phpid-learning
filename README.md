@@ -2,7 +2,7 @@
 
 ![PHPID](https://img.shields.io/badge/PHPID-Community-blue?cacheSeconds=604800) ![Contribution](https://img.shields.io/badge/Contributions-Welcome-green.svg?cacheSeconds=604800) ![Generate JSON](https://github.com/phpid-jakarta/phpid-learning/workflows/Generate%20JSON/badge.svg?branch=master)
 
-[![Belajar daring bersama PHPID](phpid-learning.jpg)](https://s.id/phpid-learning)
+[![Belajar daring bersama PHPID](phpid-learning.png)](https://phpid-jakarta.github.io/phpid-learning/)
 
 ## Data bisa juga diakses lewat
 
@@ -134,7 +134,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158966674966101/
 - Registrasi: empty
 - Sesi: 54
-- Deskripsi: empty 
+- Deskripsi: empty
 
 ### Digital Marketing Roadmap
 
@@ -145,7 +145,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158948802746101/
 - Registrasi: empty
 - Sesi: 53
-- Deskripsi: https://zoom.us/meeting/register/tJ0vc-uqrjIjH9Qgwcanjc6E_y7ACuTLmTDU 
+- Deskripsi: https://zoom.us/meeting/register/tJ0vc-uqrjIjH9Qgwcanjc6E_y7ACuTLmTDU
 
 ### Belajar Menghindari SQL Injection Melalui Simulasi
 
