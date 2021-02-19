@@ -46,9 +46,6 @@ const cssLoader = {
       loader: MiniCssExtractPlugin.loader,
       options: {
         publicPath: 'phpid-learning'
-        // publicPath: (resourcePath, context) => {
-        //   return path.relative(path.dirname(resourcePath), context) + '/'
-        // }
       }
     },
     'css-loader'
@@ -88,7 +85,7 @@ module.exports = {
         'process.env.NODE_ENV': JSON.stringify(mode)
       }),
       new MiniCssExtractPlugin({
-        name: dev ? '[name].css' : '[name].[contenthash].css',
+        filename: dev ? '[name].css' : '[name].[contenthash].css',
         chunkFilename: dev ? '[name].css' : '[name].[contenthash].css'
       })
     ].filter(Boolean),

@@ -11,8 +11,8 @@
   }
 
   const dataLength = $allData.length;
-  const dataStart = getDateOnly($allData[0].date);
-  const dataEnd = getDateOnly($allData[dataLength - 1].date);
+  const dataStart = getDateOnly($allData[dataLength - 1].date);
+  const dataEnd = getDateOnly($allData[0].date);
   const dateRange = `${dataStart} - ${dataEnd}`;
 </script>
 
@@ -114,10 +114,10 @@
       <h3 class="animate__animated animate__bounce">{$allData.length} Materi</h3>
       <span class="animate__animated animate__bounce">{dateRange}</span>
       <div class="hero-button">
-        <a href="https://github.com/phpid-jakarta/phpid-learning/" target="_blank" rel="noopener" title="Github">
-          <button class="animate__animated animate__bounceIn">Github</button>
+        <a href="https://phpid.netlify.app/jadi-pemateri" target="_blank" rel="noopener" title="Github">
+          <button class="animate__animated animate__bounceIn">Daftar jadi speaker</button>
         </a>
-        <a href="https://www.facebook.com/groups/phpid/" target="_blank" rel="noopener" title="Facebook Group PHPID">
+        <a href="https://phpid.netlify.app/" target="_blank" rel="noopener" title="Facebook Group PHPID">
           <button class="btn-secondary animate__animated animate__bounceIn">FB Group</button>
         </a>
       </div>
