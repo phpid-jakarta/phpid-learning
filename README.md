@@ -13,6 +13,9 @@
 
 
 ## Daftar online learning
+- [#61 Mending Rakit PC](#mending-rakit-pc)
+- [#60 Deploy & Test Aplikasi Container Laravel dgn Amazon ECS & Github Actions](#deploy-test-aplikasi-container-Laravel-dgn-Amazon-ECS--github-actions)
+- [#59 Career Hack: From PHP Developer to CEO](#career-hack-from-php-developer-to-ceo)
 - [#58 PHP dan Mikrotik API](#php-dan-mikrotik-api)
 - [#57 Data Analytics with DBMS](#data-analytics-with-dbms)
 - [#56 Rapid Frontend Ninja Development with NodeJS & CSS Frameworks](#rapid-frontend-ninja-development-with-nodejs--css-frameworks)
@@ -80,8 +83,41 @@
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 59
+- Sesi: 62
 - Deskripsi: -
+
+### Mending Rakit PC
+
+- Waktu: Jumat, 12 Maret 2021
+- Pukul: 19:00
+- Pemateri: Chandika Nurdiansyah
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/1386139125076566 
+- Sesi: 61
+- Deskripsi: empty
+
+### Deploy & Test Aplikasi Container Laravel dgn Amazon ECS & Github Actions
+
+- Waktu: Selasa, 10 Maret 2021
+- Pukul: 19:00
+- Pemateri: Petra Novandi Barus
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/2697893077169346
+- Sesi: 60
+- Deskripsi: empty
+
+### Career Hack: From PHP Developer to CEO
+
+- Waktu: Selasa, 9 Maret 2021
+- Pukul: 19:00
+- Pemateri: Ade Syah Lubis - CEO Niaga Hoster Indonesia
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/2978481469041978/
+- Sesi: 59
+- Deskripsi: empty
 
 ### PHP dan Mikrotik API
 
