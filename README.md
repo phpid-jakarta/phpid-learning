@@ -14,7 +14,7 @@
 
 ## Daftar online learning
 - [#61 Mending Rakit PC](#mending-rakit-pc)
-- [#60 Deploy & Test Aplikasi Container Laravel dgn Amazon ECS & Github Actions](#deploy-test-aplikasi-container-Laravel-dgn-Amazon-ECS--github-actions)
+- [#60 Deploy & Test Aplikasi Container Laravel dgn Amazon ECS & Github Actions](#deploy--test-aplikasi-container-laravel-dgn-amazon-ecs--github-actions)
 - [#59 Career Hack: From PHP Developer to CEO](#career-hack-from-php-developer-to-ceo)
 - [#58 PHP dan Mikrotik API](#php-dan-mikrotik-api)
 - [#57 Data Analytics with DBMS](#data-analytics-with-dbms)
