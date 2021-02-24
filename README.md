@@ -99,7 +99,7 @@
 
 ### Deploy & Test Aplikasi Container Laravel dgn Amazon ECS & Github Actions
 
-- Waktu: Selasa, 10 Maret 2021
+- Waktu: Rabu, 10 Maret 2021
 - Pukul: 19:00
 - Pemateri: Petra Novandi Barus
 - Slide: empty
