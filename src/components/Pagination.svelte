@@ -8,7 +8,7 @@
   const handleClickPage = (e, val) => {
     e.preventDefault();
     const newValue = parseInt(val, 10);
-    if (newValue > 0 && newValue < pageCount) {
+    if (newValue > 0 && newValue <= pageCount) {
       currentPage.set(newValue);
       window.scrollTo({
         top: 100,
