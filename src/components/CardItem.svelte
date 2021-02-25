@@ -77,14 +77,21 @@
   .card .card-body a + a {
     margin: 0;
   }
+  .badge-group{
+    margin-bottom: 1em;
+  }
 </style>
 
 <div class="card">
   <div class="card-image-wrapper js-image--{item.id}">
   </div>
   <div class="card-body">
-    <span class="badge secondary" style="margin-right: .5em">{item.date}</span>
-    <span class="badge success">{item.time} WIB</span>
+    <div class="badge-group">
+      <span class="badge warning" style="margin-right: .25em">#{item.id}</span>
+      <span class="badge secondary" style="margin-right: .25em">{item.date}</span>
+      <span class="badge success">{item.time} WIB</span>
+    </div>
+
     <h4 class="card-title">{item.topic}</h4>
     <h5 class="card-subtitle">{item.speaker}</h5>
     <div class="card-text">
