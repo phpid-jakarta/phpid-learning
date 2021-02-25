@@ -11,15 +11,24 @@
     entries.forEach(node => {
       if (!node.isIntersecting) return false;
 
-      node.target.onload = () => {
+      const img = document.createElement('img')
+      img.classList.add('is--loading');
+      img.classList.add('card-image');
+
+      img.onload = () => {
         loaded = true;
+        img.classList.remove('is--loading');
+        img.classList.add('is--loaded');
 
         window.__macy &&
           window.__macy.recalculate &&
           window.__macy.recalculate(true);
       };
 
-      node.target.src = item.cover;
+      img.setAttribute('src', item.cover);
+      img.setAttribute('alt', item.topic);
+
+      node.target.appendChild(img);
 
       observer && observer.unobserve(node.target);
     });
@@ -48,18 +57,10 @@
       margin-right: 13px;
     }
   }
-  .card-image {
+  .card-image-wrapper{
     width: auto;
-    min-height: 200px;
-    object-fit: cover;
-    transition: filter .3s linear;
-  }
-  .card-image.is--loading {
-    filter: blur(5px);
-  }
-  .card-image.is--loaded {
-    transition-delay: .5s;
-    filter: blur(0);
+    min-height: 300px;
+    background: #212121;
   }
   .card-title, .card-subtitle {
     font-family: "Neucha", sans-serif;
@@ -79,7 +80,8 @@
 </style>
 
 <div class="card">
-  <img class="card-image {loaded ? 'is--loaded' : 'is--loading'} js-image--{item.id}" data-src={item.cover} {src} alt={item.topic} />
+  <div class="card-image-wrapper js-image--{item.id}">
+  </div>
   <div class="card-body">
     <span class="badge secondary" style="margin-right: .5em">{item.date}</span>
     <span class="badge success">{item.time} WIB</span>

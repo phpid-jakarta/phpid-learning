@@ -1,5 +1,6 @@
 const webpack = require('webpack')
 const path = require('path')
+const WebpackModules = require('webpack-modules');
 const config = require('sapper/config/webpack.js')
 const sveltePreprocess = require('svelte-preprocess')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
@@ -25,8 +26,8 @@ const preprocess = sveltePreprocess({
     plugins: [
       require('autoprefixer')(),
       require('postcss-nested')(),
-      purgecss
-    ]
+      dev ? null : purgecss
+    ].filter(Boolean)
   }
 })
 
@@ -115,6 +116,9 @@ module.exports = {
         cssLoader
       ]
     },
+		plugins: [
+			new WebpackModules()
+		],
     mode: process.env.NODE_ENV,
     performance: {
       hints: false // it doesn't matter if server.js is large

@@ -13,3 +13,11 @@ export const clickOutside = (node) => {
     }
   }
 }
+
+export const createArray = (length) => {
+  const arr = []
+  for (let index = 0; index < length; index++) {
+    arr.push(index)
+  }
+  return arr
+}

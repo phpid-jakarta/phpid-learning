@@ -1,11 +1,12 @@
 <script>
   import { onMount } from "svelte";
-  import { allData } from "../store";
+  import { showData, perPage, offsetPage } from "../store";
 
   import Hero from "../components/Hero.svelte";
   import CardItem from "../components/CardItem.svelte";
   import Footer from "../components/Footer.svelte";
-  import Modal from "../components/Modal.svelte";
+  // import Modal from "../components/Modal.svelte";
+  import Pagination from "../components/Pagination.svelte";
 
   onMount(async () => {
     try {
@@ -50,14 +51,20 @@
 <main id="page-index">
   <Hero />
   <article class="app-content">
-    {#if $allData.length > 0}
+    {#if $showData.length > 0}
+      <Pagination />
+    {/if}
+    {#if $showData.length > 0}
       <div id="content-speaker">
-        {#each $allData as item (item.id)}
+        {#each $showData.slice($offsetPage, $offsetPage + $perPage) as item (item.id)}
           <CardItem {item} />
         {/each}
       </div>
     {/if}
   </article>
+  {#if $showData.length > 0}
+    <Pagination />
+  {/if}
   <Footer />
-  <Modal />
+  <!-- <Modal /> -->
 </main>

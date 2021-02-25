@@ -1,5 +1,5 @@
 <script>
-  import { allData } from "../store";
+  import { originData } from "../store";
 
   const getDateOnly = (val = '') => {
     let res = val;
@@ -10,9 +10,9 @@
     return res;
   }
 
-  const dataLength = $allData.length;
-  const dataStart = getDateOnly($allData[dataLength - 1].date);
-  const dataEnd = getDateOnly($allData[0].date);
+  const dataLength = $originData.length;
+  const dataStart = getDateOnly($originData[dataLength - 1].date);
+  const dataEnd = getDateOnly($originData[0].date);
   const dateRange = `${dataStart} - ${dataEnd}`;
 </script>
 
@@ -82,7 +82,6 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  color: white;
 }
 
 .hero-arrow a {
@@ -92,7 +91,6 @@
 
 .hero-arrow button {
   border-color: white;
-  color: white;
   margin-top: 20px;
 }
 
@@ -111,7 +109,7 @@
   <div class="hero-image">
     <div class="hero-text">
       <h1 class="animate__animated animate__bounce">PHPID Online Learning</h1>
-      <h3 class="animate__animated animate__bounce">{$allData.length} Materi</h3>
+      <h3 class="animate__animated animate__bounce">{$originData.length} Materi</h3>
       <span class="animate__animated animate__bounce">{dateRange}</span>
       <div class="hero-button">
         <a href="https://phpid.netlify.app/jadi-pemateri" target="_blank" rel="noopener" title="Github">
@@ -123,7 +121,6 @@
       </div>
     </div>
     <div class="hero-arrow">
-      <span class="animate__animated animate__bounceIn animate__delay-1s">Lihat Semua Materi</span>
       <a href="#content-speaker">
         <button class="animate__animated animate__bounceIn animate__delay-1s">&darr;</button>
       </a>

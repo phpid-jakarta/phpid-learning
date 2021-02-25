@@ -14,5 +14,8 @@ polka() // You can also use Express
     sapper.middleware()
   )
   .listen(PORT, err => {
+    if (dev) {
+      console.log('Open browser on: http://localhost:3000/phpid-learning')
+    }
     if (err) console.log('error', err)
   })
