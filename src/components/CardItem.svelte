@@ -59,7 +59,7 @@
   }
   .card-image-wrapper{
     width: auto;
-    min-height: 300px;
+    min-height: 200px;
     background: #212121;
   }
   .card-title, .card-subtitle {
