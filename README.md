@@ -125,8 +125,8 @@
 - Pukul: 19:00
 - Pemateri: Arie Wijayanto
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/1764975193676559
+- Video: https://www.facebook.com/groups/phpid/permalink/10159000684106101
+- Registrasi: empty
 - Sesi: 58
 - Deskripsi: empty
 
@@ -136,8 +136,8 @@
 - Pukul: 19:00
 - Pemateri: Achmad Mardiansyah
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/339184524004070
+- Video: https://www.facebook.com/groups/phpid/permalink/10158983813231101
+- Registrasi: empty
 - Sesi: 57
 - Deskripsi: empty
 
