@@ -3,6 +3,11 @@ on:
   push:
     branches:
       - master
+    paths-ignore:
+      - "LAST_UPDATED"
+      - "data.json"
+      - "data.js"
+      - "data-es.js"
 
 jobs:
   generate_json:
