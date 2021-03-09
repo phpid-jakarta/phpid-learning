@@ -13,6 +13,7 @@
 
 
 ## Daftar online learning
+- [#66 Tips dan Trik Menerima Proyek Website untuk Pemula](#tips-dan-trik-menerima-proyek-website-untuk-pemula)
 - [#65 Teknologi Dibalik Layar Penanganan Pandemi (PIKOBAR)](#teknologi-dibalik-layar-penanganan-pandemi-pikobar)
 - [#64 Headless CMS](#headless-cms)
 - [#63 Membuat Laporan Kecepatan Web untuk Blog Pribadi](#membuat-laporan-kecepatan-web-untuk-blog-pribadi)
@@ -87,8 +88,19 @@
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 62
+- Sesi: 67
 - Deskripsi: -
+
+### Tips dan Trik Menerima Proyek Website untuk Pemula
+
+- Waktu: Sabtu, 20 Maret 2021
+- Pukul: 19:00
+- Pemateri: Andoyo - CEO Java Web Media 
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/815598129042864 
+- Sesi: 66
+- Deskripsi: empty
 
 ### Teknologi Dibalik Layar Penanganan Pandemi (PIKOBAR)
 
