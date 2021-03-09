@@ -13,6 +13,10 @@
 
 
 ## Daftar online learning
+- [#65 Teknologi Dibalik Layar Penanganan Pandemi (PIKOBAR)](#teknologi-dibalik-layar-penanganan-pandemi-pikobar)
+- [#64 Headless CMS](#headless-cms)
+- [#63 Membuat Laporan Kecepatan Web untuk Blog Pribadi](#membuat-laporan-kecepatan-web-untuk-blog-pribadi)
+- [#62 Data Visualization](#data-visualization)
 - [#61 Mending Rakit PC](#mending-rakit-pc)
 - [#60 Deploy & Test Aplikasi Container Laravel dgn Amazon ECS & Github Actions](#deploy--test-aplikasi-container-laravel-dgn-amazon-ecs--github-actions)
 - [#59 Career Hack: From PHP Developer to CEO](#career-hack-from-php-developer-to-ceo)
@@ -85,6 +89,50 @@
 - Registrasi: empty
 - Sesi: 62
 - Deskripsi: -
+
+### Teknologi Dibalik Layar Penanganan Pandemi (PIKOBAR)
+
+- Waktu: Jumat, 19 Maret 2021
+- Pukul: 19:00
+- Pemateri: Yoga Hanggara
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/484009476104805/ 
+- Sesi: 65
+- Deskripsi: empty
+
+### Headless CMS
+
+- Waktu: Kamis, 18 Maret 2021
+- Pukul: 19:00
+- Pemateri: Umar Said Habibulloh
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/234505338333251 
+- Sesi: 64
+- Deskripsi: empty
+
+### Membuat Laporan Kecepatan Web untuk Blog Pribadi
+
+- Waktu: Rabu, 17 Maret 2021
+- Pukul: 19:00
+- Pemateri: Irfan Maulana
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/864226944137227/ 
+- Sesi: 63
+- Deskripsi: empty
+
+### Data Visualization
+
+- Waktu: Selasa, 16 Maret 2021
+- Pukul: 19:00
+- Pemateri: Farida
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/702729377065181/ 
+- Sesi: 62
+- Deskripsi: empty
 
 ### Mending Rakit PC
 
