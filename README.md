@@ -163,8 +163,8 @@
 - Pukul: 19:00
 - Pemateri: Petra Novandi Barus
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/2697893077169346
+- Video: https://www.facebook.com/groups/phpid/permalink/10159020631611101/
+- Registrasi: empty
 - Sesi: 60
 - Deskripsi: empty
 
@@ -175,7 +175,7 @@
 - Pemateri: Ade Syah Lubis - CEO Niaga Hoster Indonesia
 - Slide: empty
 - Video: empty
-- Registrasi: https://www.facebook.com/events/2978481469041978/
+- Registrasi: empty
 - Sesi: 59
 - Deskripsi: empty
 
