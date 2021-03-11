@@ -13,6 +13,7 @@
 
 
 ## Daftar online learning
+- [#67 Bekerja Jarak Jauh. Tantangan, Persiapan & Peluang](#Bekerja-jarak-jauh-tantangan-persiapan--Peluang)
 - [#66 Tips dan Trik Menerima Proyek Website untuk Pemula](#tips-dan-trik-menerima-proyek-website-untuk-pemula)
 - [#65 Teknologi Dibalik Layar Penanganan Pandemi (PIKOBAR)](#teknologi-dibalik-layar-penanganan-pandemi-pikobar)
 - [#64 Headless CMS](#headless-cms)
@@ -88,8 +89,19 @@
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 67
+- Sesi: 68
 - Deskripsi: -
+
+### Bekerja Jarak Jauh. Tantangan, Persiapan & Peluang
+
+- Waktu: Senin, 22 Maret 2021
+- Pukul: 19:00
+- Pemateri: Riza Fahmi - CoFounder Hacktiv8 
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/266615668260661 
+- Sesi: 67
+- Deskripsi: empty
 
 ### Tips dan Trik Menerima Proyek Website untuk Pemula
 
