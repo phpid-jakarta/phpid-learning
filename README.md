@@ -164,8 +164,8 @@
 - Pukul: 19:00
 - Pemateri: Chandika Nurdiansyah
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/1386139125076566 
+- Video: https://www.facebook.com/groups/phpid/permalink/10159025465916101/
+- Registrasi: empty 
 - Sesi: 61
 - Deskripsi: empty
 
