@@ -165,8 +165,8 @@
 - Pukul: 19:00
 - Pemateri: Farida
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/702729377065181/ 
+- Video: https://www.facebook.com/groups/phpid/permalink/10159035778651101/
+- Registrasi: empty
 - Sesi: 62
 - Deskripsi: empty
 
