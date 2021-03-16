@@ -13,7 +13,7 @@
 
 
 ## Daftar online learning
-- [#68 MySQL 8.0 Replication & Clustering](#MySQL-8-0-Replication--Clustering)
+- [#68 MySQL 8.0 Replication & Clustering](#mysql-80-replication--clustering)
 - [#67 Bekerja Jarak Jauh. Tantangan, Persiapan & Peluang](#Bekerja-jarak-jauh-tantangan-persiapan--Peluang)
 - [#66 Tips dan Trik Menerima Proyek Website untuk Pemula](#tips-dan-trik-menerima-proyek-website-untuk-pemula)
 - [#65 Teknologi Dibalik Layar Penanganan Pandemi (PIKOBAR)](#teknologi-dibalik-layar-penanganan-pandemi-pikobar)
