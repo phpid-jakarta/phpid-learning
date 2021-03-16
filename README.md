@@ -13,6 +13,7 @@
 
 
 ## Daftar online learning
+- [#68 MySQL 8.0 Replication & Clustering](#MySQL-8-0-Replication--Clustering)
 - [#67 Bekerja Jarak Jauh. Tantangan, Persiapan & Peluang](#Bekerja-jarak-jauh-tantangan-persiapan--Peluang)
 - [#66 Tips dan Trik Menerima Proyek Website untuk Pemula](#tips-dan-trik-menerima-proyek-website-untuk-pemula)
 - [#65 Teknologi Dibalik Layar Penanganan Pandemi (PIKOBAR)](#teknologi-dibalik-layar-penanganan-pandemi-pikobar)
@@ -91,6 +92,17 @@
 - Registrasi: empty
 - Sesi: 68
 - Deskripsi: -
+
+### MySQL 8.0 Replication & Clustering
+
+- Waktu: Selasa, 23 Maret 2020
+- Pukul: 19:00
+- Pemateri: Nur Hidayat
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/groups/phpid/permalink/10159035678401101/
+- Sesi: 68
+- Deskripsi: empty
 
 ### Bekerja Jarak Jauh. Tantangan, Persiapan & Peluang
 
