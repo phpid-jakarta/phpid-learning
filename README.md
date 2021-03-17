@@ -13,6 +13,7 @@
 
 
 ## Daftar online learning
+- [#69 Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory](#bagaimana-kami-menggunakan-php-sebagai-bagian-dari-platform-solusi-pandemi-di-refactory)
 - [#68 MySQL 8.0 Replication & Clustering](#mysql-80-replication--clustering)
 - [#67 Bekerja Jarak Jauh. Tantangan, Persiapan & Peluang](#Bekerja-jarak-jauh-tantangan-persiapan--Peluang)
 - [#66 Tips dan Trik Menerima Proyek Website untuk Pemula](#tips-dan-trik-menerima-proyek-website-untuk-pemula)
@@ -92,6 +93,17 @@
 - Registrasi: empty
 - Sesi: 68
 - Deskripsi: -
+
+### Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory
+
+- Waktu: Selasa, 23 Maret 2020
+- Pukul: 19:00
+- Pemateri: Taufan Aditya | CEO Refactory
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/2909392409296652
+- Sesi: 69
+- Deskripsi: empty
 
 ### MySQL 8.0 Replication & Clustering
 
