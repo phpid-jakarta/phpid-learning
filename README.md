@@ -155,8 +155,8 @@
 - Pukul: 19:00
 - Pemateri: Umar Said Habibulloh
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/234505338333251 
+- Video: https://www.facebook.com/groups/phpid/permalink/10159041836426101/
+- Registrasi: empty
 - Sesi: 64
 - Deskripsi: empty
 
