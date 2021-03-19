@@ -14,7 +14,7 @@
 
 ## Daftar online learning
 - [#73 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
-- [#72 Bongkar Dapur Webnya #PHPID-OL](#bongkar-dapur-webnya--phpid-ol)
+- [#72 Bongkar Dapur Webnya #PHPID-OL](#bongkar-dapur-webnya-phpid-ol)
 - [#71 Mengukur Kompleksitas Kode](#mengukur-kompleksitas-kode)
 - [#69 Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory](#bagaimana-kami-menggunakan-php-sebagai-bagian-dari-platform-solusi-pandemi-di-refactory)
 - [#68 MySQL 8.0 Replication & Clustering](#mysql-80-replication--clustering)
