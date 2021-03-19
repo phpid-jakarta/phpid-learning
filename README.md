@@ -13,6 +13,9 @@
 
 
 ## Daftar online learning
+- [#73 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
+- [#72 Bongkar Dapur Webnya #PHPID-OL](#bongkar-dapur-webnya--phpid-ol)
+- [#71 Mengukur Kompleksitas Kode](#mengukur-kompleksitas-kode)
 - [#69 Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory](#bagaimana-kami-menggunakan-php-sebagai-bagian-dari-platform-solusi-pandemi-di-refactory)
 - [#68 MySQL 8.0 Replication & Clustering](#mysql-80-replication--clustering)
 - [#67 Bekerja Jarak Jauh. Tantangan, Persiapan & Peluang](#Bekerja-jarak-jauh-tantangan-persiapan--Peluang)
@@ -93,6 +96,40 @@
 - Registrasi: empty
 - Sesi: 68
 - Deskripsi: -
+
+
+### PHP-ML Metode Naive Bayes
+
+- Waktu: Jumat, 2 April 2020
+- Pukul: 19:00
+- Pemateri: Irfan Maulana
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/4378541038839190
+- Sesi: 73
+- Deskripsi: empty
+
+### Bongkar Dapur Webnya #PHPID-OL
+
+- Waktu: Rabu, 31 Maret 2020
+- Pukul: 19:00
+- Pemateri: Irfan Maulana
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/4378541038839190
+- Sesi: 72
+- Deskripsi: empty
+
+### Mengukur Kompleksitas Kode
+
+- Waktu: Selasa, 30 Maret 2020
+- Pukul: 19:00
+- Pemateri: Bayu Hendra Winata
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/2589479884683924
+- Sesi: 71
+- Deskripsi: empty
 
 ### Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory
 
