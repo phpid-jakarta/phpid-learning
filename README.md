@@ -144,8 +144,8 @@
 - Pukul: 19:00
 - Pemateri: Yoga Hanggara
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/484009476104805/ 
+- Video: https://www.facebook.com/groups/phpid/permalink/10159044088881101/
+- Registrasi: empty
 - Sesi: 65
 - Deskripsi: empty
 
