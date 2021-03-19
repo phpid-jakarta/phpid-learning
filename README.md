@@ -96,7 +96,7 @@
 
 ### Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory
 
-- Waktu: Selasa, 23 Maret 2020
+- Waktu: Kamis, 25 Maret 2020
 - Pukul: 19:00
 - Pemateri: Taufan Aditya | CEO Refactory
 - Slide: empty
