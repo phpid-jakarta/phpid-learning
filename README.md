@@ -170,8 +170,8 @@
 - Pukul: 19:00
 - Pemateri: Andoyo - CEO Java Web Media 
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/815598129042864 
+- Video: https://www.facebook.com/groups/phpid/permalink/10159046435271101/
+- Registrasi: empty
 - Sesi: 66
 - Deskripsi: empty
 
