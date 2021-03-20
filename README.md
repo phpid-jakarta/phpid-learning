@@ -102,10 +102,10 @@
 
 - Waktu: Jumat, 2 April 2020
 - Pukul: 19:00
-- Pemateri: Irfan Maulana
+- Pemateri: Achmad Solichin
 - Slide: empty
 - Video: empty
-- Registrasi: https://www.facebook.com/events/4378541038839190
+- Registrasi: https://www.facebook.com/events/711962396132118
 - Sesi: 73
 - Deskripsi: empty
 
