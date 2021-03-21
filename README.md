@@ -16,6 +16,7 @@
 - [#73 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
 - [#72 Bongkar Dapur Webnya #PHPID-OL](#bongkar-dapur-webnya-phpid-ol)
 - [#71 Mengukur Kompleksitas Kode](#mengukur-kompleksitas-kode)
+- [#70 IT Governance & User Acceptance Test](#it-governance--user-acceptance-test)
 - [#69 Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory](#bagaimana-kami-menggunakan-php-sebagai-bagian-dari-platform-solusi-pandemi-di-refactory)
 - [#68 MySQL 8.0 Replication & Clustering](#mysql-80-replication--clustering)
 - [#67 Bekerja Jarak Jauh. Tantangan, Persiapan & Peluang](#Bekerja-jarak-jauh-tantangan-persiapan--Peluang)
@@ -129,6 +130,17 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/2589479884683924
 - Sesi: 71
+- Deskripsi: empty
+
+### IT Governance & User Acceptance Test 
+
+- Waktu: Minggu, 28 Maret 2020
+- Pukul: 19:00
+- Pemateri: Agit Naeta
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/153529863291957
+- Sesi: 70
 - Deskripsi: empty
 
 ### Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory
