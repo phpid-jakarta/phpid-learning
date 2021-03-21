@@ -161,7 +161,7 @@
 - Pemateri: Nur Hidayat
 - Slide: empty
 - Video: empty
-- Registrasi: https://www.facebook.com/groups/phpid/permalink/10159035678401101/
+- Registrasi: https://www.facebook.com/events/279124113584237
 - Sesi: 68
 - Deskripsi: empty
 
