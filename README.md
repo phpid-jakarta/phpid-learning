@@ -171,8 +171,8 @@
 - Pukul: 19:00
 - Pemateri: Riza Fahmi - CoFounder Hacktiv8 
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/266615668260661 
+- Video: https://www.facebook.com/groups/phpid/permalink/10159051164011101/
+- Registrasi: empty
 - Sesi: 67
 - Deskripsi: empty
 
