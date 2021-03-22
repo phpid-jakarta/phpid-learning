@@ -89,7 +89,7 @@
 
 ### Template sesi selanjutnya
 
-- Waktu: Hari, XX Oktober 2020
+- Waktu: Hari, XX Oktober 2021
 - Pukul: 19:00
 - Pemateri: empty
 - Slide: empty
@@ -101,7 +101,7 @@
 
 ### PHP-ML Metode Naive Bayes
 
-- Waktu: Jumat, 2 April 2020
+- Waktu: Jumat, 2 April 2021
 - Pukul: 19:00
 - Pemateri: Achmad Solichin
 - Slide: empty
@@ -112,7 +112,7 @@
 
 ### Bongkar Dapur Webnya #PHPID-OL
 
-- Waktu: Rabu, 31 Maret 2020
+- Waktu: Rabu, 31 Maret 2021
 - Pukul: 19:00
 - Pemateri: Irfan Maulana
 - Slide: empty
@@ -123,7 +123,7 @@
 
 ### Mengukur Kompleksitas Kode
 
-- Waktu: Selasa, 30 Maret 2020
+- Waktu: Selasa, 30 Maret 2021
 - Pukul: 19:00
 - Pemateri: Bayu Hendra Winata
 - Slide: empty
@@ -134,7 +134,7 @@
 
 ### IT Governance & User Acceptance Test 
 
-- Waktu: Minggu, 28 Maret 2020
+- Waktu: Minggu, 28 Maret 2021
 - Pukul: 19:00
 - Pemateri: Agit Naeta
 - Slide: empty
@@ -145,7 +145,7 @@
 
 ### Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory
 
-- Waktu: Kamis, 25 Maret 2020
+- Waktu: Kamis, 25 Maret 2021
 - Pukul: 19:00
 - Pemateri: Taufan Aditya | CEO Refactory
 - Slide: empty
@@ -156,7 +156,7 @@
 
 ### MySQL 8.0 Replication & Clustering
 
-- Waktu: Selasa, 23 Maret 2020
+- Waktu: Selasa, 23 Maret 2021
 - Pukul: 19:00
 - Pemateri: Nur Hidayat
 - Slide: empty
