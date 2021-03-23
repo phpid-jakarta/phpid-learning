@@ -100,6 +100,18 @@
 - Deskripsi: -
 
 
+### gRPC in Go, NodeJS and PHP
+
+- Waktu: Senin, 5 April 2021
+- Pukul: 19:00
+- Pemateri: Rijal Asepnugroho
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/3924681354259965
+- Sesi: 74
+- tag: php, go, nodejs, grpc
+- Deskripsi: empty
+
 ### PHP-ML Metode Naive Bayes
 
 - Waktu: Jumat, 2 April 2021
