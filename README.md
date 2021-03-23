@@ -13,6 +13,7 @@
 
 
 ## Daftar online learning
+- [#75 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
 - [#73 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
 - [#72 Bongkar Dapur Webnya #PHPID-OL](#bongkar-dapur-webnya-phpid-ol)
 - [#71 Mengukur Kompleksitas Kode](#mengukur-kompleksitas-kode)
