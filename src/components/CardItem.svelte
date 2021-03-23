@@ -1,5 +1,7 @@
 <script>
   import { onMount } from "svelte";
+  import Tags from "./Tags.svelte";
+
   export let item;
 
   let src =
@@ -11,22 +13,22 @@
     entries.forEach(node => {
       if (!node.isIntersecting) return false;
 
-      const img = document.createElement('img')
-      img.classList.add('is--loading');
-      img.classList.add('card-image');
+      const img = document.createElement("img");
+      img.classList.add("is--loading");
+      img.classList.add("card-image");
 
       img.onload = () => {
         loaded = true;
-        img.classList.remove('is--loading');
-        img.classList.add('is--loaded');
+        img.classList.remove("is--loading");
+        img.classList.add("is--loaded");
 
         window.__macy &&
           window.__macy.recalculate &&
           window.__macy.recalculate(true);
       };
 
-      img.setAttribute('src', item.cover);
-      img.setAttribute('alt', item.topic);
+      img.setAttribute("src", item.cover);
+      img.setAttribute("alt", item.topic);
 
       node.target.appendChild(img);
 
@@ -57,12 +59,13 @@
       margin-right: 13px;
     }
   }
-  .card-image-wrapper{
+  .card-image-wrapper {
     width: auto;
     min-height: 200px;
     background: #212121;
   }
-  .card-title, .card-subtitle {
+  .card-title,
+  .card-subtitle {
     font-family: "Neucha", sans-serif;
   }
   .card .card-body {
@@ -71,29 +74,35 @@
   }
 
   .card .card-body button {
-    margin: 5px;
+    margin: 5px 5px 0 0;
   }
 
   .card .card-body a + a {
     margin: 0;
   }
-  .badge-group{
+  .badge-group {
     margin-bottom: 1em;
   }
 </style>
 
 <div class="card">
-  <div class="card-image-wrapper js-image--{item.id}">
-  </div>
+  <div class="card-image-wrapper js-image--{item.id}" />
   <div class="card-body">
     <div class="badge-group">
       <span class="badge warning" style="margin-right: .25em">#{item.id}</span>
-      <span class="badge secondary" style="margin-right: .25em">{item.date}</span>
+      <span class="badge secondary" style="margin-right: .25em">
+        {item.date}
+      </span>
       <span class="badge success">{item.time} WIB</span>
     </div>
 
     <h4 class="card-title">{item.topic}</h4>
     <h5 class="card-subtitle">{item.speaker}</h5>
+
+    {#if item.tags && item.tags.length > 0}
+      <Tags tags={item.tags} />
+    {/if}
+
     <div class="card-text">
       {#if item.videos[0] && item.videos[0] !== 'empty'}
         <a

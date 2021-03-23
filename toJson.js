@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 
-const REGEX_SECTIONS = /^\#{3}.*\n\n- Waktu.*\n- Pukul.*\n- Pemateri.*\n- Slide.*\n- Video.*\n- Registrasi.*\n- Sesi.*\n- Deskripsi.*\n/gm
+const REGEX_SECTIONS = /^\#{3}.*\n\n- Waktu.*\n- Pukul.*\n- Pemateri.*\n- Slide.*\n- Video.*\n- Registrasi.*\n- Sesi.*\n- Kategori.*\n- Deskripsi.*\n/gm
 const REGEX_TITLE = /^\#{3}.*/gm
 const REGEX_DATE = /^- Waktu.*/gm
 const REGEX_TIME = /^- Pukul.*/gm
@@ -10,6 +10,7 @@ const REGEX_SLIDE = /^- Slide.*/gm
 const REGEX_VIDEO = /^- Video.*/gm
 const REGEX_REGISTRASI = /^- Registrasi.*/gm
 const REGEX_SESI = /^- Sesi.*/gm
+const REGEX_KATEGORI = /^- Kategori.*/gm
 const REGEX_DESKRIPSI = /^- Deskripsi.*/gm
 
 const writeFile = (pathFile, contentString) => {
@@ -68,7 +69,8 @@ const main = async () => {
         const sesi = getContent(ctx, REGEX_SESI, '- Sesi:')
         const cover = getCoverUrl(sesi)
         const deskripsi = getContent(ctx, REGEX_DESKRIPSI, '- Deskripsi:')
-
+        const kategori = getContent(ctx, REGEX_KATEGORI, '- Kategori:')
+        const tags = kategori.split(',').map(i => i.trim())
         const data = {
           id: sesi,
           date: date,
@@ -79,7 +81,8 @@ const main = async () => {
           videos: videos,
           registrasi: register,
           cover: cover,
-          deskripsi: deskripsi
+          deskripsi: deskripsi,
+          tags: tags
         }
 
         allData.push(data)
@@ -93,6 +96,7 @@ const main = async () => {
         console.log('🚪 ', register)
         console.log('📽️ ', videos)
         console.log('📕 ', deskripsi)
+        console.log('🏷 ', tags)
         console.log('\n-----------------------------\n')
       }
     })

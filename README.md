@@ -98,7 +98,7 @@
 - Video: empty
 - Registrasi: empty
 - Sesi: 68
-- tag: empty
+- Kategori: empty
 - Deskripsi: -
 
 
@@ -111,7 +111,7 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/495516201619224
 - Sesi: 76
-- tag: php, go, nodejs, grpc
+- Kategori: php, go, nodejs, grpc
 - Deskripsi: empty
 
 ### gRPC in Go, NodeJS and PHP
@@ -123,7 +123,7 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/3924681354259965
 - Sesi: 74
-- tag: php, go, nodejs, grpc
+- Kategori: php, go, nodejs, grpc
 - Deskripsi: empty
 
 ### PHP-ML Metode Naive Bayes
@@ -135,7 +135,7 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/711962396132118
 - Sesi: 73
-- tag: machine learning, php
+- Kategori: machine learning, php
 - Deskripsi: empty
 
 ### Bongkar Dapur Webnya #PHPID-OL
@@ -147,7 +147,7 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/4378541038839190
 - Sesi: 72
-- tag: web, inspiration
+- Kategori: web, inspiration
 - Deskripsi: empty
 
 ### Mengukur Kompleksitas Kode
@@ -159,10 +159,10 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/2589479884683924
 - Sesi: 71
-- tag: programming
+- Kategori: programming
 - Deskripsi: empty
 
-### IT Governance & User Acceptance Test 
+### IT Governance & User Acceptance Test
 
 - Waktu: Minggu, 28 Maret 2021
 - Pukul: 19:00
@@ -171,7 +171,7 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/153529863291957
 - Sesi: 70
-- tag: data governance
+- Kategori: data governance
 - Deskripsi: empty
 
 ### Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory
@@ -183,7 +183,7 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/2909392409296652
 - Sesi: 69
-- tag: php, inspiration
+- Kategori: php, inspiration
 - Deskripsi: empty
 
 ### MySQL 8.0 Replication & Clustering
@@ -195,31 +195,31 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/279124113584237
 - Sesi: 68
-- tag: database, mysql
+- Kategori: database, mysql
 - Deskripsi: empty
 
 ### Bekerja Jarak Jauh. Tantangan, Persiapan & Peluang
 
 - Waktu: Senin, 22 Maret 2021
 - Pukul: 19:00
-- Pemateri: Riza Fahmi - CoFounder Hacktiv8 
+- Pemateri: Riza Fahmi - CoFounder Hacktiv8
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10159051164011101/
 - Registrasi: empty
 - Sesi: 67
-- tag: remote worker, inspiration
+- Kategori: remote worker, inspiration
 - Deskripsi: empty
 
 ### Tips dan Trik Menerima Proyek Website untuk Pemula
 
 - Waktu: Sabtu, 20 Maret 2021
 - Pukul: 19:00
-- Pemateri: Andoyo - CEO Java Web Media 
+- Pemateri: Andoyo - CEO Java Web Media
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10159046435271101/
 - Registrasi: empty
 - Sesi: 66
-- tag: web, inspiration
+- Kategori: web, inspiration
 - Deskripsi: empty
 
 ### Teknologi Dibalik Layar Penanganan Pandemi (PIKOBAR)
@@ -231,7 +231,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10159044088881101/
 - Registrasi: empty
 - Sesi: 65
-- tag: inspiration
+- Kategori: inspiration
 - Deskripsi: empty
 
 ### Headless CMS
@@ -243,7 +243,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10159041836426101/
 - Registrasi: empty
 - Sesi: 64
-- tag: web, node js
+- Kategori: web, node js
 - Deskripsi: empty
 
 ### Membuat Laporan Kecepatan Web untuk Blog Pribadi
@@ -253,9 +253,9 @@
 - Pemateri: Irfan Maulana
 - Slide: https://speakerdeck.com/mazipan/membuat-laporan-kecepatan-web-untuk-blog
 - Video: https://www.facebook.com/groups/phpid/permalink/10159038292141101/
-- Registrasi: empty 
+- Registrasi: empty
 - Sesi: 63
-- tag: web
+- Kategori: web
 - Deskripsi: empty
 
 ### Data Visualization
@@ -267,7 +267,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10159035778651101/
 - Registrasi: empty
 - Sesi: 62
-- tag: data science
+- Kategori: data science
 - Deskripsi: empty
 
 ### Mending Rakit PC
@@ -277,9 +277,9 @@
 - Pemateri: Chandika Nurdiansyah
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10159025465916101/
-- Registrasi: empty 
+- Registrasi: empty
 - Sesi: 61
-- tag: pc built
+- Kategori: pc built
 - Deskripsi: empty
 
 ### Deploy & Test Aplikasi Container Laravel dgn Amazon ECS & Github Actions
@@ -291,7 +291,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10159020631611101/
 - Registrasi: empty
 - Sesi: 60
-- tag: php, laravel, aws
+- Kategori: php, laravel, aws
 - Deskripsi: empty
 
 ### Career Hack: From PHP Developer to CEO
@@ -303,7 +303,7 @@
 - Video: empty
 - Registrasi: empty
 - Sesi: 59
-- tag: career, inspiration
+- Kategori: career, inspiration
 - Deskripsi: empty
 
 ### PHP dan Mikrotik API
@@ -315,7 +315,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10159000684106101
 - Registrasi: empty
 - Sesi: 58
-- tag: php, api, mikrotik
+- Kategori: php, api, mikrotik
 - Deskripsi: empty
 
 ### Data Analytics with DBMS
@@ -327,7 +327,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158983813231101
 - Registrasi: empty
 - Sesi: 57
-- tag: database, data analytics
+- Kategori: database, data analytics
 - Deskripsi: empty
 
 ### Rapid Frontend Ninja Development with NodeJS & CSS Frameworks
@@ -339,7 +339,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158969160051101/
 - Registrasi: empty
 - Sesi: 56
-- tag: node js, framework
+- Kategori: node js, framework
 - Deskripsi: empty
 
 ### Machine Learning dengan PHP
@@ -351,7 +351,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158974066981101/
 - Registrasi: empty
 - Sesi: 55
-- tag: php, machine learning
+- Kategori: php, machine learning
 - Deskripsi: empty
 
 ### From Zero to Hero with Code Igniter
@@ -363,7 +363,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158966674966101/
 - Registrasi: empty
 - Sesi: 54
-- tag: php, framework, code igniter
+- Kategori: php, framework, code igniter
 - Deskripsi: empty
 
 ### Digital Marketing Roadmap
@@ -375,7 +375,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158948802746101/
 - Registrasi: empty
 - Sesi: 53
-- tag: digital marketing
+- Kategori: digital marketing
 - Deskripsi: https://zoom.us/meeting/register/tJ0vc-uqrjIjH9Qgwcanjc6E_y7ACuTLmTDU
 
 ### Belajar Menghindari SQL Injection Melalui Simulasi
@@ -387,7 +387,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158929046711101/
 - Registrasi: empty
 - Sesi: 52
-- tag: database
+- Kategori: database
 - Deskripsi: https://zoom.us/j/95908647932?pwd=b0IvdExudHlRb0ZVbENPYTZ0L2RJZz09
 
 ### Amazon Simple Storage Service (S3) For PHP Developer
@@ -399,7 +399,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158951408891101/
 - Registrasi: empty
 - Sesi: 51
-- tag: storage, aws
+- Kategori: storage, aws
 - Deskripsi: -
 
 ### PHP Native Series: PDO & MySQL
@@ -411,7 +411,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158903307736101/
 - Registrasi: empty
 - Sesi: 50
-- tag: php, database, mysql
+- Kategori: php, database, mysql
 - Deskripsi: -
 
 ### Static Wordpress Hosting dengan S3 dan CloudFront
@@ -423,7 +423,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158663473731101/
 - Registrasi: empty
 - Sesi: 49
-- tag: php, wordpress, aws
+- Kategori: php, wordpress, aws
 - Deskripsi: -
 
 ### Mengenal Teknologi Web Terdesentralisasi
@@ -435,7 +435,7 @@
 - Video: https://www.facebook.com/story.php?story_fbid=10222872532977916&id=1114812411
 - Registrasi: empty
 - Sesi: 48
-- tag: web
+- Kategori: web
 - Deskripsi: -
 
 ### Membangun Aplikasi Laravel Microservices dengan AWS
@@ -447,7 +447,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158585138676101/
 - Registrasi: empty
 - Sesi: 47
-- tag: php, laravel, aws
+- Kategori: php, laravel, aws
 - Deskripsi:
 
 ### Optimizing & Scaling MySQL Web Application
@@ -459,7 +459,7 @@
 - Video: https://web.facebook.com/groups/phpid/permalink/10158547046866101/
 - Registrasi: empty
 - Sesi: 46
-- tag: database, mysql
+- Kategori: database, mysql
 - Deskripsi:
 
 ### How to Become a Solution Analyst for Banking Industry
@@ -471,7 +471,7 @@
 - Video: empty
 - Registrasi: empty
 - Sesi: 45
-- tag: system analyst
+- Kategori: system analyst
 - Deskripsi:
 
 ### Data Science Methodology
@@ -483,7 +483,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158471678691101/
 - Registrasi: empty
 - Sesi: 44
-- tag: data science
+- Kategori: data science
 - Deskripsi:
 
 ### Anak IT merasa salah jurusan?
@@ -495,7 +495,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10220309143376497/
 - Registrasi: empty
 - Sesi: 43
-- tag: inspiration
+- Kategori: inspiration
 - Deskripsi: How to survive and be a champion in the Technology fields berdasarkan pengalaman, pengamatan, pembelajaran pemateri
 
 ### Ask Me Anything with Om Luri Darmawan
@@ -507,7 +507,7 @@
 - Video: https://web.facebook.com/peterjkambey/videos/10220255840643962/
 - Registrasi: empty
 - Sesi: 42
-- tag: inspiration
+- Kategori: inspiration
 - Deskripsi: Ask Me Anything with om Luri Darmawan. Founder Carik ChatBot paling fenomenal 2020 didaftar di 1000 group telegram/wa/line/messenger.
 
 ### Belajar Konsep CRM & Menggunakan Software CRM Gratis
@@ -519,7 +519,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10220185761212020
 - Registrasi: empty
 - Sesi: 41
-- tag: crm
+- Kategori: crm
 - Deskripsi: Om Arga Dinata, Konsultan Senior yang banyak menggarap proyek2 CRM di perusahaan-perusahaan terkenal
 
 ### The Journey of Test-Driven Development
@@ -531,7 +531,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10220170296345408
 - Registrasi: empty
 - Sesi: 40
-- tag: tdd
+- Kategori: tdd
 - Deskripsi: Om Freddy Founder Senior Developer, Founder/Pengurus SARCCOM - Software Architect Indonesia Community
 
 ### Mendeploy Situs Wordpress yang Scalable di AWS
@@ -543,7 +543,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10220133445224153
 - Registrasi: empty
 - Sesi: 39
-- tag: php, wordpress, aws
+- Kategori: php, wordpress, aws
 - Deskripsi: -
 
 ### Developer Jadi Pengajar, Why Not?
@@ -555,7 +555,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10220092304035649
 - Registrasi: empty
 - Sesi: 38
-- tag: inspiration
+- Kategori: inspiration
 - Deskripsi: -
 
 ### 2021, PHP masih cocok untuk dipelajari?
@@ -567,7 +567,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10220026566992264
 - Registrasi: empty
 - Sesi: 37
-- tag: php
+- Kategori: php
 - Deskripsi: -
 
 ### Membuat Aplikasi PHP Microservices dengan AWS (cancelled)
@@ -579,7 +579,7 @@
 - Video: empty
 - Registrasi: empty
 - Sesi: 36
-- tag: web, aws
+- Kategori: web, aws
 - Deskripsi: -
 
 ### Enabling Data Governance
@@ -591,7 +591,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219963481295161
 - Registrasi: empty
 - Sesi: 35
-- tag: data governance
+- Kategori: data governance
 - Deskripsi: -
 
 ### Why developer must care about Open Source?
@@ -603,7 +603,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219914973922507
 - Registrasi: empty
 - Sesi: 34
-- tag: open source
+- Kategori: open source
 - Deskripsi: -
 
 ### Web Accessibility
@@ -615,7 +615,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219905788772884
 - Registrasi: empty
 - Sesi: 33
-- tag: web
+- Kategori: web
 - Deskripsi: -
 
 ### Python For Data Science
@@ -627,7 +627,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219888776907598
 - Registrasi: empty
 - Sesi: 32
-- tag: data science, python
+- Kategori: data science, python
 - Deskripsi: -
 
 ### Software Estimation Jump Start
@@ -639,7 +639,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219872592703003
 - Registrasi: empty
 - Sesi: 31
-- tag: inspiration
+- Kategori: inspiration
 - Deskripsi: -
 
 ### Scaling Application to 1 Millions Users
@@ -651,7 +651,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219864037649132
 - Registrasi: empty
 - Sesi: 30
-- tag: web, aws
+- Kategori: web, aws
 - Deskripsi: -
 
 ### The Change Maker Framework
@@ -663,7 +663,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219845832474014
 - Registrasi: empty
 - Sesi: 29
-- tag: php, framework
+- Kategori: php, framework
 - Deskripsi: -
 
 ### Ngobrol Santai Bareng om Peter - 2 Jam Bikin Aplikasi Absensi Online
@@ -675,7 +675,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219798560652248
 - Registrasi: empty
 - Sesi: 28
-- tag: inspiration
+- Kategori: inspiration
 - Deskripsi: -
 
 ### Ngobrol Santai Bareng om Sony Kurniawan
@@ -687,7 +687,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219674327906507
 - Registrasi: empty
 - Sesi: 27
-- tag: inspiration
+- Kategori: inspiration
 - Deskripsi: -
 
 ### Live Coding Music - Write Music with Code
@@ -699,7 +699,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219664721066342
 - Registrasi: empty
 - Sesi: 23
-- tag: programming
+- Kategori: programming
 - Deskripsi: -
 
 ### Pengembangan Sistem Informasi eGovernment (cancelled)
@@ -711,7 +711,7 @@
 - Video: empty
 - Registrasi: empty
 - Sesi: 24
-- tag: e-government
+- Kategori: e-government
 - Deskripsi: -
 
 ### Codepolitan
@@ -723,7 +723,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219644689445564
 - Registrasi: empty
 - Sesi: 26
-- tag: inspiration
+- Kategori: inspiration
 - Deskripsi: -
 
 ### PostgreSQL: DDL dan SQL
@@ -735,7 +735,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219634513351168
 - Registrasi: empty
 - Sesi: 25
-- tag: database, postgresql
+- Kategori: database, postgresql
 - Deskripsi: -
 
 ### The Practical Guide howto become System Analyst
@@ -747,7 +747,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219608505780995
 - Registrasi: empty
 - Sesi: 22
-- tag: system analyst
+- Kategori: system analyst
 - Deskripsi: -
 
 ### Linux Server for PHP Developer
@@ -759,7 +759,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219586488470576
 - Registrasi: empty
 - Sesi: 21
-- tag: linux, php
+- Kategori: linux, php
 - Deskripsi: -
 
 ### Do it with SQL - Journey to the Center of Database World
@@ -771,7 +771,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219575493195701
 - Registrasi: empty
 - Sesi: 20
-- tag: database
+- Kategori: database
 - Deskripsi: -
 
 ### Personal Security Awareness
@@ -783,7 +783,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219564541841924
 - Registrasi: empty
 - Sesi: 19
-- tag: security
+- Kategori: security
 - Deskripsi: -
 
 ### Web RTC
@@ -795,7 +795,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219553693850731
 - Registrasi: empty
 - Sesi: 18
-- tag: web
+- Kategori: web
 - Deskripsi: -
 
 ### How to Secure your Next Job During Covid-19 Pandemic
@@ -807,7 +807,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219542443169471
 - Registrasi: empty
 - Sesi: 17
-- tag: career
+- Kategori: career
 - Deskripsi: -
 
 ### Evolution Of PHP
@@ -819,7 +819,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219532379837894
 - Registrasi: empty
 - Sesi: 16
-- tag: php
+- Kategori: php
 - Deskripsi: -
 
 ### Rest API dengan PHP OOP
@@ -831,7 +831,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219521400483417
 - Registrasi: empty
 - Sesi: 15
-- tag: php, oop, api
+- Kategori: php, oop, api
 - Deskripsi: -
 
 ### Tactics and Strategy to Define Digital Products
@@ -843,7 +843,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219510663695004
 - Registrasi: empty
 - Sesi: 14
-- tag: digital marketing
+- Kategori: digital marketing
 - Deskripsi: -
 
 ### Remote Worker
@@ -855,7 +855,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219491497055850
 - Registrasi: empty
 - Sesi: 13
-- tag: remote worker, freelance
+- Kategori: remote worker, freelance
 - Deskripsi: -
 
 ### Berkarir sebagai Frontend Developer
@@ -867,7 +867,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219471755322319
 - Registrasi: empty
 - Sesi: 12
-- tag: career, frontend
+- Kategori: career, frontend
 - Deskripsi: -
 
 ### Starting Your Career in the Data Science
@@ -879,7 +879,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219460519601433
 - Registrasi: empty
 - Sesi: 11
-- tag: data science, career
+- Kategori: data science, career
 - Deskripsi: -
 
 ### Optimize Image on Your Website 101
@@ -891,7 +891,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219439233869303
 - Registrasi: empty
 - Sesi: 10
-- tag: php
+- Kategori: php
 - Deskripsi: -
 
 ### Building CI/CD Pipeline
@@ -903,7 +903,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219428640684480
 - Registrasi: empty
 - Sesi: 9
-- tag: ci/cd, aws
+- Kategori: ci/cd, aws
 - Deskripsi: -
 
 ### Social Media Digital Strategy
@@ -915,7 +915,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219410023379059
 - Registrasi: empty
 - Sesi: 8
-- tag: sosmed, digital marketing
+- Kategori: sosmed, digital marketing
 - Deskripsi: -
 
 ### Laravel LiveWire 101
@@ -927,7 +927,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219376923231576
 - Registrasi: empty
 - Sesi: 7
-- tag: php, laravel
+- Kategori: php, laravel
 - Deskripsi: -
 
 ### Migration from Procedural to OOP
@@ -939,7 +939,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219344732706833
 - Registrasi: empty
 - Sesi: 6
-- tag: php, oop
+- Kategori: php, oop
 - Deskripsi: -
 
 ### Why Documentation Matter
@@ -951,7 +951,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219333692590837
 - Registrasi: empty
 - Sesi: 5
-- tag: documentation
+- Kategori: documentation
 - Deskripsi: -
 
 ### Kinerja Web 101
@@ -963,7 +963,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219322209183759
 - Registrasi: empty
 - Sesi: 4
-- tag: web
+- Kategori: web
 - Deskripsi: -
 
 ### SEO Basic
@@ -975,7 +975,7 @@
 - Video: https://youtu.be/emfHRGd5LuE
 - Registrasi: empty
 - Sesi: 3
-- tag: seo
+- Kategori: seo
 - Deskripsi: -
 
 ### Coder Journey to UI/UX Galaxy
@@ -987,7 +987,7 @@
 - Video: https://www.facebook.com/peterjkambey/videos/10219281729691797
 - Registrasi: empty
 - Sesi: 2
-- tag: ui/ux
+- Kategori: ui/ux
 - Deskripsi: -
 
 ### How to design a good database
@@ -999,7 +999,7 @@
 - Video: https://youtu.be/fSQ8JamoAfg
 - Registrasi: empty
 - Sesi: 1
-- tag: database
+- Kategori: database
 - Deskripsi: -
 
 ## Bantu kami
