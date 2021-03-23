@@ -13,6 +13,7 @@
 
 
 ## Daftar online learning
+- [#75 Test-Driven Development Part #2](#Test-Driven-Development-Part--2)
 - [#76 Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning](#membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning)
 - [#74 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
 - [#73 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
@@ -101,6 +102,18 @@
 - Kategori: empty
 - Deskripsi: -
 
+
+### Test-Driven Development Part #2
+
+- Waktu: Kamis, 8 April 2021
+- Pukul: 19:00
+- Pemateri: Freddy Munandar
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/445634326661944
+- Sesi: 77
+- Kategori: tdd
+- Deskripsi: empty
 
 ### Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning
 
