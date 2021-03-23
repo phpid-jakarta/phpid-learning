@@ -13,7 +13,8 @@
 
 
 ## Daftar online learning
-- [#75 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
+- [#76 Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning](#membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning)
+- [#74 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
 - [#73 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
 - [#72 Bongkar Dapur Webnya #PHPID-OL](#bongkar-dapur-webnya-phpid-ol)
 - [#71 Mengukur Kompleksitas Kode](#mengukur-kompleksitas-kode)
@@ -100,6 +101,18 @@
 - tag: empty
 - Deskripsi: -
 
+
+### Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning
+
+- Waktu: Rabu, 7 April 2021
+- Pukul: 19:00
+- Pemateri: Petra Novandi Barus
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/495516201619224
+- Sesi: 76
+- tag: php, go, nodejs, grpc
+- Deskripsi: empty
 
 ### gRPC in Go, NodeJS and PHP
 
