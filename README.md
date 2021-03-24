@@ -13,8 +13,9 @@
 
 
 ## Daftar online learning
-- [#75 Test-Driven Development Part #2](#Test-Driven-Development-Part--2)
+- [#77 Test-Driven Development Part #2](#Test-Driven-Development-Part--2)
 - [#76 Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning](#membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning)
+- [#75 PHP Native Series: Datatable](#php-native-series--datatable)
 - [#74 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
 - [#73 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
 - [#72 Bongkar Dapur Webnya #PHPID-OL](#bongkar-dapur-webnya-phpid-ol)
@@ -125,6 +126,18 @@
 - Registrasi: https://www.facebook.com/events/495516201619224
 - Sesi: 76
 - Kategori: php, go, nodejs, grpc
+- Deskripsi: empty
+
+### PHP Native Series: Datatable
+
+- Waktu: Selasa, 6 April 2021
+- Pukul: 19:00
+- Pemateri: Gunawan Wibisono
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/2891717401057623
+- Sesi: 75
+- Kategori: php
 - Deskripsi: empty
 
 ### gRPC in Go, NodeJS and PHP
