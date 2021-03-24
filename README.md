@@ -15,7 +15,7 @@
 ## Daftar online learning
 - [#77 Test-Driven Development Part #2](#Test-Driven-Development-Part--2)
 - [#76 Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning](#membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning)
-- [#75 PHP Native Series: Datatable](#php-native-series--datatable)
+- [#75 PHP Native Series: Datatable](#php-native-series-datatable)
 - [#74 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
 - [#73 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
 - [#72 Bongkar Dapur Webnya #PHPID-OL](#bongkar-dapur-webnya-phpid-ol)
