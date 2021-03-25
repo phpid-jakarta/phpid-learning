@@ -206,8 +206,8 @@
 - Pukul: 19:00
 - Pemateri: Taufan Aditya | CEO Refactory
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/2909392409296652
+- Video: https://www.facebook.com/groups/phpid/permalink/10159058364621101/
+- Registrasi: empty
 - Sesi: 69
 - Kategori: php, inspiration
 - Deskripsi: empty
@@ -218,8 +218,8 @@
 - Pukul: 19:00
 - Pemateri: Nur Hidayat
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/279124113584237
+- Video: https://www.facebook.com/groups/phpid/permalink/10159053598196101
+- Registrasi: empty
 - Sesi: 68
 - Kategori: database, mysql
 - Deskripsi: empty
