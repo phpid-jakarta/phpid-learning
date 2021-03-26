@@ -112,10 +112,10 @@
       <h3 class="animate__animated animate__bounce">{$originData.length} Materi</h3>
       <span class="animate__animated animate__bounce">{dateRange}</span>
       <div class="hero-button">
-        <a href="https://phpid.netlify.app/jadi-pemateri" target="_blank" rel="noopener" title="Github">
+        <a href="https://s.byphp.id/jadi-pemateri" target="_blank" rel="noopener" title="Github">
           <button class="animate__animated animate__bounceIn">Daftar jadi speaker</button>
         </a>
-        <a href="https://phpid.netlify.app/" target="_blank" rel="noopener" title="Facebook Group PHPID">
+        <a href="https://s.byphp.id/fb" target="_blank" rel="noopener" title="Facebook Group PHPID">
           <button class="btn-secondary animate__animated animate__bounceIn">FB Group</button>
         </a>
       </div>
