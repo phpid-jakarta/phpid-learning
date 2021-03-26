@@ -105,7 +105,8 @@ const main = async () => {
       meta: {
         last_updated: new Date(),
         total: allData.length,
-        credits: 'PHPID Community'
+        credits: 'PHPID Community',
+        ui: 'https://s.byphp.id/learning'
       },
       data: allData
     }
