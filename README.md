@@ -6,10 +6,10 @@
 
 ## Data bisa juga diakses lewat
 
-- Web UI: [https://phpid.netlify.app/learning](https://phpid.netlify.app/learning)
+- Web UI: [https://s.byphp.id/learning](https://s.byphp.id/learning)
 - JSON: Lihat berkas [data.json](data.json)
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
-- Calon Pemateri yang berminat  mengisi PHPID-OL: [https://phpid.netlify.app/jadi-pemateri](https://phpid.netlify.app/jadi-pemateri)
+- Calon Pemateri yang berminat  mengisi PHPID-OL: [https://s.byphp.id/jadi-pemateri](https://s.byphp.id/jadi-pemateri)
 
 
 ## Daftar online learning
