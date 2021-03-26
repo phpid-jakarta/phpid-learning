@@ -2,14 +2,14 @@
 
 ![PHPID](https://img.shields.io/badge/PHPID-Community-blue?cacheSeconds=604800) ![Contribution](https://img.shields.io/badge/Contributions-Welcome-green.svg?cacheSeconds=604800) ![Generate JSON](https://github.com/phpid-jakarta/phpid-learning/workflows/Generate%20JSON/badge.svg?branch=master)
 
-[![Belajar daring bersama PHPID](phpid-learning.png)](https://phpid-jakarta.github.io/phpid-learning/)
+[![Belajar daring bersama PHPID](phpid-learning.png)](https://s.byphp.id/learning)
 
 ## Data bisa juga diakses lewat
 
-- Web UI: [https://s.byphp.id/learning](https://s.byphp.id/learning)
+- Web UI: [s.byphp.id/learning](https://s.byphp.id/learning)
 - JSON: Lihat berkas [data.json](data.json)
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
-- Calon Pemateri yang berminat  mengisi PHPID-OL: [https://s.byphp.id/jadi-pemateri](https://s.byphp.id/jadi-pemateri)
+- Calon Pemateri yang berminat  mengisi PHPID-OL: [s.byphp.id/jadi-pemateri](https://s.byphp.id/jadi-pemateri)
 
 
 ## Daftar online learning
