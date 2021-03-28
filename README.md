@@ -194,10 +194,10 @@
 - Pukul: 19:00
 - Pemateri: Agit Naeta
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/153529863291957
+- Video: https://www.facebook.com/groups/phpid/permalink/10159066765291101/
+- Registrasi: empty
 - Sesi: 70
-- Kategori: data governance
+- Kategori: data governance, uat
 - Deskripsi: empty
 
 ### Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory
