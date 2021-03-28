@@ -125,7 +125,7 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/495516201619224
 - Sesi: 76
-- Kategori: php, go, nodejs, grpc
+- Kategori: ml, machine learning
 - Deskripsi: empty
 
 ### PHP Native Series: Datatable
