@@ -36,7 +36,7 @@ const fileLoader = {
   loader: 'file-loader',
   options: {
     name: dev ? '[name].[ext]' : '[name].[contenthash].[ext]',
-    publicPath: '/phpid-learning/client'
+    publicPath: '/client'
   }
 }
 
@@ -45,9 +45,9 @@ const cssLoader = {
   use: [
     {
       loader: MiniCssExtractPlugin.loader,
-      options: {
-        publicPath: 'phpid-learning'
-      }
+      // options: {
+      //   publicPath: 'phpid-learning'
+      // }
     },
     'css-loader'
   ]
