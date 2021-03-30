@@ -13,11 +13,12 @@
 
 
 ## Daftar online learning
-- [#77 Test-Driven Development Part #2](#Test-Driven-Development-Part--2)
-- [#76 Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning](#membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning)
-- [#75 PHP Native Series: Datatable](#php-native-series-datatable)
-- [#74 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
-- [#73 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
+- [#78 Test-Driven Development Part #2](#Test-Driven-Development-Part--2)
+- [#77 Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning](#membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning)
+- [#76 PHP Native Series: Datatable](#php-native-series-datatable)
+- [#75 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
+- [#74 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
+- [#73 Mengelola Workflow Menggunakan Airflow](#mengelola-workflow-menggunakan-airflow)
 - [#72 Bongkar Dapur Webnya #PHPID-OL](#bongkar-dapur-webnya-phpid-ol)
 - [#71 Mengukur Kompleksitas Kode](#mengukur-kompleksitas-kode)
 - [#70 IT Governance & User Acceptance Test](#it-governance--user-acceptance-test)
@@ -112,7 +113,7 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://www.facebook.com/events/445634326661944
-- Sesi: 77
+- Sesi: 78
 - Kategori: tdd
 - Deskripsi: empty
 
@@ -124,7 +125,7 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://www.facebook.com/events/495516201619224
-- Sesi: 76
+- Sesi: 77
 - Kategori: ml, machine learning
 - Deskripsi: empty
 
@@ -136,7 +137,7 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://www.facebook.com/events/2891717401057623
-- Sesi: 75
+- Sesi: 76
 - Kategori: php
 - Deskripsi: empty
 
@@ -148,7 +149,7 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://www.facebook.com/events/3924681354259965
-- Sesi: 74
+- Sesi: 75
 - Kategori: php, go, nodejs, grpc
 - Deskripsi: empty
 
@@ -160,8 +161,20 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://www.facebook.com/events/711962396132118
-- Sesi: 73
+- Sesi: 74
 - Kategori: machine learning, php
+- Deskripsi: empty
+
+### Mengelola Workflow Menggunakan Airflow
+
+- Waktu: Kamis, 1 April 2021
+- Pukul: 19:00
+- Pemateri: Fitra Aditya
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/371076890652274
+- Sesi: 73
+- Kategori: airflow
 - Deskripsi: empty
 
 ### Bongkar Dapur Webnya #PHPID-OL
