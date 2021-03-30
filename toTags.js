@@ -70,6 +70,7 @@ const main = async () => {
     let modifyScriptTag = packageJson
 
     modifyScriptTag.scripts.export = `cross-env NODE_ENV=production sapper export --basepath phpid-learning --entry '/ ${allTagsWithPrefix.join(' ')}'`
+    modifyScriptTag.scripts['export:root'] = `cross-env NODE_ENV=production sapper export --entry '/ ${allTagsWithPrefix.join(' ')}'`
 
     // writeFile('./tags.txt', allTags.join(' '))
     // writeFile('./tags-prefix.txt', allTagsWithPrefix.join(' '))
