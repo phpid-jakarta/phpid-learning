@@ -1,11 +1,11 @@
 <script>
   import { onMount } from "svelte";
-  import { showData, perPage, offsetPage } from "../store";
+  import { showData, perPage, offsetPage } from "../../store";
 
-  import Hero from "../components/Hero.svelte";
-  import CardItem from "../components/CardItem.svelte";
-  import Footer from "../components/Footer.svelte";
-  import Pagination from "../components/Pagination.svelte";
+  import Hero from "../../components/Hero.svelte";
+  import CardItem from "../../components/CardItem.svelte";
+  import Footer from "../../components/Footer.svelte";
+  import Pagination from "../../components/Pagination.svelte";
 
   onMount(async () => {
     try {
@@ -65,4 +65,5 @@
     <Pagination />
   {/if}
   <Footer />
+  <!-- <Modal /> -->
 </main>

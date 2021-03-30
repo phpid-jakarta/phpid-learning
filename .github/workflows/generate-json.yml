@@ -8,6 +8,10 @@ on:
       - "data.json"
       - "data.js"
       - "data-es.js"
+      - "tags.txt"
+      - "tags-prefix.txt"
+      - "_redirect-out"
+      - "package.json"
 
 jobs:
   generate_json:
@@ -40,6 +44,8 @@ jobs:
         run: |
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > LAST_UPDATED
+      - name: Update package.json
+        run: yarn toTags
       - name: Build UI
         run: yarn export
       - uses: actions/upload-artifact@v2

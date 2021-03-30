@@ -70,7 +70,7 @@ const main = async () => {
         const cover = getCoverUrl(sesi)
         const deskripsi = getContent(ctx, REGEX_DESKRIPSI, '- Deskripsi:')
         const kategori = getContent(ctx, REGEX_KATEGORI, '- Kategori:')
-        const tags = kategori.split(',').map(i => i.trim())
+        const tags = kategori.split(',').map(i => i.trim().replace('/', '-').replace(' ', '-'))
         const data = {
           id: sesi,
           date: date,
