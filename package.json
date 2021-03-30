@@ -4,6 +4,7 @@
   "description": "👩‍🏫 Belajar daring bersama PHPID",
   "main": "toJson.js",
   "scripts": {
+    "toShortlinks": "node ./toShortlinks.js",
     "toJson": "node ./toJson.js",
     "dev": "sapper dev",
     "build": "sapper build",
