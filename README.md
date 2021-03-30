@@ -182,8 +182,8 @@
 - Pukul: 19:00
 - Pemateri: Bayu Hendra Winata
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/2589479884683924
+- Video: https://www.facebook.com/groups/phpid/permalink/10159071085661101/
+- Registrasi: empty
 - Sesi: 71
 - Kategori: programming
 - Deskripsi: empty
