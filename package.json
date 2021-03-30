@@ -11,7 +11,8 @@
     "build": "sapper build",
     "start": "node __sapper__/build",
     "export": "cross-env NODE_ENV=production sapper export --basepath phpid-learning --entry '/ /tag/tdd /tag/ml /tag/machine-learning /tag/php /tag/go /tag/nodejs /tag/grpc /tag/airflow /tag/web /tag/inspiration /tag/programming /tag/data-governance /tag/uat /tag/database /tag/mysql /tag/remote-worker /tag/node-js /tag/data-science /tag/pc-built /tag/laravel /tag/aws /tag/career /tag/api /tag/mikrotik /tag/data-analytics /tag/framework /tag/code-igniter /tag/digital-marketing /tag/storage /tag/wordpress /tag/system-analyst /tag/crm /tag/open-source /tag/python /tag/e-government /tag/postgresql /tag/linux /tag/security /tag/oop /tag/freelance /tag/frontend /tag/ci-cd /tag/sosmed /tag/documentation /tag/seo /tag/ui-ux'",
-    "lint": "eslint **/*.svelte --fix"
+    "lint": "eslint **/*.svelte --fix",
+    "export:root": "cross-env NODE_ENV=production sapper export --entry '/ /tag/tdd /tag/ml /tag/machine-learning /tag/php /tag/go /tag/nodejs /tag/grpc /tag/airflow /tag/web /tag/inspiration /tag/programming /tag/data-governance /tag/uat /tag/database /tag/mysql /tag/remote-worker /tag/node-js /tag/data-science /tag/pc-built /tag/laravel /tag/aws /tag/career /tag/api /tag/mikrotik /tag/data-analytics /tag/framework /tag/code-igniter /tag/digital-marketing /tag/storage /tag/wordpress /tag/system-analyst /tag/crm /tag/open-source /tag/python /tag/e-government /tag/postgresql /tag/linux /tag/security /tag/oop /tag/freelance /tag/frontend /tag/ci-cd /tag/sosmed /tag/documentation /tag/seo /tag/ui-ux'"
   },
   "repository": "git+https://github.com/phpid-jakarta/phpid-learning.git",
   "author": "PHPID Teams",
