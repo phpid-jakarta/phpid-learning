@@ -8,14 +8,14 @@ const dev = NODE_ENV === 'development'
 
 polka() // You can also use Express
   .use(
-    '/phpid-learning',
+    '/',
     compression({ threshold: 0 }),
     sirv('static', { dev }),
     sapper.middleware()
   )
   .listen(PORT, err => {
     if (dev) {
-      console.log('Open browser on: http://localhost:3000/phpid-learning')
+      console.log('Open browser on: http://localhost:3000/')
     }
     if (err) console.log('error', err)
   })
