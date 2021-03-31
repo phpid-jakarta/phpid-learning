@@ -174,7 +174,7 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/371076890652274
 - Sesi: 73
-- Kategori: airflow
+- Kategori: airflow, python
 - Deskripsi: empty
 
 ### Bongkar Dapur Webnya #PHPID-OL
@@ -183,8 +183,8 @@
 - Pukul: 19:00
 - Pemateri: Irfan Maulana
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/4378541038839190
+- Video: https://www.facebook.com/groups/phpid/permalink/10159073242061101/
+- Registrasi: empty
 - Sesi: 72
 - Kategori: web, inspiration
 - Deskripsi: empty
