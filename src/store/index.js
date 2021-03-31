@@ -18,7 +18,7 @@ export const allDistictTags = derived(allData,
 )
 
 export const currentPage = writable(1)
-export const perPage = writable(9)
+export const perPage = writable(15)
 export const offsetPage = derived(
   [currentPage, perPage],
   ([$currentPage, $perPage]) => {
