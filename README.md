@@ -17,7 +17,7 @@
 - [#78 Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning](#membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning)
 - [#77 PHP Native Series: Datatable](#php-native-series-datatable)
 - [#76 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
-- [#75 Jomblo? Ngelamar Yuk! Job Applying 101](#Jomblo-ngelamar-yuk--job-applying-101)
+- [#75 Jomblo? Ngelamar Yuk! Job Applying 101](#jomblo-ngelamar-yuk-job-applying-101)
 - [#74 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
 - [#73 Mengelola Workflow Menggunakan Airflow](#mengelola-workflow-menggunakan-airflow)
 - [#72 Bongkar Dapur Webnya #PHPID-OL](#bongkar-dapur-webnya-phpid-ol)
