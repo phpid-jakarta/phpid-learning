@@ -13,10 +13,11 @@
 
 
 ## Daftar online learning
-- [#78 Test-Driven Development Part #2](#Test-Driven-Development-Part--2)
-- [#77 Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning](#membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning)
-- [#76 PHP Native Series: Datatable](#php-native-series-datatable)
-- [#75 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
+- [#79 Test-Driven Development Part #2](#Test-Driven-Development-Part--2)
+- [#78 Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning](#membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning)
+- [#77 PHP Native Series: Datatable](#php-native-series-datatable)
+- [#76 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
+- [#75 Jomblo? Ngelamar Yuk! Job Applying 101](#Jomblo-ngelamar-yuk--job-applying-101)
 - [#74 PHP-ML Metode Naive Bayes](#php-ml-metode-naive-bayes)
 - [#73 Mengelola Workflow Menggunakan Airflow](#mengelola-workflow-menggunakan-airflow)
 - [#72 Bongkar Dapur Webnya #PHPID-OL](#bongkar-dapur-webnya-phpid-ol)
@@ -113,7 +114,7 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://www.facebook.com/events/445634326661944
-- Sesi: 78
+- Sesi: 79
 - Kategori: tdd
 - Deskripsi: empty
 
@@ -125,7 +126,7 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://www.facebook.com/events/495516201619224
-- Sesi: 77
+- Sesi: 78
 - Kategori: ml, machine learning
 - Deskripsi: empty
 
@@ -137,7 +138,7 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://www.facebook.com/events/2891717401057623
-- Sesi: 76
+- Sesi: 77
 - Kategori: php
 - Deskripsi: empty
 
@@ -149,8 +150,20 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://www.facebook.com/events/3924681354259965
-- Sesi: 75
+- Sesi: 76
 - Kategori: php, go, nodejs, grpc
+- Deskripsi: empty
+
+### Jomblo? Ngelamar Yuk! Job Applying 101
+
+- Waktu: Sabtu, 3 April 2021
+- Pukul: 19:00
+- Pemateri: Arieditya - Ruang Guru
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/2895376007371897
+- Sesi: 75
+- Kategori: job, hr
 - Deskripsi: empty
 
 ### PHP-ML Metode Naive Bayes
