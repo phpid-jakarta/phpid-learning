@@ -6,7 +6,7 @@
 
 ## Data bisa juga diakses lewat
 
-- Web UI: [s.byphp.id/learning](https://s.byphp.id/learning)
+- Web UI: [learning.byphp.id](https://learning.byphp.id)
 - JSON: Lihat berkas [data.json](data.json)
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 - Calon Pemateri yang berminat  mengisi PHPID-OL: [s.byphp.id/jadi-pemateri](https://s.byphp.id/jadi-pemateri)
@@ -158,12 +158,12 @@
 
 - Waktu: Sabtu, 3 April 2021
 - Pukul: 19:00
-- Pemateri: Arieditya - Ruang Guru
+- Pemateri: Arieditya -  Ruang Guru
 - Slide: empty
 - Video: https://www.facebook.com/groups/phpid/permalink/10159080477061101/
 - Registrasi: empty
 - Sesi: 75
-- Kategori: job, hr
+- Kategori: job, hr, career
 - Deskripsi: empty
 
 ### PHP-ML Metode Naive Bayes
