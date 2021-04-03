@@ -160,8 +160,8 @@
 - Pukul: 19:00
 - Pemateri: Arieditya - Ruang Guru
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/2895376007371897
+- Video: https://www.facebook.com/groups/phpid/permalink/10159080477061101/
+- Registrasi: empty
 - Sesi: 75
 - Kategori: job, hr
 - Deskripsi: empty
