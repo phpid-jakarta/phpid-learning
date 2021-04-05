@@ -8,6 +8,7 @@ export const originData = readable(data.data, function set () {
 })
 
 export const allData = writable(data.data)
+
 export const showData = writable(data.data)
 
 export const allDistictTags = derived(allData,
@@ -17,14 +18,31 @@ export const allDistictTags = derived(allData,
   }
 )
 
+export const currentTag = writable('')
+
+export const allByTags = derived([currentTag, allData],
+  ([$currentTag, $allData]) => {
+    if ($currentTag) {
+      const r = $allData.filter(i => {
+        return i.tags.includes($currentTag)
+      })
+      return r
+    }
+    return []
+  }
+)
+
 export const currentPage = writable(1)
+
 export const perPage = writable(15)
+
 export const offsetPage = derived(
   [currentPage, perPage],
   ([$currentPage, $perPage]) => {
     return $currentPage * $perPage - $perPage
   }
 )
+
 export const totalPage = derived(originData,
   ($originData) => {
     return $originData.length

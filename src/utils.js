@@ -85,3 +85,26 @@ export const createArray = (length) => {
   }
   return arr
 }
+
+
+export const initMasonry = async () => {
+  try {
+    const Macy = await import("macy");
+
+    if (Macy && Macy.default) {
+      window.__macy = Macy.default({
+        container: "#content-speaker",
+        trueOrder: false,
+        waitForImages: true,
+        margin: 20,
+        columns: 3,
+        breakAt: {
+          520: 1,
+          400: 1
+        }
+      });
+    }
+  } catch (err) {
+    console.debug("Error masonry", err);
+  }
+}

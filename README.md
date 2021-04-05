@@ -295,7 +295,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10159041836426101/
 - Registrasi: empty
 - Sesi: 64
-- Kategori: web, node js
+- Kategori: web, nodejs
 - Deskripsi: empty
 
 ### Membuat Laporan Kecepatan Web untuk Blog Pribadi
@@ -391,7 +391,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10158969160051101/
 - Registrasi: empty
 - Sesi: 56
-- Kategori: node js, framework
+- Kategori: nodejs, framework
 - Deskripsi: empty
 
 ### Machine Learning dengan PHP

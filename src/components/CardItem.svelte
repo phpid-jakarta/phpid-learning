@@ -68,17 +68,15 @@
   .card-subtitle {
     font-family: "Neucha", sans-serif;
   }
-  .card .card-body {
+  .card-body {
     min-height: 200px;
     background: white;
   }
-
-  .card .card-body button {
-    margin: 5px 5px 0 0;
-  }
-
-  .card .card-body a + a {
+  .card-action {
     margin: 0;
+  }
+  .card-body .card-action button {
+    margin: 5px 5px 0 0;
   }
   .badge-group {
     margin-bottom: 1em;
@@ -107,6 +105,7 @@
       {#if item.videos[0] && item.videos[0] !== 'empty'}
         <a
           href={item.videos[0]}
+          class="card-action"
           target="_blank"
           rel="noopener"
           style="background-image: none"
@@ -118,6 +117,7 @@
       {#if item.registrasi && item.registrasi !== 'empty'}
         <a
           href={item.registrasi}
+          class="card-action"
           target="_blank"
           rel="noopener"
           style="background-image: none"
@@ -129,6 +129,7 @@
       {#if item.slide && item.slide !== 'empty'}
         <a
           href={item.slide}
+          class="card-action"
           target="_blank"
           rel="noopener"
           style="background-image: none"

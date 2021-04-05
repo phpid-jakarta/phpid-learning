@@ -1,18 +1,18 @@
 {
 	"background_color": "#ffffff",
 	"theme_color": "#343a40",
-	"name": "Ajari Koding oleh PHPID",
-	"short_name": "AjariKoding",
+	"name": "PHPID OL",
+	"short_name": "PHPID-OL",
 	"display": "minimal-ui",
-	"start_url": "/phpid-learning/",
+	"start_url": "/?launcher=pwa",
 	"icons": [
 		{
-			"src": "/phpid-learning/icon-192.png",
+			"src": "/icon-192.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "/phpid-learning/icon-512.png",
+			"src": "/icon-512.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}

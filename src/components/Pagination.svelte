@@ -1,5 +1,5 @@
 <script>
-  import { showData, currentPage, perPage, totalPage } from "../store";
+  import { currentPage, perPage, totalPage } from "../store";
   import { createArray } from "../utils.js";
 
   let pageCount;

@@ -1,31 +1,25 @@
+<script context="module">
+  export async function preload(page, session) {
+    const { tag } = page.params;
+    return { tag };
+  }
+</script>
+
 <script>
   import { onMount } from "svelte";
-  import { showData, perPage, offsetPage } from "../../store";
+  import { allByTags, currentTag } from "../../store";
+  import { initMasonry } from "../../utils.js";
 
-  import Hero from "../../components/Hero.svelte";
+  import HeroTag from "../../components/HeroTag.svelte";
   import CardItem from "../../components/CardItem.svelte";
   import Footer from "../../components/Footer.svelte";
   import Pagination from "../../components/Pagination.svelte";
 
-  onMount(async () => {
-    try {
-      const Macy = await import("macy");
-      if (Macy && Macy.default) {
-        window.__macy = Macy.default({
-          container: "#content-speaker",
-          trueOrder: false,
-          waitForImages: true,
-          margin: 20,
-          columns: 3,
-          breakAt: {
-            520: 1,
-            400: 1
-          }
-        });
-      }
-    } catch (err) {
-      console.debug("Error masonry", err);
-    }
+  export let tag;
+
+  onMount(() => {
+    currentTag.set(tag);
+    initMasonry();
   });
 </script>
 
@@ -48,22 +42,16 @@
 </style>
 
 <main id="page-index">
-  <Hero />
+  <HeroTag {tag} />
   <article class="app-content">
-    {#if $showData.length > 0}
-      <Pagination />
-    {/if}
-    {#if $showData.length > 0}
+    {#if $allByTags.length > 0}
       <div id="content-speaker">
-        {#each $showData.slice($offsetPage, $offsetPage + $perPage) as item (item.id)}
+        {#each $allByTags as item (item.id)}
           <CardItem {item} />
         {/each}
       </div>
     {/if}
   </article>
-  {#if $showData.length > 0}
-    <Pagination />
-  {/if}
   <Footer />
   <!-- <Modal /> -->
 </main>

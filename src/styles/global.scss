@@ -6,9 +6,11 @@
   object-fit: cover;
   transition: filter .3s linear;
 }
+
 .card-image.is--loading {
   filter: blur(5px);
 }
+
 .card-image.is--loaded {
   transition-delay: .5s;
   filter: blur(0);
