@@ -148,8 +148,8 @@
 - Pukul: 19:00
 - Pemateri: Rijal Asepnugroho
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/3924681354259965
+- Video: https://www.facebook.com/groups/phpid/permalink/10159085893976101/
+- Registrasi: empty
 - Sesi: 76
 - Kategori: php, go, nodejs, grpc
 - Deskripsi: empty
