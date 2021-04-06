@@ -136,8 +136,8 @@
 - Pukul: 19:00
 - Pemateri: Gunawan Wibisono
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/2891717401057623
+- Video: https://www.facebook.com/groups/phpid/permalink/10159088394711101/
+- Registrasi: empty
 - Sesi: 77
 - Kategori: php
 - Deskripsi: empty
