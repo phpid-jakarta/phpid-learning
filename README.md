@@ -13,7 +13,8 @@
 
 
 ## Daftar online learning
-- [#79 Test-Driven Development Part #2](#Test-Driven-Development-Part--2)
+- [#80 Kubernetes 101 for PHP Developer](#kubernetes-101-for-php-developer)
+- [#79 Test-Driven Development Part #2](#Test-Driven-Development-Part-2)
 - [#78 Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning](#membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning)
 - [#77 PHP Native Series: Datatable](#php-native-series-datatable)
 - [#76 gRPC in Go, NodeJS and PHP](#gRPC-in-go-nodejs-and-php)
@@ -105,6 +106,18 @@
 - Kategori: empty
 - Deskripsi: -
 
+
+### Kubernetes 101 for PHP Developer
+
+- Waktu: Jumat, 9 April 2021
+- Pukul: 19:00
+- Pemateri: Yusuf Hadiwinata - VP Operations & Services Biznet Gio
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/272765614471245
+- Sesi: 80
+- Kategori: kubernates, php, biznet gio
+- Deskripsi: empty
 
 ### Test-Driven Development Part #2
 
