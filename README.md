@@ -124,8 +124,8 @@
 - Pukul: 19:00
 - Pemateri: Petra Novandi Barus
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/495516201619224
+- Video: https://www.facebook.com/groups/phpid/permalink/10159090910496101/
+- Registrasi: empty
 - Sesi: 78
 - Kategori: ml, machine learning
 - Deskripsi: empty
