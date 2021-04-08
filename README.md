@@ -125,8 +125,8 @@
 - Pukul: 19:00
 - Pemateri: Freddy Munandar
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/445634326661944
+- Video: https://www.facebook.com/groups/phpid/permalink/10159093254666101/
+- Registrasi: empty
 - Sesi: 79
 - Kategori: tdd
 - Deskripsi: empty
