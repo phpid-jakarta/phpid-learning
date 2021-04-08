@@ -3,15 +3,11 @@ on:
   push:
     branches:
       - master
-    paths-ignore:
-      - "LAST_UPDATED"
+    # only trigger after JSON file created in master
+    paths:
       - "data.json"
       - "data.js"
       - "data-es.js"
-      - "tags.txt"
-      - "tags-prefix.txt"
-      - "_redirect-out"
-      - "package.json"
 
 jobs:
   build_ui:
