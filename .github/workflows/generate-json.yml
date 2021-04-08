@@ -2,7 +2,7 @@ name: Generate JSON
 on:
   push:
     branches:
-      - master
+      - master-invalid
     paths-ignore:
       - "LAST_UPDATED"
       - "data.json"
