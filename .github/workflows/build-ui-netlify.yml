@@ -14,15 +14,14 @@ on:
       - "package.json"
 
 jobs:
-
   generate_json:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-         persist-credentials: false
-         fetch-depth: 0
+          persist-credentials: false
+          fetch-depth: 0
       - name: Use node 12
         uses: actions/setup-node@v1
         with:
@@ -64,8 +63,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-         persist-credentials: false
-         fetch-depth: 0
+          persist-credentials: false
+          fetch-depth: 0
       - name: Use node 12
         uses: actions/setup-node@v1
         with:
@@ -84,10 +83,13 @@ jobs:
         run: yarn
       - name: Update package.json
         run: yarn toTags
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M')"
       - name: Build UI
         run: yarn export:root
         env:
-          SAPPER_TIMESTAMP: ${{ date "+%Y-%m-%d-%H:%M" }}
+          SAPPER_TIMESTAMP: ${{steps.date.outputs.date}}
       - uses: actions/upload-artifact@v2
         with:
           name: build-artifact
