@@ -112,8 +112,8 @@ const main = async () => {
     }
 
     writeFile('./data.json', JSON.stringify(fileContent))
-    writeFile('./data.js', `module.exports = ${JSON.stringify(fileContent)}`)
-    writeFile('./data-es.js', `export default ${JSON.stringify(fileContent)}`)
+    writeFile('./data.js', `module.exports = ${JSON.stringify(fileContent, null, 2)}`)
+    writeFile('./data-es.js', `export default ${JSON.stringify(fileContent, null, 2)}`)
   } catch (error) {
     console.error('❌ Error read file README.md', error)
   }
