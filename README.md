@@ -13,6 +13,14 @@
 
 
 ## Daftar online learning
+
+- [#87 SVG untuk e-commerce](#SVG-untuk-e-commerce)
+- [#86 The Essential Art of NLP in Chatbot Ecosystem](#the-essential-art-of-nlp-in-chatbot-ecosystem)
+- [#85 Step by Step Guide to Becoming FrontEnd Developer](#step-by-step-guide-to-becoming-frontend-developer)
+- [#84 Malas Coding dengan Laravel Framework](#malas-coding-dengan-laravel-framework)
+- [#83 Project Management for Software Development](#project-management-for-software-development)
+- [#82 Wordpress Theme Development with Vuejs and Sage](#Wordpress-theme-development-with-vuejs-and-sage)
+- [#81 Full-Stack UX](#full-stack-ux)
 - [#80 Kubernetes 101 for PHP Developer](#kubernetes-101-for-php-developer)
 - [#79 Test-Driven Development Part #2](#Test-Driven-Development-Part-2)
 - [#78 Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning](#membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning)
@@ -106,6 +114,90 @@
 - Kategori: empty
 - Deskripsi: -
 
+
+### SVG untuk e-commerce
+
+- Waktu: Minggu, 25 April 2021
+- Pukul: 16:45
+- Pemateri: Chandika - CTO & Co-founder Rumah Komunitas
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/1070657680110648
+- Sesi: 87
+- Kategori: svg, e-commerce
+- Deskripsi: empty
+
+### The Essential Art of NLP in Chatbot Ecosystem
+
+- Waktu: Sabtu, 24 April 2021
+- Pukul: 16:45
+- Pemateri: Luri Darmawan - coFounder Carik & Ajaro
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/4115834191816424
+- Sesi: 86
+- Kategori: nlp, machine-learning, ml, chat, bot
+- Deskripsi: empty
+
+### Step by Step Guide to Becoming FrontEnd Developer
+
+- Waktu: Jumat, 23 April 2021
+- Pukul: 16:45
+- Pemateri: Randy Vianda Putra - Frontend Lead Work & Life Beyond
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/584216119638344
+- Sesi: 85
+- Kategori: frontend
+- Deskripsi: empty
+
+### Malas Coding dengan Laravel Framework
+
+- Waktu: Kamis, 22 April 2021
+- Pukul: 16:45
+- Pemateri: Dyan Galih Nugroho - PT. Mitrais Indonesia
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/456461055587971
+- Sesi: 84
+- Kategori: laravel
+- Deskripsi: empty
+
+### Project Management for Software Development
+
+- Waktu: Rabu, 21 April 2021
+- Pukul: 16:45
+- Pemateri: Yoshida Sari - Founder/CEO Codinglab & Codercamp
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/515742699591308
+- Sesi: 83
+- Kategori: project, management
+- Deskripsi: empty
+
+### Wordpress Theme Development with Vuejs and Sage 
+
+- Waktu: Selasa, 20 April 2021
+- Pukul: 16:45
+- Pemateri: Abu Fukayna Nugraha
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/478577770003766
+- Sesi: 82
+- Kategori: wordpress, vuejs, sage
+- Deskripsi: empty
+
+### Full-Stack UX
+
+- Waktu: Senin, 19 April 2021
+- Pukul: 16:45
+- Pemateri: Prayudi Utomo - Head of Kolla Education
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/407339583630567
+- Sesi: 81
+- Kategori: ui, ux
+- Deskripsi: empty
 
 ### Kubernetes 101 for PHP Developer
 
