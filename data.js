@@ -1,11 +1,139 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-04-09T15:02:43.909Z",
-    "total": 80,
+    "last_updated": "2021-04-13T04:17:13.692Z",
+    "total": 87,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "87",
+      "date": "Minggu, 25 April 2021",
+      "time": "16:45",
+      "speaker": "Chandika - CTO & Co-founder Rumah Komunitas",
+      "slide": "empty",
+      "topic": "SVG untuk e-commerce",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/1070657680110648",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "svg",
+        "e-commerce"
+      ]
+    },
+    {
+      "id": "86",
+      "date": "Sabtu, 24 April 2021",
+      "time": "16:45",
+      "speaker": "Luri Darmawan - coFounder Carik & Ajaro",
+      "slide": "empty",
+      "topic": "The Essential Art of NLP in Chatbot Ecosystem",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/4115834191816424",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "nlp",
+        "machine-learning",
+        "ml",
+        "chat",
+        "bot"
+      ]
+    },
+    {
+      "id": "85",
+      "date": "Jumat, 23 April 2021",
+      "time": "16:45",
+      "speaker": "Randy Vianda Putra - Frontend Lead Work & Life Beyond",
+      "slide": "empty",
+      "topic": "Step by Step Guide to Becoming FrontEnd Developer",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/584216119638344",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "frontend"
+      ]
+    },
+    {
+      "id": "84",
+      "date": "Kamis, 22 April 2021",
+      "time": "16:45",
+      "speaker": "Dyan Galih Nugroho - PT. Mitrais Indonesia",
+      "slide": "empty",
+      "topic": "Malas Coding dengan Laravel Framework",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/456461055587971",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "laravel"
+      ]
+    },
+    {
+      "id": "83",
+      "date": "Rabu, 21 April 2021",
+      "time": "16:45",
+      "speaker": "Yoshida Sari - Founder/CEO Codinglab & Codercamp",
+      "slide": "empty",
+      "topic": "Project Management for Software Development",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/515742699591308",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "project",
+        "management"
+      ]
+    },
+    {
+      "id": "82",
+      "date": "Selasa, 20 April 2021",
+      "time": "16:45",
+      "speaker": "Abu Fukayna Nugraha",
+      "slide": "empty",
+      "topic": "Wordpress Theme Development with Vuejs and Sage",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/478577770003766",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "wordpress",
+        "vuejs",
+        "sage"
+      ]
+    },
+    {
+      "id": "81",
+      "date": "Senin, 19 April 2021",
+      "time": "16:45",
+      "speaker": "Prayudi Utomo - Head of Kolla Education",
+      "slide": "empty",
+      "topic": "Full-Stack UX",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/407339583630567",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "ui",
+        "ux"
+      ]
+    },
     {
       "id": "80",
       "date": "Jumat, 9 April 2021",
