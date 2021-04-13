@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-13T04:17:13.692Z",
+    "last_updated": "2021-04-13T04:21:04.768Z",
     "total": 87,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -17,7 +17,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/1070657680110648",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/87.jpg",
       "deskripsi": "empty",
       "tags": [
         "svg",
@@ -35,7 +35,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/4115834191816424",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/86.jpg",
       "deskripsi": "empty",
       "tags": [
         "nlp",
@@ -56,7 +56,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/584216119638344",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/85.jpg",
       "deskripsi": "empty",
       "tags": [
         "frontend"
@@ -73,7 +73,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/456461055587971",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/84.jpg",
       "deskripsi": "empty",
       "tags": [
         "laravel"
@@ -90,7 +90,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/515742699591308",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/83.jpg",
       "deskripsi": "empty",
       "tags": [
         "project",
@@ -108,7 +108,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/478577770003766",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/82.jpg",
       "deskripsi": "empty",
       "tags": [
         "wordpress",
@@ -127,7 +127,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/407339583630567",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/81.jpg",
       "deskripsi": "empty",
       "tags": [
         "ui",
