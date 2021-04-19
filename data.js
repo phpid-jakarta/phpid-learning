@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-04-13T05:16:55.593Z",
+    "last_updated": "2021-04-19T10:23:45.943Z",
     "total": 87,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -124,9 +124,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Full-Stack UX",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159120545081101/"
       ],
-      "registrasi": "https://www.facebook.com/events/407339583630567",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/81.jpg",
       "deskripsi": "empty",
       "tags": [
