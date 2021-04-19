@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-04-19T10:23:45.943Z",
+    "last_updated": "2021-04-19T15:20:12.466Z",
     "total": 87,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -130,8 +130,7 @@ module.exports = {
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/81.jpg",
       "deskripsi": "empty",
       "tags": [
-        "ui",
-        "ux"
+        "uiux"
       ]
     },
     {
