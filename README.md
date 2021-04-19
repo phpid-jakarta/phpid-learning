@@ -193,8 +193,8 @@
 - Pukul: 16:45
 - Pemateri: Prayudi Utomo - Head of Kolla Education
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/407339583630567
+- Video: https://www.facebook.com/groups/phpid/permalink/10159120545081101/
+- Registrasi: empty
 - Sesi: 81
 - Kategori: ui, ux
 - Deskripsi: empty
