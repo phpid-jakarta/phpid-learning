@@ -196,7 +196,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10159120545081101/
 - Registrasi: empty
 - Sesi: 81
-- Kategori: ui, ux
+- Kategori: uiux
 - Deskripsi: empty
 
 ### Kubernetes 101 for PHP Developer
