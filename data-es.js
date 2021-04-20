@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-19T15:50:52.897Z",
+    "last_updated": "2021-04-20T11:27:05.918Z",
     "total": 87,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -105,9 +105,9 @@ export default {
       "slide": "empty",
       "topic": "Wordpress Theme Development with Vuejs and Sage",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159122783636101/"
       ],
-      "registrasi": "https://www.facebook.com/events/478577770003766",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/82.jpg",
       "deskripsi": "empty",
       "tags": [
