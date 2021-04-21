@@ -169,8 +169,8 @@
 - Pukul: 16:45
 - Pemateri: Yoshida Sari - Founder/CEO Codinglab & Codercamp
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/515742699591308
+- Video: https://www.facebook.com/groups/phpid/permalink/10159124810991101/
+- Registrasi: empty
 - Sesi: 83
 - Kategori: project, management
 - Deskripsi: empty
