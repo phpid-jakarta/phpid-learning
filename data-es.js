@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-20T11:27:05.918Z",
+    "last_updated": "2021-04-21T11:18:56.562Z",
     "total": 87,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -87,9 +87,9 @@ export default {
       "slide": "empty",
       "topic": "Project Management for Software Development",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159124810991101/"
       ],
-      "registrasi": "https://www.facebook.com/events/515742699591308",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/83.jpg",
       "deskripsi": "empty",
       "tags": [
