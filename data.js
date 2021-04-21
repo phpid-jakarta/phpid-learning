@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-04-21T11:18:56.562Z",
+    "last_updated": "2021-04-21T11:24:56.477Z",
     "total": 87,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -84,7 +84,7 @@ module.exports = {
       "date": "Rabu, 21 April 2021",
       "time": "16:45",
       "speaker": "Yoshida Sari - Founder/CEO Codinglab & Codercamp",
-      "slide": "empty",
+      "slide": "https://www.dropbox.com/s/fbwksblqts7a5zc/Presentasi%20project%20management.pptx?dl=0#",
       "topic": "Project Management for Software Development",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159124810991101/"
