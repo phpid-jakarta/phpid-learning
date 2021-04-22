@@ -157,8 +157,8 @@
 - Pukul: 16:45
 - Pemateri: Dyan Galih Nugroho - PT. Mitrais Indonesia
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/456461055587971
+- Video: https://www.facebook.com/events/456461055587971
+- Registrasi: empty
 - Sesi: 84
 - Kategori: laravel
 - Deskripsi: empty
