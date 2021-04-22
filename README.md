@@ -148,7 +148,7 @@
 - Video: empty
 - Registrasi: https://www.facebook.com/events/584216119638344
 - Sesi: 85
-- Kategori: frontend
+- Kategori: frontend, php
 - Deskripsi: empty
 
 ### Malas Coding dengan Laravel Framework
