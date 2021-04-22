@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-21T11:24:56.477Z",
+    "last_updated": "2021-04-22T11:20:05.217Z",
     "total": 87,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -70,9 +70,9 @@ export default {
       "slide": "empty",
       "topic": "Malas Coding dengan Laravel Framework",
       "videos": [
-        "empty"
+        "https://www.facebook.com/events/456461055587971"
       ],
-      "registrasi": "https://www.facebook.com/events/456461055587971",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/84.jpg",
       "deskripsi": "empty",
       "tags": [
