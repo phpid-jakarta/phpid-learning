@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-23T10:12:46.230Z",
+    "last_updated": "2021-04-23T12:33:39.837Z",
     "total": 92,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -151,8 +151,7 @@ export default {
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/85.jpg",
       "deskripsi": "empty",
       "tags": [
-        "frontend",
-        "php"
+        "frontend"
       ]
     },
     {
