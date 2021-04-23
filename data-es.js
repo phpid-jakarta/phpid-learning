@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-23T04:11:34.009Z",
+    "last_updated": "2021-04-23T10:12:46.230Z",
     "total": 92,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -145,9 +145,9 @@ export default {
       "slide": "empty",
       "topic": "Step by Step Guide to Becoming FrontEnd Developer",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159129622411101/"
       ],
-      "registrasi": "https://www.facebook.com/events/584216119638344",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/85.jpg",
       "deskripsi": "empty",
       "tags": [
