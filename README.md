@@ -14,6 +14,11 @@
 
 ## Daftar online learning
 
+- [#92 Memahami Serangan XSS dan CSRF dengan Simulasi Studi Kasus](#memahami-serangan-xss-dan-csrf-dengan-simulasi-studi-kasus)
+- [#91 Hadoop Basic](#hadoop-basic)
+- [#90 Strategi Pengembangan SIMRS berbasis Open Source](#strategi-pengembangan-simrs-berbasis-open-source)
+- [#89 Prosedural SQL](#prosedural-sql)
+- [#88 Membuat Fitur Pencarian Menggunakan Meilisearch](#membuat-fitur-pencarian-menggunakan-meilisearch)
 - [#87 SVG untuk e-commerce](#SVG-untuk-e-commerce)
 - [#86 The Essential Art of NLP in Chatbot Ecosystem](#the-essential-art-of-nlp-in-chatbot-ecosystem)
 - [#85 Step by Step Guide to Becoming FrontEnd Developer](#step-by-step-guide-to-becoming-frontend-developer)
@@ -110,10 +115,70 @@
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 68
+- Sesi: 93
 - Kategori: empty
 - Deskripsi: -
 
+
+### Memahami Serangan XSS dan CSRF dengan Simulasi Studi Kasus 
+
+- Waktu: Jumat, 30 April 2021
+- Pukul: 16:45
+- Pemateri: Rio Astamal - Founder BelajarAWS.com
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/463179871464888
+- Sesi: 92
+- Kategori: xss, csrf, security
+- Deskripsi: empty
+
+### Hadoop Basic
+
+- Waktu: Kamis, 29 April 2021
+- Pukul: 16:45
+- Pemateri: Firman Brilian - Data Management & Modelling, PT hutchison 3 ID
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/2808384552756599
+- Sesi: 91
+- Kategori: hadoop, big data, data engineer
+- Deskripsi: empty
+
+### Strategi Pengembangan SIMRS berbasis open source
+
+- Waktu: Rabu, 28 April 2021
+- Pukul: 16:45
+- Pemateri: Mas Elkhanza YASKI, SIMRS Khanza
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/457020145519610
+- Sesi: 90
+- Kategori: simrs, open source
+- Deskripsi: empty
+
+### Prosedural SQL
+
+- Waktu: Selasa, 27 April 2021
+- Pukul: 16:45
+- Pemateri: Falaha Suprapto - Dosen Universitas Telkom
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/2904406449880709
+- Sesi: 89
+- Kategori: sql, database
+- Deskripsi: empty
+
+### Membuat Fitur Pencarian Menggunakan Meilisearch
+
+- Waktu: Senin, 26 April 2021
+- Pukul: 16:45
+- Pemateri: Fitra Aditya - Lead Backend Engineer di HappyFresh
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/304363147756276
+- Sesi: 88
+- Kategori: meilisearch, big data
+- Deskripsi: empty
 
 ### SVG untuk e-commerce
 
