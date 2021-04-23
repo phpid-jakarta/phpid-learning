@@ -213,7 +213,7 @@
 - Video: https://www.facebook.com/groups/phpid/permalink/10159129622411101/
 - Registrasi: empty
 - Sesi: 85
-- Kategori: frontend, php
+- Kategori: frontend
 - Deskripsi: empty
 
 ### Malas Coding dengan Laravel Framework
