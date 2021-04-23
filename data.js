@@ -1,11 +1,103 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-04-22T16:46:34.878Z",
-    "total": 87,
+    "last_updated": "2021-04-23T04:11:34.009Z",
+    "total": 92,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "92",
+      "date": "Jumat, 30 April 2021",
+      "time": "16:45",
+      "speaker": "Rio Astamal - Founder BelajarAWS.com",
+      "slide": "empty",
+      "topic": "Memahami Serangan XSS dan CSRF dengan Simulasi Studi Kasus",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/463179871464888",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "xss",
+        "csrf",
+        "security"
+      ]
+    },
+    {
+      "id": "91",
+      "date": "Kamis, 29 April 2021",
+      "time": "16:45",
+      "speaker": "Firman Brilian - Data Management & Modelling, PT hutchison 3 ID",
+      "slide": "empty",
+      "topic": "Hadoop Basic",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/2808384552756599",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "hadoop",
+        "big-data",
+        "data-engineer"
+      ]
+    },
+    {
+      "id": "90",
+      "date": "Rabu, 28 April 2021",
+      "time": "16:45",
+      "speaker": "Mas Elkhanza YASKI, SIMRS Khanza",
+      "slide": "empty",
+      "topic": "Strategi Pengembangan SIMRS berbasis open source",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/457020145519610",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "simrs",
+        "open-source"
+      ]
+    },
+    {
+      "id": "89",
+      "date": "Selasa, 27 April 2021",
+      "time": "16:45",
+      "speaker": "Falaha Suprapto - Dosen Universitas Telkom",
+      "slide": "empty",
+      "topic": "Prosedural SQL",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/2904406449880709",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "sql",
+        "database"
+      ]
+    },
+    {
+      "id": "88",
+      "date": "Senin, 26 April 2021",
+      "time": "16:45",
+      "speaker": "Fitra Aditya - Lead Backend Engineer di HappyFresh",
+      "slide": "empty",
+      "topic": "Membuat Fitur Pencarian Menggunakan Meilisearch",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/304363147756276",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "meilisearch",
+        "big-data"
+      ]
+    },
     {
       "id": "87",
       "date": "Minggu, 25 April 2021",
