@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-23T12:33:39.837Z",
+    "last_updated": "2021-04-24T11:20:51.364Z",
     "total": 92,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -124,9 +124,9 @@ export default {
       "slide": "empty",
       "topic": "The Essential Art of NLP in Chatbot Ecosystem",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159132129901101/"
       ],
-      "registrasi": "https://www.facebook.com/events/4115834191816424",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/86.jpg",
       "deskripsi": "empty",
       "tags": [
