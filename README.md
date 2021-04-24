@@ -198,10 +198,10 @@
 - Pukul: 16:45
 - Pemateri: Luri Darmawan - coFounder Carik & Ajaro
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/4115834191816424
+- Video: https://www.facebook.com/groups/phpid/permalink/10159132129901101/
+- Registrasi: empty
 - Sesi: 86
-- Kategori: nlp, machine-learning, ml, chat, bot
+- Kategori: nlp, machine learning, ml, chat, bot
 - Deskripsi: empty
 
 ### Step by Step Guide to Becoming FrontEnd Developer
