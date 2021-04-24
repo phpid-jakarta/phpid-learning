@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-04-24T11:20:51.364Z",
+    "last_updated": "2021-04-24T11:22:57.004Z",
     "total": 92,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -17,7 +17,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/463179871464888",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/92.jpg",
       "deskripsi": "empty",
       "tags": [
         "xss",
@@ -36,7 +36,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/2808384552756599",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/91.jpg",
       "deskripsi": "empty",
       "tags": [
         "hadoop",
@@ -55,7 +55,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/457020145519610",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/90.jpg",
       "deskripsi": "empty",
       "tags": [
         "simrs",
@@ -73,7 +73,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/2904406449880709",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/89.jpg",
       "deskripsi": "empty",
       "tags": [
         "sql",
@@ -91,7 +91,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/304363147756276",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/88.jpg",
       "deskripsi": "empty",
       "tags": [
         "meilisearch",
