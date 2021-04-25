@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-24T11:22:57.004Z",
+    "last_updated": "2021-04-25T09:53:14.867Z",
     "total": 92,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -106,9 +106,9 @@ export default {
       "slide": "empty",
       "topic": "SVG untuk e-commerce",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159134611051101/"
       ],
-      "registrasi": "https://www.facebook.com/events/1070657680110648",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/87.jpg",
       "deskripsi": "empty",
       "tags": [
