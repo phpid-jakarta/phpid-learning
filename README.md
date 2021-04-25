@@ -186,8 +186,8 @@
 - Pukul: 16:45
 - Pemateri: Chandika - CTO & Co-founder Rumah Komunitas
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/1070657680110648
+- Video: https://www.facebook.com/groups/phpid/permalink/10159134611051101/
+- Registrasi: empty
 - Sesi: 87
 - Kategori: svg, e-commerce
 - Deskripsi: empty
