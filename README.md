@@ -174,8 +174,8 @@
 - Pukul: 16:45
 - Pemateri: Fitra Aditya - Lead Backend Engineer di HappyFresh
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/304363147756276
+- Video: https://www.facebook.com/groups/phpid/permalink/10159137462931101
+- Registrasi: empty
 - Sesi: 88
 - Kategori: meilisearch, big data
 - Deskripsi: empty
