@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-25T11:33:23.061Z",
+    "last_updated": "2021-04-26T09:57:25.344Z",
     "total": 92,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -88,9 +88,9 @@ export default {
       "slide": "empty",
       "topic": "Membuat Fitur Pencarian Menggunakan Meilisearch",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159137462931101"
       ],
-      "registrasi": "https://www.facebook.com/events/304363147756276",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/88.jpg",
       "deskripsi": "empty",
       "tags": [
