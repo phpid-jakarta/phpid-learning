@@ -162,8 +162,8 @@
 - Pukul: 16:45
 - Pemateri: Falaha Suprapto - Dosen Universitas Telkom
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/2904406449880709
+- Video: https://www.facebook.com/groups/phpid/permalink/10159139616976101/
+- Registrasi: empty
 - Sesi: 89
 - Kategori: sql, database
 - Deskripsi: empty
