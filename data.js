@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-04-26T15:35:33.579Z",
+    "last_updated": "2021-04-27T09:54:15.754Z",
     "total": 92,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -70,9 +70,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Prosedural SQL",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159139616976101/"
       ],
-      "registrasi": "https://www.facebook.com/events/2904406449880709",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/89.jpg",
       "deskripsi": "empty",
       "tags": [
