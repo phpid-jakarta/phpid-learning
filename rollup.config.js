@@ -3,7 +3,7 @@ import resolve from "@rollup/plugin-node-resolve";
 import replace from "@rollup/plugin-replace";
 import commonjs from "@rollup/plugin-commonjs";
 import url from "@rollup/plugin-url";
-import sveltePreprocess from 'svelte-preprocess'
+import sveltePreprocess from "svelte-preprocess";
 import svelte from "rollup-plugin-svelte";
 import babel from "@rollup/plugin-babel";
 import { terser } from "rollup-plugin-terser";
@@ -37,8 +37,7 @@ const replaceConfig = {
   values: {
     "process.browser": true,
     "process.env.NODE_ENV": JSON.stringify(mode),
-    "process.env.SAPPER_TIMESTAMP":
-      process.env.SAPPER_TIMESTAMP || Date.now(),
+    "process.env.SAPPER_TIMESTAMP": process.env.SAPPER_TIMESTAMP || Date.now(),
   },
 };
 
@@ -47,6 +46,29 @@ const onwarn = (warning, onwarn) =>
   (warning.code === "CIRCULAR_DEPENDENCY" &&
     /[/\\]@sapper[/\\]/.test(warning.message)) ||
   onwarn(warning);
+
+const babelConfig = {
+  extensions: [".js", ".mjs", ".html", ".svelte"],
+  babelHelpers: "runtime",
+  exclude: ["node_modules/@babel/**"],
+  presets: [
+    [
+      "@babel/preset-env",
+      {
+        targets: "> 0.25%, not dead",
+      },
+    ],
+  ],
+  plugins: [
+    "@babel/plugin-syntax-dynamic-import",
+    [
+      "@babel/plugin-transform-runtime",
+      {
+        useESModules: true,
+      },
+    ],
+  ],
+};
 
 export default {
   client: {
@@ -72,29 +94,7 @@ export default {
       }),
       commonjs(),
 
-      legacy &&
-        babel({
-          extensions: [".js", ".mjs", ".html", ".svelte"],
-          babelHelpers: "runtime",
-          exclude: ["node_modules/@babel/**"],
-          presets: [
-            [
-              "@babel/preset-env",
-              {
-                targets: "> 0.25%, not dead",
-              },
-            ],
-          ],
-          plugins: [
-            "@babel/plugin-syntax-dynamic-import",
-            [
-              "@babel/plugin-transform-runtime",
-              {
-                useESModules: true,
-              },
-            ],
-          ],
-        }),
+      legacy && babel(babelConfig),
 
       !dev &&
         terser({
@@ -140,12 +140,7 @@ export default {
   serviceworker: {
     input: config.serviceworker.input(),
     output: config.serviceworker.output(),
-    plugins: [
-      resolve(),
-      replace(replaceConfig),
-      commonjs(),
-      !dev && terser(),
-    ],
+    plugins: [resolve(), replace(replaceConfig), commonjs(), !dev && terser()],
     preserveEntrySignatures: false,
     onwarn,
   },
