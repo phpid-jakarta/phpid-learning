@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-04-27T09:54:15.754Z",
+    "last_updated": "2021-04-28T10:16:28.380Z",
     "total": 92,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -52,9 +52,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Strategi Pengembangan SIMRS berbasis open source",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159141920791101/"
       ],
-      "registrasi": "https://www.facebook.com/events/457020145519610",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/90.jpg",
       "deskripsi": "empty",
       "tags": [
