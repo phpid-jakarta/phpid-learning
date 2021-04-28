@@ -14,6 +14,13 @@
 
 ## Daftar online learning
 
+- [#99 Dibalik Layar PHPID Online Learning](#dibalik-layar-phpid-online-learning)
+- [#98 Chase Your Dream](#chase-your-dream)
+- [#97 Pengalaman Membangun Startup dengan PHP](#pengalaman-membangun-startup-dengan-php)
+- [#96 From Enginner to be Technopreaneur](#from-enginner-to-be-technopreaneur)
+- [#95 Strategi Marketing untuk Programmer Freelance](#strategi-marketing-untuk-programmer-freelance)
+- [#94 Seni Negosiasi](#seni-negosiasi)
+- [#93 JAMStack Untuk PHP Developer](#jamstack-untuk-php-developer)
 - [#92 Memahami Serangan XSS dan CSRF dengan Simulasi Studi Kasus](#memahami-serangan-xss-dan-csrf-dengan-simulasi-studi-kasus)
 - [#91 Hadoop Basic](#hadoop-basic)
 - [#90 Strategi Pengembangan SIMRS berbasis Open Source](#strategi-pengembangan-simrs-berbasis-open-source)
@@ -115,10 +122,94 @@
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 93
+- Sesi: 100
 - Kategori: empty
 - Deskripsi: -
 
+
+### Dibalik Layar PHPID Online Learning 
+
+- Waktu: Jumat, 7 Mei 2021
+- Pukul: 16:45
+- Pemateri: Peter Kambey - PHPID
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/811821349722262
+- Sesi: 99
+- Kategori: phpid, learning
+- Deskripsi: empty
+
+### Chase Your Dream 
+
+- Waktu: Kamis, 6 Mei 2021
+- Pukul: 16:45
+- Pemateri: Verly Ananda - Freelance
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/309556063869929
+- Sesi: 98
+- Kategori: career
+- Deskripsi: empty
+
+### Pengalaman Membangun Startup dengan PHP 
+
+- Waktu: Rabu, 5 Mei 2021
+- Pukul: 16:45
+- Pemateri: Petra Novandi Barus - ex CTO UrbanIndo.com
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/1446895195702723
+- Sesi: 97
+- Kategori: php, startup
+- Deskripsi: empty
+
+### From Enginner to be Technopreaneur 
+
+- Waktu: Selasa, 4 Mei 2021
+- Pukul: 16:45
+- Pemateri: Fatah Iskandar Akbar - CEO & Founder doktersiaga
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/474851900519276
+- Sesi: 96
+- Kategori: career, developer
+- Deskripsi: empty
+
+### Strategi Marketing untuk Programmer Freelance 
+
+- Waktu: Senin, 3 Mei 2021
+- Pukul: 16:45
+- Pemateri: Nafies Luthfi - Freelance Web Developer
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/510810416754162
+- Sesi: 95
+- Kategori: marketing, freelance
+- Deskripsi: empty
+
+### Seni Negosiasi
+
+- Waktu: Minggu, 2 Mei 2021
+- Pukul: 16:45
+- Pemateri: Muhammad Singgih ZA, coFounder Codepolitan
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/966779227194086
+- Sesi: 94
+- Kategori: negosiasi, soft skill
+- Deskripsi: empty
+
+### JAMStack Untuk PHP Developer
+
+- Waktu: Sabtu, 1 Mei 2021
+- Pukul: 16:45
+- Pemateri: Aris Ripandi - Web Developer / PT. Bening Guru Semesta
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/281167220228297
+- Sesi: 93
+- Kategori: jamstack, php
+- Deskripsi: empty
 
 ### Memahami Serangan XSS dan CSRF dengan Simulasi Studi Kasus 
 
