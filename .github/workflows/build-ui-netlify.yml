@@ -40,11 +40,13 @@ jobs:
         run: yarn
       - name: Generate file json
         run: yarn toJson
+      - name: Update export script on package.json
+        run: yarn toTags
       - name: Modify last update
         run: |
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > LAST_UPDATED
-      - name: Commit files report
+      - name: Commit changes files
         run: |
           git config --local user.email "mazipanneh@gmail.com"
           git config --local user.name "mazipan"
@@ -81,19 +83,17 @@ jobs:
             ${{ runner.OS }}-yarn-
       - name: Install dependencies
         run: yarn
-      - name: Update package.json
-        run: yarn toTags
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M')"
-      - name: Build UI
-        run: yarn export:root
+      - name: Export Web-UI to static files
+        run: yarn export
         env:
           SAPPER_TIMESTAMP: ${{steps.date.outputs.date}}
-      - uses: actions/upload-artifact@v2
-        with:
-          name: build-artifact
-          path: __sapper__/export/
+      # - uses: actions/upload-artifact@v2
+      #   with:
+      #     name: build-artifact
+      #     path: __sapper__/export/
       - name: GitHub Pages Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
