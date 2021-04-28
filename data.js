@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-04-28T12:52:27.194Z",
+    "last_updated": "2021-04-28T12:56:01.144Z",
     "total": 99,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -17,7 +17,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/811821349722262",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/99.jpg",
       "deskripsi": "empty",
       "tags": [
         "phpid",
@@ -35,7 +35,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/309556063869929",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/98.jpg",
       "deskripsi": "empty",
       "tags": [
         "career"
@@ -52,7 +52,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/1446895195702723",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/97.jpg",
       "deskripsi": "empty",
       "tags": [
         "php",
@@ -70,7 +70,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/474851900519276",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/96.jpg",
       "deskripsi": "empty",
       "tags": [
         "career",
@@ -88,7 +88,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/510810416754162",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/95.jpg",
       "deskripsi": "empty",
       "tags": [
         "marketing",
@@ -106,7 +106,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/966779227194086",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/94.jpg",
       "deskripsi": "empty",
       "tags": [
         "negosiasi",
@@ -124,7 +124,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://www.facebook.com/events/281167220228297",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/93.jpg",
       "deskripsi": "empty",
       "tags": [
         "jamstack",
