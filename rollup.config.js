@@ -14,6 +14,8 @@ const mode = process.env.NODE_ENV;
 const dev = mode === "development";
 const legacy = !!process.env.SAPPER_LEGACY_BUILD;
 
+console.log('SAPPER_TIMESTAMP ==> ', process.env.SAPPER_TIMESTAMP)
+
 const purgecss = require("@fullhuman/postcss-purgecss")({
   content: ["./src/**/*.svelte", "./src/**/*.html"],
   defaultExtractor: (content) => content.match(/[A-Za-z0-9-_:/]+/g) || [],

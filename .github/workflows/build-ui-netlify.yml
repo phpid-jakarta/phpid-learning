@@ -83,17 +83,8 @@ jobs:
             ${{ runner.OS }}-yarn-
       - name: Install dependencies
         run: yarn
-      - name: Get current date
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M')"
       - name: Export Web-UI to static files
         run: yarn export
-        env:
-          SAPPER_TIMESTAMP: ${{steps.date.outputs.date}}
-      # - uses: actions/upload-artifact@v2
-      #   with:
-      #     name: build-artifact
-      #     path: __sapper__/export/
       - name: GitHub Pages Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
