@@ -150,8 +150,8 @@
 - Pukul: 16:45
 - Pemateri: Mas Elkhanza YASKI, SIMRS Khanza
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/457020145519610
+- Video: https://www.facebook.com/groups/phpid/permalink/10159141920791101/
+- Registrasi: empty
 - Sesi: 90
 - Kategori: simrs, open source
 - Deskripsi: empty
