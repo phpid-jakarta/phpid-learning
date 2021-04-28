@@ -34,7 +34,7 @@ export const allByTags = derived([currentTag, allData],
 
 export const currentPage = writable(1)
 
-export const perPage = writable(15)
+export const perPage = writable(24)
 
 export const offsetPage = derived(
   [currentPage, perPage],
