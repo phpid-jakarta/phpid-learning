@@ -32,6 +32,16 @@ const preprocess = sveltePreprocess({
   },
 });
 
+const replaceConfig = {
+  preventAssignment: true,
+  values: {
+    "process.browser": true,
+    "process.env.NODE_ENV": JSON.stringify(mode),
+    "process.env.SAPPER_TIMESTAMP":
+      process.env.SAPPER_TIMESTAMP || Date.now(),
+  },
+};
+
 const onwarn = (warning, onwarn) =>
   (warning.code === "MISSING_EXPORT" && /'preload'/.test(warning.message)) ||
   (warning.code === "CIRCULAR_DEPENDENCY" &&
@@ -43,15 +53,7 @@ export default {
     input: config.client.input(),
     output: config.client.output(),
     plugins: [
-      replace({
-        preventAssignment: true,
-        values: {
-          "process.browser": true,
-          "process.env.NODE_ENV": JSON.stringify(mode),
-          "process.env.SAPPER_TIMESTAMP":
-            process.env.SAPPER_TIMESTAMP || Date.now(),
-        },
-      }),
+      replace(replaceConfig),
       svelte({
         preprocess: preprocess,
         compilerOptions: {
@@ -108,13 +110,7 @@ export default {
     input: config.server.input(),
     output: config.server.output(),
     plugins: [
-      replace({
-        preventAssignment: true,
-        values: {
-          "process.browser": false,
-          "process.env.NODE_ENV": JSON.stringify(mode),
-        },
-      }),
+      replace(replaceConfig),
       svelte({
         preprocess: preprocess,
         compilerOptions: {
@@ -146,15 +142,7 @@ export default {
     output: config.serviceworker.output(),
     plugins: [
       resolve(),
-      replace({
-        preventAssignment: true,
-        values: {
-          "process.browser": true,
-          "process.env.NODE_ENV": JSON.stringify(mode),
-          "process.env.SAPPER_TIMESTAMP":
-            process.env.SAPPER_TIMESTAMP || Date.now(),
-        },
-      }),
+      replace(replaceConfig),
       commonjs(),
       !dev && terser(),
     ],
