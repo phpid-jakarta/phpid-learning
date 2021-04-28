@@ -103,7 +103,7 @@ const main = async () => {
 
     const fileContent = {
       meta: {
-        last_updated: new Date(),
+        last_updated: new Date().toISOString().substring(0, 10),
         total: allData.length,
         credits: 'PHPID Community',
         ui: 'https://s.byphp.id/learning'
