@@ -11,7 +11,6 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 - Calon Pemateri yang berminat  mengisi PHPID-OL: [s.byphp.id/jadi-pemateri](https://s.byphp.id/jadi-pemateri)
 
-
 ## Daftar online learning
 
 - [#99 Dibalik Layar PHPID Online Learning](#dibalik-layar-phpid-online-learning)
