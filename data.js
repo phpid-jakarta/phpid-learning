@@ -1,11 +1,136 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-04-28T10:16:28.380Z",
-    "total": 92,
+    "last_updated": "2021-04-28T12:52:27.194Z",
+    "total": 99,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "99",
+      "date": "Jumat, 7 Mei 2021",
+      "time": "16:45",
+      "speaker": "Peter Kambey - PHPID",
+      "slide": "empty",
+      "topic": "Dibalik Layar PHPID Online Learning",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/811821349722262",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "phpid",
+        "learning"
+      ]
+    },
+    {
+      "id": "98",
+      "date": "Kamis, 6 Mei 2021",
+      "time": "16:45",
+      "speaker": "Verly Ananda - Freelance",
+      "slide": "empty",
+      "topic": "Chase Your Dream",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/309556063869929",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "career"
+      ]
+    },
+    {
+      "id": "97",
+      "date": "Rabu, 5 Mei 2021",
+      "time": "16:45",
+      "speaker": "Petra Novandi Barus - ex CTO UrbanIndo.com",
+      "slide": "empty",
+      "topic": "Pengalaman Membangun Startup dengan PHP",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/1446895195702723",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "php",
+        "startup"
+      ]
+    },
+    {
+      "id": "96",
+      "date": "Selasa, 4 Mei 2021",
+      "time": "16:45",
+      "speaker": "Fatah Iskandar Akbar - CEO & Founder doktersiaga",
+      "slide": "empty",
+      "topic": "From Enginner to be Technopreaneur",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/474851900519276",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "career",
+        "developer"
+      ]
+    },
+    {
+      "id": "95",
+      "date": "Senin, 3 Mei 2021",
+      "time": "16:45",
+      "speaker": "Nafies Luthfi - Freelance Web Developer",
+      "slide": "empty",
+      "topic": "Strategi Marketing untuk Programmer Freelance",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/510810416754162",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "marketing",
+        "freelance"
+      ]
+    },
+    {
+      "id": "94",
+      "date": "Minggu, 2 Mei 2021",
+      "time": "16:45",
+      "speaker": "Muhammad Singgih ZA, coFounder Codepolitan",
+      "slide": "empty",
+      "topic": "Seni Negosiasi",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/966779227194086",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "negosiasi",
+        "soft-skill"
+      ]
+    },
+    {
+      "id": "93",
+      "date": "Sabtu, 1 Mei 2021",
+      "time": "16:45",
+      "speaker": "Aris Ripandi - Web Developer / PT. Bening Guru Semesta",
+      "slide": "empty",
+      "topic": "JAMStack Untuk PHP Developer",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/281167220228297",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "jamstack",
+        "php"
+      ]
+    },
     {
       "id": "92",
       "date": "Jumat, 30 April 2021",
