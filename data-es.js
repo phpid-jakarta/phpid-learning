@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-28",
+    "last_updated": "2021-04-29",
     "total": 99,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -158,9 +158,9 @@ export default {
       "slide": "empty",
       "topic": "Hadoop Basic",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159144287736101/"
       ],
-      "registrasi": "https://www.facebook.com/events/2808384552756599",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/91.jpg",
       "deskripsi": "empty",
       "tags": [
