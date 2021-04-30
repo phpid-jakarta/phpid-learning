@@ -216,8 +216,8 @@
 - Pukul: 16:45
 - Pemateri: Rio Astamal - Founder BelajarAWS.com
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/463179871464888
+- Video: https://www.facebook.com/groups/phpid/permalink/10159146901606101/
+- Registrasi: empty
 - Sesi: 92
 - Kategori: xss, csrf, security
 - Deskripsi: empty
