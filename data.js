@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-04-29",
+    "last_updated": "2021-04-30",
     "total": 99,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -139,9 +139,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Memahami Serangan XSS dan CSRF dengan Simulasi Studi Kasus",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159146901606101/"
       ],
-      "registrasi": "https://www.facebook.com/events/463179871464888",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/92.jpg",
       "deskripsi": "empty",
       "tags": [
