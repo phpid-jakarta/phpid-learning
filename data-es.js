@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-30",
+    "last_updated": "2021-05-01",
     "total": 99,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -121,9 +121,9 @@ export default {
       "slide": "empty",
       "topic": "JAMStack Untuk PHP Developer",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159149179016101"
       ],
-      "registrasi": "https://www.facebook.com/events/281167220228297",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/93.jpg",
       "deskripsi": "empty",
       "tags": [
