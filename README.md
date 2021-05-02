@@ -192,8 +192,8 @@
 - Pukul: 16:45
 - Pemateri: Muhammad Singgih ZA, coFounder Codepolitan
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/966779227194086
+- Video: https://www.facebook.com/groups/phpid/permalink/10159151635886101/
+- Registrasi: empty
 - Sesi: 94
 - Kategori: negosiasi, soft skill
 - Deskripsi: empty
