@@ -65,7 +65,7 @@ export default {
       "time": "16:45",
       "speaker": "Fatah Iskandar Akbar - CEO & Founder doktersiaga",
       "slide": "empty",
-      "topic": "From Enginner to be Technopreaneur",
+      "topic": "From Engineer to be Technopreneur",
       "videos": [
         "empty"
       ],
