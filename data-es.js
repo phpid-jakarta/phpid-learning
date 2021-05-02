@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-05-01",
+    "last_updated": "2021-05-02",
     "total": 99,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -103,9 +103,9 @@ export default {
       "slide": "empty",
       "topic": "Seni Negosiasi",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159151635886101/"
       ],
-      "registrasi": "https://www.facebook.com/events/966779227194086",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/94.jpg",
       "deskripsi": "empty",
       "tags": [
