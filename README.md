@@ -16,7 +16,7 @@
 - [#99 Dibalik Layar PHPID Online Learning](#dibalik-layar-phpid-online-learning)
 - [#98 Chase Your Dream](#chase-your-dream)
 - [#97 Pengalaman Membangun Startup dengan PHP](#pengalaman-membangun-startup-dengan-php)
-- [#96 From Enginner to be Technopreaneur](#from-enginner-to-be-technopreaneur)
+- [#96 From Engineer to be Technopreneur](#from-engineer-to-be-technopreneur)
 - [#95 Strategi Marketing untuk Programmer Freelance](#strategi-marketing-untuk-programmer-freelance)
 - [#94 Seni Negosiasi](#seni-negosiasi)
 - [#93 JAMStack Untuk PHP Developer](#jamstack-untuk-php-developer)
@@ -162,7 +162,7 @@
 - Kategori: php, startup
 - Deskripsi: empty
 
-### From Enginner to be Technopreaneur 
+### From Engineer to be Technopreneur 
 
 - Waktu: Selasa, 4 Mei 2021
 - Pukul: 16:45
