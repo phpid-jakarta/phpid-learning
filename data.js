@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-05-02",
+    "last_updated": "2021-05-03",
     "total": 99,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -80,7 +80,7 @@ module.exports = {
     {
       "id": "95",
       "date": "Senin, 3 Mei 2021",
-      "time": "16:45",
+      "time": "16:15",
       "speaker": "Nafies Luthfi - Freelance Web Developer",
       "slide": "empty",
       "topic": "Strategi Marketing untuk Programmer Freelance",
