@@ -180,8 +180,8 @@
 - Pukul: 16:15
 - Pemateri: Nafies Luthfi - Freelance Web Developer
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/510810416754162
+- Video: https://www.facebook.com/groups/phpid/permalink/10159153888986101/
+- Registrasi: empty
 - Sesi: 95
 - Kategori: marketing, freelance
 - Deskripsi: empty
