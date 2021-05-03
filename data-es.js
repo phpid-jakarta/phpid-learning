@@ -85,9 +85,9 @@ export default {
       "slide": "empty",
       "topic": "Strategi Marketing untuk Programmer Freelance",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159153888986101/"
       ],
-      "registrasi": "https://www.facebook.com/events/510810416754162",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/95.jpg",
       "deskripsi": "empty",
       "tags": [
