@@ -177,7 +177,7 @@
 ### Strategi Marketing untuk Programmer Freelance 
 
 - Waktu: Senin, 3 Mei 2021
-- Pukul: 16:45
+- Pukul: 16:15
 - Pemateri: Nafies Luthfi - Freelance Web Developer
 - Slide: empty
 - Video: empty
