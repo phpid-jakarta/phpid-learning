@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-05-03",
+    "last_updated": "2021-05-04",
     "total": 99,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -67,9 +67,9 @@ module.exports = {
       "slide": "empty",
       "topic": "From Engineer to be Technopreneur",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159156063796101/"
       ],
-      "registrasi": "https://www.facebook.com/events/474851900519276",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/96.jpg",
       "deskripsi": "empty",
       "tags": [
