@@ -168,8 +168,8 @@
 - Pukul: 16:45
 - Pemateri: Fatah Iskandar Akbar - CEO & Founder doktersiaga
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/474851900519276
+- Video: https://www.facebook.com/groups/phpid/permalink/10159156063796101/
+- Registrasi: empty
 - Sesi: 96
 - Kategori: career, developer
 - Deskripsi: empty
