@@ -49,9 +49,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Pengalaman Membangun Startup dengan PHP",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159158319971101/"
       ],
-      "registrasi": "https://www.facebook.com/events/1446895195702723",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/97.jpg",
       "deskripsi": "empty",
       "tags": [
