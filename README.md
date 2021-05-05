@@ -16,7 +16,7 @@
 - [#99 Dibalik Layar PHPID Online Learning](#dibalik-layar-phpid-online-learning)
 - [#98 Chase Your Dream](#chase-your-dream)
 - [#97 Pengalaman Membangun Startup dengan PHP](#pengalaman-membangun-startup-dengan-php)
-- [#96 From Enginner to be Technopreaneur](#from-enginner-to-be-technopreaneur)
+- [#96 From Engineer to be Technopreneur](#from-engineer-to-be-technopreneur)
 - [#95 Strategi Marketing untuk Programmer Freelance](#strategi-marketing-untuk-programmer-freelance)
 - [#94 Seni Negosiasi](#seni-negosiasi)
 - [#93 JAMStack Untuk PHP Developer](#jamstack-untuk-php-developer)
@@ -162,14 +162,14 @@
 - Kategori: php, startup
 - Deskripsi: empty
 
-### From Enginner to be Technopreaneur 
+### From Engineer to be Technopreneur 
 
 - Waktu: Selasa, 4 Mei 2021
 - Pukul: 16:45
 - Pemateri: Fatah Iskandar Akbar - CEO & Founder doktersiaga
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/474851900519276
+- Video: https://www.facebook.com/groups/phpid/permalink/10159156063796101/
+- Registrasi: empty
 - Sesi: 96
 - Kategori: career, developer
 - Deskripsi: empty
@@ -177,11 +177,11 @@
 ### Strategi Marketing untuk Programmer Freelance 
 
 - Waktu: Senin, 3 Mei 2021
-- Pukul: 16:45
+- Pukul: 16:15
 - Pemateri: Nafies Luthfi - Freelance Web Developer
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/510810416754162
+- Video: https://www.facebook.com/groups/phpid/permalink/10159153888986101/
+- Registrasi: empty
 - Sesi: 95
 - Kategori: marketing, freelance
 - Deskripsi: empty
@@ -192,8 +192,8 @@
 - Pukul: 16:45
 - Pemateri: Muhammad Singgih ZA, coFounder Codepolitan
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/966779227194086
+- Video: https://www.facebook.com/groups/phpid/permalink/10159151635886101/
+- Registrasi: empty
 - Sesi: 94
 - Kategori: negosiasi, soft skill
 - Deskripsi: empty
@@ -204,8 +204,8 @@
 - Pukul: 16:45
 - Pemateri: Aris Ripandi - Web Developer / PT. Bening Guru Semesta
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/281167220228297
+- Video: https://www.facebook.com/groups/phpid/permalink/10159149179016101
+- Registrasi: empty
 - Sesi: 93
 - Kategori: jamstack, php
 - Deskripsi: empty
@@ -216,8 +216,8 @@
 - Pukul: 16:45
 - Pemateri: Rio Astamal - Founder BelajarAWS.com
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/463179871464888
+- Video: https://www.facebook.com/groups/phpid/permalink/10159146901606101/
+- Registrasi: empty
 - Sesi: 92
 - Kategori: xss, csrf, security
 - Deskripsi: empty
@@ -228,8 +228,8 @@
 - Pukul: 16:45
 - Pemateri: Firman Brilian - Data Management & Modelling, PT hutchison 3 ID
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/2808384552756599
+- Video: https://www.facebook.com/groups/phpid/permalink/10159144287736101/
+- Registrasi: empty
 - Sesi: 91
 - Kategori: hadoop, big data, data engineer
 - Deskripsi: empty

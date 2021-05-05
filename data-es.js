@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-04-28",
+    "last_updated": "2021-05-04",
     "total": 99,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -65,11 +65,11 @@ export default {
       "time": "16:45",
       "speaker": "Fatah Iskandar Akbar - CEO & Founder doktersiaga",
       "slide": "empty",
-      "topic": "From Enginner to be Technopreaneur",
+      "topic": "From Engineer to be Technopreneur",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159156063796101/"
       ],
-      "registrasi": "https://www.facebook.com/events/474851900519276",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/96.jpg",
       "deskripsi": "empty",
       "tags": [
@@ -80,14 +80,14 @@ export default {
     {
       "id": "95",
       "date": "Senin, 3 Mei 2021",
-      "time": "16:45",
+      "time": "16:15",
       "speaker": "Nafies Luthfi - Freelance Web Developer",
       "slide": "empty",
       "topic": "Strategi Marketing untuk Programmer Freelance",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159153888986101/"
       ],
-      "registrasi": "https://www.facebook.com/events/510810416754162",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/95.jpg",
       "deskripsi": "empty",
       "tags": [
@@ -103,9 +103,9 @@ export default {
       "slide": "empty",
       "topic": "Seni Negosiasi",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159151635886101/"
       ],
-      "registrasi": "https://www.facebook.com/events/966779227194086",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/94.jpg",
       "deskripsi": "empty",
       "tags": [
@@ -121,9 +121,9 @@ export default {
       "slide": "empty",
       "topic": "JAMStack Untuk PHP Developer",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159149179016101"
       ],
-      "registrasi": "https://www.facebook.com/events/281167220228297",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/93.jpg",
       "deskripsi": "empty",
       "tags": [
@@ -139,9 +139,9 @@ export default {
       "slide": "empty",
       "topic": "Memahami Serangan XSS dan CSRF dengan Simulasi Studi Kasus",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159146901606101/"
       ],
-      "registrasi": "https://www.facebook.com/events/463179871464888",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/92.jpg",
       "deskripsi": "empty",
       "tags": [
@@ -158,9 +158,9 @@ export default {
       "slide": "empty",
       "topic": "Hadoop Basic",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159144287736101/"
       ],
-      "registrasi": "https://www.facebook.com/events/2808384552756599",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/91.jpg",
       "deskripsi": "empty",
       "tags": [
