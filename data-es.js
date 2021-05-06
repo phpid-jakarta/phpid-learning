@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-05-05",
+    "last_updated": "2021-05-06",
     "total": 99,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -32,9 +32,9 @@ export default {
       "slide": "empty",
       "topic": "Chase Your Dream",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159160700561101/"
       ],
-      "registrasi": "https://www.facebook.com/events/309556063869929",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/98.jpg",
       "deskripsi": "empty",
       "tags": [
