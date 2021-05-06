@@ -144,8 +144,8 @@
 - Pukul: 16:45
 - Pemateri: Verly Ananda - Freelance
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/309556063869929
+- Video: https://www.facebook.com/groups/phpid/permalink/10159160700561101/
+- Registrasi: empty
 - Sesi: 98
 - Kategori: career
 - Deskripsi: empty
