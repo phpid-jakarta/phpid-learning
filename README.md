@@ -13,6 +13,7 @@
 
 ## Daftar online learning
 
+- [#100 PHP The Wrong Way](#php-the-wrong-way)
 - [#99 Dibalik Layar PHPID Online Learning](#dibalik-layar-phpid-online-learning)
 - [#98 Chase Your Dream](#chase-your-dream)
 - [#97 Pengalaman Membangun Startup dengan PHP](#pengalaman-membangun-startup-dengan-php)
@@ -126,6 +127,18 @@
 - Deskripsi: -
 
 
+### PHP The Wrong Way
+
+- Waktu: Jumat, 21 Mei 2021
+- Pukul: 19:00
+- Pemateri: Dolly Aswin - Director Xtend Indonesia
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/474858127067065
+- Sesi: 100
+- Kategori: php, clean code
+- Deskripsi: empty
+
 ### Dibalik Layar PHPID Online Learning 
 
 - Waktu: Jumat, 7 Mei 2021
@@ -133,7 +146,7 @@
 - Pemateri: Peter Kambey - PHPID
 - Slide: empty
 - Video: empty
-- Registrasi: https://www.facebook.com/events/811821349722262
+- Registrasi: empty
 - Sesi: 99
 - Kategori: phpid, learning
 - Deskripsi: empty
