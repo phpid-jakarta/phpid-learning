@@ -1,11 +1,29 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-05-10",
-    "total": 99,
+    "last_updated": "2021-05-19",
+    "total": 100,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "100",
+      "date": "Jumat, 21 Mei 2021",
+      "time": "19:00",
+      "speaker": "Dolly Aswin - Director Xtend Indonesia",
+      "slide": "empty",
+      "topic": "PHP The Wrong Way",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/474858127067065",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/100.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "php",
+        "clean-code"
+      ]
+    },
     {
       "id": "99",
       "date": "Jumat, 7 Mei 2021",
@@ -16,7 +34,7 @@ module.exports = {
       "videos": [
         "empty"
       ],
-      "registrasi": "https://www.facebook.com/events/811821349722262",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/99.jpg",
       "deskripsi": "empty",
       "tags": [
