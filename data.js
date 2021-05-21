@@ -1,11 +1,29 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-05-21",
-    "total": 100,
+    "total": 101,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "101",
+      "date": "Kamis, 27 Mei 2021",
+      "time": "19:00",
+      "speaker": "Jesica Wibowo - Senior Recruitment Consultant Geek Hunter",
+      "slide": "empty",
+      "topic": "Career Preparation",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/478953813406773",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/101.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "career",
+        "future"
+      ]
+    },
     {
       "id": "100",
       "date": "Jumat, 21 Mei 2021",
