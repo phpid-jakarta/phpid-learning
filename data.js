@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-05-19",
+    "last_updated": "2021-05-21",
     "total": 100,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -14,9 +14,9 @@ module.exports = {
       "slide": "empty",
       "topic": "PHP The Wrong Way",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159195446721101/"
       ],
-      "registrasi": "https://www.facebook.com/events/474858127067065",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/100.jpg",
       "deskripsi": "empty",
       "tags": [
