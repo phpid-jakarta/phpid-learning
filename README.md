@@ -13,6 +13,7 @@
 
 ## Daftar online learning
 
+- [#101 Career Preparation](#career-preparation)
 - [#100 PHP The Wrong Way](#php-the-wrong-way)
 - [#99 Dibalik Layar PHPID Online Learning](#dibalik-layar-phpid-online-learning)
 - [#98 Chase Your Dream](#chase-your-dream)
@@ -126,6 +127,18 @@
 - Kategori: empty
 - Deskripsi: -
 
+
+### Career Preparation
+
+- Waktu: Kamis, 27 Mei 2021
+- Pukul: 19:00
+- Pemateri: Jesica Wibowo - Senior Recruitment Consultant Geek Hunter
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/478953813406773
+- Sesi: 101
+- Kategori: career, future
+- Deskripsi: empty
 
 ### PHP The Wrong Way
 
