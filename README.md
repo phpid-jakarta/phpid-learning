@@ -133,8 +133,8 @@
 - Pukul: 19:00
 - Pemateri: Dolly Aswin - Director Xtend Indonesia
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/474858127067065
+- Video: https://www.facebook.com/groups/phpid/permalink/10159195446721101/
+- Registrasi: empty
 - Sesi: 100
 - Kategori: php, clean code
 - Deskripsi: empty
