@@ -13,7 +13,7 @@
 
 ## Daftar online learning
 
-- [#102 Dephi. Membangun Mobile Apps menggunakan Web Service (WSquery)](#dephi-membangun-mobile-apps-menggunakan-web-service-wsquery)
+- [#102 Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)](#delphi-membangun-mobile-apps-menggunakan-web-service-wsquery)
 - [#101 Career Preparation](#career-preparation)
 - [#100 PHP The Wrong Way](#php-the-wrong-way)
 - [#99 Dibalik Layar PHPID Online Learning](#dibalik-layar-phpid-online-learning)
@@ -129,7 +129,7 @@
 - Deskripsi: -
 
 
-###  Dephi. Membangun Mobile Apps menggunakan Web Service (WSquery)
+###  Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)
 
 - Waktu: Sabtu, 29 Mei 2021
 - Pukul: 19:30
