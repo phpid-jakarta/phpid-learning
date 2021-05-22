@@ -132,7 +132,7 @@
 ###  Dephi. Membangun Mobile Apps menggunakan Web Service (WSquery)
 
 - Waktu: Sabtu, 29 Mei 2021
-- Pukul: 19:00
+- Pukul: 19:30
 - Pemateri: Mas Kofa - Programmer Emperan
 - Slide: empty
 - Video: empty
