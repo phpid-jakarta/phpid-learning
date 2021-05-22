@@ -9,7 +9,7 @@ module.exports = {
     {
       "id": "102",
       "date": "Sabtu, 29 Mei 2021",
-      "time": "19:00",
+      "time": "19:30",
       "speaker": "Mas Kofa - Programmer Emperan",
       "slide": "empty",
       "topic": "Dephi. Membangun Mobile Apps menggunakan Web Service (WSquery)",
