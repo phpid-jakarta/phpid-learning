@@ -12,7 +12,7 @@ export default {
       "time": "19:30",
       "speaker": "Mas Kofa - Programmer Emperan",
       "slide": "empty",
-      "topic": "Dephi. Membangun Mobile Apps menggunakan Web Service (WSquery)",
+      "topic": "Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)",
       "videos": [
         "empty"
       ],
