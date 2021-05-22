@@ -1,11 +1,30 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-05-21",
-    "total": 101,
+    "last_updated": "2021-05-22",
+    "total": 102,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "102",
+      "date": "Sabtu, 29 Mei 2021",
+      "time": "19:00",
+      "speaker": "Mas Kofa - Programmer Emperan",
+      "slide": "empty",
+      "topic": "Dephi. Membangun Mobile Apps menggunakan Web Service (WSquery)",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1oT4M6gZA",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "delphi",
+        "mobile-apps",
+        "web-service"
+      ]
+    },
     {
       "id": "101",
       "date": "Kamis, 27 Mei 2021",
