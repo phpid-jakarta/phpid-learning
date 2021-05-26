@@ -13,6 +13,7 @@
 
 ## Daftar online learning
 
+- [#103 From PHP To Data Engineer](#from-php-to-data-engineer)
 - [#102 Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)](#delphi-membangun-mobile-apps-menggunakan-web-service-wsquery)
 - [#101 Career Preparation](#career-preparation)
 - [#100 PHP The Wrong Way](#php-the-wrong-way)
@@ -128,6 +129,19 @@
 - Kategori: empty
 - Deskripsi: -
 
+
+
+###  From PHP To Data Engineer
+
+- Waktu: Kamis, 3 Juni 2021
+- Pukul: 19:00
+- Pemateri: Welly Tambunan - CTO Scifin Technologies
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/dq3T1Ay16
+- Sesi: 103
+- Kategori: php, data engineer
+- Deskripsi: empty
 
 ###  Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)
 
