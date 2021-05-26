@@ -1,11 +1,29 @@
 export default {
   "meta": {
-    "last_updated": "2021-05-22",
-    "total": 102,
+    "last_updated": "2021-05-26",
+    "total": 103,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "103",
+      "date": "Kamis, 3 Juni 2021",
+      "time": "19:00",
+      "speaker": "Welly Tambunan - CTO Scifin Technologies",
+      "slide": "empty",
+      "topic": "From PHP To Data Engineer",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/dq3T1Ay16",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/103.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "php",
+        "data-engineer"
+      ]
+    },
     {
       "id": "102",
       "date": "Sabtu, 29 Mei 2021",
@@ -17,7 +35,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1oT4M6gZA",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/102.jpg",
       "deskripsi": "empty",
       "tags": [
         "delphi",
