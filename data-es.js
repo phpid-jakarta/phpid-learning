@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-05-26",
+    "last_updated": "2021-05-27",
     "total": 103,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -51,9 +51,9 @@ export default {
       "slide": "empty",
       "topic": "Career Preparation",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159210099871101/"
       ],
-      "registrasi": "https://www.facebook.com/events/478953813406773",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/101.jpg",
       "deskripsi": "empty",
       "tags": [
