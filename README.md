@@ -161,8 +161,8 @@
 - Pukul: 19:00
 - Pemateri: Jesica Wibowo - Senior Recruitment Consultant Geek Hunter
 - Slide: empty
-- Video: empty
-- Registrasi: https://www.facebook.com/events/478953813406773
+- Video: https://www.facebook.com/groups/phpid/permalink/10159210099871101/
+- Registrasi: empty
 - Sesi: 101
 - Kategori: career, future
 - Deskripsi: empty
