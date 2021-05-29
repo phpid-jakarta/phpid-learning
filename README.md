@@ -14,7 +14,8 @@
 ## Daftar online learning
 
 
-- [#103 From PHP To Data Engineer](#from-php-to-data-engineer)
+- [#104 From PHP To Data Engineer](#from-php-to-data-engineer)
+- [#103 PHP Native Series: Bikin File Excel](#php-native-series-bikin-file-excel)
 - [#102 Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)](#delphi-membangun-mobile-apps-menggunakan-web-service-wsquery)
 - [#101 Career Preparation](#career-preparation)
 - [#100 PHP The Wrong Way](#php-the-wrong-way)
@@ -140,8 +141,20 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/dq3T1Ay16
-- Sesi: 103
+- Sesi: 104
 - Kategori: php, data engineer
+- Deskripsi: empty
+ 
+###  PHP Native Series: Bikin File Excel
+
+- Waktu: Senin, 31 Mei 2021
+- Pukul: 19:00
+- Pemateri: Gunawan Wibisono
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/5H4fQOQA4
+- Sesi: 103
+- Kategori: php, native, excel
 - Deskripsi: empty
 
 ###  Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)
