@@ -13,8 +13,6 @@
 
 ## Daftar online learning
 
-
-
 - [#105 From PHP To Data Engineer](#from-php-to-data-engineer)
 - [#104 (Part #2) Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)](#part-2-delphi-membangun-mobile-apps-menggunakan-web-service-wsquery)
 - [#103 PHP Native Series: Bikin File Excel](#php-native-series-bikin-file-excel)
