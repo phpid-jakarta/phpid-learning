@@ -35,7 +35,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/2VP098hJD",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/104.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
       "deskripsi": "empty",
       "tags": [
         "delphi",
