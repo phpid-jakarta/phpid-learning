@@ -17,7 +17,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/dq3T1Ay16",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/105.jpg",
       "deskripsi": "empty",
       "tags": [
         "php",
@@ -35,7 +35,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/2VP098hJD",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/104.jpg",
       "deskripsi": "empty",
       "tags": [
         "delphi",
