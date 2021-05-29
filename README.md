@@ -15,7 +15,8 @@
 
 
 
-- [#104 From PHP To Data Engineer](#from-php-to-data-engineer)
+- [#105 From PHP To Data Engineer](#from-php-to-data-engineer)
+- [#104 (Part #2) Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)](#part-2-delphi-membangun-mobile-apps-menggunakan-web-service-wsquery)
 - [#103 PHP Native Series: Bikin File Excel](#php-native-series-bikin-file-excel)
 - [#102 Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)](#delphi-membangun-mobile-apps-menggunakan-web-service-wsquery)
 - [#101 Career Preparation](#career-preparation)
@@ -142,8 +143,20 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/dq3T1Ay16
-- Sesi: 104
+- Sesi: 105
 - Kategori: php, data engineer
+- Deskripsi: empty
+
+###  (Part #2) Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)
+
+- Waktu: Rabu, 2 Juni 2021
+- Pukul: 19:30
+- Pemateri: Mas Kofa - Programmer Emperan
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/2VP098hJD
+- Sesi: 104
+- Kategori: delphi, mobile apps, web service
 - Deskripsi: empty
  
 ###  PHP Native Series: Bikin File Excel
