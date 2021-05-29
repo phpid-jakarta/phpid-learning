@@ -51,9 +51,9 @@ export default {
       "slide": "empty",
       "topic": "Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159214797896101/"
       ],
-      "registrasi": "https://fb.me/e/1oT4M6gZA",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/102.jpg",
       "deskripsi": "empty",
       "tags": [
