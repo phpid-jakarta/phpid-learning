@@ -1,13 +1,13 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-05-29",
-    "total": 104,
+    "total": 105,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
     {
-      "id": "104",
+      "id": "105",
       "date": "Kamis, 3 Juni 2021",
       "time": "19:00",
       "speaker": "Welly Tambunan - CTO Scifin Technologies",
@@ -17,11 +17,30 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/dq3T1Ay16",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/104.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
       "deskripsi": "empty",
       "tags": [
         "php",
         "data-engineer"
+      ]
+    },
+    {
+      "id": "104",
+      "date": "Rabu, 2 Juni 2021",
+      "time": "19:30",
+      "speaker": "Mas Kofa - Programmer Emperan",
+      "slide": "empty",
+      "topic": "(Part #2) Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2VP098hJD",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/104.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "delphi",
+        "mobile-apps",
+        "web-service"
       ]
     },
     {
