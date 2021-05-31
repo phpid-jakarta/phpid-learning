@@ -1,11 +1,84 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-05-31",
-    "total": 105,
+    "total": 109,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "109",
+      "date": "Jumat, 18 Juni 2021",
+      "time": "19:30",
+      "speaker": "Pudyasto Adi Wibowo",
+      "slide": "empty",
+      "topic": "Langkah Awal Menjadi Web Developer PHP",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/Ot28Fs6U",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "php",
+        "beginner"
+      ]
+    },
+    {
+      "id": "108",
+      "date": "Senin, 14 Juni 2021",
+      "time": "19:00",
+      "speaker": "Jauhari Malik",
+      "slide": "empty",
+      "topic": "Warehouse Management System",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/14TNVyiep",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "warehouse",
+        "erp",
+        "gudang"
+      ]
+    },
+    {
+      "id": "107",
+      "date": "Jumat, 11 Juni 2021",
+      "time": "19:00",
+      "speaker": "Jauhari Malik",
+      "slide": "empty",
+      "topic": "Tips Sesat Memaksimalkan Performance Website",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1zUniTRJN",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "performance",
+        "seo"
+      ]
+    },
+    {
+      "id": "106",
+      "date": "Senin, 7 Juni 2021",
+      "time": "19:30",
+      "speaker": "Rulli Indrawan - CEO Pondok IT",
+      "slide": "empty",
+      "topic": "Sharing Pondok Programmer",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/3tMsEfdaR",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "sharing",
+        "non-tehnical"
+      ]
+    },
     {
       "id": "105",
       "date": "Kamis, 3 Juni 2021",
