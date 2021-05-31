@@ -17,7 +17,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/Ot28Fs6U",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/109.jpg",
       "deskripsi": "empty",
       "tags": [
         "php",
@@ -35,7 +35,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/14TNVyiep",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/108.jpg",
       "deskripsi": "empty",
       "tags": [
         "warehouse",
@@ -54,7 +54,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1zUniTRJN",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/107.jpg",
       "deskripsi": "empty",
       "tags": [
         "performance",
@@ -72,7 +72,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/3tMsEfdaR",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/106.jpg",
       "deskripsi": "empty",
       "tags": [
         "sharing",
