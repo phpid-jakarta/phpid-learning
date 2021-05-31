@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-05-29",
+    "last_updated": "2021-05-31",
     "total": 105,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -51,9 +51,9 @@ module.exports = {
       "slide": "empty",
       "topic": "PHP Native Series: Bikin File Excel",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159219416201101/"
       ],
-      "registrasi": "https://fb.me/e/5H4fQOQA4",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/103.jpg",
       "deskripsi": "empty",
       "tags": [
