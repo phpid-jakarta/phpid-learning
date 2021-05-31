@@ -13,6 +13,10 @@
 
 ## Daftar online learning
 
+- [#109 Langkah Awal Menjadi Web Developer PHP](#langkah-awal-menjadi-web-developer-php)
+- [#108 Warehouse Management System](#warehouse-management-system)
+- [#107 Tips Sesat Memaksimalkan Performance Website](#tips-sesat-memaksimalkan-performance-website)
+- [#106 Sharing Pondok Programmer](#sharing-pondok-programmer)
 - [#105 From PHP To Data Engineer](#from-php-to-data-engineer)
 - [#104 (Part #2) Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)](#part-2-delphi-membangun-mobile-apps-menggunakan-web-service-wsquery)
 - [#103 PHP Native Series: Bikin File Excel](#php-native-series-bikin-file-excel)
@@ -132,6 +136,53 @@
 - Deskripsi: -
 
 
+### Langkah Awal Menjadi Web Developer PHP
+
+- Waktu: Jumat, 18 Juni 2021
+- Pukul: 19:30
+- Pemateri: Pudyasto Adi Wibowo
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/Ot28Fs6U
+- Sesi: 109
+- Kategori: php, beginner
+- Deskripsi: empty
+
+### Warehouse Management System
+
+- Waktu: Senin, 14 Juni 2021
+- Pukul: 19:00
+- Pemateri: Jauhari Malik
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/14TNVyiep
+- Sesi: 108
+- Kategori: warehouse, erp, gudang
+- Deskripsi: empty
+
+### Tips Sesat Memaksimalkan Performance Website
+
+- Waktu: Jumat, 11 Juni 2021
+- Pukul: 19:00
+- Pemateri: Jauhari Malik
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/1zUniTRJN
+- Sesi: 107
+- Kategori: performance, seo
+- Deskripsi: empty
+
+### Sharing Pondok Programmer
+
+- Waktu: Senin, 7 Juni 2021
+- Pukul: 19:30
+- Pemateri: Rulli Indrawan - CEO Pondok IT
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/3tMsEfdaR
+- Sesi: 106
+- Kategori: sharing, non-tehnical
+- Deskripsi: empty
 
 ###  From PHP To Data Engineer
 
