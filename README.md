@@ -163,8 +163,8 @@
 - Pukul: 19:00
 - Pemateri: Gunawan Wibisono
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/5H4fQOQA4
+- Video: https://www.facebook.com/groups/phpid/permalink/10159219416201101/
+- Registrasi:empty
 - Sesi: 103
 - Kategori: php, native, excel
 - Deskripsi: empty
