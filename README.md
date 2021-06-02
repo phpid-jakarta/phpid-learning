@@ -203,8 +203,8 @@
 - Pukul: 19:30
 - Pemateri: Mas Kofa - Programmer Emperan
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2VP098hJD
+- Video: https://www.facebook.com/groups/phpid/permalink/10159223759281101/
+- Registrasi: empty
 - Sesi: 104
 - Kategori: delphi, mobile apps, web service
 - Deskripsi: empty
