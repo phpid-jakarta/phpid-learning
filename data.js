@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-05-31",
+    "last_updated": "2021-06-02",
     "total": 109,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -105,9 +105,9 @@ module.exports = {
       "slide": "empty",
       "topic": "(Part #2) Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159223759281101/"
       ],
-      "registrasi": "https://fb.me/e/2VP098hJD",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/104.jpg",
       "deskripsi": "empty",
       "tags": [
