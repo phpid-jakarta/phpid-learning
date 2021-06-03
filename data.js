@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-06-02",
+    "last_updated": "2021-06-03",
     "total": 109,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -87,9 +87,9 @@ module.exports = {
       "slide": "empty",
       "topic": "From PHP To Data Engineer",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159226006301101/"
       ],
-      "registrasi": "https://fb.me/e/dq3T1Ay16",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/105.jpg",
       "deskripsi": "empty",
       "tags": [
