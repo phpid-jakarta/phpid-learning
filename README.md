@@ -152,7 +152,7 @@
 
 - Waktu: Senin, 14 Juni 2021
 - Pukul: 19:00
-- Pemateri: Jauhari Malik
+- Pemateri: Artha Nugraha Jonar
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/14TNVyiep
