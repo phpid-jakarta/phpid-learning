@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-06-03",
+    "last_updated": "2021-06-06",
     "total": 109,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -28,7 +28,7 @@ module.exports = {
       "id": "108",
       "date": "Senin, 14 Juni 2021",
       "time": "19:00",
-      "speaker": "Jauhari Malik",
+      "speaker": "Artha Nugraha Jonar",
       "slide": "empty",
       "topic": "Warehouse Management System",
       "videos": [
