@@ -120,9 +120,9 @@
         <a
           href="https://s.byphp.id/donasi"
           target="_blank"
-          rel="noopener"
+          rel="noopener noreferrer"
           title="Donasi"
-          class="paper-btn btn-secondary margin-right">
+          class="paper-btn btn-success">
           Bantu donasi
         </a>
       </div>
