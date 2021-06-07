@@ -178,8 +178,8 @@
 - Pukul: 19:30
 - Pemateri: Rulli Indrawan - CEO Pondok IT
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/3tMsEfdaR
+- Video: https://www.facebook.com/groups/phpid/permalink/10159235770136101/
+- Registrasi: empty
 - Sesi: 106
 - Kategori: sharing, non-tehnical
 - Deskripsi: empty
