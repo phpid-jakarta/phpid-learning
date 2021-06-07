@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-06-06",
+    "last_updated": "2021-06-07",
     "total": 109,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -69,9 +69,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Sharing Pondok Programmer",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159235770136101/"
       ],
-      "registrasi": "https://fb.me/e/3tMsEfdaR",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/106.jpg",
       "deskripsi": "empty",
       "tags": [
