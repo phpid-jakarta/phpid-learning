@@ -137,6 +137,16 @@
           FB Group
         </a>
       </div>
+      <div class="row flex-center">
+        <a
+          href="https://s.byphp.id/donasi"
+          target="_blank"
+          rel="noopener"
+          title="Donasi"
+          class="paper-btn btn-secondary margin-right">
+          Bantu donasi
+        </a>
+      </div>
     </div>
     <svg
       class="waves"
