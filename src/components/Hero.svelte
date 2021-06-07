@@ -123,7 +123,7 @@
         <a
           href="https://s.byphp.id/jadi-pemateri"
           target="_blank"
-          rel="noopener"
+          rel="noopener noreferrer"
           title="Github"
           class="paper-btn btn-secondary margin-right">
           Daftar jadi speaker
@@ -131,7 +131,7 @@
         <a
           href="https://s.byphp.id/fb"
           target="_blank"
-          rel="noopener"
+          rel="noopener noreferrer"
           title="Facebook Group PHPID"
           class="paper-btn btn-secondary-outline">
           FB Group
@@ -141,9 +141,9 @@
         <a
           href="https://s.byphp.id/donasi"
           target="_blank"
-          rel="noopener"
+          rel="noopener noreferrer"
           title="Donasi"
-          class="paper-btn btn-secondary margin-right">
+          class="paper-btn btn-success-outline">
           Bantu donasi
         </a>
       </div>
