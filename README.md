@@ -4,6 +4,7 @@
 
 [![Belajar daring bersama PHPID](static/phpid-learning-logo-small.jpg)](https://s.byphp.id/learning)
 
+
 ## Data bisa juga diakses lewat
 
 - Web UI: [learning.byphp.id](https://learning.byphp.id)
@@ -11,6 +12,15 @@
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 - Calon Pemateri yang berminat  mengisi PHPID-OL: [s.byphp.id/jadi-pemateri](https://s.byphp.id/jadi-pemateri)
 
+## Bantu kami
+
+Bantu kami memperbarui daftar ini 🙏
+
+Pantau grup [Facebook PHPID](https://www.facebook.com/groups/phpid) dan silahkan perbarui data setiap kali ada sesi baru.
+
+Kalian bisa juga mendukung inisiatif Online Learning dengan mengirimkan sedikit dana ke [halaman donasi resmi PHPID](https://s.byphp.id/donasi).
+
+Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
@@ -1444,14 +1454,6 @@
 - Sesi: 1
 - Kategori: database
 - Deskripsi: -
-
-## Bantu kami
-
-Bantu kami memperbarui daftar ini 🙏
-
-Pantau grup [Facebook PHPID](https://www.facebook.com/groups/phpid) dan silahkan perbarui data setiap kali ada sesi baru.
-
-Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ---
 
