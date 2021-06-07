@@ -117,6 +117,14 @@
           class="paper-btn btn-secondary margin-right">
           Ke Beranda
         </a>
+        <a
+          href="https://s.byphp.id/donasi"
+          target="_blank"
+          rel="noopener"
+          title="Donasi"
+          class="paper-btn btn-secondary margin-right">
+          Bantu donasi
+        </a>
       </div>
     </div>
     <svg
