@@ -840,7 +840,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Video: https://www.facebook.com/groups/phpid/permalink/10158929046711101/
 - Registrasi: empty
 - Sesi: 52
-- Kategori: database
+- Kategori: database, security
 - Deskripsi: https://zoom.us/j/95908647932?pwd=b0IvdExudHlRb0ZVbENPYTZ0L2RJZz09
 
 ### Amazon Simple Storage Service (S3) For PHP Developer
