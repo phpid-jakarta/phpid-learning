@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-06-07",
+    "last_updated": "2021-06-08",
     "total": 109,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -1051,7 +1051,8 @@ export default {
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/52.jpg",
       "deskripsi": "https://zoom.us/j/95908647932?pwd=b0IvdExudHlRb0ZVbENPYTZ0L2RJZz09",
       "tags": [
-        "database"
+        "database",
+        "security"
       ]
     },
     {
