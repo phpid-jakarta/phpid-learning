@@ -176,8 +176,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Jauhari Malik
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1zUniTRJN
+- Video: https://www.facebook.com/groups/phpid/permalink/10159245291321101/
+- Registrasi: empty
 - Sesi: 107
 - Kategori: performance, seo
 - Deskripsi: empty
