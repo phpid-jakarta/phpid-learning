@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-06-09",
+    "last_updated": "2021-06-11",
     "total": 109,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -51,9 +51,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Tips Sesat Memaksimalkan Performance Website",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159245291321101/"
       ],
-      "registrasi": "https://fb.me/e/1zUniTRJN",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/107.jpg",
       "deskripsi": "empty",
       "tags": [
