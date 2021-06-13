@@ -8,7 +8,7 @@
   .header {
     margin-bottom: 2rem;
   }
-  .hero-image {
+  .hero-gradient {
     min-height: 100vh;
     position: relative;
 
@@ -46,14 +46,32 @@
     }
   }
 
+
+  .btn-wrapper {
+    z-index: 2;
+  }
+
+  .btn-wrapper > a:nth-child(1),
+  .btn-wrapper > a:nth-child(2) {
+    margin-right: auto;
+  }
+
+  /*For desktop*/
+  @media (min-width: 768px) {
+    .btn-wrapper > a:nth-child(1),
+    .btn-wrapper > a:nth-child(2) {
+      margin-right: 0.5em;
+    }
+  }
+
   .waves {
     position: absolute;
+    z-index: 1;
     width: 100%;
-    height: 15vh;
-    margin-top: -100px;
+    height: 70px;
+    margin-top: -70px;
     /*Fix for safari gap*/
-    min-height: 100px;
-    max-height: 150px;
+    min-height: 70px;
   }
 
   /*Shrinking for mobile*/
@@ -102,7 +120,7 @@
 </style>
 
 <header class="header">
-  <div class="hero-image">
+  <div class="hero-gradient">
     <div class="hero-text">
       <h1>Kategori: {tag}</h1>
       <h3>
@@ -110,12 +128,20 @@
         <b>{$allByTags.length}</b>
         webinar
       </h3>
-      <div class="row flex-center">
+      <div class="row flex-center btn-wrapper">
         <a
           href="/"
           title="Ke Beranda"
-          class="paper-btn btn-secondary margin-right">
+          class="paper-btn btn-secondary">
           Ke Beranda
+        </a>
+        <a
+          href="https://s.byphp.id/jadi-pemateri"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Github"
+          class="paper-btn btn-secondary">
+          Daftar jadi speaker
         </a>
         <a
           href="https://s.byphp.id/donasi"
