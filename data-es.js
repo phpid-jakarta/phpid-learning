@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-06-11",
+    "last_updated": "2021-06-13",
     "total": 109,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
