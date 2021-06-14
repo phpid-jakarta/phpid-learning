@@ -23,8 +23,9 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
+- [#000 Warehouse Management System](#warehouse-management-system)
 - [#109 Langkah Awal Menjadi Web Developer PHP](#langkah-awal-menjadi-web-developer-php)
-- [#108 Warehouse Management System](#warehouse-management-system)
+- [#108 Tips Sesat Memaksimalkan Performance Website Jilid II](#tips-sesat-memaksimalkan-performance-website-jilid-ii)
 - [#107 Tips Sesat Memaksimalkan Performance Website](#tips-sesat-memaksimalkan-performance-website)
 - [#106 Sharing Pondok Programmer](#sharing-pondok-programmer)
 - [#105 From PHP To Data Engineer](#from-php-to-data-engineer)
@@ -145,6 +146,17 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Kategori: empty
 - Deskripsi: -
 
+### Warehouse Management System
+
+- Waktu: Selasa, 13 Juli 2021
+- Pukul: 19:00
+- Pemateri: Artha Nugraha Jonar
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/14TNVyiep
+- Sesi: 000
+- Kategori: warehouse, erp, gudang
+- Deskripsi: empty
 
 ### Langkah Awal Menjadi Web Developer PHP
 
@@ -158,16 +170,16 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Kategori: php, beginner
 - Deskripsi: empty
 
-### Warehouse Management System
+### Tips Sesat Memaksimalkan Performance Website Jilid II
 
-- Waktu: Senin, 14 Juni 2021
+- Waktu: Senin, 16 Juni 2021
 - Pukul: 19:00
-- Pemateri: Artha Nugraha Jonar
+- Pemateri: Jauhari Malik
 - Slide: empty
 - Video: empty
-- Registrasi: https://fb.me/e/14TNVyiep
+- Registrasi: https://fb.me/e/EcigJod5
 - Sesi: 108
-- Kategori: warehouse, erp, gudang
+- Kategori: performance, seo
 - Deskripsi: empty
 
 ### Tips Sesat Memaksimalkan Performance Website
