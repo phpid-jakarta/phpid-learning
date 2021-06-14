@@ -51,9 +51,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Tips Sesat Memaksimalkan Performance Website Jilid II",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159253033001101/"
       ],
-      "registrasi": "https://fb.me/e/EcigJod5",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
       "deskripsi": "empty",
       "tags": [
