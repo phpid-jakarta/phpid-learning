@@ -1,11 +1,30 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-06-13",
-    "total": 109,
+    "last_updated": "2021-06-14",
+    "total": 110,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "000",
+      "date": "Selasa, 13 Juli 2021",
+      "time": "19:00",
+      "speaker": "Artha Nugraha Jonar",
+      "slide": "empty",
+      "topic": "Warehouse Management System",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/14TNVyiep",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "warehouse",
+        "erp",
+        "gudang"
+      ]
+    },
     {
       "id": "109",
       "date": "Jumat, 18 Juni 2021",
@@ -26,21 +45,20 @@ module.exports = {
     },
     {
       "id": "108",
-      "date": "Senin, 14 Juni 2021",
+      "date": "Senin, 16 Juni 2021",
       "time": "19:00",
-      "speaker": "Artha Nugraha Jonar",
+      "speaker": "Jauhari Malik",
       "slide": "empty",
-      "topic": "Warehouse Management System",
+      "topic": "Tips Sesat Memaksimalkan Performance Website Jilid II",
       "videos": [
         "empty"
       ],
-      "registrasi": "https://fb.me/e/14TNVyiep",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/108.jpg",
+      "registrasi": "https://fb.me/e/EcigJod5",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
       "deskripsi": "empty",
       "tags": [
-        "warehouse",
-        "erp",
-        "gudang"
+        "performance",
+        "seo"
       ]
     },
     {
