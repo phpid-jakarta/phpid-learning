@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-06-14",
+    "last_updated": "2021-06-18",
     "total": 110,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -33,9 +33,9 @@ export default {
       "slide": "empty",
       "topic": "Langkah Awal Menjadi Web Developer PHP",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159261666346101/"
       ],
-      "registrasi": "https://fb.me/e/Ot28Fs6U",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/109.jpg",
       "deskripsi": "empty",
       "tags": [
