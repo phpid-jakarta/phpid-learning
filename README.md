@@ -164,8 +164,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:30
 - Pemateri: Pudyasto Adi Wibowo
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/Ot28Fs6U
+- Video: https://www.facebook.com/groups/phpid/permalink/10159261666346101/
+- Registrasi: empty
 - Sesi: 109
 - Kategori: php, beginner
 - Deskripsi: empty
