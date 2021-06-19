@@ -24,6 +24,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ## Daftar online learning
 
 - [#000 Warehouse Management System](#warehouse-management-system)
+- [#110 Otomasi install LEMP di Centos-7 dengan bash command](#otomasi-install-lemp-di-centos-7-dengan-bash-command)
 - [#109 Langkah Awal Menjadi Web Developer PHP](#langkah-awal-menjadi-web-developer-php)
 - [#108 Tips Sesat Memaksimalkan Performance Website Jilid II](#tips-sesat-memaksimalkan-performance-website-jilid-ii)
 - [#107 Tips Sesat Memaksimalkan Performance Website](#tips-sesat-memaksimalkan-performance-website)
@@ -156,6 +157,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Registrasi: https://fb.me/e/14TNVyiep
 - Sesi: 000
 - Kategori: warehouse, erp, gudang
+- Deskripsi: empty
+
+### Otomasi install LEMP di Centos-7 dengan bash command
+
+- Waktu: Senin, 21 Juni 2021
+- Pukul: 19:00
+- Pemateri: Harjito - Dosen Jurusan Kimia Universitas Negeri Semarang
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/2qSPmTdYc
+- Sesi: 110
+- Kategori: centos, linux, lemp, bash
 - Deskripsi: empty
 
 ### Langkah Awal Menjadi Web Developer PHP
