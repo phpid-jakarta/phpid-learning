@@ -1,7 +1,7 @@
 export default {
   "meta": {
-    "last_updated": "2021-06-18",
-    "total": 110,
+    "last_updated": "2021-06-19",
+    "total": 111,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
@@ -23,6 +23,26 @@ export default {
         "warehouse",
         "erp",
         "gudang"
+      ]
+    },
+    {
+      "id": "110",
+      "date": "Senin, 21 Juni 2021",
+      "time": "19:00",
+      "speaker": "Harjito - Dosen Jurusan Kimia Universitas Negeri Semarang",
+      "slide": "empty",
+      "topic": "Otomasi install LEMP di Centos-7 dengan bash command",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2qSPmTdYc",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "centos",
+        "linux",
+        "lemp",
+        "bash"
       ]
     },
     {
