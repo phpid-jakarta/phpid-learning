@@ -24,6 +24,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ## Daftar online learning
 
 - [#000 Warehouse Management System](#warehouse-management-system)
+- [#111 Dockerized a Laravel Application](#dockerized-a-laravel-application)
 - [#110 Otomasi install LEMP di Centos-7 dengan bash command](#otomasi-install-lemp-di-centos-7-dengan-bash-command)
 - [#109 Langkah Awal Menjadi Web Developer PHP](#langkah-awal-menjadi-web-developer-php)
 - [#108 Tips Sesat Memaksimalkan Performance Website Jilid II](#tips-sesat-memaksimalkan-performance-website-jilid-ii)
@@ -157,6 +158,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Registrasi: https://fb.me/e/14TNVyiep
 - Sesi: 000
 - Kategori: warehouse, erp, gudang
+- Deskripsi: empty
+
+### Dockerized a Laravel Application
+
+- Waktu: Senin, 28 Juli 2021
+- Pukul: 19:00
+- Pemateri: Akbar Abustang
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/3YtRIOdWt
+- Sesi: 111
+- Kategori: php, laravel, docker
 - Deskripsi: empty
 
 ### Otomasi install LEMP di Centos-7 dengan bash command
