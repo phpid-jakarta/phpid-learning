@@ -1,7 +1,7 @@
 export default {
   "meta": {
-    "last_updated": "2021-06-19",
-    "total": 111,
+    "last_updated": "2021-06-20",
+    "total": 112,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
@@ -23,6 +23,25 @@ export default {
         "warehouse",
         "erp",
         "gudang"
+      ]
+    },
+    {
+      "id": "111",
+      "date": "Senin, 28 Juli 2021",
+      "time": "19:00",
+      "speaker": "Akbar Abustang",
+      "slide": "empty",
+      "topic": "Dockerized a Laravel Application",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/3YtRIOdWt",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "php",
+        "laravel",
+        "docker"
       ]
     },
     {
