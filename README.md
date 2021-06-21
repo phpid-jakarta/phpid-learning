@@ -178,8 +178,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Harjito - Dosen Jurusan Kimia Universitas Negeri Semarang
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2qSPmTdYc
+- Video: https://www.facebook.com/groups/phpid/permalink/10159268665836101/
+- Registrasi: empty
 - Sesi: 110
 - Kategori: centos, linux, lemp, bash
 - Deskripsi: empty
