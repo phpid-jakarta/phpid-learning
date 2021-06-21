@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-06-20",
+    "last_updated": "2021-06-21",
     "total": 112,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -52,9 +52,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Otomasi install LEMP di Centos-7 dengan bash command",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/permalink/10159268665836101/"
       ],
-      "registrasi": "https://fb.me/e/2qSPmTdYc",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
       "deskripsi": "empty",
       "tags": [
