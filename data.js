@@ -36,7 +36,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/3YtRIOdWt",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/111.jpg",
       "deskripsi": "empty",
       "tags": [
         "php",
@@ -55,7 +55,7 @@ module.exports = {
         "https://www.facebook.com/groups/phpid/permalink/10159268665836101/"
       ],
       "registrasi": "empty",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/110.jpg",
       "deskripsi": "empty",
       "tags": [
         "centos",
