@@ -23,7 +23,6 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
-
 - [#000 Warehouse Management System](#warehouse-management-system)
 - [#112 Implementasi gRPC Web](#implementasi-grpc-web)
 - [#111 Dockerized a Laravel Application](#dockerized-a-laravel-application)
