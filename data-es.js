@@ -36,7 +36,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/7obDKYiXY",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/112.jpg",
       "deskripsi": "empty",
       "tags": [
         "gRPC",
