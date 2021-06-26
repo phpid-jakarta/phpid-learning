@@ -111,7 +111,7 @@ module.exports = {
         "https://www.facebook.com/groups/phpid/permalink/10159253033001101/"
       ],
       "registrasi": "empty",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/108.jpg",
       "deskripsi": "empty",
       "tags": [
         "performance",
