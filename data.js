@@ -1,7 +1,7 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-06-22",
-    "total": 112,
+    "last_updated": "2021-06-26",
+    "total": 113,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
@@ -23,6 +23,24 @@ module.exports = {
         "warehouse",
         "erp",
         "gudang"
+      ]
+    },
+    {
+      "id": "112",
+      "date": "Rabu, 30 Juli 2021",
+      "time": "19:00",
+      "speaker": "Rijal Asepnugraha",
+      "slide": "empty",
+      "topic": "Implementasi gRPC Web",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/7obDKYiXY",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "gRPC",
+        "Web"
       ]
     },
     {
