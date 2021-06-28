@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-06-27",
+    "last_updated": "2021-06-28",
     "total": 113,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -51,9 +51,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Dockerized a Laravel Application",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159283861421101/"
       ],
-      "registrasi": "https://fb.me/e/3YtRIOdWt",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/111.jpg",
       "deskripsi": "empty",
       "tags": [
