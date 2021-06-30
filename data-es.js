@@ -1,7 +1,7 @@
 export default {
   "meta": {
     "last_updated": "2021-06-30",
-    "total": 113,
+    "total": 114,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
@@ -26,8 +26,26 @@ export default {
       ]
     },
     {
+      "id": "113",
+      "date": "Jumat, 9 Juli 2021",
+      "time": "19:00",
+      "speaker": "Petra Npvandi Barus",
+      "slide": "empty",
+      "topic": "Membuat dan Menganalisis Data User Tracking Dengan AWS",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://www.facebook.com/events/919940048585024",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "gRPC",
+        "Web"
+      ]
+    },
+    {
       "id": "112",
-      "date": "Rabu, 30 Juli 2021",
+      "date": "Rabu, 30 Juni 2021",
       "time": "19:00",
       "speaker": "Rijal Asepnugraha",
       "slide": "empty",
@@ -45,7 +63,7 @@ export default {
     },
     {
       "id": "111",
-      "date": "Senin, 28 Juli 2021",
+      "date": "Senin, 28 Juni 2021",
       "time": "19:00",
       "speaker": "Akbar Abustang",
       "slide": "empty",
