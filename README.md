@@ -167,8 +167,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Rijal Asepnugraha
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/7obDKYiXY
+- Video: https://www.facebook.com/groups/phpid/posts/10159287908606101/
+- Registrasi: empty
 - Sesi: 112
 - Kategori: gRPC, Web
 - Deskripsi: empty
