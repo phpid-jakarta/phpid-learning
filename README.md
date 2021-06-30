@@ -23,7 +23,9 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
+
 - [#000 Warehouse Management System](#warehouse-management-system)
+- [#113 Membuat dan Menganalisis Data User Tracking Dengan AWS](#membuat-dan-menganalisis-data-user-tracking-dengan-aws)
 - [#112 Implementasi gRPC Web](#implementasi-grpc-web)
 - [#111 Dockerized a Laravel Application](#dockerized-a-laravel-application)
 - [#110 Otomasi install LEMP di Centos-7 dengan bash command](#otomasi-install-lemp-di-centos-7-dengan-bash-command)
@@ -161,9 +163,21 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Kategori: warehouse, erp, gudang
 - Deskripsi: empty
 
+### Membuat dan Menganalisis Data User Tracking Dengan AWS
+
+- Waktu: Jumat, 9 Juli 2021
+- Pukul: 19:00
+- Pemateri: Petra Npvandi Barus
+- Slide: empty
+- Video: empty
+- Registrasi: https://www.facebook.com/events/919940048585024
+- Sesi: 113
+- Kategori: gRPC, Web
+- Deskripsi: empty
+
 ### Implementasi gRPC Web
 
-- Waktu: Rabu, 30 Juli 2021
+- Waktu: Rabu, 30 Juni 2021
 - Pukul: 19:00
 - Pemateri: Rijal Asepnugraha
 - Slide: empty
@@ -175,7 +189,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ### Dockerized a Laravel Application
 
-- Waktu: Senin, 28 Juli 2021
+- Waktu: Senin, 28 Juni 2021
 - Pukul: 19:00
 - Pemateri: Akbar Abustang
 - Slide: empty
