@@ -180,7 +180,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 - Waktu: Senin, 5 Juli 2021
 - Pukul: 19:00
-- Pemateri: Gita Citra Puspita
+- Pemateri: Tita Puspitasari
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/bo2VrW6Zu
