@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-06-28",
+    "last_updated": "2021-06-30",
     "total": 113,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -33,9 +33,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Implementasi gRPC Web",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159287908606101/"
       ],
-      "registrasi": "https://fb.me/e/7obDKYiXY",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/112.jpg",
       "deskripsi": "empty",
       "tags": [
