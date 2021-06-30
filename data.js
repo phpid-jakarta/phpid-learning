@@ -48,7 +48,7 @@ module.exports = {
       "id": "113",
       "date": "Senin, 5 Juli 2021",
       "time": "19:00",
-      "speaker": "Gita Citra Puspita",
+      "speaker": "Tita Puspitasari",
       "slide": "empty",
       "topic": "Membangun Startup untuk Bantu Wujudkan Inklusifitas Bagi Tuli",
       "videos": [
