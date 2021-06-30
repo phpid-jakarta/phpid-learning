@@ -36,7 +36,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/2vmr9mFF0",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/114.jpg",
       "deskripsi": "empty",
       "tags": [
         "aws",
@@ -55,7 +55,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/bo2VrW6Zu",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/113.jpg",
       "deskripsi": "empty",
       "tags": [
         "startup",
