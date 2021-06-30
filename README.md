@@ -24,7 +24,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ## Daftar online learning
 
 - [#000 Warehouse Management System](#warehouse-management-system)
-- [#113 Membuat dan Menganalisis Data User Tracking Dengan AWS](#membuat-dan-menganalisis-data-user-tracking-dengan-aws)
+- [#114 Membuat dan Menganalisis Data User Tracking Dengan AWS](#membuat-dan-menganalisis-data-user-tracking-dengan-aws)
+- [#113 Membangun Startup untuk Bantu Wujudkan Inklusifitas Bagi Tuli](#membangun-startup-untuk-bantu-wujudkan-inklusifitas-bagi-tuli)
 - [#112 Implementasi gRPC Web](#implementasi-grpc-web)
 - [#111 Dockerized a Laravel Application](#dockerized-a-laravel-application)
 - [#110 Otomasi install LEMP di Centos-7 dengan bash command](#otomasi-install-lemp-di-centos-7-dengan-bash-command)
@@ -166,12 +167,24 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 - Waktu: Jumat, 9 Juli 2021
 - Pukul: 19:00
-- Pemateri: Petra Npvandi Barus
+- Pemateri: Petra Novandi Barus
 - Slide: empty
 - Video: empty
-- Registrasi: https://www.facebook.com/events/919940048585024
+- Registrasi: https://fb.me/e/2vmr9mFF0
+- Sesi: 114
+- Kategori: aws, data analytics, user tracking
+- Deskripsi: empty
+
+### Membangun Startup untuk Bantu Wujudkan Inklusifitas Bagi Tuli
+
+- Waktu: Senin, 5 Juli 2021
+- Pukul: 19:00
+- Pemateri: Gita Citra Puspita
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/bo2VrW6Zu
 - Sesi: 113
-- Kategori: gRPC, Web
+- Kategori: startup, difabilitas
 - Deskripsi: empty
 
 ### Implementasi gRPC Web
