@@ -1,7 +1,7 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-06-30",
-    "total": 114,
+    "total": 115,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
@@ -26,21 +26,40 @@ module.exports = {
       ]
     },
     {
-      "id": "113",
+      "id": "114",
       "date": "Jumat, 9 Juli 2021",
       "time": "19:00",
-      "speaker": "Petra Npvandi Barus",
+      "speaker": "Petra Novandi Barus",
       "slide": "empty",
       "topic": "Membuat dan Menganalisis Data User Tracking Dengan AWS",
       "videos": [
         "empty"
       ],
-      "registrasi": "https://www.facebook.com/events/919940048585024",
+      "registrasi": "https://fb.me/e/2vmr9mFF0",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
       "deskripsi": "empty",
       "tags": [
-        "gRPC",
-        "Web"
+        "aws",
+        "data-analytics",
+        "user-tracking"
+      ]
+    },
+    {
+      "id": "113",
+      "date": "Senin, 5 Juli 2021",
+      "time": "19:00",
+      "speaker": "Gita Citra Puspita",
+      "slide": "empty",
+      "topic": "Membangun Startup untuk Bantu Wujudkan Inklusifitas Bagi Tuli",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/bo2VrW6Zu",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "startup",
+        "difabilitas"
       ]
     },
     {
