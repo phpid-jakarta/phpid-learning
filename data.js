@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-06-30",
+    "last_updated": "2021-07-05",
     "total": 115,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -52,9 +52,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Membangun Startup untuk Bantu Wujudkan Inklusifitas Bagi Tuli",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159298222891101/"
       ],
-      "registrasi": "https://fb.me/e/bo2VrW6Zu",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/113.jpg",
       "deskripsi": "empty",
       "tags": [
