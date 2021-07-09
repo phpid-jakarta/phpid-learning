@@ -17,7 +17,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/14TNVyiep",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/116.jpg",
       "deskripsi": "empty",
       "tags": [
         "warehouse",
@@ -36,7 +36,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/41pGxMYYx",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/115.jpg",
       "deskripsi": "empty",
       "tags": [
         "banking"
