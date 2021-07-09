@@ -50,9 +50,9 @@ export default {
       "slide": "empty",
       "topic": "Membuat dan Menganalisis Data User Tracking Dengan AWS",
       "videos": [
-        "empty"
+        "https://web.facebook.com/groups/phpid/posts/10159307995866101/"
       ],
-      "registrasi": "https://fb.me/e/2vmr9mFF0",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/114.jpg",
       "deskripsi": "empty",
       "tags": [
