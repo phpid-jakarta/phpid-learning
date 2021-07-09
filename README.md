@@ -183,8 +183,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Petra Novandi Barus
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2vmr9mFF0
+- Video: https://web.facebook.com/groups/phpid/posts/10159307995866101/
+- Registrasi: empty
 - Sesi: 114
 - Kategori: aws, data analytics, user tracking
 - Deskripsi: empty
