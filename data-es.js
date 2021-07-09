@@ -1,13 +1,13 @@
 export default {
   "meta": {
-    "last_updated": "2021-07-05",
-    "total": 115,
+    "last_updated": "2021-07-09",
+    "total": 116,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
     {
-      "id": "000",
+      "id": "116",
       "date": "Selasa, 13 Juli 2021",
       "time": "19:00",
       "speaker": "Artha Nugraha Jonar",
@@ -23,6 +23,23 @@ export default {
         "warehouse",
         "erp",
         "gudang"
+      ]
+    },
+    {
+      "id": "115",
+      "date": "Senin, 12 Juli 2021",
+      "time": "19:00",
+      "speaker": "Tigor Manurung",
+      "slide": "empty",
+      "topic": "Software Development Process in Banking Industry",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/41pGxMYYx",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "banking"
       ]
     },
     {
