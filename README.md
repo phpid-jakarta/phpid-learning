@@ -23,8 +23,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
-
-- [#000 Warehouse Management System](#warehouse-management-system)
+- [#116 Warehouse Management System](#warehouse-management-system)
+- [#115 Software Development Process in Banking Industry](#software-development-process-in-banking-industry)
 - [#114 Membuat dan Menganalisis Data User Tracking Dengan AWS](#membuat-dan-menganalisis-data-user-tracking-dengan-aws)
 - [#113 Membangun Startup untuk Bantu Wujudkan Inklusifitas Bagi Tuli](#membangun-startup-untuk-bantu-wujudkan-inklusifitas-bagi-tuli)
 - [#112 Implementasi gRPC Web](#implementasi-grpc-web)
@@ -160,8 +160,20 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/14TNVyiep
-- Sesi: 000
+- Sesi: 116
 - Kategori: warehouse, erp, gudang
+- Deskripsi: empty
+
+### Software Development Process in Banking Industry
+
+- Waktu: Senin, 12 Juli 2021
+- Pukul: 19:00
+- Pemateri: Tigor Manurung
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/41pGxMYYx
+- Sesi: 115
+- Kategori: banking
 - Deskripsi: empty
 
 ### Membuat dan Menganalisis Data User Tracking Dengan AWS
