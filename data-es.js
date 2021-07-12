@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-07-09",
+    "last_updated": "2021-07-12",
     "total": 116,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -33,9 +33,9 @@ export default {
       "slide": "empty",
       "topic": "Software Development Process in Banking Industry",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159314423336101"
       ],
-      "registrasi": "https://fb.me/e/41pGxMYYx",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/115.jpg",
       "deskripsi": "empty",
       "tags": [
