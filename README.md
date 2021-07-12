@@ -171,8 +171,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Tigor Manurung
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/41pGxMYYx
+- Video: https://www.facebook.com/groups/phpid/posts/10159314423336101
+- Registrasi: empty
 - Sesi: 115
 - Kategori: banking
 - Deskripsi: empty
