@@ -1,11 +1,29 @@
 export default {
   "meta": {
-    "last_updated": "2021-07-12",
-    "total": 116,
+    "last_updated": "2021-07-13",
+    "total": 117,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "117",
+      "date": "Senin, 19 Juli 2021",
+      "time": "19:00",
+      "speaker": "Fitra Aditya",
+      "slide": "empty",
+      "topic": "Aplikasi Video Call Menggunakan Web RTC dan PHP",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/D6SMUXeU",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/117.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "web-rtc",
+        "php"
+      ]
+    },
     {
       "id": "116",
       "date": "Selasa, 13 Juli 2021",
