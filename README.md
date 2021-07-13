@@ -172,8 +172,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Artha Nugraha Jonar
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/14TNVyiep
+- Video: https://www.facebook.com/groups/phpid/posts/10159316500306101/
+- Registrasi: empty
 - Sesi: 116
 - Kategori: warehouse, erp, gudang
 - Deskripsi: empty
