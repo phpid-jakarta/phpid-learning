@@ -32,9 +32,9 @@ export default {
       "slide": "empty",
       "topic": "Warehouse Management System",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159316500306101/"
       ],
-      "registrasi": "https://fb.me/e/14TNVyiep",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/116.jpg",
       "deskripsi": "empty",
       "tags": [
