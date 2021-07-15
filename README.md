@@ -24,6 +24,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ## Daftar online learning
 
 
+- [#118 Setup Modern WordPress Project for Enterprise](#setup-modern-wordPress-project-for-enterprise)
 - [#117 Aplikasi Video Call Menggunakan Web RTC dan PHP](#aplikasi-video-call-menggunakan-web-rtc-dan-php)
 - [#116 Warehouse Management System](#warehouse-management-system)
 - [#115 Software Development Process in Banking Industry](#software-development-process-in-banking-industry)
@@ -153,6 +154,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Sesi: 100
 - Kategori: empty
 - Deskripsi: -
+
+### Setup Modern WordPress Project for Enterprise
+
+- Waktu: Rabu, 21 Juli 2021
+- Pukul: 19:00
+- Pemateri: Ivan Kristianto
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/1FALfab8s
+- Sesi: 118
+- Kategori: wordpress, php, enterprise
+- Deskripsi: empty
 
 ### Aplikasi Video Call Menggunakan Web RTC dan PHP
 
