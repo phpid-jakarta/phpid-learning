@@ -1,11 +1,30 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-07-13",
-    "total": 117,
+    "last_updated": "2021-07-15",
+    "total": 118,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "118",
+      "date": "Rabu, 21 Juli 2021",
+      "time": "19:00",
+      "speaker": "Ivan Kristianto",
+      "slide": "empty",
+      "topic": "Setup Modern WordPress Project for Enterprise",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1FALfab8s",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "wordpress",
+        "php",
+        "enterprise"
+      ]
+    },
     {
       "id": "117",
       "date": "Senin, 19 Juli 2021",
