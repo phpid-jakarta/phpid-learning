@@ -1,11 +1,29 @@
 export default {
   "meta": {
-    "last_updated": "2021-07-15",
-    "total": 118,
+    "last_updated": "2021-07-16",
+    "total": 119,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "119",
+      "date": "Jumat, 23 Juli 2021",
+      "time": "19:00",
+      "speaker": "Jauhari Malik",
+      "slide": "empty",
+      "topic": "Mager Entry Data - Tips Sesat untuk Pemalas",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1yEGmso2i",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "php",
+        "crud"
+      ]
+    },
     {
       "id": "118",
       "date": "Rabu, 21 Juli 2021",
