@@ -23,6 +23,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
+- [#119 Mager Entry Data - Tips Sesat untuk Pemalas](#mager-entry-data-tips-sesat-untuk-pemalas)
 - [#118 Setup Modern WordPress Project for Enterprise](#setup-modern-wordPress-project-for-enterprise)
 - [#117 Aplikasi Video Call Menggunakan Web RTC dan PHP](#aplikasi-video-call-menggunakan-web-rtc-dan-php)
 - [#116 Warehouse Management System](#warehouse-management-system)
@@ -153,6 +154,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Sesi: 100
 - Kategori: empty
 - Deskripsi: -
+
+### Mager Entry Data - Tips Sesat untuk Pemalas
+
+- Waktu: Jumat, 23 Juli 2021
+- Pukul: 19:00
+- Pemateri: Jauhari Malik
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/1yEGmso2i
+- Sesi: 119
+- Kategori: php, crud
+- Deskripsi: empty
 
 ### Setup Modern WordPress Project for Enterprise
 
