@@ -23,7 +23,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
-- [#119 Mager Entry Data - Tips Sesat untuk Pemalas](#mager-entry-data-tips-sesat-untuk-pemalas)
+- [#119 Mager Entry Data - Tips Sesat untuk Pemalas](#mager-entry-data---tips-sesat-untuk-pemalas)
 - [#118 Setup Modern WordPress Project for Enterprise](#setup-modern-wordPress-project-for-enterprise)
 - [#117 Aplikasi Video Call Menggunakan Web RTC dan PHP](#aplikasi-video-call-menggunakan-web-rtc-dan-php)
 - [#116 Warehouse Management System](#warehouse-management-system)
