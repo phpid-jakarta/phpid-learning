@@ -186,8 +186,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Fitra Aditya
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/D6SMUXeU
+- Video: https://www.facebook.com/groups/phpid/posts/10159329185141101/
+- Registrasi: empty
 - Sesi: 117
 - Kategori: web rtc, php
 - Deskripsi: empty
