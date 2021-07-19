@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-07-16",
+    "last_updated": "2021-07-19",
     "total": 119,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -51,9 +51,9 @@ export default {
       "slide": "empty",
       "topic": "Aplikasi Video Call Menggunakan Web RTC dan PHP",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159329185141101/"
       ],
-      "registrasi": "https://fb.me/e/D6SMUXeU",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/117.jpg",
       "deskripsi": "empty",
       "tags": [
