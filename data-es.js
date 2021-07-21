@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-07-19",
+    "last_updated": "2021-07-21",
     "total": 119,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -32,9 +32,9 @@ export default {
       "slide": "empty",
       "topic": "Setup Modern WordPress Project for Enterprise",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159333416631101/"
       ],
-      "registrasi": "https://fb.me/e/1FALfab8s",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/118.jpg",
       "deskripsi": "empty",
       "tags": [
