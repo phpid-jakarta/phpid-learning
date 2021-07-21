@@ -174,8 +174,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Ivan Kristianto
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1FALfab8s
+- Video: https://www.facebook.com/groups/phpid/posts/10159333416631101/
+- Registrasi: empty
 - Sesi: 118
 - Kategori: wordpress, php, enterprise
 - Deskripsi: empty
