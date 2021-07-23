@@ -156,6 +156,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Kategori: empty
 - Deskripsi: -
 
+### Spreadsheet Tips & Trick Untuk Umum dan Developer
+
+- Waktu: Senin, 26 Juli 2021
+- Pukul: 17:00
+- Pemateri: Wida Sari
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/19KtztMMJ
+- Sesi: 120
+- Kategori: tip, trick, spreadsheet
+- Deskripsi: empty
+
 ### Mager Entry Data - Tips Sesat untuk Pemalas
 
 - Waktu: Jumat, 23 Juli 2021
