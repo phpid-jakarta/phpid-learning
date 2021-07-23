@@ -1,11 +1,31 @@
 export default {
   "meta": {
     "last_updated": "2021-07-23",
-    "total": 120,
+    "total": 121,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "121",
+      "date": "Jumat, 30 Juli 2021",
+      "time": "19:00",
+      "speaker": "Achmad Solichin",
+      "slide": "empty",
+      "topic": "Mari Mengenal Logika Fuzzy, Konsep & Implementasinya",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/487ZUjvON",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "fuzzy",
+        "machine-learning",
+        "ml",
+        "science"
+      ]
+    },
     {
       "id": "120",
       "date": "Senin, 26 Juli 2021",
