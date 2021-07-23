@@ -33,9 +33,9 @@ export default {
       "slide": "empty",
       "topic": "Mager Entry Data - Tips Sesat untuk Pemalas",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159337757201101/"
       ],
-      "registrasi": "https://fb.me/e/1yEGmso2i",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/119.jpg",
       "deskripsi": "empty",
       "tags": [
