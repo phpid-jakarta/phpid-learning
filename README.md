@@ -175,8 +175,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Jauhari Malik
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1yEGmso2i
+- Video: https://www.facebook.com/groups/phpid/posts/10159337757201101/
+- Registrasi: empty
 - Sesi: 119
 - Kategori: php, crud
 - Deskripsi: empty
