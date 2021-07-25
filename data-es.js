@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-07-23",
+    "last_updated": "2021-07-25",
     "total": 121,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -17,7 +17,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/487ZUjvON",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/121.jpg",
       "deskripsi": "empty",
       "tags": [
         "fuzzy",
@@ -37,7 +37,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/19KtztMMJ",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/120.jpg",
       "deskripsi": "empty",
       "tags": [
         "tip",
