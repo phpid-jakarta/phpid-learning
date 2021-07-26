@@ -177,8 +177,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 17:00
 - Pemateri: Wida Sari
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/19KtztMMJ
+- Video: https://www.facebook.com/groups/phpid/posts/10159343957791101/
+- Registrasi: empty
 - Sesi: 120
 - Kategori: tip, trick, spreadsheet
 - Deskripsi: empty
