@@ -1,11 +1,30 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-07-26",
-    "total": 121,
+    "total": 122,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "122",
+      "date": "Selasa, 03 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Fadhil Dzikri",
+      "slide": "empty",
+      "topic": "Cara Menjadi Affiliater Marketer Sukses",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2AF9cO2Kp",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "marketer",
+        "affiliater",
+        "non-tehnikal"
+      ]
+    },
     {
       "id": "121",
       "date": "Jumat, 30 Juli 2021",
