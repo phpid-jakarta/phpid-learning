@@ -24,6 +24,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ## Daftar online learning
 
 
+- [#122 Cara Menjadi Affiliater Marketer Sukses](#cara-menjadi-affiliater-marketer-sukses)
 - [#121 Mari Mengenal Logika Fuzzy, Konsep & Implementasinya](#mari-mengenal-logika-fuzzy-konsep--implementasinya)
 - [#120 Spreadsheet Tips & Trick Untuk Umum dan Developer](#spreadsheet-tips--trick-untuk-umum-dan-developer)
 - [#119 Mager Entry Data - Tips Sesat untuk Pemalas](#mager-entry-data---tips-sesat-untuk-pemalas)
@@ -158,6 +159,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Kategori: empty
 - Deskripsi: -
 
+
+### Cara Menjadi Affiliater Marketer Sukses
+
+- Waktu: Selasa, 03 Agustus 2021
+- Pukul: 19:00
+- Pemateri: Fadhil Dzikri
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/2AF9cO2Kp
+- Sesi: 122
+- Kategori: marketer, affiliater, non-tehnikal
+- Deskripsi: empty
 
 ### Mari Mengenal Logika Fuzzy, Konsep & Implementasinya
 
