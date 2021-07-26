@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-07-25",
+    "last_updated": "2021-07-26",
     "total": 121,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -34,9 +34,9 @@ export default {
       "slide": "empty",
       "topic": "Spreadsheet Tips & Trick Untuk Umum dan Developer",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159343957791101/"
       ],
-      "registrasi": "https://fb.me/e/19KtztMMJ",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/120.jpg",
       "deskripsi": "empty",
       "tags": [
