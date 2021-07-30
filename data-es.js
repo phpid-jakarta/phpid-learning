@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-07-26",
+    "last_updated": "2021-07-30",
     "total": 122,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -17,7 +17,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/2AF9cO2Kp",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/122.jpg",
       "deskripsi": "empty",
       "tags": [
         "marketer",
