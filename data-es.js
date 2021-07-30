@@ -33,9 +33,9 @@ export default {
       "slide": "empty",
       "topic": "Mari Mengenal Logika Fuzzy, Konsep & Implementasinya",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159352831946101/"
       ],
-      "registrasi": "https://fb.me/e/487ZUjvON",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/121.jpg",
       "deskripsi": "empty",
       "tags": [
