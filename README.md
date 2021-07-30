@@ -23,7 +23,6 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
-
 - [#122 Cara Menjadi Affiliater Marketer Sukses](#cara-menjadi-affiliater-marketer-sukses)
 - [#121 Mari Mengenal Logika Fuzzy, Konsep & Implementasinya](#mari-mengenal-logika-fuzzy-konsep--implementasinya)
 - [#120 Spreadsheet Tips & Trick Untuk Umum dan Developer](#spreadsheet-tips--trick-untuk-umum-dan-developer)
