@@ -177,8 +177,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Achmad Solichin
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/487ZUjvON
+- Video: https://www.facebook.com/groups/phpid/posts/10159352831946101/
+- Registrasi: empty
 - Sesi: 121
 - Kategori: fuzzy, machine learning, ml, science
 - Deskripsi: empty
