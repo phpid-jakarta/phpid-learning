@@ -1,11 +1,29 @@
 export default {
   "meta": {
-    "last_updated": "2021-07-30",
-    "total": 122,
+    "last_updated": "2021-08-01",
+    "total": 123,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "123",
+      "date": "Selasa, 06 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Nur Hidayat",
+      "slide": "empty",
+      "topic": "Bikin Program Mulai Dari Mana?",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1DmUf2gy0",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "php",
+        "beginner"
+      ]
+    },
     {
       "id": "122",
       "date": "Selasa, 03 Agustus 2021",
