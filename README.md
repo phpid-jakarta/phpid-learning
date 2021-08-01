@@ -23,6 +23,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
+- [#123 Bikin Program Mulai Dari Mana?](#bikin-program-mulai-dari-mana)
 - [#122 Cara Menjadi Affiliater Marketer Sukses](#cara-menjadi-affiliater-marketer-sukses)
 - [#121 Mari Mengenal Logika Fuzzy, Konsep & Implementasinya](#mari-mengenal-logika-fuzzy-konsep--implementasinya)
 - [#120 Spreadsheet Tips & Trick Untuk Umum dan Developer](#spreadsheet-tips--trick-untuk-umum-dan-developer)
@@ -158,6 +159,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Kategori: empty
 - Deskripsi: -
 
+
+### Bikin Program Mulai Dari Mana?
+
+- Waktu: Selasa, 06 Agustus 2021
+- Pukul: 19:00
+- Pemateri: Nur Hidayat
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/1DmUf2gy0
+- Sesi: 123
+- Kategori: php, beginner
+- Deskripsi: empty
 
 ### Cara Menjadi Affiliater Marketer Sukses
 
