@@ -162,7 +162,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ### Bikin Program Mulai Dari Mana?
 
-- Waktu: Selasa, 06 Agustus 2021
+- Waktu: Jumat, 06 Agustus 2021
 - Pukul: 19:00
 - Pemateri: Nur Hidayat
 - Slide: empty
