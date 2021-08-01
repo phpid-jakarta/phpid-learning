@@ -8,7 +8,7 @@ export default {
   "data": [
     {
       "id": "123",
-      "date": "Selasa, 06 Agustus 2021",
+      "date": "Jumat, 06 Agustus 2021",
       "time": "19:00",
       "speaker": "Nur Hidayat",
       "slide": "empty",
