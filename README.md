@@ -178,8 +178,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Fadhil Dzikri
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2AF9cO2Kp
+- Video: https://www.facebook.com/groups/phpid/posts/10159362800441101/
+- Registrasi: empty
 - Sesi: 122
 - Kategori: marketer, affiliater, non-tehnikal
 - Deskripsi: empty
