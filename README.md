@@ -24,7 +24,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ## Daftar online learning
 
 - [#124 Technopreneur Kampung](#technopreneur-kampung)
-- [#123 Bikin Program Mulai Dari Mana?](#bikin-program-mulai-dari-mana)
+- [#123 Bingung Bikin Program Mulai Dari Mana?](#bingung-bikin-program-mulai-dari-mana)
 - [#122 Cara Menjadi Affiliater Marketer Sukses](#cara-menjadi-affiliater-marketer-sukses)
 - [#121 Mari Mengenal Logika Fuzzy, Konsep & Implementasinya](#mari-mengenal-logika-fuzzy-konsep--implementasinya)
 - [#120 Spreadsheet Tips & Trick Untuk Umum dan Developer](#spreadsheet-tips--trick-untuk-umum-dan-developer)
@@ -173,7 +173,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Kategori: technorpreneur
 - Deskripsi: empty
 
-### Bikin Program Mulai Dari Mana?
+### Bingung Bikin Program Mulai Dari Mana?
 
 - Waktu: Jumat, 06 Agustus 2021
 - Pukul: 19:00
