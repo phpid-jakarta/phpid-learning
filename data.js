@@ -20,7 +20,7 @@ module.exports = {
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/124.jpg",
       "deskripsi": "empty",
       "tags": [
-        "technorpreneur"
+        "technopreneur"
       ]
     },
     {
