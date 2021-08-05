@@ -160,7 +160,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Kategori: empty
 - Deskripsi: -
 
-###  Technopreneur Kampung
+### Technopreneur Kampung
 
 - Waktu: Selasa, 10 Agustus 2021
 - Pukul: 19:00
@@ -169,7 +169,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Video: empty
 - Registrasi: https://fb.me/e/11so0BS3P
 - Sesi: 124
-- Kategori: technorpreneur
+- Kategori: technopreneur
 - Deskripsi: empty
 
 ### Bingung Bikin Program Mulai Dari Mana?
