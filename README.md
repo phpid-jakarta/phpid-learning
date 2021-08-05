@@ -23,6 +23,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
+- [#124 Technopreneur Kampung](#technopreneur-kampung)
 - [#123 Bikin Program Mulai Dari Mana?](#bikin-program-mulai-dari-mana)
 - [#122 Cara Menjadi Affiliater Marketer Sukses](#cara-menjadi-affiliater-marketer-sukses)
 - [#121 Mari Mengenal Logika Fuzzy, Konsep & Implementasinya](#mari-mengenal-logika-fuzzy-konsep--implementasinya)
@@ -159,6 +160,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Kategori: empty
 - Deskripsi: -
 
+
+###  Technopreneur Kampung
+
+- Waktu: Selasa, 10 Agustus 2021
+- Pukul: 19:00
+- Pemateri: Stenly Cicero Takarendehang
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/11so0BS3P
+- Sesi: 124
+- Kategori: technorpreneur
+- Deskripsi: empty
 
 ### Bikin Program Mulai Dari Mana?
 
