@@ -1,18 +1,35 @@
 export default {
   "meta": {
-    "last_updated": "2021-08-04",
-    "total": 123,
+    "last_updated": "2021-08-05",
+    "total": 124,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
     {
+      "id": "124",
+      "date": "Selasa, 10 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Stenly Cicero Takarendehang",
+      "slide": "empty",
+      "topic": "Technopreneur Kampung",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/11so0BS3P",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/124.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "technorpreneur"
+      ]
+    },
+    {
       "id": "123",
       "date": "Jumat, 06 Agustus 2021",
-      "time": "19:00",
+      "time": "19:30",
       "speaker": "Nur Hidayat",
       "slide": "empty",
-      "topic": "Bikin Program Mulai Dari Mana?",
+      "topic": "Bingung Bikin Program Mulai Dari Mana?",
       "videos": [
         "empty"
       ],
