@@ -176,7 +176,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ### Bingung Bikin Program Mulai Dari Mana?
 
 - Waktu: Jumat, 06 Agustus 2021
-- Pukul: 19:00
+- Pukul: 19:30
 - Pemateri: Nur Hidayat
 - Slide: empty
 - Video: empty
