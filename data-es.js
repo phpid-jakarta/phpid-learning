@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-08-05",
+    "last_updated": "2021-08-06",
     "total": 124,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -31,9 +31,9 @@ export default {
       "slide": "empty",
       "topic": "Bingung Bikin Program Mulai Dari Mana?",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159369273306101/"
       ],
-      "registrasi": "https://fb.me/e/1DmUf2gy0",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/123.jpg",
       "deskripsi": "empty",
       "tags": [
