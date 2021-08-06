@@ -178,8 +178,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:30
 - Pemateri: Nur Hidayat
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1DmUf2gy0
+- Video: https://www.facebook.com/groups/phpid/posts/10159369273306101/
+- Registrasi: empty
 - Sesi: 123
 - Kategori: php, beginner
 - Deskripsi: empty
