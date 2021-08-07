@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-08-06",
+    "last_updated": "2021-08-07",
     "total": 124,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -25,13 +25,13 @@ module.exports = {
     },
     {
       "id": "123",
-      "date": "Jumat, 06 Agustus 2021",
+      "date": "Sabtu, 07 Agustus 2021",
       "time": "19:30",
       "speaker": "Nur Hidayat",
       "slide": "empty",
       "topic": "Bingung Bikin Program Mulai Dari Mana?",
       "videos": [
-        "https://www.facebook.com/groups/phpid/posts/10159369273306101/"
+        "https://www.facebook.com/groups/phpid/posts/10159371531086101/"
       ],
       "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/123.jpg",
