@@ -148,6 +148,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - [#2 Coder Journey to UI/UX Galaxy](#coder-journey-to-uiux-galaxy)
 - [#1 How to design a good database](#how-to-design-a-good-database)
 
+
 ### Template sesi selanjutnya
 
 - Waktu: Hari, XX Oktober 2021
