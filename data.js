@@ -1,11 +1,29 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-08-08",
-    "total": 124,
+    "last_updated": "2021-08-09",
+    "total": 125,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "125",
+      "date": "Jumat, 13 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Iskandar Soesman - Cofounder awan.io",
+      "slide": "empty",
+      "topic": "Kubernates for PHP Developer",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2pXwR9gux",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "kubernates",
+        "php"
+      ]
+    },
     {
       "id": "124",
       "date": "Selasa, 10 Agustus 2021",
