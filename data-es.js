@@ -17,7 +17,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/2pXwR9gux",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/125.jpg",
       "deskripsi": "empty",
       "tags": [
         "kubernates",
