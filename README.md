@@ -23,6 +23,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
+- [#125 Kubernates for PHP Developer](#kubernates-for-php-developer)
 - [#124 Technopreneur Kampung](#technopreneur-kampung)
 - [#123 Bingung Bikin Program Mulai Dari Mana?](#bingung-bikin-program-mulai-dari-mana)
 - [#122 Cara Menjadi Affiliater Marketer Sukses](#cara-menjadi-affiliater-marketer-sukses)
@@ -160,6 +161,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Sesi: 100
 - Kategori: empty
 - Deskripsi: -
+
+### Kubernates for PHP Developer
+
+- Waktu: Jumat, 13 Agustus 2021
+- Pukul: 19:00
+- Pemateri: Iskandar Soesman - Cofounder awan.io
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/2pXwR9gux
+- Sesi: 125
+- Kategori: kubernates, php
+- Deskripsi: empty
 
 ### Technopreneur Kampung
 
