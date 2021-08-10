@@ -16,7 +16,7 @@ module.exports = {
       "videos": [
         "empty"
       ],
-      "registrasi": "https://fb.me/e/2pXwR9gux",
+      "registrasi": "https://fb.me/e/1xDzp2KR2",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/126.jpg",
       "deskripsi": "empty",
       "tags": [
