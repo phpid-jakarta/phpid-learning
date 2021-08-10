@@ -1,11 +1,30 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-08-10",
-    "total": 125,
+    "total": 126,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "126",
+      "date": "Selasa, 17 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Harjito - Dosen Jurusan Kimia Universitas Negeri Semarang",
+      "slide": "empty",
+      "topic": "Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2pXwR9gux",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/126.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "ansible",
+        "sys-admin",
+        "dev-ops"
+      ]
+    },
     {
       "id": "125",
       "date": "Jumat, 13 Agustus 2021",
