@@ -23,6 +23,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
+
+- [#125 Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?](#Mengenal-ansible--kalau-bisa-dipersulit-kenapa-dipermudah)
 - [#125 Kubernates for PHP Developer](#kubernates-for-php-developer)
 - [#124 Technopreneur Kampung](#technopreneur-kampung)
 - [#123 Bingung Bikin Program Mulai Dari Mana?](#bingung-bikin-program-mulai-dari-mana)
@@ -161,6 +163,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Sesi: 100
 - Kategori: empty
 - Deskripsi: -
+
+### Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?
+
+- Waktu: Selasa, 17 Agustus 2021
+- Pukul: 19:00
+- Pemateri: Harjito - Dosen Jurusan Kimia Universitas Negeri Semarang 
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/2pXwR9gux
+- Sesi: 126
+- Kategori: ansible, sys-admin, dev-ops
+- Deskripsi: empty
 
 ### Kubernates for PHP Developer
 
