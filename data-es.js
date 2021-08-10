@@ -28,7 +28,7 @@ export default {
     {
       "id": "125",
       "date": "Jumat, 13 Agustus 2021",
-      "time": "19:00",
+      "time": "19:15",
       "speaker": "Iskandar Soesman - Cofounder awan.io",
       "slide": "empty",
       "topic": "Kubernates for PHP Developer",
