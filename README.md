@@ -24,7 +24,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ## Daftar online learning
 
 
-- [#125 Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?](#mengenal-ansible-kalau-bisa-dipersulit-kenapa-dipermudah)
+- [#126 Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?](#mengenal-ansible-kalau-bisa-dipersulit-kenapa-dipermudah)
 - [#125 Kubernates for PHP Developer](#kubernates-for-php-developer)
 - [#124 Technopreneur Kampung](#technopreneur-kampung)
 - [#123 Bingung Bikin Program Mulai Dari Mana?](#bingung-bikin-program-mulai-dari-mana)
@@ -160,7 +160,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 100
+- Sesi: 127
 - Kategori: empty
 - Deskripsi: -
 
@@ -179,7 +179,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ### Kubernates for PHP Developer
 
 - Waktu: Jumat, 13 Agustus 2021
-- Pukul: 19:00
+- Pukul: 19:15
 - Pemateri: Iskandar Soesman - Cofounder awan.io
 - Slide: empty
 - Video: empty
