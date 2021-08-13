@@ -195,8 +195,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:15
 - Pemateri: Iskandar Soesman - Cofounder awan.io
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2pXwR9gux
+- Video: https://www.facebook.com/groups/phpid/posts/10159383799806101/
+- Registrasi: empty
 - Sesi: 125
 - Kategori: kubernates, php
 - Deskripsi: empty
