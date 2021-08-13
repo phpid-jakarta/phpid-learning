@@ -24,6 +24,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ## Daftar online learning
 
 
+- [#127 Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha](#tips-pendirian-perusahaan-untuk-programmer-yang-ingin-berwirausaha)
 - [#126 Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?](#mengenal-ansible-kalau-bisa-dipersulit-kenapa-dipermudah)
 - [#125 Kubernates for PHP Developer](#kubernates-for-php-developer)
 - [#124 Technopreneur Kampung](#technopreneur-kampung)
