@@ -1,11 +1,28 @@
 export default {
   "meta": {
-    "last_updated": "2021-08-12",
-    "total": 126,
+    "last_updated": "2021-08-13",
+    "total": 127,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "127",
+      "date": "Jumat, 20 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Andoyo",
+      "slide": "empty",
+      "topic": "Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2kVLo2Mhv",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "entrepreneur"
+      ]
+    },
     {
       "id": "126",
       "date": "Selasa, 17 Agustus 2021",
