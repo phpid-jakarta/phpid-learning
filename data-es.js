@@ -50,9 +50,9 @@ export default {
       "slide": "empty",
       "topic": "Kubernates for PHP Developer",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159383799806101/"
       ],
-      "registrasi": "https://fb.me/e/2pXwR9gux",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/125.jpg",
       "deskripsi": "empty",
       "tags": [
