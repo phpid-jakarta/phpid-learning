@@ -164,6 +164,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Kategori: empty
 - Deskripsi: -
 
+### Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha 
+
+- Waktu: Jumat, 20 Agustus 2021
+- Pukul: 19:00
+- Pemateri: Andoyo
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/2kVLo2Mhv
+- Sesi: 127
+- Kategori: entrepreneur
+- Deskripsi: empty
+
 ### Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?
 
 - Waktu: Selasa, 17 Agustus 2021
