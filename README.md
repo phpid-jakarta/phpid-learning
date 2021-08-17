@@ -183,8 +183,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Harjito - Dosen Jurusan Kimia Universitas Negeri Semarang 
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1xDzp2KR2
+- Video: https://www.facebook.com/groups/phpid/posts/10159393340486101/
+- Registrasi: empty
 - Sesi: 126
 - Kategori: ansible, sys-admin, dev-ops
 - Deskripsi: empty
