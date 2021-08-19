@@ -1,11 +1,28 @@
 export default {
   "meta": {
-    "last_updated": "2021-08-17",
-    "total": 127,
+    "last_updated": "2021-08-19",
+    "total": 128,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "128",
+      "date": "Sabtu, 21 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Giri Suhardi - Head Udemy ID",
+      "slide": "empty",
+      "topic": "Kebutuhan Lifelong Learning & Top Skill di Masa Depan",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/33mRcrFb6",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "entrepreneur"
+      ]
+    },
     {
       "id": "127",
       "date": "Jumat, 20 Agustus 2021",
