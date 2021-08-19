@@ -17,7 +17,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/33mRcrFb6",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/128.jpg",
       "deskripsi": "empty",
       "tags": [
         "entrepreneur"
