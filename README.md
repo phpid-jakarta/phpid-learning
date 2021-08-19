@@ -24,6 +24,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ## Daftar online learning
 
 
+- [#128 Kebutuhan Lifelong Learning & Top Skill di Masa Depan](#kebutuhan-lifelong-learning--top-skill-di-masa-depan)
 - [#127 Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha](#tips-pendirian-perusahaan-untuk-programmer-yang-ingin-berwirausaha)
 - [#126 Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?](#mengenal-ansible-kalau-bisa-dipersulit-kenapa-dipermudah)
 - [#125 Kubernates for PHP Developer](#kubernates-for-php-developer)
@@ -164,6 +165,18 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Sesi: 127
 - Kategori: empty
 - Deskripsi: -
+
+### Kebutuhan Lifelong Learning & Top Skill di Masa Depan 
+
+- Waktu: Sabtu, 21 Agustus 2021
+- Pukul: 19:00
+- Pemateri: Giri Suhardi - Head Udemy ID
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/33mRcrFb6
+- Sesi: 128
+- Kategori: entrepreneur
+- Deskripsi: empty
 
 ### Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha 
 
