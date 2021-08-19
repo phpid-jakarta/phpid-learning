@@ -23,7 +23,6 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
-
 - [#128 Kebutuhan Lifelong Learning & Top Skill di Masa Depan](#kebutuhan-lifelong-learning--top-skill-di-masa-depan)
 - [#127 Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha](#tips-pendirian-perusahaan-untuk-programmer-yang-ingin-berwirausaha)
 - [#126 Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?](#mengenal-ansible-kalau-bisa-dipersulit-kenapa-dipermudah)
@@ -162,7 +161,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 127
+- Sesi: 128
 - Kategori: empty
 - Deskripsi: -
 
