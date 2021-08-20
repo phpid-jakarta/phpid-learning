@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-08-19",
+    "last_updated": "2021-08-20",
     "total": 128,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -31,9 +31,9 @@ export default {
       "slide": "empty",
       "topic": "Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159399553346101/"
       ],
-      "registrasi": "https://fb.me/e/2kVLo2Mhv",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/127.jpg",
       "deskripsi": "empty",
       "tags": [
