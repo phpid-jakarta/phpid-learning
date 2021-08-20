@@ -183,8 +183,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Pukul: 19:00
 - Pemateri: Andoyo
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2kVLo2Mhv
+- Video: https://www.facebook.com/groups/phpid/posts/10159399553346101/
+- Registrasi: empty
 - Sesi: 127
 - Kategori: entrepreneur
 - Deskripsi: empty
