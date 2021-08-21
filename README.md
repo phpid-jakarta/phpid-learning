@@ -23,6 +23,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
+- [#130 Mengenal Lebih Dalam SPARK](#mengenal-lebih-dalam-spark)
+- [#129 PHP Modernization with Microsoft Azure](#php-modernization-with-microsoft-azure)
 - [#128 Kebutuhan Lifelong Learning & Top Skill di Masa Depan](#kebutuhan-lifelong-learning--top-skill-di-masa-depan)
 - [#127 Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha](#tips-pendirian-perusahaan-untuk-programmer-yang-ingin-berwirausaha)
 - [#126 Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?](#mengenal-ansible-kalau-bisa-dipersulit-kenapa-dipermudah)
@@ -164,6 +166,31 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Sesi: 128
 - Kategori: empty
 - Deskripsi: -
+https://www.facebook.com/events/2569629216678854
+
+### Mengenal Lebih Dalam SPARK
+
+- Waktu: Jumat, 27 Agustus 2021
+- Pukul: 19:00
+- Pemateri: Firman Brilian
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/gXJhd7qDE
+- Sesi: 130
+- Kategori: python, spark
+- Deskripsi: empty
+
+### PHP Modernization with Microsoft Azure 
+
+- Waktu: Selasa, 24 Agustus 2021
+- Pukul: 19:00
+- Pemateri: Aprizon
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/17xUWLYzf
+- Sesi: 129
+- Kategori: learning, udemy
+- Deskripsi: empty
 
 ### Kebutuhan Lifelong Learning & Top Skill di Masa Depan 
 
