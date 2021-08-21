@@ -38,8 +38,8 @@ export default {
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/129.jpg",
       "deskripsi": "empty",
       "tags": [
-        "learning",
-        "udemy"
+        "azure",
+        "php"
       ]
     },
     {
@@ -50,13 +50,14 @@ export default {
       "slide": "empty",
       "topic": "Kebutuhan Lifelong Learning & Top Skill di Masa Depan",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159401277721101/"
       ],
-      "registrasi": "https://fb.me/e/33mRcrFb6",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/128.jpg",
       "deskripsi": "empty",
       "tags": [
-        "entrepreneur"
+        "learning",
+        "udemy"
       ]
     },
     {
