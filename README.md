@@ -190,7 +190,7 @@ https://www.facebook.com/events/2569629216678854
 - Video: empty
 - Registrasi: https://fb.me/e/17xUWLYzf
 - Sesi: 129
-- Kategori: learning, udemy
+- Kategori: azure, php
 - Deskripsi: empty
 
 ### Kebutuhan Lifelong Learning & Top Skill di Masa Depan 
@@ -199,10 +199,10 @@ https://www.facebook.com/events/2569629216678854
 - Pukul: 19:00
 - Pemateri: Giri Suhardi - Head Udemy ID
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/33mRcrFb6
+- Video: https://www.facebook.com/groups/phpid/posts/10159401277721101/
+- Registrasi: empty
 - Sesi: 128
-- Kategori: entrepreneur
+- Kategori: learning, udemy
 - Deskripsi: empty
 
 ### Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha 
