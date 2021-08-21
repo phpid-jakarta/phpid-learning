@@ -1,11 +1,47 @@
 export default {
   "meta": {
     "last_updated": "2021-08-21",
-    "total": 128,
+    "total": 130,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "130",
+      "date": "Jumat, 27 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Firman Brilian",
+      "slide": "empty",
+      "topic": "Mengenal Lebih Dalam SPARK",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/gXJhd7qDE",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/130.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "python",
+        "spark"
+      ]
+    },
+    {
+      "id": "129",
+      "date": "Selasa, 24 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Aprizon",
+      "slide": "empty",
+      "topic": "PHP Modernization with Microsoft Azure",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/17xUWLYzf",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/129.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "learning",
+        "udemy"
+      ]
+    },
     {
       "id": "128",
       "date": "Sabtu, 21 Agustus 2021",
