@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-08-21",
+    "last_updated": "2021-08-24",
     "total": 130,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -32,9 +32,9 @@ export default {
       "slide": "empty",
       "topic": "PHP Modernization with Microsoft Azure",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159407055476101/"
       ],
-      "registrasi": "https://fb.me/e/17xUWLYzf",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/129.jpg",
       "deskripsi": "empty",
       "tags": [
