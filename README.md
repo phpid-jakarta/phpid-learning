@@ -187,8 +187,8 @@ https://www.facebook.com/events/2569629216678854
 - Pukul: 19:00
 - Pemateri: Aprizon
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/17xUWLYzf
+- Video: https://www.facebook.com/groups/phpid/posts/10159407055476101/
+- Registrasi: empty
 - Sesi: 129
 - Kategori: azure, php
 - Deskripsi: empty
