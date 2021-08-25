@@ -24,7 +24,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ## Daftar online learning
 
 
-- [#130 Mengenal Lebih Dalam SPARK](#mengenal-lebih-dalam-spark)
+- [#130 Data Analyst USE KNIME](#data-analyst-use-knime)
 - [#129 PHP Modernization with Microsoft Azure](#php-modernization-with-microsoft-azure)
 - [#128 Kebutuhan Lifelong Learning & Top Skill di Masa Depan](#kebutuhan-lifelong-learning--top-skill-di-masa-depan)
 - [#127 Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha](#tips-pendirian-perusahaan-untuk-programmer-yang-ingin-berwirausaha)
@@ -169,7 +169,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Deskripsi: -
 https://www.facebook.com/events/2569629216678854
 
-### Mengenal Lebih Dalam SPARK
+### Data Analyst USE KNIME
 
 - Waktu: Jumat, 27 Agustus 2021
 - Pukul: 19:00
