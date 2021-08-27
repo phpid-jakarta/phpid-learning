@@ -188,8 +188,8 @@ https://www.facebook.com/events/2569629216678854
 - Pukul: 19:00
 - Pemateri: Firman Brilian
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/gXJhd7qDE
+- Video: https://www.facebook.com/groups/phpid/posts/10159412574056101/
+- Registrasi: empty
 - Sesi: 130
 - Kategori: python, spark
 - Deskripsi: empty
