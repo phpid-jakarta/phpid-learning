@@ -1,11 +1,29 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-08-25",
-    "total": 130,
+    "last_updated": "2021-08-27",
+    "total": 131,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "131",
+      "date": "Selasa, 31 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Darsono",
+      "slide": "empty",
+      "topic": "Sekelumit Seluk-Beluk IT di dunia Manufakturing",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/7BRlKeNcv",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "manufacture",
+        "it"
+      ]
+    },
     {
       "id": "130",
       "date": "Jumat, 27 Agustus 2021",
