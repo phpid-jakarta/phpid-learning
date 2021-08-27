@@ -32,9 +32,9 @@ export default {
       "slide": "empty",
       "topic": "Data Analyst USE KNIME",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159412574056101/"
       ],
-      "registrasi": "https://fb.me/e/gXJhd7qDE",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/130.jpg",
       "deskripsi": "empty",
       "tags": [
