@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-08-27",
+    "last_updated": "2021-08-31",
     "total": 131,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -17,7 +17,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/7BRlKeNcv",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/131.jpg",
       "deskripsi": "empty",
       "tags": [
         "manufacture",
