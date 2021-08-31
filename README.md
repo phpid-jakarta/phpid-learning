@@ -24,6 +24,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ## Daftar online learning
 
 
+- [#BEYOND DEVELOPER](#beyond-developer)
+- [#BISNIS TEKNOLOGI UNTUK STARTUP](#bisnis-teknologi-untuk-startup)
 - [#Sekelumit Seluk-Beluk IT di dunia Manufakturing](#sekelumit-seluk-beluk-it-di-dunia-manufakturing)
 - [#130 Data Analyst USE KNIME](#data-analyst-use-knime)
 - [#129 PHP Modernization with Microsoft Azure](#php-modernization-with-microsoft-azure)
@@ -167,8 +169,31 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - Registrasi: empty
 - Sesi: 128
 - Kategori: empty
-- Deskripsi: -
-https://www.facebook.com/events/2569629216678854
+- Deskripsi: - 
+
+### BEYOND DEVELOPER
+
+- Waktu: Selasa, 31 Agustus 2021
+- Pukul: 19:00
+- Pemateri: Dondy Bappedyanto - CEO Biznet Gio/Neo 
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/1OF2UFCce
+- Sesi: 133
+- Kategori: startup, itpreneur, bisnis
+- Deskripsi: empty
+
+### BISNIS TEKNOLOGI UNTUK STARTUP
+
+- Waktu: Selasa, 31 Agustus 2021
+- Pukul: 19:00
+- Pemateri: Rendy Maulana - CEO QWORDS Indonesia
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/14wRHGecb
+- Sesi: 132
+- Kategori: startup, itpreneur, bisnis
+- Deskripsi: empty
 
 ### Sekelumit Seluk-Beluk IT di dunia Manufakturing
 
