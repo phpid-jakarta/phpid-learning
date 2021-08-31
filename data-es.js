@@ -14,9 +14,9 @@ export default {
       "slide": "empty",
       "topic": "Sekelumit Seluk-Beluk IT di dunia Manufakturing",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159420496541101"
       ],
-      "registrasi": "https://fb.me/e/7BRlKeNcv",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/131.jpg",
       "deskripsi": "empty",
       "tags": [
