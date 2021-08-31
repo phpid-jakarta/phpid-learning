@@ -25,9 +25,9 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ### 2021
 
-- [#BEYOND DEVELOPER](data/2021/#beyond-developer)
-- [#BISNIS TEKNOLOGI UNTUK STARTUP](data/2021/#bisnis-teknologi-untuk-startup)
-- [#Sekelumit Seluk-Beluk IT di dunia Manufakturing](data/2021/#sekelumit-seluk-beluk-it-di-dunia-manufakturing)
+- [#133 BEYOND DEVELOPER](data/2021/#beyond-developer)
+- [#132 BISNIS TEKNOLOGI UNTUK STARTUP](data/2021/#bisnis-teknologi-untuk-startup)
+- [#131 Sekelumit Seluk-Beluk IT di dunia Manufakturing](data/2021/#sekelumit-seluk-beluk-it-di-dunia-manufakturing)
 - [#130 Data Analyst USE KNIME](data/2021/#data-analyst-use-knime)
 - [#129 PHP Modernization with Microsoft Azure](data/2021/#php-modernization-with-microsoft-azure)
 - [#128 Kebutuhan Lifelong Learning & Top Skill di Masa Depan](data/2021/#kebutuhan-lifelong-learning--top-skill-di-masa-depan)
