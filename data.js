@@ -1,11 +1,49 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-08-31",
-    "total": 131,
+    "total": 133,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "133",
+      "date": "Selasa, 31 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Dondy Bappedyanto - CEO Biznet Gio/Neo",
+      "slide": "empty",
+      "topic": "BEYOND DEVELOPER",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1OF2UFCce",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/133.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "startup",
+        "itpreneur",
+        "bisnis"
+      ]
+    },
+    {
+      "id": "132",
+      "date": "Selasa, 31 Agustus 2021",
+      "time": "19:00",
+      "speaker": "Rendy Maulana - CEO QWORDS Indonesia",
+      "slide": "empty",
+      "topic": "BISNIS TEKNOLOGI UNTUK STARTUP",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/14wRHGecb",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/132.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "startup",
+        "itpreneur",
+        "bisnis"
+      ]
+    },
     {
       "id": "131",
       "date": "Selasa, 31 Agustus 2021",
