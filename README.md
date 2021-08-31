@@ -176,7 +176,7 @@ https://www.facebook.com/events/2569629216678854
 - Pukul: 19:00
 - Pemateri: Darsono
 - Slide: empty
-- Video: empty
+- Video: https://www.facebook.com/groups/phpid/posts/10159420496541101
 - Registrasi: https://fb.me/e/7BRlKeNcv
 - Sesi: 131
 - Kategori: manufacture, it
