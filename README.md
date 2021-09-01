@@ -23,6 +23,9 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ## Daftar online learning
 
+- [⬇️ 2021](#2021)
+- [⬇️ 2020](#2020)
+
 ### 2021
 
 - [#133 BEYOND DEVELOPER](data/2021/#beyond-developer)
@@ -110,6 +113,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - [#51 Amazon Simple Storage Service (S3) For PHP Developer](data/2021/#amazon-simple-storage-service-s3-for-php-developer)
 - [#50 PHP Native Series: PDO & MySQL](data/2021/#php-native-series-pdo--mysql)
 
+[⬆️ Kembali ke daftar](#daftar-online-learning)
+
 ### 2020
 
 - [#49 Static Wordpress Hosting dengan S3 dan CloudFront](data/2020/#static-wordpress-hosting-dengan-s3-dan-cloudfront)
@@ -161,6 +166,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 - [#3 SEO Basic](data/2020/#seo-basic)
 - [#2 Coder Journey to UI/UX Galaxy](data/2020/#coder-journey-to-uiux-galaxy)
 - [#1 How to design a good database](data/2020/#how-to-design-a-good-database)
+
+[⬆️ Kembali ke daftar](#daftar-online-learning)
 
 ---
 
