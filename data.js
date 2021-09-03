@@ -8,9 +8,9 @@ module.exports = {
   "data": [
     {
       "id": "133",
-      "date": "Selasa, 31 Agustus 2021",
+      "date": "Selasa, 7 September 2021",
       "time": "19:00",
-      "dateTime": "2021-08-31 19:00:00 +07:00",
+      "dateTime": "2021-09-07 19:00:00 +07:00",
       "speaker": "Dondy Bappedyanto - CEO Biznet Gio/Neo",
       "slide": "empty",
       "topic": "BEYOND DEVELOPER",
@@ -28,9 +28,9 @@ module.exports = {
     },
     {
       "id": "132",
-      "date": "Selasa, 31 Agustus 2021",
+      "date": "Selasa, 3 September 2021",
       "time": "19:00",
-      "dateTime": "2021-08-31 19:00:00 +07:00",
+      "dateTime": "2021-09-03 19:00:00 +07:00",
       "speaker": "Rendy Maulana - CEO QWORDS Indonesia",
       "slide": "empty",
       "topic": "BISNIS TEKNOLOGI UNTUK STARTUP",
