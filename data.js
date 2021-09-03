@@ -35,7 +35,7 @@ module.exports = {
       "slide": "empty",
       "topic": "BISNIS TEKNOLOGI UNTUK STARTUP",
       "videos": [
-        "https://www.facebook.com/groups/phpid/posts/10159427243316101"
+        "https://tbp.my.id/?phpidol-132"
       ],
       "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/132.jpg",
