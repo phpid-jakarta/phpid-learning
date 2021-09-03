@@ -16,7 +16,7 @@
 
 ### BEYOND DEVELOPER
 
-- Waktu: Selasa, 31 Agustus 2021
+- Waktu: Selasa, 7 September 2021
 - Pukul: 19:00
 - Pemateri: Dondy Bappedyanto - CEO Biznet Gio/Neo
 - Slide: empty
@@ -28,7 +28,7 @@
 
 ### BISNIS TEKNOLOGI UNTUK STARTUP
 
-- Waktu: Selasa, 31 Agustus 2021
+- Waktu: Selasa, 3 September 2021
 - Pukul: 19:00
 - Pemateri: Rendy Maulana - CEO QWORDS Indonesia
 - Slide: empty
