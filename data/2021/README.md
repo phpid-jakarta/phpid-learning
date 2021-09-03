@@ -28,7 +28,7 @@
 
 ### BISNIS TEKNOLOGI UNTUK STARTUP
 
-- Waktu: Selasa, 3 September 2021
+- Waktu: Jumat, 3 September 2021
 - Pukul: 19:00
 - Pemateri: Rendy Maulana - CEO QWORDS Indonesia
 - Slide: empty
