@@ -28,7 +28,7 @@ export default {
     },
     {
       "id": "132",
-      "date": "Selasa, 3 September 2021",
+      "date": "Jumat, 3 September 2021",
       "time": "19:00",
       "dateTime": "2021-09-03 19:00:00 +07:00",
       "speaker": "Rendy Maulana - CEO QWORDS Indonesia",
