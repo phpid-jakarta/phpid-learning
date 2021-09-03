@@ -32,8 +32,8 @@
 - Pukul: 19:00
 - Pemateri: Rendy Maulana - CEO QWORDS Indonesia
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/14wRHGecb
+- Video: https://www.facebook.com/groups/phpid/posts/10159427243316101
+- Registrasi: empty
 - Sesi: 132
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
