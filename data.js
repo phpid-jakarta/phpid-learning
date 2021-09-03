@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-09-01",
+    "last_updated": "2021-09-03",
     "total": 133,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -35,9 +35,9 @@ module.exports = {
       "slide": "empty",
       "topic": "BISNIS TEKNOLOGI UNTUK STARTUP",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159427243316101"
       ],
-      "registrasi": "https://fb.me/e/14wRHGecb",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/132.jpg",
       "deskripsi": "empty",
       "tags": [
