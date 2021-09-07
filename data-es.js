@@ -1,11 +1,51 @@
 export default {
   "meta": {
     "last_updated": "2021-09-07",
-    "total": 133,
+    "total": 135,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "136",
+      "date": "Selasa, 17 September 2021",
+      "time": "19:00",
+      "dateTime": "2021-09-17 19:00:00 +07:00",
+      "speaker": "Norman Sasono",
+      "slide": "empty",
+      "topic": "BEING BETTER ENGINEERS WINNING AS SOFTWARE ENGINEERS",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/4MrK74t2d",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "startup",
+        "itpreneur",
+        "bisnis"
+      ]
+    },
+    {
+      "id": "134",
+      "date": "Selasa, 10 September 2021",
+      "time": "19:00",
+      "dateTime": "2021-09-10 19:00:00 +07:00",
+      "speaker": "Rendra Toro",
+      "slide": "empty",
+      "topic": "MY JOURNEY FROM 'COPAS' DEVELOPER TO CTO",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1Nl6NzWxs",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/134.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "startup",
+        "itpreneur",
+        "bisnis"
+      ]
+    },
     {
       "id": "133",
       "date": "Selasa, 7 September 2021",
