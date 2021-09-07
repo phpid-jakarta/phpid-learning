@@ -14,6 +14,30 @@
 - Kategori: empty
 - Deskripsi: -
 
+### BEING BETTER ENGINEERS WINNING AS SOFTWARE ENGINEERS
+
+- Waktu: Selasa, 17 September 2021
+- Pukul: 19:00
+- Pemateri: Norman Sasono
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/4MrK74t2d
+- Sesi: 136
+- Kategori: startup, itpreneur, bisnis
+- Deskripsi: empty
+
+### MY JOURNEY FROM 'COPAS' DEVELOPER TO CTO
+
+- Waktu: Selasa, 10 September 2021
+- Pukul: 19:00
+- Pemateri: Rendra Toro
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/1Nl6NzWxs
+- Sesi: 134
+- Kategori: startup, itpreneur, bisnis
+- Deskripsi: empty
+
 ### BEYOND DEVELOPER
 
 - Waktu: Selasa, 7 September 2021
