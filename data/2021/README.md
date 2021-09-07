@@ -56,7 +56,7 @@
 - Pukul: 19:00
 - Pemateri: Dondy Bappedyanto - CEO Biznet Gio/Neo
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/posts/10159434824751101/
+- Video: https://tbp.my.id/?phpidol-133
 - Registrasi: empty
 - Sesi: 133
 - Kategori: startup, itpreneur, bisnis
