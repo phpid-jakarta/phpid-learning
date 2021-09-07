@@ -16,7 +16,7 @@
 
 ### BEING BETTER ENGINEERS WINNING AS SOFTWARE ENGINEERS
 
-- Waktu: Selasa, 17 September 2021
+- Waktu: Jumat, 17 September 2021
 - Pukul: 19:00
 - Pemateri: Norman Sasono
 - Slide: empty
@@ -26,9 +26,21 @@
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
 
+### THE ART OF PRICING: PROJECT vs PRODUCT
+
+- Waktu: Selasa, 14 September 2021
+- Pukul: 19:00
+- Pemateri: Arga Dinata
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/1FNhboxVG
+- Sesi: 136
+- Kategori: startup, itpreneur, bisnis
+- Deskripsi: empty
+
 ### MY JOURNEY FROM 'COPAS' DEVELOPER TO CTO
 
-- Waktu: Selasa, 10 September 2021
+- Waktu: Jumat, 10 September 2021
 - Pukul: 19:00
 - Pemateri: Rendra Toro
 - Slide: empty
