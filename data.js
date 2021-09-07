@@ -1,14 +1,14 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-09-07",
-    "total": 135,
+    "total": 136,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
     {
       "id": "136",
-      "date": "Selasa, 17 September 2021",
+      "date": "Jumat, 17 September 2021",
       "time": "19:00",
       "dateTime": "2021-09-17 19:00:00 +07:00",
       "speaker": "Norman Sasono",
@@ -27,8 +27,28 @@ module.exports = {
       ]
     },
     {
+      "id": "136",
+      "date": "Selasa, 14 September 2021",
+      "time": "19:00",
+      "dateTime": "2021-09-14 19:00:00 +07:00",
+      "speaker": "Arga Dinata",
+      "slide": "empty",
+      "topic": "THE ART OF PRICING: PROJECT vs PRODUCT",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1FNhboxVG",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "startup",
+        "itpreneur",
+        "bisnis"
+      ]
+    },
+    {
       "id": "134",
-      "date": "Selasa, 10 September 2021",
+      "date": "Jumat, 10 September 2021",
       "time": "19:00",
       "dateTime": "2021-09-10 19:00:00 +07:00",
       "speaker": "Rendra Toro",
