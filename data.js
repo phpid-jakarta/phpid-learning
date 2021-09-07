@@ -75,9 +75,9 @@ module.exports = {
       "slide": "empty",
       "topic": "BEYOND DEVELOPER",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159434824751101/"
       ],
-      "registrasi": "https://fb.me/e/1OF2UFCce",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/133.jpg",
       "deskripsi": "empty",
       "tags": [
