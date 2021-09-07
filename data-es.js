@@ -18,7 +18,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/4MrK74t2d",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/136.jpg",
       "deskripsi": "empty",
       "tags": [
         "startup",
@@ -38,7 +38,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1FNhboxVG",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/136.jpg",
       "deskripsi": "empty",
       "tags": [
         "startup",
