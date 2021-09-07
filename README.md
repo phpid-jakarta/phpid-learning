@@ -28,6 +28,8 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ### 2021
 
+- [#136 BEING BETTER ENGINEERS WINNING AS SOFTWARE ENGINEERS](data/2021/#being-better-engineers-winning-as-software-engineers)
+- [#134 MY JOURNEY FROM 'COPAS' DEVELOPER TO CTO](data/2021/#my-journey-from-copas-developer-to-cto)
 - [#133 BEYOND DEVELOPER](data/2021/#beyond-developer)
 - [#132 BISNIS TEKNOLOGI UNTUK STARTUP](data/2021/#bisnis-teknologi-untuk-startup)
 - [#131 Sekelumit Seluk-Beluk IT di dunia Manufakturing](data/2021/#sekelumit-seluk-beluk-it-di-dunia-manufakturing)
