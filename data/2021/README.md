@@ -44,8 +44,8 @@
 - Pukul: 19:00
 - Pemateri: Rendra Toro
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1Nl6NzWxs
+- Video: https://www.facebook.com/groups/phpid/posts/10159440323176101/
+- Registrasi: empty
 - Sesi: 134
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
