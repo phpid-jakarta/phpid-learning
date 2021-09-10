@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-09-08",
+    "last_updated": "2021-09-10",
     "total": 136,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -55,9 +55,9 @@ module.exports = {
       "slide": "empty",
       "topic": "MY JOURNEY FROM 'COPAS' DEVELOPER TO CTO",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159440323176101/"
       ],
-      "registrasi": "https://fb.me/e/1Nl6NzWxs",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/134.jpg",
       "deskripsi": "empty",
       "tags": [
