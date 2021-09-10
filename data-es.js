@@ -55,7 +55,7 @@ export default {
       "slide": "empty",
       "topic": "MY JOURNEY FROM 'COPAS' DEVELOPER TO CTO",
       "videos": [
-        "https://www.facebook.com/groups/phpid/posts/10159440323176101/"
+        "https://tbp.my.id/?phpidol-134"
       ],
       "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/134.jpg",
