@@ -32,7 +32,7 @@
 - Pukul: 19:00
 - Pemateri: Arga Dinata
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/posts/10159448050816101/
+- Video: https://tbp.my.id/?phpidol-135
 - Registrasi: empty
 - Sesi: 135
 - Kategori: startup, itpreneur, bisnis
