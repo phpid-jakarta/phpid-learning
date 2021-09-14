@@ -32,8 +32,8 @@
 - Pukul: 19:00
 - Pemateri: Arga Dinata
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1FNhboxVG
+- Video: https://www.facebook.com/groups/phpid/posts/10159448050816101/
+- Registrasi: empty
 - Sesi: 135
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
