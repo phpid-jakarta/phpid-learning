@@ -35,9 +35,9 @@ export default {
       "slide": "empty",
       "topic": "THE ART OF PRICING: PROJECT vs PRODUCT",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159448050816101/"
       ],
-      "registrasi": "https://fb.me/e/1FNhboxVG",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/135.jpg",
       "deskripsi": "empty",
       "tags": [
