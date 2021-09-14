@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-09-10",
+    "last_updated": "2021-09-14",
     "total": 136,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -27,7 +27,7 @@ module.exports = {
       ]
     },
     {
-      "id": "136",
+      "id": "135",
       "date": "Selasa, 14 September 2021",
       "time": "19:00",
       "dateTime": "2021-09-14 19:00:00 +07:00",
@@ -38,7 +38,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1FNhboxVG",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/136.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/135.jpg",
       "deskripsi": "empty",
       "tags": [
         "startup",
