@@ -34,7 +34,7 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/1FNhboxVG
-- Sesi: 136
+- Sesi: 135
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
 
