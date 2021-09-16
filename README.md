@@ -28,7 +28,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ### 2021
 
-- [#137 Career Hack: From PHP Developer to CEO (Reinvented)](data/2021/#career-hack-from-php-developer-to-ceo-reinvented)
+- [#137 CAREER HACK: FROM PHP DEVELOPER TO CEO (Reinvented)](data/2021/#career-hack-from-php-developer-to-ceo-reinvented)
 - [#136 BEING BETTER ENGINEERS WINNING AS SOFTWARE ENGINEERS](data/2021/#being-better-engineers-winning-as-software-engineers)
 - [#135 THE ART OF PRICING: PROJECT vs PRODUCT](data/2021/#the-art-of-pricing-project-vs-product)
 - [#134 MY JOURNEY FROM 'COPAS' DEVELOPER TO CTO](data/2021/#my-journey-from-copas-developer-to-cto)
