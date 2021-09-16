@@ -1,11 +1,31 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-09-14",
-    "total": 136,
+    "last_updated": "2021-09-16",
+    "total": 137,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "137",
+      "date": "Selasa, 21 September 2021",
+      "time": "19:00",
+      "dateTime": "2021-09-21 19:00:00 +07:00",
+      "speaker": "Ade Syah Lubis",
+      "slide": "empty",
+      "topic": "Career Hack: From PHP Developer to CEO (Reinvented)",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/7kHRZokfx",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "startup",
+        "itpreneur",
+        "bisnis"
+      ]
+    },
     {
       "id": "136",
       "date": "Jumat, 17 September 2021",
