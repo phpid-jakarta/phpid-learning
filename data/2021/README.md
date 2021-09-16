@@ -14,6 +14,18 @@
 - Kategori: empty
 - Deskripsi: -
 
+### Career Hack: From PHP Developer to CEO (Reinvented)
+
+- Waktu: Selasa, 21 September 2021
+- Pukul: 19:00
+- Pemateri: Ade Syah Lubis
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/7kHRZokfx
+- Sesi: 137
+- Kategori: startup, itpreneur, bisnis
+- Deskripsi: empty
+
 ### BEING BETTER ENGINEERS WINNING AS SOFTWARE ENGINEERS
 
 - Waktu: Jumat, 17 September 2021
