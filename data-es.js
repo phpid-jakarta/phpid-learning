@@ -13,7 +13,7 @@ export default {
       "dateTime": "2021-09-21 19:00:00 +07:00",
       "speaker": "Ade Syah Lubis",
       "slide": "empty",
-      "topic": "Career Hack: From PHP Developer to CEO (Reinvented)",
+      "topic": "CAREER HACK: FROM PHP DEVELOPER TO CEO (Reinvented)",
       "videos": [
         "empty"
       ],
