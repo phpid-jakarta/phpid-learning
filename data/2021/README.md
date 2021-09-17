@@ -32,7 +32,7 @@
 - Pukul: 19:00
 - Pemateri: Norman Sasono
 - Slide: empty
-- Video: https://www.facebook.com/groups/phpid/posts/10159453603796101
+- Video: https://tbp.my.id/?phpidol-136 
 - Registrasi: empty
 - Sesi: 136
 - Kategori: startup, itpreneur, bisnis
