@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-09-16",
+    "last_updated": "2021-09-17",
     "total": 137,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -35,9 +35,9 @@ module.exports = {
       "slide": "empty",
       "topic": "BEING BETTER ENGINEERS WINNING AS SOFTWARE ENGINEERS",
       "videos": [
-        "empty"
+        "https://www.facebook.com/groups/phpid/posts/10159453603796101"
       ],
-      "registrasi": "https://fb.me/e/4MrK74t2d",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/136.jpg",
       "deskripsi": "empty",
       "tags": [
