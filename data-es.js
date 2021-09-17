@@ -35,7 +35,7 @@ export default {
       "slide": "empty",
       "topic": "BEING BETTER ENGINEERS WINNING AS SOFTWARE ENGINEERS",
       "videos": [
-        "https://www.facebook.com/groups/phpid/posts/10159453603796101"
+        "https://tbp.my.id/?phpidol-136"
       ],
       "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/136.jpg",
