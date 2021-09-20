@@ -14,6 +14,18 @@
 - Kategori: empty
 - Deskripsi: -
 
+### JENIS-JENIS KONTEN MARKETING UNTUK MENINGKATKAN TRAFFIC
+
+- Waktu: Jumat, 24 September 2021
+- Pukul: 19:00
+- Pemateri: Zeembry Neo
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/5skqbKyn6
+- Sesi: 138
+- Kategori: startup, itpreneur, bisnis
+- Deskripsi: empty
+
 ### CAREER HACK: FROM PHP DEVELOPER TO CEO (Reinvented)
 
 - Waktu: Selasa, 21 September 2021
