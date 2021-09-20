@@ -1,11 +1,31 @@
 export default {
   "meta": {
     "last_updated": "2021-09-20",
-    "total": 137,
+    "total": 138,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "138",
+      "date": "Jumat, 24 September 2021",
+      "time": "19:00",
+      "dateTime": "2021-09-24 19:00:00 +07:00",
+      "speaker": "Zeembry Neo",
+      "slide": "empty",
+      "topic": "JENIS-JENIS KONTEN MARKETING UNTUK MENINGKATKAN TRAFFIC",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/5skqbKyn6",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/138.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "startup",
+        "itpreneur",
+        "bisnis"
+      ]
+    },
     {
       "id": "137",
       "date": "Selasa, 21 September 2021",
