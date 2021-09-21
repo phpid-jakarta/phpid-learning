@@ -28,6 +28,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ### 2021
 
+- [#139 HIJRAH APLIKASI AKUNTING KE SAAS. MODEL BISNIS MASA DEPAN](data/2021/#hijrah-aplikasi-akunting-ke-saas-model-bisnis-masa-depan)
 - [#138 JENIS-JENIS KONTEN MARKETING UNTUK MENINGKATKAN TRAFFIC](data/2021/#jenis-jenis-konten-marketing-untuk-meningkatkan-traffic)
 - [#137 CAREER HACK: FROM PHP DEVELOPER TO CEO (Reinvented)](data/2021/#career-hack-from-php-developer-to-ceo-reinvented)
 - [#136 BEING BETTER ENGINEERS WINNING AS SOFTWARE ENGINEERS](data/2021/#being-better-engineers-winning-as-software-engineers)
