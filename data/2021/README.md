@@ -44,8 +44,8 @@
 - Pukul: 19:00
 - Pemateri: Ade Syah Lubis
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/7kHRZokfx
+- Video: https://tbp.my.id/?phpidol-137
+- Registrasi: empty
 - Sesi: 137
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
