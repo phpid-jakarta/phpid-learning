@@ -1,11 +1,31 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-09-20",
-    "total": 138,
+    "last_updated": "2021-09-21",
+    "total": 139,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "139",
+      "date": "Selasa, 28 September 2021",
+      "time": "19:00",
+      "dateTime": "2021-09-28 19:00:00 +07:00",
+      "speaker": "David Yulianto",
+      "slide": "empty",
+      "topic": "HIJRAH APLIKASI AKUNTING KE SAAS. MODEL BISNIS MASA DEPAN",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/4AAuEAlPU",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "startup",
+        "itpreneur",
+        "bisnis"
+      ]
+    },
     {
       "id": "138",
       "date": "Jumat, 24 September 2021",
