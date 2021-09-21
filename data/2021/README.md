@@ -14,6 +14,18 @@
 - Kategori: empty
 - Deskripsi: -
 
+### HIJRAH APLIKASI AKUNTING KE SAAS. MODEL BISNIS MASA DEPAN
+
+- Waktu: Selasa, 28 September 2021
+- Pukul: 19:00
+- Pemateri: David Yulianto
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/4AAuEAlPU
+- Sesi: 139
+- Kategori: startup, itpreneur, bisnis
+- Deskripsi: empty
+
 ### JENIS-JENIS KONTEN MARKETING UNTUK MENINGKATKAN TRAFFIC
 
 - Waktu: Jumat, 24 September 2021
