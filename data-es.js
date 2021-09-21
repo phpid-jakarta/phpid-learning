@@ -55,9 +55,9 @@ export default {
       "slide": "empty",
       "topic": "CAREER HACK: FROM PHP DEVELOPER TO CEO (Reinvented)",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-137"
       ],
-      "registrasi": "https://fb.me/e/7kHRZokfx",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/137.jpg",
       "deskripsi": "empty",
       "tags": [
