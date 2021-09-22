@@ -1,6 +1,6 @@
 # Belajar daring bersama PHPID
 
-![PHPID](https://img.shields.io/badge/PHPID-Community-blue?cacheSeconds=604800) ![Contribution](https://img.shields.io/badge/Contributions-Welcome-green.svg?cacheSeconds=604800) [![Build UI for Netlify](https://github.com/phpid-jakarta/phpid-learning/actions/workflows/build-ui-netlify.yml/badge.svg)](https://github.com/phpid-jakarta/phpid-learning/actions/workflows/build-ui-netlify.yml)
+![PHPID](https://img.shields.io/badge/PHPID-Community-blue?cacheSeconds=604800) ![Contribution](https://img.shields.io/badge/Contributions-Welcome-BrightGreen.svg?cacheSeconds=604800) [![Build UI for Netlify](https://github.com/phpid-jakarta/phpid-learning/actions/workflows/build-ui-netlify.yml/badge.svg)](https://github.com/phpid-jakarta/phpid-learning/actions/workflows/build-ui-netlify.yml)
 
 [![Belajar daring bersama PHPID](static/phpid-learning-logo-small.jpg)](https://s.byphp.id/learning)
 
