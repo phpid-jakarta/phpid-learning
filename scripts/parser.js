@@ -1,19 +1,21 @@
-const dayjs = require('dayjs')
-require('dayjs/locale/id')
-const customParseFormat = require('dayjs/plugin/customParseFormat')
 
-dayjs.extend(customParseFormat)
-dayjs.locale('id')
 
-const {
+import dayjs from 'dayjs'
+import customParseFormat from 'dayjs/plugin/customParseFormat.js'
+
+import {
   getAllReadmeFiles,
   getAllSectionsData,
   getContent,
   getCoverUrl,
   constant
-} = require('./utils')
+} from './utils.js'
 
-const parseReadmeSection = async (sections) => {
+import 'dayjs/locale/id.js'
+dayjs.extend(customParseFormat)
+dayjs.locale('id')
+
+export const parseReadmeSection = async (sections) => {
   try {
     const allData = []
 
@@ -69,9 +71,9 @@ const parseReadmeSection = async (sections) => {
   }
 }
 
-const parseAllReadmes = async () => {
+export const parseAllReadmes = async () => {
   try {
-    const readmes = getAllReadmeFiles()
+    const readmes = await getAllReadmeFiles()
     let combinedData = []
 
     for (const readme of readmes) {
@@ -100,7 +102,3 @@ const parseAllReadmes = async () => {
   }
 }
 
-module.exports = {
-  parseReadmeSection,
-  parseAllReadmes
-}

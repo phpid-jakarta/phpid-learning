@@ -1,13 +1,13 @@
-const path = require('path')
+import path from 'path'
 
-const {
+import {
   parseAllReadmes
-} = require('./parser')
+} from './parser.js'
 
-const {
+import {
   writeFile,
   constant
-} = require('./utils')
+} from './utils.js'
 
 const main = async () => {
   try {

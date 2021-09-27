@@ -2,11 +2,20 @@
   "name": "phpid-learning",
   "version": "1.0.0",
   "description": "👩‍🏫 Belajar daring bersama PHPID",
+  "homepage": "https://github.com/phpid-jakarta/phpid-learning#readme",
+  "bugs": {
+    "url": "https://github.com/phpid-jakarta/phpid-learning/issues"
+  },
+  "repository": "git+https://github.com/phpid-jakarta/phpid-learning.git",
+  "license": "MIT",
+  "author": "PHPID Teams",
+  "type": "module",
   "main": "toJson.js",
   "scripts": {
-    "toShortlinks": "node ./scripts/toShortlinks.js",
-    "toJson": "node ./scripts/toJson.js",
-    "toTags": "node ./scripts/toTags.js",
+    "toShortlinks": "node --experimental-json-modules ./scripts/toShortlinks.js",
+    "toJson": "node --experimental-json-modules ./scripts/toJson.js",
+    "toTags": "node --experimental-json-modules ./scripts/toTags.js",
+    "resize": "node --experimental-json-modules ./scripts/resizer.js",
     "dev": "sapper dev",
     "build": "sapper build",
     "start": "node __sapper__/build",
@@ -14,13 +23,6 @@
     "lint": "eslint **/*.svelte --fix",
     "export:root": "cross-env NODE_ENV=production sapper export --entry '/ /tag/phpid /tag/learning /tag/career /tag/php /tag/startup /tag/developer /tag/marketing /tag/freelance /tag/negosiasi /tag/soft-skill /tag/jamstack /tag/xss /tag/csrf /tag/security /tag/hadoop /tag/big-data /tag/data-engineer /tag/simrs /tag/open-source /tag/sql /tag/database /tag/meilisearch /tag/svg /tag/e-commerce /tag/nlp /tag/machine-learning /tag/ml /tag/chat /tag/bot /tag/frontend /tag/laravel /tag/project /tag/management /tag/wordpress /tag/vuejs /tag/sage /tag/uiux /tag/kubernates /tag/biznet /tag/open-shift /tag/tdd /tag/go /tag/nodejs /tag/grpc /tag/job /tag/hr /tag/airflow /tag/python /tag/web /tag/inspiration /tag/programming /tag/data-governance /tag/uat /tag/mysql /tag/remote-worker /tag/data-science /tag/pc-built /tag/aws /tag/api /tag/mikrotik /tag/data-analytics /tag/framework /tag/code-igniter /tag/digital-marketing /tag/storage /tag/system-analyst /tag/crm /tag/e-government /tag/postgresql /tag/linux /tag/oop /tag/ci-cd /tag/sosmed /tag/documentation /tag/seo /tag/ui-ux'"
   },
-  "repository": "git+https://github.com/phpid-jakarta/phpid-learning.git",
-  "author": "PHPID Teams",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/phpid-jakarta/phpid-learning/issues"
-  },
-  "homepage": "https://github.com/phpid-jakarta/phpid-learning#readme",
   "dependencies": {
     "compression": "1.7.4",
     "dayjs": "^1.10.6",
@@ -51,6 +53,7 @@
     "eslint-plugin-promise": "5.1.0",
     "eslint-plugin-standard": "5.0.0",
     "eslint-plugin-svelte3": "3.2.0",
+    "globby": "^12.0.2",
     "less": "4.1.1",
     "mkdirp": "1.0.4",
     "node-sass": "5.0.0",
@@ -65,6 +68,7 @@
     "rollup-plugin-svelte": "^7.1.0",
     "rollup-plugin-terser": "^7.0.2",
     "sapper": "0.29.2",
+    "sharp": "^0.29.1",
     "svelte": "3.42.4",
     "svelte-preprocess": "4.8.0"
   },
