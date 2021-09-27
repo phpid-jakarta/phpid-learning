@@ -1,15 +1,15 @@
-const path = require('path')
+import path from 'path'
 
-const {
+import {
   parseAllReadmes
-} = require('./parser')
+} from './parser.mjs'
 
-const {
+import {
   writeFile,
-  constructFileContent,
-  constant
-} = require('./utils');
+  constructFileContent
+} from './utils.mjs'
 
+import constants from './constants.mjs'
 
 (async () => {
   try {
@@ -17,17 +17,17 @@ const {
     const fileContent = constructFileContent(allData)
 
     writeFile(
-      path.resolve(constant.ROOT_DIR, './data.json'),
+      path.resolve(constants.ROOT_DIR, './data.json'),
       JSON.stringify(fileContent)
     )
 
     writeFile(
-      path.resolve(constant.ROOT_DIR, './data.js'),
+      path.resolve(constants.ROOT_DIR, './data.js'),
       `module.exports = ${JSON.stringify(fileContent, null, 2)}`
     )
 
     writeFile(
-      path.resolve(constant.ROOT_DIR, './data-es.js'),
+      path.resolve(constants.ROOT_DIR, './data-es.js'),
       `export default ${JSON.stringify(fileContent, null, 2)}`
     )
   } catch (error) {

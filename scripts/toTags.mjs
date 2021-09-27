@@ -1,14 +1,15 @@
-const path = require('path')
+import path from 'path'
 
-const {
+import {
   parseAllReadmes
-} = require('./parser')
+} from './parser.mjs'
 
-const {
+import {
   writeFile,
-  packageJson,
-  constant
-} = require('./utils');
+  packageJson
+} from './utils.mjs'
+
+import constant from './constants.mjs'
 
 (async () => {
   try {
