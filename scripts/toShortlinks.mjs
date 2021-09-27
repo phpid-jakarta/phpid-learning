@@ -5,9 +5,10 @@ import {
 } from './parser.mjs'
 
 import {
-  writeFile,
-  constant
+  writeFile
 } from './utils.mjs'
+
+import constant from './constants.mjs'
 
 const main = async () => {
   try {
@@ -21,12 +22,12 @@ const main = async () => {
 
       if (videos[0] !== 'empty') {
         urlVideos += `
-/rekaman-${sesi}       ${videos[0]}`
+/rekaman-${data.id}       ${videos[0]}`
       }
 
       if (slide !== 'empty') {
         urlSlides += `
-/slide-${sesi}         ${slide}`
+/slide-${data.id}         ${slide}`
       }
     })
 

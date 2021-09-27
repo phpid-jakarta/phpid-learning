@@ -6,9 +6,10 @@ import {
 
 import {
   writeFile,
-  packageJson,
-  constant
+  packageJson
 } from './utils.mjs'
+
+import constant from './constants.mjs'
 
 (async () => {
   try {

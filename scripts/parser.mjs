@@ -7,9 +7,10 @@ import {
   getAllReadmeFiles,
   getAllSectionsData,
   getContent,
-  getCoverUrl,
-  constant
+  getCoverUrl
 } from './utils.mjs'
+
+import constant from './constants.mjs'
 
 import 'dayjs/locale/id.js'
 dayjs.extend(customParseFormat)

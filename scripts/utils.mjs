@@ -3,7 +3,7 @@ import fs from 'fs'
 import path from 'path'
 import appRootDir from 'app-root-dir'
 
-import packageJson from '../package.json'
+import packageJsonData from '../package.json'
 
 const ROOT_DIR = appRootDir.get()
 const DATA_PATH = path.join(ROOT_DIR, './data')
@@ -84,6 +84,8 @@ const REGEX_REGISTRASI = /^- Registrasi.*/gm
 const REGEX_SESI = /^- Sesi.*/gm
 const REGEX_KATEGORI = /^- Kategori.*/gm
 const REGEX_DESKRIPSI = /^- Deskripsi.*/gm
+
+export const packageJson = packageJsonData
 
 export const constant = {
   ROOT_DIR,
