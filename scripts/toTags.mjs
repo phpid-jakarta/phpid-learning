@@ -2,13 +2,13 @@ import path from 'path'
 
 import {
   parseAllReadmes
-} from './parser.js'
+} from './parser.mjs'
 
 import {
   writeFile,
   packageJson,
   constant
-} from './utils.js'
+} from './utils.mjs'
 
 (async () => {
   try {

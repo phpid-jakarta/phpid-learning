@@ -9,7 +9,7 @@ import {
   getContent,
   getCoverUrl,
   constant
-} from './utils.js'
+} from './utils.mjs'
 
 import 'dayjs/locale/id.js'
 dayjs.extend(customParseFormat)
