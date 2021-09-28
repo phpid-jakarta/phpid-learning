@@ -1,11 +1,31 @@
 export default {
   "meta": {
-    "last_updated": "2021-09-27",
-    "total": 139,
+    "last_updated": "2021-09-28",
+    "total": 140,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "140",
+      "date": "Jumat, 1 Oktober 2021",
+      "time": "19:00",
+      "dateTime": "2021-10-01 19:00:00 +07:00",
+      "speaker": "Alvin Alexius",
+      "slide": "empty",
+      "topic": "Introduction to Amazon S3",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "bit.ly/AWSxPHPID",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "aws",
+        "s3",
+        "object-storage"
+      ]
+    },
     {
       "id": "139",
       "date": "Selasa, 28 September 2021",
