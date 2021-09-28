@@ -55,9 +55,9 @@ export default {
       "slide": "empty",
       "topic": "JENIS-JENIS KONTEN MARKETING UNTUK MENINGKATKAN TRAFFIC",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-138"
       ],
-      "registrasi": "https://fb.me/e/5skqbKyn6",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/138.jpg",
       "deskripsi": "empty",
       "tags": [
