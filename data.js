@@ -18,7 +18,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "bit.ly/AWSxPHPID",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/140.jpg",
       "deskripsi": "empty",
       "tags": [
         "aws",
