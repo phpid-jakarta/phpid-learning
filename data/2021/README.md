@@ -10,9 +10,21 @@
 - Slide: empty
 - Video: empty
 - Registrasi: empty
-- Sesi: 128
+- Sesi: 140
 - Kategori: empty
 - Deskripsi: -
+
+### Introduction to Amazon S3
+
+- Waktu: Jumat, 1 Oktober 2021
+- Pukul: 19:00
+- Pemateri: Alvin Alexius
+- Slide: empty
+- Video: empty
+- Registrasi: bit.ly/AWSxPHPID
+- Sesi: 140
+- Kategori: aws, s3, object storage
+- Deskripsi: empty
 
 ### HIJRAH APLIKASI AKUNTING KE SAAS. MODEL BISNIS MASA DEPAN
 
