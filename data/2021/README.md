@@ -44,8 +44,8 @@
 - Pukul: 19:00
 - Pemateri: Zeembry Neo
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/5skqbKyn6
+- Video: https://tbp.my.id/?phpidol-138
+- Registrasi: empty
 - Sesi: 138
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
