@@ -54,9 +54,9 @@ module.exports = {
       "slide": "empty",
       "topic": "HIJRAH APLIKASI AKUNTING KE SAAS. MODEL BISNIS MASA DEPAN",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-139"
       ],
-      "registrasi": "https://fb.me/e/4AAuEAlPU",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/139.jpg",
       "deskripsi": "empty",
       "tags": [
