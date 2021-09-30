@@ -18,7 +18,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/dGYwzi0yR",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/141.jpg",
       "deskripsi": "empty",
       "tags": [
         "reactjs",
