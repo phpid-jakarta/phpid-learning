@@ -1,11 +1,30 @@
 export default {
   "meta": {
-    "last_updated": "2021-09-28",
-    "total": 140,
+    "last_updated": "2021-09-30",
+    "total": 141,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "141",
+      "date": "Selasa, 5 Oktober 2021",
+      "time": "19:00",
+      "dateTime": "2021-10-05 19:00:00 +07:00",
+      "speaker": "",
+      "slide": "empty",
+      "topic": "MicroFrontend With React",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/dGYwzi0yR",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "empty",
+      "tags": [
+        "reactjs",
+        "micro-framework"
+      ]
+    },
     {
       "id": "140",
       "date": "Jumat, 1 Oktober 2021",
@@ -17,7 +36,7 @@ export default {
       "videos": [
         "empty"
       ],
-      "registrasi": "bit.ly/AWSxPHPID",
+      "registrasi": "https://bit.ly/AWSxPHPID",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/140.jpg",
       "deskripsi": "empty",
       "tags": [
