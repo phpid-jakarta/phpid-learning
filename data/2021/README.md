@@ -14,6 +14,18 @@
 - Kategori: empty
 - Deskripsi: -
 
+### MicroFrontend With React
+
+- Waktu: Selasa, 5 Oktober 2021
+- Pukul: 19:00
+- Pemateri: 
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/dGYwzi0yR
+- Sesi: 141
+- Kategori: reactjs, micro framework
+- Deskripsi: empty
+
 ### Introduction to Amazon S3
 
 - Waktu: Jumat, 1 Oktober 2021
@@ -21,7 +33,7 @@
 - Pemateri: Alvin Alexius
 - Slide: empty
 - Video: empty
-- Registrasi: bit.ly/AWSxPHPID
+- Registrasi: https://bit.ly/AWSxPHPID
 - Sesi: 140
 - Kategori: aws, s3, object storage
 - Deskripsi: empty
