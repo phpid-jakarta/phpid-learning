@@ -28,6 +28,9 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ### 2021
 
+
+- [#141 MicroFrontend With React](data/2021/#microfrontend-with-react)
+- [#140 Introduction to Amazon S3](data/2021/#introduction-to-amazon-s3)
 - [#139 HIJRAH APLIKASI AKUNTING KE SAAS. MODEL BISNIS MASA DEPAN](data/2021/#hijrah-aplikasi-akunting-ke-saas-model-bisnis-masa-depan)
 - [#138 JENIS-JENIS KONTEN MARKETING UNTUK MENINGKATKAN TRAFFIC](data/2021/#jenis-jenis-konten-marketing-untuk-meningkatkan-traffic)
 - [#137 CAREER HACK: FROM PHP DEVELOPER TO CEO (Reinvented)](data/2021/#career-hack-from-php-developer-to-ceo-reinvented)
