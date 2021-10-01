@@ -29,7 +29,7 @@ export default {
       "date": "Selasa, 5 Oktober 2021",
       "time": "19:00",
       "dateTime": "2021-10-05 19:00:00 +07:00",
-      "speaker": "",
+      "speaker": "Samsul Arifin - Software Engineer Refactory",
       "slide": "empty",
       "topic": "MicroFrontend With React",
       "videos": [
