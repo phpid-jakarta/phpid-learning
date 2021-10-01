@@ -1,11 +1,29 @@
 export default {
   "meta": {
     "last_updated": "2021-10-01",
-    "total": 141,
+    "total": 142,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "142",
+      "date": "Selasa, 12 Oktober 2021",
+      "time": "19:00",
+      "dateTime": "2021-10-12 19:00:00 +07:00",
+      "speaker": "Lailyn Puad - CTO Kei Medika",
+      "slide": "empty",
+      "topic": "Integrasi Payment Gateway dengan CodeIgniter",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/Y2ww6X6R",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/142.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "codeigniter"
+      ]
+    },
     {
       "id": "141",
       "date": "Selasa, 5 Oktober 2021",
