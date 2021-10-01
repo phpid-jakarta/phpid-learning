@@ -30,7 +30,7 @@
 
 - Waktu: Selasa, 5 Oktober 2021
 - Pukul: 19:00
-- Pemateri: 
+- Pemateri: Samsul Arifin - Software Engineer Refactory
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/dGYwzi0yR
