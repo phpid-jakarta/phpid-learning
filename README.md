@@ -29,6 +29,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ### 2021
 
 
+- [#142 Integrasi Payment Gateway dengan CodeIgniter](data/2021/#integrasi-payment-gateway-dengan-codeIgniter)
 - [#141 MicroFrontend With React](data/2021/#microfrontend-with-react)
 - [#140 Introduction to Amazon S3](data/2021/#introduction-to-amazon-s3)
 - [#139 HIJRAH APLIKASI AKUNTING KE SAAS. MODEL BISNIS MASA DEPAN](data/2021/#hijrah-aplikasi-akunting-ke-saas-model-bisnis-masa-depan)
