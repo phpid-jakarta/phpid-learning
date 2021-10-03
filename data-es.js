@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-10-01",
+    "last_updated": "2021-10-03",
     "total": 142,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -52,9 +52,9 @@ export default {
       "slide": "empty",
       "topic": "Introduction to Amazon S3",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-140"
       ],
-      "registrasi": "https://bit.ly/AWSxPHPID",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/140.jpg",
       "deskripsi": "empty",
       "tags": [
