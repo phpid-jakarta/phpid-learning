@@ -44,7 +44,7 @@
 - Pukul: 19:00
 - Pemateri: Alvin Alexius
 - Slide: empty
-- Video: https://tbp.my.id/?phpidol-139
+- Video: https://tbp.my.id/?phpidol-140
 - Registrasi: empty
 - Sesi: 140
 - Kategori: aws, s3, object storage
