@@ -92,6 +92,6 @@ jobs:
       - name: Perform push JSON data to master
         uses: ad-m/github-push-action@v0.5.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           force: true
 
