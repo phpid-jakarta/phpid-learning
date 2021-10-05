@@ -1,5 +1,6 @@
 <style lang="scss">
-  :global {
+  /* eslint-disable css-unused-selector */
+  \:global {
     @import '../styles/global.scss';
   }
 </style>

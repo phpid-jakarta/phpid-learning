@@ -7,8 +7,9 @@ module.exports = {
     es6: true,
     browser: true
   },
-  extends: 'standard',
-  plugins: ['svelte3'],
+  plugins: [
+    'svelte3'
+  ],
   overrides: [
     {
       files: ['*.svelte'],
@@ -19,5 +20,8 @@ module.exports = {
     'no-multiple-empty-lines': 'off',
     camelcase: 'off'
   },
-  settings: {}
-}
+  settings: {
+    // ...
+  }
+};
+
