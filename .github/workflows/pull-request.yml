@@ -1,17 +1,8 @@
-name: Build UI for Netlify
 on:
-  push:
-    branches:
-      - master
-    paths-ignore:
-      - "LAST_UPDATED"
-      - "data.json"
-      - "data.js"
-      - "data-es.js"
-      - "tags.txt"
-      - "tags-prefix.txt"
-      - "_redirect-out"
-      - "package.json"
+  pull_request:
+    types: [opened, synchronize]
+
+name: PR Check
 
 jobs:
   install-deps:
@@ -30,17 +21,6 @@ jobs:
       - name: Install locked dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Generate file json
-        run: yarn toJson
-
-      - name: Update export script on package.json
-        run: yarn toTags
-
-      - name: Modify last update
-        run: |
-          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
-          echo $d > LAST_UPDATED
-
       - name: Cache dependencies
         uses: actions/cache@v1
         id: cache-deps
@@ -48,11 +28,11 @@ jobs:
           path: "."
           key: ${{ github.sha }}
 
-  build_ui:
+  lint:
     if: github.repository == 'phpid-jakarta/phpid-learning'
-    needs: install-deps
+    name: ESLint
     runs-on: ubuntu-latest
-    name: Export to Static
+    needs: install-deps
     steps:
       - name: Restore cached dependencies
         uses: actions/cache@v1
@@ -66,21 +46,16 @@ jobs:
         with:
           node-version: "14.x"
 
-      - name: Perform export to static
-        run: yarn export
+      - name: Lint files
+        run: yarn run lint
+        env:
+          CI: true
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./__sapper__/export/
-          publish_branch: netlify-pages
-
-  json_data:
+  build:
     if: github.repository == 'phpid-jakarta/phpid-learning'
-    needs: install-deps
+    name: Check build
     runs-on: ubuntu-latest
-    name: Push JSON Data
+    needs: install-deps
     steps:
       - name: Restore cached dependencies
         uses: actions/cache@v1
@@ -89,9 +64,40 @@ jobs:
           path: "."
           key: ${{ github.sha }}
 
-      - name: Perform push JSON data to master
-        uses: ad-m/github-push-action@v0.5.0
+      - name: Setup Node.js 14.x
+        uses: actions/setup-node@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          force: true
+          node-version: "14.x"
 
+      - name: Perform build checking
+        run: yarn run build
+        env:
+          CI: true
+
+  script:
+    if: github.repository == 'phpid-jakarta/phpid-learning'
+    name: Check scripts
+    runs-on: ubuntu-latest
+    needs: install-deps
+    steps:
+      - name: Restore cached dependencies
+        uses: actions/cache@v1
+        id: restore-deps
+        with:
+          path: "."
+          key: ${{ github.sha }}
+
+      - name: Setup Node.js 14.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: "14.x"
+
+      - name: Perform script toJson checking
+        run: yarn run toJson
+        env:
+          CI: true
+
+      - name: Perform script toTags checking
+        run: yarn run toTags
+        env:
+          CI: true
