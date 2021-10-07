@@ -3,6 +3,7 @@ node_modules
 public
 node_modules
 node_modules/@sapper
+src/routes/_layout.svelte
 src/data-es.js
 data.js
 data-es.js
