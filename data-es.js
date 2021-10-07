@@ -1,11 +1,30 @@
 export default {
+  "message": "DEPRECATED, READ FROM https://github.com/phpid-jakarta/phpid-learning/tree/api",
   "meta": {
-    "last_updated": "2021-10-03",
-    "total": 142,
+    "last_updated": "2021-10-07",
+    "total": 143,
     "credits": "PHPID Community",
-    "ui": "https://s.byphp.id/learning"
+    "ui": "https://s.byphp.id/learning",
   },
   "data": [
+    {
+      "id": "143",
+      "date": "Selasa, 19 Oktober 2021",
+      "time": "19:00",
+      "dateTime": "2021-10-19 19:00:00 +07:00",
+      "speaker": "Muhammad Rizal - Backend Engineer Lomotif",
+      "slide": "empty",
+      "topic": "Load Testing for Backend Engineer",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/dVQBv1jwm",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/143.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "codeigniter"
+      ]
+    },
     {
       "id": "142",
       "date": "Selasa, 12 Oktober 2021",
@@ -33,9 +52,9 @@ export default {
       "slide": "empty",
       "topic": "MicroFrontend With React",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-141"
       ],
-      "registrasi": "https://fb.me/e/dGYwzi0yR",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/141.jpg",
       "deskripsi": "empty",
       "tags": [

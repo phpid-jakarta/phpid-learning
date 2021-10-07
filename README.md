@@ -7,7 +7,7 @@
 ## Data bisa juga diakses lewat
 
 - Web UI: [learning.byphp.id](https://learning.byphp.id)
-- JSON: Lihat berkas [data.json](data.json)
+- JSON: Lihat di branch [api](https://github.com/phpid-jakarta/phpid-learning/tree/api)
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 - Calon Pemateri yang berminat mengisi PHPID-OL: [s.byphp.id/jadi-pemateri](https://s.byphp.id/jadi-pemateri)
 

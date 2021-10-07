@@ -16,7 +16,7 @@ import constants from './constants.mjs'
     const allData = await parseAllReadmes()
     const fileContent = constructFileContent(allData)
 
-    const dirs = [path.resolve(constants.ROOT_DIR), path.resolve(constants.ROOT_DIR, './api')]
+    const dirs = [path.resolve(constants.ROOT_DIR, './api')]
 
     dirs.forEach(dir => {
       writeFile(
