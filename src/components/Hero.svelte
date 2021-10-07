@@ -1,9 +1,10 @@
 <script>
-  import { originData } from "../store";
+  import { originData } from '../store';
+  import SearchForm from './SearchForm.svelte';
 
-  const getDateOnly = (val = "") => {
+  const getDateOnly = (val = '') => {
     let res = val;
-    const arr = res.split(",");
+    const arr = res.split(',');
     if (arr && arr.length > 1) {
       res = arr[1].trim();
     }
@@ -16,6 +17,91 @@
   const dateRange = `${dataStart} - ${dataEnd}`;
 </script>
 
+<header class="header">
+  <div class="hero-gradient">
+    <div class="hero-text">
+      <img
+        class="hero-image"
+        src="/phpid-learning-logo-small.jpg"
+        alt="PHPID Online Learning"
+      />
+      <h3>
+        Tersedia
+        <b>{$originData.length}</b>
+        webinar gratis
+      </h3>
+      <SearchForm q="" />
+      <span>{dateRange}</span>
+      <div class="row flex-center btn-wrapper">
+        <a
+          href="https://s.byphp.id/jadi-pemateri"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Github"
+          class="paper-btn btn-secondary"
+        >
+          Daftar jadi speaker
+        </a>
+        <a
+          href="https://s.byphp.id/fb"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Facebook Group PHPID"
+          class="paper-btn btn-secondary-outline"
+        >
+          FB Group
+        </a>
+        <a
+          href="https://s.byphp.id/donasi"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Donasi"
+          class="paper-btn btn-success-outline"
+        >
+          Bantu donasi
+        </a>
+      </div>
+    </div>
+    <svg
+      class="waves"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 24 150 28"
+      preserveAspectRatio="none"
+      shape-rendering="auto"
+    >
+      <defs>
+        <path
+          id="gentle-wave"
+          d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18
+          v44h-352z"
+        />
+      </defs>
+      <g class="parallax">
+        <use
+          xlink:href="#gentle-wave"
+          x="48"
+          y="0"
+          fill="rgba(255,255,255,0.7"
+        />
+        <use
+          xlink:href="#gentle-wave"
+          x="48"
+          y="3"
+          fill="rgba(255,255,255,0.5)"
+        />
+        <use
+          xlink:href="#gentle-wave"
+          x="48"
+          y="5"
+          fill="rgba(255,255,255,0.3)"
+        />
+        <use xlink:href="#gentle-wave" x="48" y="7" fill="#fff" />
+      </g>
+    </svg>
+  </div>
+</header>
+
 <style>
   .header {
     margin-bottom: 2rem;
@@ -27,7 +113,7 @@
     background-image: linear-gradient(to right, #f7e4a0, #fadf8e, #f5c04c);
   }
 
-  .hero-image{
+  .hero-image {
     width: 90%;
     max-width: 400px;
   }
@@ -45,7 +131,7 @@
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-size: 1.25rem;
-    font-family: "Neucha", sans-serif;
+    font-family: 'Neucha', sans-serif;
   }
 
   .hero-text span {
@@ -129,75 +215,3 @@
     }
   }
 </style>
-
-<header class="header">
-  <div class="hero-gradient">
-    <div class="hero-text">
-      <img class="hero-image" src="/phpid-learning-logo-small.jpg" alt="PHPID Online Learning" />
-      <h3>
-        Tersedia
-        <b>{$originData.length}</b>
-        webinar gratis
-      </h3>
-      <span>{dateRange}</span>
-      <div class="row flex-center btn-wrapper">
-        <a
-          href="https://s.byphp.id/jadi-pemateri"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="Github"
-          class="paper-btn btn-secondary">
-          Daftar jadi speaker
-        </a>
-        <a
-          href="https://s.byphp.id/fb"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="Facebook Group PHPID"
-          class="paper-btn btn-secondary-outline">
-          FB Group
-        </a>
-        <a
-          href="https://s.byphp.id/donasi"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="Donasi"
-          class="paper-btn btn-success-outline">
-          Bantu donasi
-        </a>
-      </div>
-    </div>
-    <svg
-      class="waves"
-      xmlns="http://www.w3.org/2000/svg"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      viewBox="0 24 150 28"
-      preserveAspectRatio="none"
-      shape-rendering="auto">
-      <defs>
-        <path
-          id="gentle-wave"
-          d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18
-          v44h-352z" />
-      </defs>
-      <g class="parallax">
-        <use
-          xlink:href="#gentle-wave"
-          x="48"
-          y="0"
-          fill="rgba(255,255,255,0.7" />
-        <use
-          xlink:href="#gentle-wave"
-          x="48"
-          y="3"
-          fill="rgba(255,255,255,0.5)" />
-        <use
-          xlink:href="#gentle-wave"
-          x="48"
-          y="5"
-          fill="rgba(255,255,255,0.3)" />
-        <use xlink:href="#gentle-wave" x="48" y="7" fill="#fff" />
-      </g>
-    </svg>
-  </div>
-</header>
