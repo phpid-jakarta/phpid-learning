@@ -1,6 +1,7 @@
 <script>
   import { goto } from '@sapper/app';
   import { currentKeyword } from '../store';
+  import { initMasonry } from '../utils.js';
 
   export let q;
 
@@ -9,6 +10,10 @@
 
     goto(`/search?q=${keyword}`);
     currentKeyword.set(keyword);
+
+    setTimeout(() => {
+      initMasonry();
+    }, 500);
   };
 </script>
 
