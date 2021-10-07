@@ -14,6 +14,18 @@
 - Kategori: empty
 - Deskripsi: -
 
+### Load Testing for Backend Engineer
+
+- Waktu: Selasa, 19 Oktober 2021
+- Pukul: 19:00
+- Pemateri: Muhammad Rizal - Backend Engineer Lomotif
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/dVQBv1jwm
+- Sesi: 143
+- Kategori: codeigniter
+- Deskripsi: -
+
 ### Integrasi Payment Gateway dengan CodeIgniter
 
 - Waktu: Selasa, 12 Oktober 2021
@@ -32,8 +44,8 @@
 - Pukul: 19:00
 - Pemateri: Samsul Arifin - Software Engineer Refactory
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/dGYwzi0yR
+- Video: https://tbp.my.id/?phpidol-141
+- Registrasi: empty
 - Sesi: 141
 - Kategori: reactjs, micro framework
 - Deskripsi: empty
