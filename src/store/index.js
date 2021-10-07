@@ -3,24 +3,23 @@ import { getDistinctTags } from '../utils.js'
 
 import data from '../../data-es'
 
-export const originData = readable(data.data, function set () {
-  return function destroy () {}
+export const originData = readable(data.data, function set() {
+  return function destroy() {}
 })
 
 export const allData = writable(data.data)
 
 export const showData = writable(data.data)
 
-export const allDistictTags = derived(allData,
-  ($allData) => {
-    const r = getDistinctTags($allData)
-    return r
-  }
-)
+export const allDistictTags = derived(allData, $allData => {
+  const r = getDistinctTags($allData)
+  return r
+})
 
 export const currentTag = writable('')
 
-export const allByTags = derived([currentTag, allData],
+export const allByTags = derived(
+  [currentTag, allData],
   ([$currentTag, $allData]) => {
     if ($currentTag) {
       const r = $allData.filter(i => {
@@ -43,10 +42,37 @@ export const offsetPage = derived(
   }
 )
 
-export const totalPage = derived(originData,
-  ($originData) => {
-    return $originData.length
-  }
-)
+export const totalPage = derived(originData, $originData => {
+  return $originData.length
+})
 
 export const activeTheme = writable('')
+
+// Search Store
+export const currentKeyword = writable('')
+
+export const allByKeyword = derived(
+  [currentKeyword, allData],
+  ([$currentKeyword, $allData]) => {
+    if ($currentKeyword) {
+      const speakerFilterPrefix = 'from:'
+      const r = $allData.filter(i => {
+        // search by speaker, by using "from:" prefix on the keyword
+        if ($currentKeyword.startsWith(speakerFilterPrefix)) {
+          const cleanKeyword = $currentKeyword
+            .replace(speakerFilterPrefix, '')
+            .trim()
+            .toLowerCase()
+
+          return i.speaker.toLowerCase().includes(cleanKeyword)
+        }
+
+        // search the topic instead
+        return i.topic.toLowerCase().includes($currentKeyword.toLowerCase())
+      })
+      return r
+    }
+    return []
+  }
+)
+// Eend Search Store
