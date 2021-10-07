@@ -109,3 +109,4 @@ package-lock.json
 
 __sapper__/
 .DS_Store
+api/

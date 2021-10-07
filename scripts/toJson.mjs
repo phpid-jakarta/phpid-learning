@@ -16,20 +16,24 @@ import constants from './constants.mjs'
     const allData = await parseAllReadmes()
     const fileContent = constructFileContent(allData)
 
-    writeFile(
-      path.resolve(constants.ROOT_DIR, './data.json'),
-      JSON.stringify(fileContent)
-    )
+    const dirs = [path.resolve(constants.ROOT_DIR), path.resolve(constants.ROOT_DIR, './api')]
 
-    writeFile(
-      path.resolve(constants.ROOT_DIR, './data.js'),
-      `module.exports = ${JSON.stringify(fileContent, null, 2)}`
-    )
+    dirs.forEach(dir => {
+      writeFile(
+        path.resolve(dir, './data.json'),
+        JSON.stringify(fileContent)
+      )
 
-    writeFile(
-      path.resolve(constants.ROOT_DIR, './data-es.js'),
-      `export default ${JSON.stringify(fileContent, null, 2)}`
-    )
+      writeFile(
+        path.resolve(dir, './data.js'),
+        `module.exports = ${JSON.stringify(fileContent, null, 2)}`
+      )
+
+      writeFile(
+        path.resolve(dir, './data-es.js'),
+        `export default ${JSON.stringify(fileContent, null, 2)}`
+      )
+    });
   } catch (error) {
     console.error('❌ Error execute ./scripts/toJson.js', error)
   }

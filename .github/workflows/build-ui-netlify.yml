@@ -89,9 +89,16 @@ jobs:
           path: "."
           key: ${{ github.sha }}
 
-      - name: Perform push JSON data to master
-        uses: ad-m/github-push-action@v0.6.0
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.PERSONAL_TOKEN }}
-          force: true
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          publish_dir: ./api
+          publish_branch: api
+
+      # - name: Perform push JSON data to master
+      #   uses: ad-m/github-push-action@v0.6.0
+      #   with:
+      #     github_token: '${{ secrets.PERSONAL_TOKEN }}'
+      #     force: true
 
