@@ -1,11 +1,12 @@
 <script>
-  import { onMount } from "svelte";
-  import Tags from "./Tags.svelte";
+  import { onMount } from 'svelte';
+  import Speaker from './Speaker.svelte';
+  import Tags from './Tags.svelte';
 
   export let item;
 
   let src =
-    "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/default.jpg";
+    'https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/default.jpg';
   let loaded = false;
   let observer = null;
 
@@ -13,22 +14,22 @@
     entries.forEach(node => {
       if (!node.isIntersecting) return false;
 
-      const img = document.createElement("img");
-      img.classList.add("is--loading");
-      img.classList.add("card-image");
+      const img = document.createElement('img');
+      img.classList.add('is--loading');
+      img.classList.add('card-image');
 
       img.onload = () => {
         loaded = true;
-        img.classList.remove("is--loading");
-        img.classList.add("is--loaded");
+        img.classList.remove('is--loading');
+        img.classList.add('is--loaded');
 
         window.__macy &&
           window.__macy.recalculate &&
           window.__macy.recalculate(true);
       };
 
-      img.setAttribute("src", item.cover);
-      img.setAttribute("alt", item.topic);
+      img.setAttribute('src', item.cover);
+      img.setAttribute('alt', item.topic);
 
       node.target.appendChild(img);
 
@@ -38,14 +39,75 @@
 
   onMount(() => {
     observer = new IntersectionObserver(onIntersect, {
-      rootMargin: "0px",
-      threshold: 1.0
+      rootMargin: '0px',
+      threshold: 1.0,
     });
 
     const node = document.querySelector(`.js-image--${item.id}`);
     observer && node && observer.observe(node);
   });
 </script>
+
+<div class="card">
+  <div class="card-image-wrapper js-image--{item.id}" />
+  <div class="card-body">
+    <div class="badge-group">
+      <span class="badge warning" style="margin-right: .25em">#{item.id}</span>
+      <span class="badge secondary" style="margin-right: .25em">
+        {item.date}
+      </span>
+      <span class="badge success">{item.time} WIB</span>
+    </div>
+
+    <h4 class="card-title">{item.topic}</h4>
+    <Speaker speaker={item.speaker} />
+
+    {#if item.tags && item.tags.length > 0}
+      <Tags tags={item.tags} />
+    {/if}
+
+    <div class="card-text">
+      {#if item.videos[0] && item.videos[0] !== 'empty'}
+        <a
+          href={item.videos[0]}
+          class="card-action"
+          target="_blank"
+          rel="noopener"
+          style="background-image: none"
+          title="Tonton Video"
+        >
+          <button class="btn-secondary">Tonton Video</button>
+        </a>
+      {/if}
+
+      {#if item.registrasi && item.registrasi !== 'empty'}
+        <a
+          href={item.registrasi}
+          class="card-action"
+          target="_blank"
+          rel="noopener"
+          style="background-image: none"
+          title="Registrasi"
+        >
+          <button class="btn-warning">Registrasi</button>
+        </a>
+      {/if}
+
+      {#if item.slide && item.slide !== 'empty'}
+        <a
+          href={item.slide}
+          class="card-action"
+          target="_blank"
+          rel="noopener"
+          style="background-image: none"
+          title="Slide"
+        >
+          <button class="btn-success">Lihat Slide</button>
+        </a>
+      {/if}
+    </div>
+  </div>
+</div>
 
 <style>
   .card {
@@ -64,9 +126,8 @@
     min-height: 200px;
     background: #212121;
   }
-  .card-title,
-  .card-subtitle {
-    font-family: "Neucha", sans-serif;
+  .card-title {
+    font-family: 'Neucha', sans-serif;
   }
   .card-body {
     min-height: 200px;
@@ -82,61 +143,3 @@
     margin-bottom: 1em;
   }
 </style>
-
-<div class="card">
-  <div class="card-image-wrapper js-image--{item.id}" />
-  <div class="card-body">
-    <div class="badge-group">
-      <span class="badge warning" style="margin-right: .25em">#{item.id}</span>
-      <span class="badge secondary" style="margin-right: .25em">
-        {item.date}
-      </span>
-      <span class="badge success">{item.time} WIB</span>
-    </div>
-
-    <h4 class="card-title">{item.topic}</h4>
-    <h5 class="card-subtitle">{item.speaker}</h5>
-
-    {#if item.tags && item.tags.length > 0}
-      <Tags tags={item.tags} />
-    {/if}
-
-    <div class="card-text">
-      {#if item.videos[0] && item.videos[0] !== 'empty'}
-        <a
-          href={item.videos[0]}
-          class="card-action"
-          target="_blank"
-          rel="noopener"
-          style="background-image: none"
-          title="Tonton Video">
-          <button class="btn-secondary">Tonton Video</button>
-        </a>
-      {/if}
-
-      {#if item.registrasi && item.registrasi !== 'empty'}
-        <a
-          href={item.registrasi}
-          class="card-action"
-          target="_blank"
-          rel="noopener"
-          style="background-image: none"
-          title="Registrasi">
-          <button class="btn-warning">Registrasi</button>
-        </a>
-      {/if}
-
-      {#if item.slide && item.slide !== 'empty'}
-        <a
-          href={item.slide}
-          class="card-action"
-          target="_blank"
-          rel="noopener"
-          style="background-image: none"
-          title="Slide">
-          <button class="btn-success">Lihat Slide</button>
-        </a>
-      {/if}
-    </div>
-  </div>
-</div>

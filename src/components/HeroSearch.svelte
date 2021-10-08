@@ -1,38 +1,24 @@
 <script>
-  import { originData } from '../store';
-  import SearchForm from './SearchForm.svelte';
+  import { allByKeyword } from "../store";
+  import SearchForm from "./SearchForm.svelte";
 
-  const getDateOnly = (val = '') => {
-    let res = val;
-    const arr = res.split(',');
-    if (arr && arr.length > 1) {
-      res = arr[1].trim();
-    }
-    return res;
-  };
-
-  const dataLength = $originData.length;
-  const dataStart = getDateOnly($originData[dataLength - 1].date);
-  const dataEnd = getDateOnly($originData[0].date);
-  const dateRange = `${dataStart} - ${dataEnd}`;
+  export let q;
 </script>
 
 <header class="header">
   <div class="hero-gradient">
     <div class="hero-text">
-      <img
-        class="hero-image"
-        src="/phpid-learning-logo-small.jpg"
-        alt="PHPID Online Learning"
-      />
+      <h1>Hasil Pencarian</h1>
+      <SearchForm {q} />
       <h3>
         Tersedia
-        <b>{$originData.length}</b>
-        webinar gratis
+        <b>{$allByKeyword.length}</b>
+        webinar
       </h3>
-      <SearchForm q="" />
-      <span>{dateRange}</span>
       <div class="row flex-center btn-wrapper">
+        <a href="/" title="Ke Beranda" class="paper-btn btn-secondary">
+          Ke Beranda
+        </a>
         <a
           href="https://s.byphp.id/jadi-pemateri"
           target="_blank"
@@ -43,20 +29,11 @@
           Daftar jadi speaker
         </a>
         <a
-          href="https://s.byphp.id/fb"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="Facebook Group PHPID"
-          class="paper-btn btn-secondary-outline"
-        >
-          FB Group
-        </a>
-        <a
           href="https://s.byphp.id/donasi"
           target="_blank"
           rel="noopener noreferrer"
           title="Donasi"
-          class="paper-btn btn-success-outline"
+          class="paper-btn btn-success"
         >
           Bantu donasi
         </a>
@@ -113,11 +90,6 @@
     background-image: linear-gradient(to right, #f7e4a0, #fadf8e, #f5c04c);
   }
 
-  .hero-image {
-    width: 90%;
-    max-width: 400px;
-  }
-
   .hero-text {
     min-height: 100vh;
     width: 100%;
@@ -127,23 +99,28 @@
     flex-direction: column;
     text-align: center;
   }
-  .hero-text h3 {
+  .hero-text h1 {
     margin-top: 2rem;
-    margin-bottom: 1rem;
-    font-size: 1.25rem;
-    font-family: 'Neucha', sans-serif;
+    margin-bottom: 0.25em;
+    font-size: 2rem;
+    font-family: "Neucha", sans-serif;
   }
-
-  .hero-text span {
-    display: block;
-    margin-bottom: 20px;
+  .hero-text h3 {
+    margin-bottom: 1rem;
+    margin-top: 0;
+    font-size: 1.25rem;
+    font-family: "Neucha", sans-serif;
   }
 
   @media only screen and (min-width: 700px) {
+    .hero-text h1 {
+      font-size: 4rem;
+    }
     .hero-text h3 {
       font-size: 1.8rem;
     }
   }
+
   .btn-wrapper {
     z-index: 2;
   }
