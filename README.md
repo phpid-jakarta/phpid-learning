@@ -29,6 +29,7 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 ### 2021
 
 
+- [#143 Load Testing for Backend Engineer](data/2021/#Load-testing-for-backend-engineer)
 - [#142 Integrasi Payment Gateway dengan CodeIgniter](data/2021/#integrasi-payment-gateway-dengan-codeIgniter)
 - [#141 MicroFrontend With React](data/2021/#microfrontend-with-react)
 - [#140 Introduction to Amazon S3](data/2021/#introduction-to-amazon-s3)
