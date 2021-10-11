@@ -1,7 +1,7 @@
 import path from 'path'
 
 import {
-  parseAllReadmes
+  parseAllSessions
 } from './parser.mjs'
 
 import {
@@ -13,7 +13,7 @@ import constant from './constants.mjs'
 
 (async () => {
   try {
-    const allData = await parseAllReadmes()
+    const allData = await parseAllSessions()
     const tagSet = new Set()
     const tagSetWithPrefix = new Set()
 

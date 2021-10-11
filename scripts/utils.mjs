@@ -18,7 +18,7 @@ export const writeFile = (pathFile, contentString) => {
   })
 }
 
-export const getAllReadmeFiles = async () => {
+export const getAllSessionFiles = async () => {
   const dirdata = `${DATA_PATH}/**/*.md`
   const paths = await globby(dirdata)
 
@@ -36,14 +36,14 @@ export const getContent = (ctx, regex, titleString) => {
   return ''
 }
 
-export const getAllSectionsData = async (readmePath) => {
-  const readmeContent = await fs.readFileSync(readmePath,
+export const getAllSectionsData = async (sessionPath) => {
+  const sessionContent = await fs.readFileSync(sessionPath,
     {
       encoding: 'utf-8'
     }
   )
 
-  return readmeContent.match(constants.REGEX_SECTIONS)
+  return sessionContent.match(constants.REGEX_SECTIONS)
 }
 
 export const getCoverUrl = (idx) => {
@@ -77,7 +77,7 @@ export const packageJson = packageJsonData
 const util = {
   writeFile,
   getContent,
-  getAllReadmeFiles,
+  getAllSessionFiles,
   getAllSectionsData,
   getCoverUrl,
   packageJson,

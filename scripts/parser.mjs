@@ -4,7 +4,7 @@ import dayjs from 'dayjs'
 import customParseFormat from 'dayjs/plugin/customParseFormat.js'
 
 import {
-  getAllReadmeFiles,
+  getAllSessionFiles,
   getAllSectionsData,
   getContent,
   getCoverUrl
@@ -16,7 +16,7 @@ import 'dayjs/locale/id.js'
 dayjs.extend(customParseFormat)
 dayjs.locale('id')
 
-export const parseReadmeSection = async (sections) => {
+export const parseSessionSection = async (sections) => {
   try {
     const allData = []
 
@@ -72,21 +72,21 @@ export const parseReadmeSection = async (sections) => {
   }
 }
 
-export const parseAllReadmes = async () => {
+export const parseAllSessions = async () => {
   try {
-    const readmes = await getAllReadmeFiles()
+    const sessions = await getAllSessionFiles()
     let combinedData = []
 
-    for (const readme of readmes) {
+    for (const session of sessions) {
       try {
-        const sections = await getAllSectionsData(readme)
-        const allData = await parseReadmeSection(sections)
+        const sections = await getAllSectionsData(session)
+        const allData = await parseSessionSection(sections)
         combinedData = [
           ...combinedData,
           ...allData
         ]
       } catch (error) {
-        console.error(`❌ Error parsing file ${readme}`, error)
+        console.error(`❌ Error parsing file ${session}`, error)
       }
     }
 
@@ -102,4 +102,3 @@ export const parseAllReadmes = async () => {
     return []
   }
 }
-
