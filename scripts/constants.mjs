@@ -2,7 +2,7 @@ import appRootDir from 'app-root-dir'
 
 const MONTHNAMES = 'Januari_Februari_Maret_April_Mei_Juni_Juli_Agustus_September_Oktober_November_Desember'.split('_')
 
-const REGEX_SECTIONS = /\#{3}.*\n\n- Waktu.*\n- Pukul.*\n- Pemateri.*\n- Slide.*\n- Video.*\n- Registrasi.*\n- Sesi.*\n- Kategori.*\n- Deskripsi.*\n/gm
+const REGEX_SECTIONS = /\#{3}.*\n\n- Waktu.*\n- Pukul.*\n- Pemateri.*\n- Slide.*\n- Video.*\n- Registrasi.*\n- Sesi.*\n- Kategori.*\n- Deskripsi.*/gm
 const REGEX_TITLE = /^\#{3}.*/gm
 const REGEX_DATE = /^- Waktu.*/gm
 const REGEX_TIME = /^- Pukul.*/gm
