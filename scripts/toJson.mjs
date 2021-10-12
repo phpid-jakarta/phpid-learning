@@ -1,7 +1,7 @@
 import path from 'path'
 
 import {
-  parseAllReadmes
+  parseAllSessions
 } from './parser.mjs'
 
 import {
@@ -13,7 +13,7 @@ import constants from './constants.mjs'
 
 (async () => {
   try {
-    const allData = await parseAllReadmes()
+    const allData = await parseAllSessions()
     const fileContent = constructFileContent(allData)
 
     const dirs = [path.resolve(constants.ROOT_DIR, './api')]
@@ -38,4 +38,3 @@ import constants from './constants.mjs'
     console.error('❌ Error execute ./scripts/toJson.js', error)
   }
 })()
-

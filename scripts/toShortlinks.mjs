@@ -1,7 +1,7 @@
 import path from 'path'
 
 import {
-  parseAllReadmes
+  parseAllSessions
 } from './parser.mjs'
 
 import {
@@ -15,7 +15,7 @@ const main = async () => {
     let urlVideos = ''
     let urlSlides = ''
 
-    const allData = await parseAllReadmes()
+    const allData = await parseAllSessions()
     allData.forEach(data => {
       const videos = data.videos
       const slide = data.slide
