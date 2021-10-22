@@ -110,4 +110,5 @@ package-lock.json
 __sapper__/
 .DS_Store
 api/data.js
+api/data-es.js
 api/data.json
