@@ -1,7 +1,7 @@
 import { writable, readable, derived } from 'svelte/store'
 import { getDistinctTags } from '../utils.js'
 
-import data from '../../data-es'
+import data from '../../api/data-es'
 
 export const originData = readable(data.data, function set() {
   return function destroy() {}
