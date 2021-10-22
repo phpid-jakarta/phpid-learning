@@ -75,12 +75,13 @@ jobs:
           echo $d > __sapper__/export/LAST_UPDATED
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v3.7.3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./__sapper__/export
           publish_branch: netlify-pages
           full_commit_message: ${{ github.event.head_commit.message }}
+          force_orphan: true
 
   json_data:
     if: github.repository == 'phpid-jakarta/phpid-learning'
@@ -96,7 +97,7 @@ jobs:
           key: ${{ github.sha }}
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v3.7.3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./api
