@@ -33,9 +33,9 @@ export default {
       "slide": "empty",
       "topic": "Integrasi Payment Gateway dengan CodeIgniter",
       "videos": [
-        "empty"
+        "http://tbp.my.id/?phpidol-142"
       ],
-      "registrasi": "https://fb.me/e/Y2ww6X6R",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/142.jpg",
       "deskripsi": "-",
       "tags": [
