@@ -109,6 +109,5 @@ package-lock.json
 
 __sapper__/
 .DS_Store
-api/*.js
-api/*.ts
-api/*.json
+api/data.js
+api/data.json
