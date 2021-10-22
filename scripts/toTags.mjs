@@ -35,6 +35,8 @@ import constant from './constants.mjs'
       ' '
     )}'`
 
+    modifyScriptTag.scripts.build = `cross-env NODE_ENV=production SAPPER_TIMESTAMP=${Date.now()} sapper build`
+
     writeFile(
       path.resolve(constant.ROOT_DIR, './package.json'),
       JSON.stringify(modifyScriptTag, null, 2)
