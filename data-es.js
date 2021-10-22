@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-10-12",
+    "last_updated": "2021-10-22",
     "total": 143,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -15,9 +15,9 @@ export default {
       "slide": "empty",
       "topic": "Load Testing for Backend Engineer",
       "videos": [
-        "empty"
+        "http://tbp.my.id/?phpidol-143"
       ],
-      "registrasi": "https://fb.me/e/dVQBv1jwm",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/143.jpg",
       "deskripsi": "-",
       "tags": [
