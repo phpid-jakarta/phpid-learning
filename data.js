@@ -1,11 +1,30 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-10-22",
-    "total": 144,
+    "total": 145,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "145",
+      "date": "Selasa, 26 Oktober 2021",
+      "time": "19:00",
+      "dateTime": "2021-10-26 19:00:00 +07:00",
+      "speaker": "Yusuf Fazery - Backend Engineer Codepolitan",
+      "slide": "empty",
+      "topic": "RAD with NO-SQL",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/3ZxzxBUnC",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/145.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "rad",
+        "nosql"
+      ]
+    },
     {
       "id": "144",
       "date": "Jumat, 22 Oktober 2021",
