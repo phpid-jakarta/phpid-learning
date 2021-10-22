@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Lailyn Puad - CTO Kei Medika
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/Y2ww6X6R
+- Video: http://tbp.my.id/?phpidol-142
+- Registrasi: empty
 - Sesi: 142
 - Kategori: codeigniter
 - Deskripsi: -
