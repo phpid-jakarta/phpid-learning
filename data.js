@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-10-24",
+    "last_updated": "2021-10-26",
     "total": 145,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
