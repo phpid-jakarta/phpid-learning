@@ -1,11 +1,30 @@
 export default {
   "meta": {
     "last_updated": "2021-10-26",
-    "total": 145,
+    "total": 146,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "146",
+      "date": "Jumat, 29 Oktober 2021",
+      "time": "19:00",
+      "dateTime": "2021-10-29 19:00:00 +07:00",
+      "speaker": "Firman Brillian - Adira Finance",
+      "slide": "empty",
+      "topic": "Story Telling with Data",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1c5ibiuEg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/146.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "machine-learning",
+        "data-visualization"
+      ]
+    },
     {
       "id": "145",
       "date": "Selasa, 26 Oktober 2021",
