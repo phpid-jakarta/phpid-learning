@@ -18,7 +18,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/12YhUlYLI",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/147.jpg",
       "deskripsi": "-",
       "tags": [
         "aws",
