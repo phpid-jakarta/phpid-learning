@@ -1,11 +1,33 @@
 export default {
   "meta": {
     "last_updated": "2021-10-27",
-    "total": 146,
+    "total": 147,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "147",
+      "date": "Selasa, 2 November 2021",
+      "time": "19:00",
+      "dateTime": "2021-11-02 19:00:00 +07:00",
+      "speaker": "Dwi Fahni Denny - DevOps Lead ZebraX",
+      "slide": "empty",
+      "topic": "Laravel Kubernates (EKS) Deployment Using Terraform & Helmchart",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/12YhUlYLI",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "aws",
+        "laravel",
+        "kubernates",
+        "terraform",
+        "helmchart"
+      ]
+    },
     {
       "id": "146",
       "date": "Jumat, 29 Oktober 2021",
