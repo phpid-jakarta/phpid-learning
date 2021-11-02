@@ -54,7 +54,7 @@ module.exports = {
       "dateTime": "2021-10-29 19:00:00 +07:00",
       "speaker": "Firman Brillian - Adira Finance",
       "slide": "empty",
-      "topic": "Story Telling with Data",
+      "topic": "[Cancelled] Story Telling with Data",
       "videos": [
         "empty"
       ],
