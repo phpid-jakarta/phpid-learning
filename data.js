@@ -34,9 +34,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Laravel Kubernates (EKS) Deployment Using Terraform & Helmchart",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-147"
       ],
-      "registrasi": "https://fb.me/e/12YhUlYLI",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/147.jpg",
       "deskripsi": "-",
       "tags": [
