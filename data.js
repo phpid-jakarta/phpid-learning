@@ -1,11 +1,30 @@
 module.exports = {
   "meta": {
-    "last_updated": "2021-10-27",
-    "total": 147,
+    "last_updated": "2021-11-02",
+    "total": 148,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "148",
+      "date": "Selasa, 9 November 2021",
+      "time": "19:00",
+      "dateTime": "2021-11-09 19:00:00 +07:00",
+      "speaker": "Indra Chaidir - Dosen UBSI",
+      "slide": "empty",
+      "topic": "Teknologi Kampus Online Masa Pandemi",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/94bD1t9V2",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "kampus-online",
+        "ubsi"
+      ]
+    },
     {
       "id": "147",
       "date": "Selasa, 2 November 2021",
