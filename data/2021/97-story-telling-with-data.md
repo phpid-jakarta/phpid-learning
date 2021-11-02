@@ -1,4 +1,4 @@
-### Story Telling with Data
+### [Cancelled] Story Telling with Data
 
 - Waktu: Jumat, 29 Oktober 2021
 - Pukul: 19:00
