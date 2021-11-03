@@ -1,11 +1,30 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-11-03",
-    "total": 148,
+    "total": 149,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "149",
+      "date": "Selasa, 16 November 2021",
+      "time": "19:00",
+      "dateTime": "2021-11-16 19:00:00 +07:00",
+      "speaker": "Dr. Cahyo Darujati - Univ Narotama",
+      "slide": "empty",
+      "topic": "Ekstraksi Fitur Citra dengan Deep Learning",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2WQeA6tdF",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/149.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "kampus-online",
+        "narotama"
+      ]
+    },
     {
       "id": "148",
       "date": "Selasa, 9 November 2021",
