@@ -1,11 +1,32 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-11-03",
-    "total": 150,
+    "total": 151,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "151",
+      "date": "Selasa, 30 November 2021",
+      "time": "19:00",
+      "dateTime": "2021-11-30 19:00:00 +07:00",
+      "speaker": "Herkules - Dosen STMIK Palangkaraya",
+      "slide": "empty",
+      "topic": "Web Engineering Process",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1UeunDgO3",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/151.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "stmik",
+        "palangkaraya",
+        "web",
+        "engineering"
+      ]
+    },
     {
       "id": "150",
       "date": "Selasa, 23 November 2021",
