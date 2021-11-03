@@ -1,0 +1,11 @@
+### Ekstraksi Fitur Citra dengan Deep Learning
+
+- Waktu: Selasa, 16 November 2021
+- Pukul: 19:00
+- Pemateri: Dr. Cahyo Darujati - Univ Narotama
+- Slide: empty
+- Video: empty
+- Registrasi: https://fb.me/e/2WQeA6tdF
+- Sesi: 149
+- Kategori: kampus online, narotama
+- Deskripsi: -
