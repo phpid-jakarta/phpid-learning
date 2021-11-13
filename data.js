@@ -127,7 +127,7 @@ module.exports = {
       ]
     },
     {
-      "id": "147",
+      "id": "146",
       "date": "Jumat, 29 Oktober 2021",
       "time": "19:00",
       "dateTime": "2021-10-29 19:00:00 +07:00",
@@ -138,7 +138,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1c5ibiuEg",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/147.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/146.jpg",
       "deskripsi": "-",
       "tags": [
         "machine-learning",
