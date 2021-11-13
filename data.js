@@ -94,9 +94,9 @@ module.exports = {
       "slide": "empty",
       "topic": "Teknologi Kampus Online Masa Pandemi",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-148"
       ],
-      "registrasi": "https://fb.me/e/94bD1t9V2",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/148.jpg",
       "deskripsi": "-",
       "tags": [
