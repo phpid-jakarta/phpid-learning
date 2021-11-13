@@ -173,9 +173,9 @@ export default {
       "slide": "empty",
       "topic": "Implementasi CI/CD dengan Jenkins",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-144"
       ],
-      "registrasi": "https://fb.me/e/1KlD0mNuj",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/144.jpg",
       "deskripsi": "-",
       "tags": [
