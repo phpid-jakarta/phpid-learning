@@ -6,6 +6,6 @@
 - Slide: empty
 - Video: https://tbp.my.id/?phpidol-146
 - Registrasi: empty
-- Sesi: 146
+- Sesi: 145
 - Kategori: rad, nosql
 - Deskripsi: -
