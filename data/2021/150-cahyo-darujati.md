@@ -1,6 +1,6 @@
 ### Ekstraksi Fitur Citra dengan Deep Learning
 
-- Waktu: Selasa, 16 November 2021
+- Waktu: Selasa, 23 November 2021
 - Pukul: 19:00
 - Pemateri: Dr. Cahyo Darujati - Univ Narotama
 - Slide: empty
