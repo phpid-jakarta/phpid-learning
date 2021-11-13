@@ -78,7 +78,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1szOpWXPX",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/149.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
       "deskripsi": "-",
       "tags": [
         "kampus-online",
