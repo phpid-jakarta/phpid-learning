@@ -1,7 +1,7 @@
 export default {
   "meta": {
     "last_updated": "2021-11-13",
-    "total": 151,
+    "total": 152,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
@@ -45,6 +45,25 @@ export default {
         "unpas",
         "konten",
         "pembelajaran"
+      ]
+    },
+    {
+      "id": "149",
+      "date": "Selasa, 16 November 2021",
+      "time": "19:00",
+      "dateTime": "2021-11-16 19:00:00 +07:00",
+      "speaker": "Sandhika Galih - Web Programming Unpas",
+      "slide": "empty",
+      "topic": "Membuat Konten Pembelajaran Pemrograman",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1szOpWXPX",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/149.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "kampus-online",
+        "narotama"
       ]
     },
     {
