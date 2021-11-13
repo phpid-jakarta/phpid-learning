@@ -146,7 +146,7 @@ module.exports = {
       ]
     },
     {
-      "id": "146",
+      "id": "145",
       "date": "Selasa, 26 Oktober 2021",
       "time": "19:00",
       "dateTime": "2021-10-26 19:00:00 +07:00",
@@ -157,7 +157,7 @@ module.exports = {
         "https://tbp.my.id/?phpidol-146"
       ],
       "registrasi": "empty",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/146.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/145.jpg",
       "deskripsi": "-",
       "tags": [
         "rad",
