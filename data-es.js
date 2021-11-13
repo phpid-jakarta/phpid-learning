@@ -32,6 +32,25 @@ export default {
       "date": "Selasa, 23 November 2021",
       "time": "19:00",
       "dateTime": "2021-11-23 19:00:00 +07:00",
+      "speaker": "Dr. Cahyo Darujati - Univ Narotama",
+      "slide": "empty",
+      "topic": "Ekstraksi Fitur Citra dengan Deep Learning",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2WQeA6tdF",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/150.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "kampus-online",
+        "narotama"
+      ]
+    },
+    {
+      "id": "150",
+      "date": "Selasa, 23 November 2021",
+      "time": "19:00",
+      "dateTime": "2021-11-23 19:00:00 +07:00",
       "speaker": "Sandhika Galih - Dosen Univ. Pasundan",
       "slide": "empty",
       "topic": "Membuat Konten Pembelajaran Pemrograman",
@@ -59,25 +78,6 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1szOpWXPX",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/149.jpg",
-      "deskripsi": "-",
-      "tags": [
-        "kampus-online",
-        "narotama"
-      ]
-    },
-    {
-      "id": "149",
-      "date": "Selasa, 23 November 2021",
-      "time": "19:00",
-      "dateTime": "2021-11-23 19:00:00 +07:00",
-      "speaker": "Dr. Cahyo Darujati - Univ Narotama",
-      "slide": "empty",
-      "topic": "Ekstraksi Fitur Citra dengan Deep Learning",
-      "videos": [
-        "empty"
-      ],
-      "registrasi": "https://fb.me/e/2WQeA6tdF",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/149.jpg",
       "deskripsi": "-",
       "tags": [
