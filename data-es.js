@@ -127,6 +127,25 @@ export default {
       ]
     },
     {
+      "id": "147",
+      "date": "Jumat, 29 Oktober 2021",
+      "time": "19:00",
+      "dateTime": "2021-10-29 19:00:00 +07:00",
+      "speaker": "Firman Brillian - Adira Finance",
+      "slide": "empty",
+      "topic": "[Cancelled] Story Telling with Data",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1c5ibiuEg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/147.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "machine-learning",
+        "data-visualization"
+      ]
+    },
+    {
       "id": "146",
       "date": "Selasa, 26 Oktober 2021",
       "time": "19:00",
@@ -143,25 +162,6 @@ export default {
       "tags": [
         "rad",
         "nosql"
-      ]
-    },
-    {
-      "id": "146",
-      "date": "Jumat, 29 Oktober 2021",
-      "time": "19:00",
-      "dateTime": "2021-10-29 19:00:00 +07:00",
-      "speaker": "Firman Brillian - Adira Finance",
-      "slide": "empty",
-      "topic": "[Cancelled] Story Telling with Data",
-      "videos": [
-        "empty"
-      ],
-      "registrasi": "https://fb.me/e/1c5ibiuEg",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/146.jpg",
-      "deskripsi": "-",
-      "tags": [
-        "machine-learning",
-        "data-visualization"
       ]
     },
     {
