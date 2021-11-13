@@ -7,7 +7,6 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/1szOpWXPX
-- Sesi: 150
+- Sesi: 151
 - Kategori: unpas, konten, pembelajaran
 - Deskripsi: -
-          
