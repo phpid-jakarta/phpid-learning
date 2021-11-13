@@ -1,5 +1,6 @@
+// import path from 'path'
 
-
+import slugify from 'slugify'
 import dayjs from 'dayjs'
 import customParseFormat from 'dayjs/plugin/customParseFormat.js'
 
@@ -7,10 +8,11 @@ import {
   getAllSessionFiles,
   getAllSectionsData,
   getContent,
-  getCoverUrl
+  getCoverUrl,
+  // writeFile,
 } from './utils.mjs'
 
-import constant from './constants.mjs'
+import constants from './constants.mjs'
 
 import 'dayjs/locale/id.js'
 dayjs.extend(customParseFormat)
@@ -23,20 +25,20 @@ export const parseSessionSection = async (sections) => {
     sections.forEach((ctx) => {
       // exclude template section
       if (!ctx.startsWith('### Template')) {
-        const videosRaw = getContent(ctx, constant.REGEX_VIDEO, '- Video:')
+        const videosRaw = getContent(ctx, constants.REGEX_VIDEO, '- Video:')
         const videos = videosRaw
           .split(',')
           .map((i) => i.replace('- ', '').trim())
-        const date = getContent(ctx, constant.REGEX_DATE, '- Waktu:')
-        const time = getContent(ctx, constant.REGEX_TIME, '- Pukul:')
-        const speaker = getContent(ctx, constant.REGEX_SPEAKER, '- Pemateri:')
-        const slide = getContent(ctx, constant.REGEX_SLIDE, '- Slide:')
-        const topic = getContent(ctx, constant.REGEX_TITLE, '### ')
-        const register = getContent(ctx, constant.REGEX_REGISTRASI, '- Registrasi:')
-        const sesi = getContent(ctx, constant.REGEX_SESI, '- Sesi:')
+        const date = getContent(ctx, constants.REGEX_DATE, '- Waktu:')
+        const time = getContent(ctx, constants.REGEX_TIME, '- Pukul:')
+        const speaker = getContent(ctx, constants.REGEX_SPEAKER, '- Pemateri:')
+        const slide = getContent(ctx, constants.REGEX_SLIDE, '- Slide:')
+        const topic = getContent(ctx, constants.REGEX_TITLE, '### ')
+        const register = getContent(ctx, constants.REGEX_REGISTRASI, '- Registrasi:')
+        const sesi = getContent(ctx, constants.REGEX_SESI, '- Sesi:')
         const cover = getCoverUrl(sesi)
-        const deskripsi = getContent(ctx, constant.REGEX_DESKRIPSI, '- Deskripsi:')
-        const kategori = getContent(ctx, constant.REGEX_KATEGORI, '- Kategori:')
+        const deskripsi = getContent(ctx, constants.REGEX_DESKRIPSI, '- Deskripsi:')
+        const kategori = getContent(ctx, constants.REGEX_KATEGORI, '- Kategori:')
         const tags = kategori
           .split(',')
           .map((i) => i.trim().replace('/', '-').replace(' ', '-'))
@@ -46,6 +48,15 @@ export const parseSessionSection = async (sections) => {
         const datetime = `${dateWithoutDay.trim()} ${time.trim()}`
         const dateTimeObj = dayjs(`${datetime}`, 'D MMMM YYYY HH:mm', 'id').locale('id').format('YYYY-MM-DD HH:mm:ss')
 
+        const slug = slugify(topic, {
+          replacement: '-',  // replace spaces with replacement character, defaults to `-`
+          remove: undefined, // remove characters that match regex, defaults to `undefined`
+          lower: true,      // convert to lower case, defaults to `false`
+          strict: true,     // strip special characters except replacement, defaults to `false`
+          locale: 'vi',       // language code of the locale to use
+          trim: true         // trim leading and trailing replacement chars, defaults to `true`
+        })
+
         const data = {
           id: sesi,
           date: date,
@@ -54,12 +65,39 @@ export const parseSessionSection = async (sections) => {
           speaker: speaker,
           slide: slide,
           topic: topic,
+          slug: slug,
           videos: videos,
           registrasi: register,
           cover: cover,
           deskripsi: deskripsi,
           tags: tags
         }
+
+//         let sesiInt = parseInt(sesi);
+//         let sesiWithZero = sesiInt;
+//         if (sesiInt < 10) {
+//           sesiWithZero = `00${sesiInt}`;
+//         } else if (sesiInt < 100) {
+//           sesiWithZero = `0${sesiInt}`;
+//         } else if (sesiInt > 100) {
+//           sesiWithZero = `${sesiInt}`;
+//         }
+//         writeFile(
+//           path.resolve(path.resolve(constants.ROOT_DIR, './data-new'), `${sesiWithZero}-${slug}.md`),
+//           `
+// ### ${topic}
+
+// - Waktu: ${date}
+// - Pukul: ${time}
+// - Pemateri: ${speaker}
+// - Slide: ${slide}
+// - Video: ${videosRaw}
+// - Registrasi: ${register}
+// - Sesi: ${sesi}
+// - Kategori: ${kategori}
+// - Deskripsi: ${deskripsi}
+//           `
+//         )
 
         allData.push(data)
       }
