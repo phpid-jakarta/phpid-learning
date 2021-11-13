@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Indra Chaidir - Dosen UBSI
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/94bD1t9V2
+- Video: https://tbp.my.id/?phpidol-148
+- Registrasi: empty
 - Sesi: 148
 - Kategori: kampus online, ubsi
 - Deskripsi: -
