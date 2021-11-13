@@ -39,7 +39,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/2WQeA6tdF",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/150.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
       "deskripsi": "-",
       "tags": [
         "kampus-online",
@@ -58,7 +58,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1szOpWXPX",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/150.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
       "deskripsi": "-",
       "tags": [
         "unpas",
