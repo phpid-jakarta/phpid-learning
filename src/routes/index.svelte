@@ -40,7 +40,7 @@
     {/if}
     {#if $showData.length > 0}
       <div id="content-speaker">
-        {#each $showData.slice($offsetPage, $offsetPage + $perPage) as item (item.id)}
+        {#each $showData.slice($offsetPage, $offsetPage + $perPage) as item (`${item.id}${item.slug}`)}
           <CardItem {item} />
         {/each}
       </div>

@@ -46,7 +46,7 @@
   <article class="app-content">
     {#if $allByTags.length > 0}
       <div id="content-speaker">
-        {#each $allByTags as item (item.id)}
+        {#each $allByTags as item (`${item.id}${item.slug}`)}
           <CardItem {item} />
         {/each}
       </div>

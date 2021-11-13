@@ -27,7 +27,7 @@
   <article class="app-content">
     {#if $allByKeyword.length > 0}
       <div id="content-speaker">
-        {#each $allByKeyword as item (item.id)}
+        {#each $allByKeyword as item (`${item.id}${item.slug}`)}
           <CardItem {item} />
         {/each}
       </div>
