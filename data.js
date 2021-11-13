@@ -14,6 +14,7 @@ module.exports = {
       "speaker": "Herkules - Dosen STMIK Palangkaraya",
       "slide": "empty",
       "topic": "Web Engineering Process",
+      "slug": "web-engineering-process",
       "videos": [
         "empty"
       ],
@@ -35,6 +36,7 @@ module.exports = {
       "speaker": "Dr. Cahyo Darujati - Univ Narotama",
       "slide": "empty",
       "topic": "Ekstraksi Fitur Citra dengan Deep Learning",
+      "slug": "ekstraksi-fitur-citra-dengan-deep-learning",
       "videos": [
         "empty"
       ],
@@ -54,6 +56,7 @@ module.exports = {
       "speaker": "Sandhika Galih - Dosen Univ. Pasundan",
       "slide": "empty",
       "topic": "Membuat Konten Pembelajaran Pemrograman",
+      "slug": "membuat-konten-pembelajaran-pemrograman",
       "videos": [
         "empty"
       ],
@@ -74,6 +77,7 @@ module.exports = {
       "speaker": "Sandhika Galih - Web Programming Unpas",
       "slide": "empty",
       "topic": "Membuat Konten Pembelajaran Pemrograman",
+      "slug": "membuat-konten-pembelajaran-pemrograman",
       "videos": [
         "empty"
       ],
@@ -93,6 +97,7 @@ module.exports = {
       "speaker": "Indra Chaidir - Dosen UBSI",
       "slide": "empty",
       "topic": "Teknologi Kampus Online Masa Pandemi",
+      "slug": "teknologi-kampus-online-masa-pandemi",
       "videos": [
         "https://tbp.my.id/?phpidol-148"
       ],
@@ -112,6 +117,7 @@ module.exports = {
       "speaker": "Dwi Fahni Denny - DevOps Lead ZebraX",
       "slide": "empty",
       "topic": "Laravel Kubernates (EKS) Deployment Using Terraform & Helmchart",
+      "slug": "laravel-kubernates-eks-deployment-using-terraform-and-helmchart",
       "videos": [
         "https://tbp.my.id/?phpidol-147"
       ],
@@ -134,6 +140,7 @@ module.exports = {
       "speaker": "Firman Brillian - Adira Finance",
       "slide": "empty",
       "topic": "[Cancelled] Story Telling with Data",
+      "slug": "cancelled-story-telling-with-data",
       "videos": [
         "empty"
       ],
@@ -153,6 +160,7 @@ module.exports = {
       "speaker": "Yusuf Fazery - Backend Engineer Codepolitan",
       "slide": "empty",
       "topic": "RAD with NO-SQL",
+      "slug": "rad-with-no-sql",
       "videos": [
         "https://tbp.my.id/?phpidol-145"
       ],
@@ -172,6 +180,7 @@ module.exports = {
       "speaker": "Agung Tri Wibowo - CTO Teknologi Aplikasi Sejahtera",
       "slide": "empty",
       "topic": "Implementasi CI/CD dengan Jenkins",
+      "slug": "implementasi-cicd-dengan-jenkins",
       "videos": [
         "https://tbp.my.id/?phpidol-144"
       ],
@@ -191,6 +200,7 @@ module.exports = {
       "speaker": "Muhammad Rizal - Backend Engineer Lomotif",
       "slide": "empty",
       "topic": "Load Testing for Backend Engineer",
+      "slug": "load-testing-for-backend-engineer",
       "videos": [
         "http://tbp.my.id/?phpidol-143"
       ],
@@ -209,6 +219,7 @@ module.exports = {
       "speaker": "Lailyn Puad - CTO Kei Medika",
       "slide": "empty",
       "topic": "Integrasi Payment Gateway dengan CodeIgniter",
+      "slug": "integrasi-payment-gateway-dengan-codeigniter",
       "videos": [
         "http://tbp.my.id/?phpidol-142"
       ],
@@ -227,6 +238,7 @@ module.exports = {
       "speaker": "Samsul Arifin - Software Engineer Refactory",
       "slide": "empty",
       "topic": "MicroFrontend With React",
+      "slug": "microfrontend-with-react",
       "videos": [
         "https://tbp.my.id/?phpidol-141"
       ],
@@ -246,6 +258,7 @@ module.exports = {
       "speaker": "Alvin Alexius",
       "slide": "empty",
       "topic": "Introduction to Amazon S3",
+      "slug": "introduction-to-amazon-s3",
       "videos": [
         "https://tbp.my.id/?phpidol-140"
       ],
@@ -266,6 +279,7 @@ module.exports = {
       "speaker": "David Yulianto",
       "slide": "empty",
       "topic": "HIJRAH APLIKASI AKUNTING KE SAAS. MODEL BISNIS MASA DEPAN",
+      "slug": "hijrah-aplikasi-akunting-ke-saas-model-bisnis-masa-depan",
       "videos": [
         "https://tbp.my.id/?phpidol-139"
       ],
@@ -286,6 +300,7 @@ module.exports = {
       "speaker": "Zeembry Neo",
       "slide": "empty",
       "topic": "JENIS-JENIS KONTEN MARKETING UNTUK MENINGKATKAN TRAFFIC",
+      "slug": "jenis-jenis-konten-marketing-untuk-meningkatkan-traffic",
       "videos": [
         "https://tbp.my.id/?phpidol-138"
       ],
@@ -306,6 +321,7 @@ module.exports = {
       "speaker": "Ade Syah Lubis",
       "slide": "empty",
       "topic": "CAREER HACK: FROM PHP DEVELOPER TO CEO (Reinvented)",
+      "slug": "career-hack-from-php-developer-to-ceo-reinvented",
       "videos": [
         "https://tbp.my.id/?phpidol-137"
       ],
@@ -326,6 +342,7 @@ module.exports = {
       "speaker": "Norman Sasono",
       "slide": "empty",
       "topic": "BEING BETTER ENGINEERS WINNING AS SOFTWARE ENGINEERS",
+      "slug": "being-better-engineers-winning-as-software-engineers",
       "videos": [
         "https://tbp.my.id/?phpidol-136"
       ],
@@ -346,6 +363,7 @@ module.exports = {
       "speaker": "Arga Dinata",
       "slide": "empty",
       "topic": "THE ART OF PRICING: PROJECT vs PRODUCT",
+      "slug": "the-art-of-pricing-project-vs-product",
       "videos": [
         "https://tbp.my.id/?phpidol-135"
       ],
@@ -366,6 +384,7 @@ module.exports = {
       "speaker": "Rendra Toro",
       "slide": "empty",
       "topic": "MY JOURNEY FROM 'COPAS' DEVELOPER TO CTO",
+      "slug": "my-journey-from-copas-developer-to-cto",
       "videos": [
         "https://tbp.my.id/?phpidol-134"
       ],
@@ -386,6 +405,7 @@ module.exports = {
       "speaker": "Dondy Bappedyanto - CEO Biznet Gio/Neo",
       "slide": "empty",
       "topic": "BEYOND DEVELOPER",
+      "slug": "beyond-developer",
       "videos": [
         "https://tbp.my.id/?phpidol-133"
       ],
@@ -406,6 +426,7 @@ module.exports = {
       "speaker": "Rendy Maulana - CEO QWORDS Indonesia",
       "slide": "empty",
       "topic": "BISNIS TEKNOLOGI UNTUK STARTUP",
+      "slug": "bisnis-teknologi-untuk-startup",
       "videos": [
         "https://tbp.my.id/?phpidol-132"
       ],
@@ -426,6 +447,7 @@ module.exports = {
       "speaker": "Darsono",
       "slide": "empty",
       "topic": "Sekelumit Seluk-Beluk IT di dunia Manufakturing",
+      "slug": "sekelumit-seluk-beluk-it-di-dunia-manufakturing",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159420496541101"
       ],
@@ -445,6 +467,7 @@ module.exports = {
       "speaker": "Firman Brilian",
       "slide": "empty",
       "topic": "Data Analyst USE KNIME",
+      "slug": "data-analyst-use-knime",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159412574056101/"
       ],
@@ -464,6 +487,7 @@ module.exports = {
       "speaker": "Aprizon",
       "slide": "empty",
       "topic": "PHP Modernization with Microsoft Azure",
+      "slug": "php-modernization-with-microsoft-azure",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159407055476101/"
       ],
@@ -483,6 +507,7 @@ module.exports = {
       "speaker": "Giri Suhardi - Head Udemy ID",
       "slide": "empty",
       "topic": "Kebutuhan Lifelong Learning & Top Skill di Masa Depan",
+      "slug": "kebutuhan-lifelong-learning-and-top-skill-di-masa-depan",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159401277721101/"
       ],
@@ -502,6 +527,7 @@ module.exports = {
       "speaker": "Andoyo",
       "slide": "empty",
       "topic": "Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha",
+      "slug": "tips-pendirian-perusahaan-untuk-programmer-yang-ingin-berwirausaha",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159399553346101/"
       ],
@@ -520,6 +546,7 @@ module.exports = {
       "speaker": "Harjito - Dosen Jurusan Kimia Universitas Negeri Semarang",
       "slide": "empty",
       "topic": "Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?",
+      "slug": "mengenal-ansible-kalau-bisa-dipersulit-kenapa-dipermudah",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159393340486101/"
       ],
@@ -540,6 +567,7 @@ module.exports = {
       "speaker": "Iskandar Soesman - Cofounder awan.io",
       "slide": "empty",
       "topic": "Kubernates for PHP Developer",
+      "slug": "kubernates-for-php-developer",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159383799806101/"
       ],
@@ -559,6 +587,7 @@ module.exports = {
       "speaker": "Stenly Cicero Takarendehang",
       "slide": "empty",
       "topic": "Technopreneur Kampung",
+      "slug": "technopreneur-kampung",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159377500901101"
       ],
@@ -577,6 +606,7 @@ module.exports = {
       "speaker": "Nur Hidayat",
       "slide": "empty",
       "topic": "Bingung Bikin Program Mulai Dari Mana?",
+      "slug": "bingung-bikin-program-mulai-dari-mana",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159371531086101/"
       ],
@@ -596,6 +626,7 @@ module.exports = {
       "speaker": "Fadhil Dzikri",
       "slide": "empty",
       "topic": "Cara Menjadi Affiliater Marketer Sukses",
+      "slug": "cara-menjadi-affiliater-marketer-sukses",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159362800441101/"
       ],
@@ -616,6 +647,7 @@ module.exports = {
       "speaker": "Achmad Solichin",
       "slide": "empty",
       "topic": "Mari Mengenal Logika Fuzzy, Konsep & Implementasinya",
+      "slug": "mari-mengenal-logika-fuzzy-konsep-and-implementasinya",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159352831946101/"
       ],
@@ -637,6 +669,7 @@ module.exports = {
       "speaker": "Wida Sari",
       "slide": "empty",
       "topic": "Spreadsheet Tips & Trick Untuk Umum dan Developer",
+      "slug": "spreadsheet-tips-and-trick-untuk-umum-dan-developer",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159343957791101/"
       ],
@@ -657,6 +690,7 @@ module.exports = {
       "speaker": "Jauhari Malik",
       "slide": "empty",
       "topic": "Mager Entry Data - Tips Sesat untuk Pemalas",
+      "slug": "mager-entry-data-tips-sesat-untuk-pemalas",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159337757201101/"
       ],
@@ -676,6 +710,7 @@ module.exports = {
       "speaker": "Ivan Kristianto",
       "slide": "empty",
       "topic": "Setup Modern WordPress Project for Enterprise",
+      "slug": "setup-modern-wordpress-project-for-enterprise",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159333416631101/"
       ],
@@ -696,6 +731,7 @@ module.exports = {
       "speaker": "Fitra Aditya",
       "slide": "empty",
       "topic": "Aplikasi Video Call Menggunakan Web RTC dan PHP",
+      "slug": "aplikasi-video-call-menggunakan-web-rtc-dan-php",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159329185141101/"
       ],
@@ -715,6 +751,7 @@ module.exports = {
       "speaker": "Artha Nugraha Jonar",
       "slide": "empty",
       "topic": "Warehouse Management System",
+      "slug": "warehouse-management-system",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159316500306101/"
       ],
@@ -735,6 +772,7 @@ module.exports = {
       "speaker": "Tigor Manurung",
       "slide": "empty",
       "topic": "Software Development Process in Banking Industry",
+      "slug": "software-development-process-in-banking-industry",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159314423336101"
       ],
@@ -753,6 +791,7 @@ module.exports = {
       "speaker": "Petra Novandi Barus",
       "slide": "empty",
       "topic": "Membuat dan Menganalisis Data User Tracking Dengan AWS",
+      "slug": "membuat-dan-menganalisis-data-user-tracking-dengan-aws",
       "videos": [
         "https://web.facebook.com/groups/phpid/posts/10159307995866101/"
       ],
@@ -773,6 +812,7 @@ module.exports = {
       "speaker": "Tita Puspitasari",
       "slide": "empty",
       "topic": "Membangun Startup untuk Bantu Wujudkan Inklusifitas Bagi Tuli",
+      "slug": "membangun-startup-untuk-bantu-wujudkan-inklusifitas-bagi-tuli",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159298222891101/"
       ],
@@ -792,6 +832,7 @@ module.exports = {
       "speaker": "Rijal Asepnugraha",
       "slide": "empty",
       "topic": "Implementasi gRPC Web",
+      "slug": "implementasi-grpc-web",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159287908606101/"
       ],
@@ -811,6 +852,7 @@ module.exports = {
       "speaker": "Akbar Abustang",
       "slide": "empty",
       "topic": "Dockerized a Laravel Application",
+      "slug": "dockerized-a-laravel-application",
       "videos": [
         "https://www.facebook.com/groups/phpid/posts/10159283861421101/"
       ],
@@ -831,6 +873,7 @@ module.exports = {
       "speaker": "Harjito - Dosen Jurusan Kimia Universitas Negeri Semarang",
       "slide": "empty",
       "topic": "Otomasi install LEMP di Centos-7 dengan bash command",
+      "slug": "otomasi-install-lemp-di-centos-7-dengan-bash-command",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159268665836101/"
       ],
@@ -852,6 +895,7 @@ module.exports = {
       "speaker": "Pudyasto Adi Wibowo",
       "slide": "empty",
       "topic": "Langkah Awal Menjadi Web Developer PHP",
+      "slug": "langkah-awal-menjadi-web-developer-php",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159261666346101/"
       ],
@@ -871,6 +915,7 @@ module.exports = {
       "speaker": "Jauhari Malik",
       "slide": "empty",
       "topic": "Tips Sesat Memaksimalkan Performance Website Jilid II",
+      "slug": "tips-sesat-memaksimalkan-performance-website-jilid-ii",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159253033001101/"
       ],
@@ -890,6 +935,7 @@ module.exports = {
       "speaker": "Jauhari Malik",
       "slide": "empty",
       "topic": "Tips Sesat Memaksimalkan Performance Website",
+      "slug": "tips-sesat-memaksimalkan-performance-website",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159245291321101/"
       ],
@@ -909,6 +955,7 @@ module.exports = {
       "speaker": "Rulli Indrawan - CEO Pondok IT",
       "slide": "empty",
       "topic": "Sharing Pondok Programmer",
+      "slug": "sharing-pondok-programmer",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159235770136101/"
       ],
@@ -928,6 +975,7 @@ module.exports = {
       "speaker": "Welly Tambunan - CTO Scifin Technologies",
       "slide": "empty",
       "topic": "From PHP To Data Engineer",
+      "slug": "from-php-to-data-engineer",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159226006301101/"
       ],
@@ -947,6 +995,7 @@ module.exports = {
       "speaker": "Mas Kofa - Programmer Emperan",
       "slide": "empty",
       "topic": "(Part #2) Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)",
+      "slug": "part-2-delphi-membangun-mobile-apps-menggunakan-web-service-wsquery",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159223759281101/"
       ],
@@ -967,6 +1016,7 @@ module.exports = {
       "speaker": "Gunawan Wibisono",
       "slide": "empty",
       "topic": "PHP Native Series: Bikin File Excel",
+      "slug": "php-native-series-bikin-file-excel",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159219416201101/"
       ],
@@ -987,6 +1037,7 @@ module.exports = {
       "speaker": "Mas Kofa - Programmer Emperan",
       "slide": "empty",
       "topic": "Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)",
+      "slug": "delphi-membangun-mobile-apps-menggunakan-web-service-wsquery",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159214797896101/"
       ],
@@ -1007,6 +1058,7 @@ module.exports = {
       "speaker": "Jesica Wibowo - Senior Recruitment Consultant Geek Hunter",
       "slide": "empty",
       "topic": "Career Preparation",
+      "slug": "career-preparation",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159210099871101/"
       ],
@@ -1026,6 +1078,7 @@ module.exports = {
       "speaker": "Dolly Aswin - Director Xtend Indonesia",
       "slide": "empty",
       "topic": "PHP The Wrong Way",
+      "slug": "php-the-wrong-way",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159195446721101/"
       ],
@@ -1045,6 +1098,7 @@ module.exports = {
       "speaker": "Peter Kambey - PHPID",
       "slide": "empty",
       "topic": "Dibalik Layar PHPID Online Learning",
+      "slug": "dibalik-layar-phpid-online-learning",
       "videos": [
         "empty"
       ],
@@ -1064,6 +1118,7 @@ module.exports = {
       "speaker": "Verly Ananda - Freelance",
       "slide": "empty",
       "topic": "Chase Your Dream",
+      "slug": "chase-your-dream",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159160700561101/"
       ],
@@ -1082,6 +1137,7 @@ module.exports = {
       "speaker": "Petra Novandi Barus - ex CTO UrbanIndo.com",
       "slide": "empty",
       "topic": "Pengalaman Membangun Startup dengan PHP",
+      "slug": "pengalaman-membangun-startup-dengan-php",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159158319971101/"
       ],
@@ -1101,6 +1157,7 @@ module.exports = {
       "speaker": "Fatah Iskandar Akbar - CEO & Founder doktersiaga",
       "slide": "empty",
       "topic": "From Engineer to be Technopreneur",
+      "slug": "from-engineer-to-be-technopreneur",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159156063796101/"
       ],
@@ -1120,6 +1177,7 @@ module.exports = {
       "speaker": "Nafies Luthfi - Freelance Web Developer",
       "slide": "empty",
       "topic": "Strategi Marketing untuk Programmer Freelance",
+      "slug": "strategi-marketing-untuk-programmer-freelance",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159153888986101/"
       ],
@@ -1139,6 +1197,7 @@ module.exports = {
       "speaker": "Muhammad Singgih ZA, coFounder Codepolitan",
       "slide": "empty",
       "topic": "Seni Negosiasi",
+      "slug": "seni-negosiasi",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159151635886101/"
       ],
@@ -1158,6 +1217,7 @@ module.exports = {
       "speaker": "Aris Ripandi - Web Developer / PT. Bening Guru Semesta",
       "slide": "empty",
       "topic": "JAMStack Untuk PHP Developer",
+      "slug": "jamstack-untuk-php-developer",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159149179016101"
       ],
@@ -1177,6 +1237,7 @@ module.exports = {
       "speaker": "Rio Astamal - Founder BelajarAWS.com",
       "slide": "empty",
       "topic": "Memahami Serangan XSS dan CSRF dengan Simulasi Studi Kasus",
+      "slug": "memahami-serangan-xss-dan-csrf-dengan-simulasi-studi-kasus",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159146901606101/"
       ],
@@ -1197,6 +1258,7 @@ module.exports = {
       "speaker": "Firman Brilian - Data Management & Modelling, PT hutchison 3 ID",
       "slide": "empty",
       "topic": "Hadoop Basic",
+      "slug": "hadoop-basic",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159144287736101/"
       ],
@@ -1217,6 +1279,7 @@ module.exports = {
       "speaker": "Mas Elkhanza YASKI, SIMRS Khanza",
       "slide": "empty",
       "topic": "Strategi Pengembangan SIMRS berbasis open source",
+      "slug": "strategi-pengembangan-simrs-berbasis-open-source",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159141920791101/"
       ],
@@ -1236,6 +1299,7 @@ module.exports = {
       "speaker": "Falaha Suprapto - Dosen Universitas Telkom",
       "slide": "empty",
       "topic": "Prosedural SQL",
+      "slug": "prosedural-sql",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159139616976101/"
       ],
@@ -1255,6 +1319,7 @@ module.exports = {
       "speaker": "Fitra Aditya - Lead Backend Engineer di HappyFresh",
       "slide": "empty",
       "topic": "Membuat Fitur Pencarian Menggunakan Meilisearch",
+      "slug": "membuat-fitur-pencarian-menggunakan-meilisearch",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159137462931101"
       ],
@@ -1274,6 +1339,7 @@ module.exports = {
       "speaker": "Chandika - CTO & Co-founder Rumah Komunitas",
       "slide": "empty",
       "topic": "SVG untuk e-commerce",
+      "slug": "svg-untuk-e-commerce",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159134611051101/"
       ],
@@ -1293,6 +1359,7 @@ module.exports = {
       "speaker": "Luri Darmawan - coFounder Carik & Ajaro",
       "slide": "empty",
       "topic": "The Essential Art of NLP in Chatbot Ecosystem",
+      "slug": "the-essential-art-of-nlp-in-chatbot-ecosystem",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159132129901101/"
       ],
@@ -1315,6 +1382,7 @@ module.exports = {
       "speaker": "Randy Vianda Putra - Frontend Lead Work & Life Beyond",
       "slide": "empty",
       "topic": "Step by Step Guide to Becoming FrontEnd Developer",
+      "slug": "step-by-step-guide-to-becoming-frontend-developer",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159129622411101/"
       ],
@@ -1333,6 +1401,7 @@ module.exports = {
       "speaker": "Dyan Galih Nugroho - PT. Mitrais Indonesia",
       "slide": "empty",
       "topic": "Malas Coding dengan Laravel Framework",
+      "slug": "malas-coding-dengan-laravel-framework",
       "videos": [
         "https://www.facebook.com/events/456461055587971"
       ],
@@ -1351,6 +1420,7 @@ module.exports = {
       "speaker": "Yoshida Sari - Founder/CEO Codinglab & Codercamp",
       "slide": "https://www.dropbox.com/s/fbwksblqts7a5zc/Presentasi%20project%20management.pptx?dl=0#",
       "topic": "Project Management for Software Development",
+      "slug": "project-management-for-software-development",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159124810991101/"
       ],
@@ -1370,6 +1440,7 @@ module.exports = {
       "speaker": "Abu Fukayna Nugraha",
       "slide": "empty",
       "topic": "Wordpress Theme Development with Vuejs and Sage",
+      "slug": "wordpress-theme-development-with-vuejs-and-sage",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159122783636101/"
       ],
@@ -1390,6 +1461,7 @@ module.exports = {
       "speaker": "Prayudi Utomo - Head of Kolla Education",
       "slide": "empty",
       "topic": "Full-Stack UX",
+      "slug": "full-stack-ux",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159120545081101/"
       ],
@@ -1408,6 +1480,7 @@ module.exports = {
       "speaker": "Yusuf Hadiwinata - VP Operations & Services Biznet Gio",
       "slide": "https://www.slideshare.net/isnuryusuf/phpidol80-kubernetes-101-for-php-developer-yusuf-hadiwinata-vp-operations-services-biznet-gio-nusantara",
       "topic": "Kubernetes 101 for PHP Developer",
+      "slug": "kubernetes-101-for-php-developer",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159095971451101/"
       ],
@@ -1428,6 +1501,7 @@ module.exports = {
       "speaker": "Freddy Munandar",
       "slide": "https://drive.google.com/file/d/1tlWipIBaQawAQTXrPe9GioWxAnHmC7vL/view",
       "topic": "Test-Driven Development Part #2",
+      "slug": "test-driven-development-part-2",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159093254666101/"
       ],
@@ -1446,6 +1520,7 @@ module.exports = {
       "speaker": "Petra Novandi Barus",
       "slide": "empty",
       "topic": "Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning",
+      "slug": "membangun-fitur-personalisasi-rekomendasi-tanpa-pengalaman-machine-learning",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159090910496101/"
       ],
@@ -1465,6 +1540,7 @@ module.exports = {
       "speaker": "Gunawan Wibisono",
       "slide": "empty",
       "topic": "PHP Native Series: Datatable",
+      "slug": "php-native-series-datatable",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159088394711101/"
       ],
@@ -1483,6 +1559,7 @@ module.exports = {
       "speaker": "Rijal Asepnugroho",
       "slide": "empty",
       "topic": "gRPC in Go, NodeJS and PHP",
+      "slug": "grpc-in-go-nodejs-and-php",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159085893976101/"
       ],
@@ -1504,6 +1581,7 @@ module.exports = {
       "speaker": "Arieditya -  Ruang Guru",
       "slide": "empty",
       "topic": "Jomblo? Ngelamar Yuk! Job Applying 101",
+      "slug": "jomblo-ngelamar-yuk-job-applying-101",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159080477061101/"
       ],
@@ -1524,6 +1602,7 @@ module.exports = {
       "speaker": "Achmad Solichin",
       "slide": "empty",
       "topic": "PHP-ML Metode Naive Bayes",
+      "slug": "php-ml-metode-naive-bayes",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159078057651101/"
       ],
@@ -1543,6 +1622,7 @@ module.exports = {
       "speaker": "Fitra Aditya",
       "slide": "empty",
       "topic": "Mengelola Workflow Menggunakan Airflow",
+      "slug": "mengelola-workflow-menggunakan-airflow",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159075532441101/"
       ],
@@ -1562,6 +1642,7 @@ module.exports = {
       "speaker": "Irfan Maulana",
       "slide": "empty",
       "topic": "Bongkar Dapur Webnya #PHPID-OL",
+      "slug": "bongkar-dapur-webnya-phpid-ol",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159073242061101/"
       ],
@@ -1581,6 +1662,7 @@ module.exports = {
       "speaker": "Bayu Hendra Winata",
       "slide": "empty",
       "topic": "Mengukur Kompleksitas Kode",
+      "slug": "mengukur-kompleksitas-kode",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159071085661101/"
       ],
@@ -1599,6 +1681,7 @@ module.exports = {
       "speaker": "Agit Naeta",
       "slide": "empty",
       "topic": "IT Governance & User Acceptance Test",
+      "slug": "it-governance-and-user-acceptance-test",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159066765291101/"
       ],
@@ -1618,6 +1701,7 @@ module.exports = {
       "speaker": "Taufan Aditya | CEO Refactory",
       "slide": "empty",
       "topic": "Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory",
+      "slug": "bagaimana-kami-menggunakan-php-sebagai-bagian-dari-platform-solusi-pandemi-di-refactory",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159058364621101/"
       ],
@@ -1637,6 +1721,7 @@ module.exports = {
       "speaker": "Nur Hidayat",
       "slide": "empty",
       "topic": "MySQL 8.0 Replication & Clustering",
+      "slug": "mysql-80-replication-and-clustering",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159053598196101"
       ],
@@ -1656,6 +1741,7 @@ module.exports = {
       "speaker": "Riza Fahmi - CoFounder Hacktiv8",
       "slide": "empty",
       "topic": "Bekerja Jarak Jauh. Tantangan, Persiapan & Peluang",
+      "slug": "bekerja-jarak-jauh-tantangan-persiapan-and-peluang",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159051164011101/"
       ],
@@ -1675,6 +1761,7 @@ module.exports = {
       "speaker": "Andoyo - CEO Java Web Media",
       "slide": "empty",
       "topic": "Tips dan Trik Menerima Proyek Website untuk Pemula",
+      "slug": "tips-dan-trik-menerima-proyek-website-untuk-pemula",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159046435271101/"
       ],
@@ -1694,6 +1781,7 @@ module.exports = {
       "speaker": "Yoga Hanggara",
       "slide": "empty",
       "topic": "Teknologi Dibalik Layar Penanganan Pandemi (PIKOBAR)",
+      "slug": "teknologi-dibalik-layar-penanganan-pandemi-pikobar",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159044088881101/"
       ],
@@ -1712,6 +1800,7 @@ module.exports = {
       "speaker": "Umar Said Habibulloh",
       "slide": "empty",
       "topic": "Headless CMS",
+      "slug": "headless-cms",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159041836426101/"
       ],
@@ -1731,6 +1820,7 @@ module.exports = {
       "speaker": "Irfan Maulana",
       "slide": "https://speakerdeck.com/mazipan/membuat-laporan-kecepatan-web-untuk-blog",
       "topic": "Membuat Laporan Kecepatan Web untuk Blog Pribadi",
+      "slug": "membuat-laporan-kecepatan-web-untuk-blog-pribadi",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159038292141101/"
       ],
@@ -1749,6 +1839,7 @@ module.exports = {
       "speaker": "Farida",
       "slide": "empty",
       "topic": "Data Visualization",
+      "slug": "data-visualization",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159035778651101/"
       ],
@@ -1767,6 +1858,7 @@ module.exports = {
       "speaker": "Chandika Nurdiansyah",
       "slide": "empty",
       "topic": "Mending Rakit PC",
+      "slug": "mending-rakit-pc",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159025465916101/"
       ],
@@ -1785,6 +1877,7 @@ module.exports = {
       "speaker": "Petra Novandi Barus",
       "slide": "empty",
       "topic": "Deploy & Test Aplikasi Container Laravel dgn Amazon ECS & Github Actions",
+      "slug": "deploy-and-test-aplikasi-container-laravel-dgn-amazon-ecs-and-github-actions",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159020631611101/"
       ],
@@ -1805,6 +1898,7 @@ module.exports = {
       "speaker": "Ade Syah Lubis - CEO Niaga Hoster Indonesia",
       "slide": "empty",
       "topic": "Career Hack: From PHP Developer to CEO",
+      "slug": "career-hack-from-php-developer-to-ceo",
       "videos": [
         "empty"
       ],
@@ -1824,6 +1918,7 @@ module.exports = {
       "speaker": "Arie Wijayanto",
       "slide": "empty",
       "topic": "PHP dan Mikrotik API",
+      "slug": "php-dan-mikrotik-api",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10159000684106101"
       ],
@@ -1844,6 +1939,7 @@ module.exports = {
       "speaker": "Achmad Mardiansyah",
       "slide": "empty",
       "topic": "Data Analytics with DBMS",
+      "slug": "data-analytics-with-dbms",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10158983813231101"
       ],
@@ -1863,6 +1959,7 @@ module.exports = {
       "speaker": "Yohanes Raymond",
       "slide": "empty",
       "topic": "Rapid Frontend Ninja Development with NodeJS & CSS Frameworks",
+      "slug": "rapid-frontend-ninja-development-with-nodejs-and-css-frameworks",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10158969160051101/"
       ],
@@ -1882,6 +1979,7 @@ module.exports = {
       "speaker": "Achmad Solichin",
       "slide": "https://github.com/achmatim/webinar-php-ml",
       "topic": "Machine Learning dengan PHP",
+      "slug": "machine-learning-dengan-php",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10158974066981101/"
       ],
@@ -1901,6 +1999,7 @@ module.exports = {
       "speaker": "Darsono",
       "slide": "empty",
       "topic": "From Zero to Hero with Code Igniter",
+      "slug": "from-zero-to-hero-with-code-igniter",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10158966674966101/"
       ],
@@ -1921,6 +2020,7 @@ module.exports = {
       "speaker": "Zeembry Neo - Founder BabaStudio",
       "slide": "https://drive.google.com/file/d/1gs69FAC8QqRvoI412BQhj8blcpXfSOPF/view?usp=sharing",
       "topic": "Digital Marketing Roadmap",
+      "slug": "digital-marketing-roadmap",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10158948802746101/"
       ],
@@ -1939,6 +2039,7 @@ module.exports = {
       "speaker": "Rio Astamal",
       "slide": "empty",
       "topic": "Belajar Menghindari SQL Injection Melalui Simulasi",
+      "slug": "belajar-menghindari-sql-injection-melalui-simulasi",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10158929046711101/"
       ],
@@ -1958,6 +2059,7 @@ module.exports = {
       "speaker": "Petra Novandi Barus",
       "slide": "empty",
       "topic": "Amazon Simple Storage Service (S3) For PHP Developer",
+      "slug": "amazon-simple-storage-service-s3-for-php-developer",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10158951408891101/"
       ],
@@ -1977,6 +2079,7 @@ module.exports = {
       "speaker": "Gunawan Wibisono",
       "slide": "empty",
       "topic": "PHP Native Series: PDO & MySQL",
+      "slug": "php-native-series-pdo-and-mysql",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10158903307736101/"
       ],
@@ -1997,6 +2100,7 @@ module.exports = {
       "speaker": "Rio Astamal",
       "slide": "empty",
       "topic": "Static Wordpress Hosting dengan S3 dan CloudFront",
+      "slug": "static-wordpress-hosting-dengan-s3-dan-cloudfront",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10158663473731101/"
       ],
@@ -2017,6 +2121,7 @@ module.exports = {
       "speaker": "Kabul Kurniawan",
       "slide": "empty",
       "topic": "Mengenal Teknologi Web Terdesentralisasi",
+      "slug": "mengenal-teknologi-web-terdesentralisasi",
       "videos": [
         "https://www.facebook.com/story.php?story_fbid=10222872532977916&id=1114812411"
       ],
@@ -2035,6 +2140,7 @@ module.exports = {
       "speaker": "Petra Novandi Barus",
       "slide": "empty",
       "topic": "Membangun Aplikasi Laravel Microservices dengan AWS",
+      "slug": "membangun-aplikasi-laravel-microservices-dengan-aws",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10158585138676101/"
       ],
@@ -2055,6 +2161,7 @@ module.exports = {
       "speaker": "Nur Hidayat",
       "slide": "empty",
       "topic": "Optimizing & Scaling MySQL Web Application",
+      "slug": "optimizing-and-scaling-mysql-web-application",
       "videos": [
         "https://web.facebook.com/groups/phpid/permalink/10158547046866101/"
       ],
@@ -2074,6 +2181,7 @@ module.exports = {
       "speaker": "Juwita Sihombing",
       "slide": "empty",
       "topic": "How to Become a Solution Analyst for Banking Industry",
+      "slug": "how-to-become-a-solution-analyst-for-banking-industry",
       "videos": [
         "empty"
       ],
@@ -2092,6 +2200,7 @@ module.exports = {
       "speaker": "Imam Aris Munandar",
       "slide": "empty",
       "topic": "Data Science Methodology",
+      "slug": "data-science-methodology",
       "videos": [
         "https://www.facebook.com/groups/phpid/permalink/10158471678691101/"
       ],
@@ -2110,6 +2219,7 @@ module.exports = {
       "speaker": "Anne Regina",
       "slide": "empty",
       "topic": "Anak IT merasa salah jurusan?",
+      "slug": "anak-it-merasa-salah-jurusan",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10220309143376497/"
       ],
@@ -2128,6 +2238,7 @@ module.exports = {
       "speaker": "Luri Darmawan",
       "slide": "empty",
       "topic": "Ask Me Anything with Om Luri Darmawan",
+      "slug": "ask-me-anything-with-om-luri-darmawan",
       "videos": [
         "https://web.facebook.com/peterjkambey/videos/10220255840643962/"
       ],
@@ -2146,6 +2257,7 @@ module.exports = {
       "speaker": "Arga Dinata",
       "slide": "https://www.facebook.com/groups/phpid/permalink/10158405253286101/",
       "topic": "Belajar Konsep CRM & Menggunakan Software CRM Gratis",
+      "slug": "belajar-konsep-crm-and-menggunakan-software-crm-gratis",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10220185761212020"
       ],
@@ -2164,6 +2276,7 @@ module.exports = {
       "speaker": "Freddy Munandar - Sarccom",
       "slide": "https://www.linkedin.com/posts/activity-6688998406926536704-KmYM",
       "topic": "The Journey of Test-Driven Development",
+      "slug": "the-journey-of-test-driven-development",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10220170296345408"
       ],
@@ -2182,6 +2295,7 @@ module.exports = {
       "speaker": "Petra Novandi Barus",
       "slide": "empty",
       "topic": "Mendeploy Situs Wordpress yang Scalable di AWS",
+      "slug": "mendeploy-situs-wordpress-yang-scalable-di-aws",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10220133445224153"
       ],
@@ -2202,6 +2316,7 @@ module.exports = {
       "speaker": "Galih Pratama",
       "slide": "empty",
       "topic": "Developer Jadi Pengajar, Why Not?",
+      "slug": "developer-jadi-pengajar-why-not",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10220092304035649"
       ],
@@ -2220,6 +2335,7 @@ module.exports = {
       "speaker": "Muhamad Surya Iksanudin",
       "slide": "empty",
       "topic": "2021, PHP masih cocok untuk dipelajari?",
+      "slug": "2021-php-masih-cocok-untuk-dipelajari",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10220026566992264"
       ],
@@ -2238,6 +2354,7 @@ module.exports = {
       "speaker": "Om Petra Novandi Barus - AWS",
       "slide": "empty",
       "topic": "Membuat Aplikasi PHP Microservices dengan AWS (cancelled)",
+      "slug": "membuat-aplikasi-php-microservices-dengan-aws-cancelled",
       "videos": [
         "empty"
       ],
@@ -2257,6 +2374,7 @@ module.exports = {
       "speaker": "Om Eryk Pratama",
       "slide": "empty",
       "topic": "Enabling Data Governance",
+      "slug": "enabling-data-governance",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219963481295161"
       ],
@@ -2275,6 +2393,7 @@ module.exports = {
       "speaker": "Om Munir AP",
       "slide": "empty",
       "topic": "Why developer must care about Open Source?",
+      "slug": "why-developer-must-care-about-open-source",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219914973922507"
       ],
@@ -2293,6 +2412,7 @@ module.exports = {
       "speaker": "Om Prayudi Utomo",
       "slide": "empty",
       "topic": "Web Accessibility",
+      "slug": "web-accessibility",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219905788772884"
       ],
@@ -2311,6 +2431,7 @@ module.exports = {
       "speaker": "Om Firman Brillian",
       "slide": "empty",
       "topic": "Python For Data Science",
+      "slug": "python-for-data-science",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219888776907598"
       ],
@@ -2330,6 +2451,7 @@ module.exports = {
       "speaker": "Om Buyung Bahari",
       "slide": "empty",
       "topic": "Software Estimation Jump Start",
+      "slug": "software-estimation-jump-start",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219872592703003"
       ],
@@ -2348,6 +2470,7 @@ module.exports = {
       "speaker": "Om Petra Novandi Barus - AWS",
       "slide": "empty",
       "topic": "Scaling Application to 1 Millions Users",
+      "slug": "scaling-application-to-1-millions-users",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219864037649132"
       ],
@@ -2367,6 +2490,7 @@ module.exports = {
       "speaker": "Om Steven Salim",
       "slide": "empty",
       "topic": "The Change Maker Framework",
+      "slug": "the-change-maker-framework",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219845832474014"
       ],
@@ -2386,6 +2510,7 @@ module.exports = {
       "speaker": "om Peter Kambey - Om Nur Hidayat",
       "slide": "empty",
       "topic": "Ngobrol Santai Bareng om Peter - 2 Jam Bikin Aplikasi Absensi Online",
+      "slug": "ngobrol-santai-bareng-om-peter-2-jam-bikin-aplikasi-absensi-online",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219798560652248"
       ],
@@ -2404,6 +2529,7 @@ module.exports = {
       "speaker": "om Sony A Kurniawan",
       "slide": "empty",
       "topic": "Ngobrol Santai Bareng om Sony Kurniawan",
+      "slug": "ngobrol-santai-bareng-om-sony-kurniawan",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219674327906507"
       ],
@@ -2422,6 +2548,7 @@ module.exports = {
       "speaker": "om Kresna Galuh",
       "slide": "https://docs.google.com/presentation/d/1Z4LHVF4_PRM0D1iHjdPiGaETyBS0kfbLoVT3vckabB0/edit?usp=sharing",
       "topic": "Codepolitan",
+      "slug": "codepolitan",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219644689445564"
       ],
@@ -2440,6 +2567,7 @@ module.exports = {
       "speaker": "om Abdul Hadi",
       "slide": "empty",
       "topic": "PostgreSQL: DDL dan SQL",
+      "slug": "postgresql-ddl-dan-sql",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219634513351168"
       ],
@@ -2459,6 +2587,7 @@ module.exports = {
       "speaker": "om Stenly Karouw",
       "slide": "empty",
       "topic": "Pengembangan Sistem Informasi eGovernment (cancelled)",
+      "slug": "pengembangan-sistem-informasi-egovernment-cancelled",
       "videos": [
         "empty"
       ],
@@ -2477,6 +2606,7 @@ module.exports = {
       "speaker": "om Sastra Nababan",
       "slide": "empty",
       "topic": "Live Coding Music - Write Music with Code",
+      "slug": "live-coding-music-write-music-with-code",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219664721066342"
       ],
@@ -2495,6 +2625,7 @@ module.exports = {
       "speaker": "Ibu Falahah - Dosen Univ. Telkom Bandung",
       "slide": "https://speakerdeck.com/flash68/system-analyst-short-guide",
       "topic": "The Practical Guide howto become System Analyst",
+      "slug": "the-practical-guide-howto-become-system-analyst",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219608505780995"
       ],
@@ -2513,6 +2644,7 @@ module.exports = {
       "speaker": "om Musa Amin",
       "slide": "https://musaamin.web.id/wp-content/uploads/2020/05/Linux-Server-untuk-Aplikasi-PHP.pdf",
       "topic": "Linux Server for PHP Developer",
+      "slug": "linux-server-for-php-developer",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219586488470576"
       ],
@@ -2532,6 +2664,7 @@ module.exports = {
       "speaker": "om Nur Hidayah",
       "slide": "https://www.slideshare.net/hidayat365/do-it-with-sql-journey-to-the-center-of-database-worlds",
       "topic": "Do it with SQL - Journey to the Center of Database World",
+      "slug": "do-it-with-sql-journey-to-the-center-of-database-world",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219575493195701"
       ],
@@ -2550,6 +2683,7 @@ module.exports = {
       "speaker": "om Dyan Galih",
       "slide": "empty",
       "topic": "Personal Security Awareness",
+      "slug": "personal-security-awareness",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219564541841924"
       ],
@@ -2568,6 +2702,7 @@ module.exports = {
       "speaker": "Om Fitra Aditya",
       "slide": "https://docs.google.com/presentation/d/1rT4BSSXCYEzF9eCQJ1Bbnr65p2LZtMndrENzNQNN4Q8/edit?usp=sharing",
       "topic": "Web RTC",
+      "slug": "web-rtc",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219553693850731"
       ],
@@ -2586,6 +2721,7 @@ module.exports = {
       "speaker": "Ali Pasha - GeekHunter",
       "slide": "empty",
       "topic": "How to Secure your Next Job During Covid-19 Pandemic",
+      "slug": "how-to-secure-your-next-job-during-covid-19-pandemic",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219542443169471"
       ],
@@ -2604,6 +2740,7 @@ module.exports = {
       "speaker": "om Prasetyo Wicaksono",
       "slide": "empty",
       "topic": "Evolution Of PHP",
+      "slug": "evolution-of-php",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219532379837894"
       ],
@@ -2622,6 +2759,7 @@ module.exports = {
       "speaker": "Shindu Samodra",
       "slide": "empty",
       "topic": "Rest API dengan PHP OOP",
+      "slug": "rest-api-dengan-php-oop",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219521400483417"
       ],
@@ -2642,6 +2780,7 @@ module.exports = {
       "speaker": "Agit Naeta",
       "slide": "empty",
       "topic": "Tactics and Strategy to Define Digital Products",
+      "slug": "tactics-and-strategy-to-define-digital-products",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219510663695004"
       ],
@@ -2660,6 +2799,7 @@ module.exports = {
       "speaker": "Om Frangky Tumiwan",
       "slide": "empty",
       "topic": "Remote Worker",
+      "slug": "remote-worker",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219491497055850"
       ],
@@ -2679,6 +2819,7 @@ module.exports = {
       "speaker": "Randy Vianda Putra",
       "slide": "https://speakerdeck.com/randyviandaputra/berkarir-sebagai-frontend-developer",
       "topic": "Berkarir sebagai Frontend Developer",
+      "slug": "berkarir-sebagai-frontend-developer",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219471755322319"
       ],
@@ -2698,6 +2839,7 @@ module.exports = {
       "speaker": "Firman Brilian",
       "slide": "empty",
       "topic": "Starting Your Career in the Data Science",
+      "slug": "starting-your-career-in-the-data-science",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219460519601433"
       ],
@@ -2717,6 +2859,7 @@ module.exports = {
       "speaker": "Munir AP",
       "slide": "empty",
       "topic": "Optimize Image on Your Website 101",
+      "slug": "optimize-image-on-your-website-101",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219439233869303"
       ],
@@ -2735,6 +2878,7 @@ module.exports = {
       "speaker": "Petra Barus",
       "slide": "empty",
       "topic": "Building CI/CD Pipeline",
+      "slug": "building-cicd-pipeline",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219428640684480"
       ],
@@ -2754,6 +2898,7 @@ module.exports = {
       "speaker": "Fadhil Zikri Muhammad",
       "slide": "empty",
       "topic": "Social Media Digital Strategy",
+      "slug": "social-media-digital-strategy",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219410023379059"
       ],
@@ -2773,6 +2918,7 @@ module.exports = {
       "speaker": "Muhammad Amirul Ihsan",
       "slide": "empty",
       "topic": "Laravel LiveWire 101",
+      "slug": "laravel-livewire-101",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219376923231576"
       ],
@@ -2792,6 +2938,7 @@ module.exports = {
       "speaker": "Achmad Mardiansyah",
       "slide": "empty",
       "topic": "Migration from Procedural to OOP",
+      "slug": "migration-from-procedural-to-oop",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219344732706833"
       ],
@@ -2811,6 +2958,7 @@ module.exports = {
       "speaker": "Wiguno",
       "slide": "empty",
       "topic": "Why Documentation Matter",
+      "slug": "why-documentation-matter",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219333692590837"
       ],
@@ -2829,6 +2977,7 @@ module.exports = {
       "speaker": "Irfan Maulana",
       "slide": "https://speakerdeck.com/mazipan/kinerja-web-101",
       "topic": "Kinerja Web 101",
+      "slug": "kinerja-web-101",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219322209183759"
       ],
@@ -2847,6 +2996,7 @@ module.exports = {
       "speaker": "Arbahud Rio Daroyni",
       "slide": "https://www.linkedin.com/posts/arbahud-rio-daroyni-062100146_step-by-step-belajar-seo-dasar-activity-6655336421471158272-Sbw5",
       "topic": "SEO Basic",
+      "slug": "seo-basic",
       "videos": [
         "https://youtu.be/emfHRGd5LuE"
       ],
@@ -2865,6 +3015,7 @@ module.exports = {
       "speaker": "Prayudi Utomo",
       "slide": "https://speakerdeck.com/yudiutomo/ux-introduction",
       "topic": "Coder Journey to UI/UX Galaxy",
+      "slug": "coder-journey-to-uiux-galaxy",
       "videos": [
         "https://www.facebook.com/peterjkambey/videos/10219281729691797"
       ],
@@ -2883,6 +3034,7 @@ module.exports = {
       "speaker": "Nur Hidayat",
       "slide": "https://slideshare.net/hidayat365/how-to-design-a-good-database",
       "topic": "How to design a good database",
+      "slug": "how-to-design-a-good-database",
       "videos": [
         "https://youtu.be/fSQ8JamoAfg"
       ],
