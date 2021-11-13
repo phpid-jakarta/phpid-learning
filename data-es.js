@@ -154,7 +154,7 @@ export default {
       "slide": "empty",
       "topic": "RAD with NO-SQL",
       "videos": [
-        "https://tbp.my.id/?phpidol-146"
+        "https://tbp.my.id/?phpidol-145"
       ],
       "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/145.jpg",
