@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-11-03",
+    "last_updated": "2021-11-13",
     "total": 151,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -49,9 +49,9 @@ export default {
     },
     {
       "id": "149",
-      "date": "Selasa, 16 November 2021",
+      "date": "Selasa, 23 November 2021",
       "time": "19:00",
-      "dateTime": "2021-11-16 19:00:00 +07:00",
+      "dateTime": "2021-11-23 19:00:00 +07:00",
       "speaker": "Dr. Cahyo Darujati - Univ Narotama",
       "slide": "empty",
       "topic": "Ekstraksi Fitur Citra dengan Deep Learning",
