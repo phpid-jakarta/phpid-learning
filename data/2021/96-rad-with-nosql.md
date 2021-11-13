@@ -4,7 +4,7 @@
 - Pukul: 19:00
 - Pemateri: Yusuf Fazery - Backend Engineer Codepolitan
 - Slide: empty
-- Video: https://tbp.my.id/?phpidol-146
+- Video: https://tbp.my.id/?phpidol-145
 - Registrasi: empty
 - Sesi: 145
 - Kategori: rad, nosql
