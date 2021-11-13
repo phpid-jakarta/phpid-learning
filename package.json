@@ -26,7 +26,8 @@
     "dayjs": "^1.10.7",
     "macy": "2.5.1",
     "polka": "next",
-    "sirv": "1.0.17"
+    "sirv": "1.0.17",
+    "slugify": "^1.6.2"
   },
   "devDependencies": {
     "@babel/core": "^7.15.5",
