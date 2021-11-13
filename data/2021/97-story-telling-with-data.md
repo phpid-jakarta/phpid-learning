@@ -6,6 +6,6 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/1c5ibiuEg
-- Sesi: 146
+- Sesi: 147
 - Kategori: machine learning, data visualization
 - Deskripsi: -
