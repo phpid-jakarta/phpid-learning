@@ -7,7 +7,7 @@ module.exports = {
   },
   "data": [
     {
-      "id": "151",
+      "id": "152",
       "date": "Selasa, 30 November 2021",
       "time": "19:00",
       "dateTime": "2021-11-30 19:00:00 +07:00",
@@ -19,13 +19,34 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1UeunDgO3",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/151.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
       "deskripsi": "-",
       "tags": [
         "stmik",
         "palangkaraya",
         "web",
         "engineering"
+      ]
+    },
+    {
+      "id": "151",
+      "date": "Selasa, 23 November 2021",
+      "time": "19:00",
+      "dateTime": "2021-11-23 19:00:00 +07:00",
+      "speaker": "Sandhika Galih - Dosen Univ. Pasundan",
+      "slide": "empty",
+      "topic": "Membuat Konten Pembelajaran Pemrograman",
+      "slug": "membuat-konten-pembelajaran-pemrograman",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1szOpWXPX",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/151.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "unpas",
+        "konten",
+        "pembelajaran"
       ]
     },
     {
@@ -46,27 +67,6 @@ module.exports = {
       "tags": [
         "kampus-online",
         "narotama"
-      ]
-    },
-    {
-      "id": "150",
-      "date": "Selasa, 23 November 2021",
-      "time": "19:00",
-      "dateTime": "2021-11-23 19:00:00 +07:00",
-      "speaker": "Sandhika Galih - Dosen Univ. Pasundan",
-      "slide": "empty",
-      "topic": "Membuat Konten Pembelajaran Pemrograman",
-      "slug": "membuat-konten-pembelajaran-pemrograman",
-      "videos": [
-        "empty"
-      ],
-      "registrasi": "https://fb.me/e/1szOpWXPX",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/150.jpg",
-      "deskripsi": "-",
-      "tags": [
-        "unpas",
-        "konten",
-        "pembelajaran"
       ]
     },
     {
