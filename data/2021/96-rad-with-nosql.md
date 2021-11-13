@@ -6,6 +6,6 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/3ZxzxBUnC
-- Sesi: 145
+- Sesi: 146
 - Kategori: rad, nosql
 - Deskripsi: -
