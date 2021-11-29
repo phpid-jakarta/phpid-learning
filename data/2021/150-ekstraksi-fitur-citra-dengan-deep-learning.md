@@ -5,8 +5,8 @@
 - Pukul: 19:00
 - Pemateri: Dr. Cahyo Darujati - Univ Narotama
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2WQeA6tdF
+- Video: https://tbp.my.id/?phpidol-150
+- Registrasi: empty
 - Sesi: 150
 - Kategori: kampus online, narotama
 - Deskripsi: -
