@@ -59,9 +59,9 @@ module.exports = {
       "topic": "Ekstraksi Fitur Citra dengan Deep Learning",
       "slug": "ekstraksi-fitur-citra-dengan-deep-learning",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-150"
       ],
-      "registrasi": "https://fb.me/e/2WQeA6tdF",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/150.jpg",
       "deskripsi": "-",
       "tags": [
@@ -79,14 +79,16 @@ module.exports = {
       "topic": "Membuat Konten Pembelajaran Pemrograman",
       "slug": "membuat-konten-pembelajaran-pemrograman",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-149"
       ],
-      "registrasi": "https://fb.me/e/1szOpWXPX",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/149.jpg",
       "deskripsi": "-",
       "tags": [
         "kampus-online",
-        "narotama"
+        "wpu",
+        "online-learning",
+        "tutorial"
       ]
     },
     {
