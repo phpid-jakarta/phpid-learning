@@ -1,32 +1,11 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-11-29",
-    "total": 152,
+    "total": 151,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
-    {
-      "id": "151",
-      "date": "Selasa, 23 November 2021",
-      "time": "19:00",
-      "dateTime": "2021-11-23 19:00:00 +07:00",
-      "speaker": "Sandhika Galih - Dosen Univ. Pasundan",
-      "slide": "empty",
-      "topic": "Membuat Konten Pembelajaran Pemrograman",
-      "slug": "membuat-konten-pembelajaran-pemrograman",
-      "videos": [
-        "empty"
-      ],
-      "registrasi": "https://fb.me/e/1szOpWXPX",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/151.jpg",
-      "deskripsi": "-",
-      "tags": [
-        "unpas",
-        "konten",
-        "pembelajaran"
-      ]
-    },
     {
       "id": "151",
       "date": "Selasa, 30 November 2021",
