@@ -1,11 +1,32 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-11-29",
-    "total": 151,
+    "total": 152,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "152",
+      "date": "Kamis, 2 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-02 19:00:00 +07:00",
+      "speaker": "Jimmy - AWS Community Builder",
+      "slide": "empty",
+      "topic": "Run & Deploy Laravel Dev & Prod Env in Docker Cont using Laravel Sail & AWS Service",
+      "slug": "run-and-deploy-laravel-dev-and-prod-env-in-docker-cont-using-laravel-sail-and-aws-service",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1qFJOJPR1",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "aws",
+        "laravel",
+        "docker"
+      ]
+    },
     {
       "id": "151",
       "date": "Selasa, 30 November 2021",
