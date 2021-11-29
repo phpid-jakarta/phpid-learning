@@ -7,6 +7,6 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/1UeunDgO3
-- Sesi: 152
+- Sesi: 151
 - Kategori: stmik, palangkaraya, web, engineering
 - Deskripsi: -
