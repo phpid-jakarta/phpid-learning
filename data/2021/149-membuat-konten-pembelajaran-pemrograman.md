@@ -5,9 +5,9 @@
 - Pukul: 19:00
 - Pemateri: Sandhika Galih - Web Programming Unpas
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1szOpWXPX
+- Video: https://tbp.my.id/?phpidol-149
+- Registrasi: empty
 - Sesi: 149
-- Kategori: kampus online, narotama
+- Kategori: kampus online, wpu, online learning, tutorial
 - Deskripsi: -
           
