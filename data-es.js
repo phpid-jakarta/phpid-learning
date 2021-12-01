@@ -1,11 +1,32 @@
 export default {
   "meta": {
-    "last_updated": "2021-11-29",
-    "total": 152,
+    "last_updated": "2021-12-01",
+    "total": 153,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "153",
+      "date": "Selasa, 7 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-07 19:00:00 +07:00",
+      "speaker": "Raudhoh Fitra H - Lead Engineer IYKRA",
+      "slide": "empty",
+      "topic": "Increasing Customer Acquisition Using Customer Segmentation Modelling",
+      "slug": "increasing-customer-acquisition-using-customer-segmentation-modelling",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2ImmHQiZ8",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "ml",
+        "machine-learning",
+        "customer-acquisition"
+      ]
+    },
     {
       "id": "152",
       "date": "Kamis, 2 Desember 2021",
