@@ -1,11 +1,34 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-12-02",
-    "total": 153,
+    "total": 154,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "155",
+      "date": "Selasa, 21 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-21 19:00:00 +07:00",
+      "speaker": "Nova Laitul Rizkiyah - AWS Certified Cloud Practitioner",
+      "slide": "empty",
+      "topic": "How to Automatically Deploy static Website on Amazon S3 using AWS CodeCommit & AWS Pipeline",
+      "slug": "how-to-automatically-deploy-static-website-on-amazon-s3-using-aws-codecommit-and-aws-pipeline",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1yQMt24at",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "aws",
+        "static",
+        "s3",
+        "codecommit",
+        "pipeline"
+      ]
+    },
     {
       "id": "153",
       "date": "Selasa, 7 Desember 2021",
