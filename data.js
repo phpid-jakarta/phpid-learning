@@ -19,7 +19,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1yQMt24at",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/155.jpg",
       "deskripsi": "-",
       "tags": [
         "aws",
@@ -42,7 +42,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/2ImmHQiZ8",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/153.jpg",
       "deskripsi": "-",
       "tags": [
         "ml",
