@@ -120,9 +120,9 @@ export default {
       "topic": "Web Engineering Process",
       "slug": "web-engineering-process",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-151"
       ],
-      "registrasi": "https://fb.me/e/1UeunDgO3",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/151.jpg",
       "deskripsi": "-",
       "tags": [
