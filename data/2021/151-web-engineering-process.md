@@ -5,8 +5,8 @@
 - Pukul: 19:00
 - Pemateri: Herkules - Dosen STMIK Palangkaraya
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1UeunDgO3
+- Video: https://tbp.my.id/?phpidol-151
+- Registrasi: empty
 - Sesi: 151
 - Kategori: stmik, palangkaraya, web, engineering
 - Deskripsi: -
