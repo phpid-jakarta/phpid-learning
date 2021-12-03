@@ -1,7 +1,7 @@
 export default {
   "meta": {
     "last_updated": "2021-12-03",
-    "total": 154,
+    "total": 155,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
@@ -27,6 +27,25 @@ export default {
         "s3",
         "codecommit",
         "pipeline"
+      ]
+    },
+    {
+      "id": "154",
+      "date": "Selasa, 14 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-14 19:00:00 +07:00",
+      "speaker": "Diny Syarifah Sany",
+      "slide": "empty",
+      "topic": "Bagaimana Memulai Pengembangan Game untuk Pemula",
+      "slug": "bagaimana-memulai-pengembangan-game-untuk-pemula",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1fxbkDeqH",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/154.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "game"
       ]
     },
     {
