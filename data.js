@@ -1,11 +1,31 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-12-03",
-    "total": 155,
+    "total": 156,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "156",
+      "date": "Rabu, 22 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-22 19:00:00 +07:00",
+      "speaker": "Ananda D.R.",
+      "slide": "empty",
+      "topic": "Deploy Aplikasi PHP Menggunakan AWS Elastic Beanstalk",
+      "slug": "deploy-aplikasi-php-menggunakan-aws-elastic-beanstalk",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2E4bMGV98",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/156.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "aws",
+        "beanstalk"
+      ]
+    },
     {
       "id": "155",
       "date": "Selasa, 21 Desember 2021",
