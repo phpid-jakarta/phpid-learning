@@ -99,9 +99,9 @@ export default {
       "topic": "Run & Deploy Laravel Dev & Prod Env in Docker Cont using Laravel Sail & AWS Service",
       "slug": "run-and-deploy-laravel-dev-and-prod-env-in-docker-cont-using-laravel-sail-and-aws-service",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-152"
       ],
-      "registrasi": "https://fb.me/e/1qFJOJPR1",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/152.jpg",
       "deskripsi": "-",
       "tags": [
