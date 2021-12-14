@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2021-12-07",
+    "last_updated": "2021-12-14",
     "total": 156,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -78,9 +78,9 @@ export default {
       "topic": "Increasing Customer Acquisition Using Customer Segmentation Modelling",
       "slug": "increasing-customer-acquisition-using-customer-segmentation-modelling",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-153"
       ],
-      "registrasi": "https://fb.me/e/2ImmHQiZ8",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/153.jpg",
       "deskripsi": "-",
       "tags": [
