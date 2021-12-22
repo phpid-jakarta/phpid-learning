@@ -78,9 +78,9 @@ module.exports = {
       "topic": "Bagaimana Memulai Pengembangan Game untuk Pemula",
       "slug": "bagaimana-memulai-pengembangan-game-untuk-pemula",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-154"
       ],
-      "registrasi": "https://fb.me/e/1fxbkDeqH",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/154.jpg",
       "deskripsi": "-",
       "tags": [
