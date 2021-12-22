@@ -1,11 +1,30 @@
 export default {
   "meta": {
     "last_updated": "2021-12-22",
-    "total": 156,
+    "total": 157,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "157",
+      "date": "Selasa, 28 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-28 19:00:00 +07:00",
+      "speaker": "Fitria Wulandari - Phd Student, NUI Galway, Ireland",
+      "slide": "empty",
+      "topic": "Genetic Algorithms",
+      "slug": "genetic-algorithms",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1s2vG4Z0q",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/157.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "id": "156",
       "date": "Rabu, 22 Desember 2021",
