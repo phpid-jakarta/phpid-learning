@@ -5,8 +5,8 @@
 - Pukul: 19:00
 - Pemateri: Diny Syarifah Sany 
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1fxbkDeqH
+- Video: https://tbp.my.id/?phpidol-154
+- Registrasi: empty
 - Sesi: 154
 - Kategori: game
 - Deskripsi: -
