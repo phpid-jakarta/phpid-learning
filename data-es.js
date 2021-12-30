@@ -1,11 +1,32 @@
 export default {
   "meta": {
     "last_updated": "2021-12-30",
-    "total": 157,
+    "total": 158,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "158",
+      "date": "Selasa, 4 Januari 2022",
+      "time": "19:00",
+      "dateTime": "2022-01-04 19:00:00 +07:00",
+      "speaker": "Utian Ayuba - Cloud Security Architect BTech",
+      "slide": "empty",
+      "topic": "Deploy Containerized PHP App on Openstack IaaS Cloud",
+      "slug": "deploy-containerized-php-app-on-openstack-iaas-cloud",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/4lUToLMUJ",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/158.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "openstack",
+        "iaas"
+      ]
+    },
     {
       "id": "157",
       "date": "Selasa, 28 Desember 2021",
