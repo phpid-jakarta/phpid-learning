@@ -1,11 +1,32 @@
 export default {
   "meta": {
     "last_updated": "2021-12-30",
-    "total": 160,
+    "total": 161,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "161",
+      "date": "Selasa, 20 Januari 2022",
+      "time": "19:00",
+      "dateTime": "2022-01-20 19:00:00 +07:00",
+      "speaker": "Agus Kurniawan - Microsoft MVP (Data Platform)",
+      "slide": "empty",
+      "topic": "PHP On Azure",
+      "slug": "php-on-azure",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2gk2J7XIY",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "azure",
+        "php"
+      ]
+    },
     {
       "id": "160",
       "date": "Selasa, 18 Januari 2022",
