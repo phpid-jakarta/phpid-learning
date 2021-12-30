@@ -30,7 +30,7 @@ module.exports = {
     },
     {
       "id": "161",
-      "date": "Selasa, 20 Januari 2022",
+      "date": "Kamis, 20 Januari 2022",
       "time": "19:00",
       "dateTime": "2022-01-20 19:00:00 +07:00",
       "speaker": "Agus Kurniawan - Microsoft MVP (Data Platform)",
