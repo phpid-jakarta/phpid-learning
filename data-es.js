@@ -19,7 +19,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/6Z7GhcgDN",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/163.jpg",
       "deskripsi": "-",
       "tags": [
         "cloud",
@@ -41,7 +41,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/2gk2J7XIY",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/161.jpg",
       "deskripsi": "-",
       "tags": [
         "cloud",
