@@ -1,11 +1,33 @@
 module.exports = {
   "meta": {
     "last_updated": "2021-12-30",
-    "total": 158,
+    "total": 159,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "159",
+      "date": "Selasa, 11 Januari 2022",
+      "time": "19:00",
+      "dateTime": "2022-01-11 19:00:00 +07:00",
+      "speaker": "Luthfi Anandra - Cloud Infrastructur Engineer HappyFresh",
+      "slide": "empty",
+      "topic": "Konfigurasi Dasar Amazon VPC Menggunakan Terraform",
+      "slug": "konfigurasi-dasar-amazon-vpc-menggunakan-terraform",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1lyenT6Fo",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/159.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "aws",
+        "terraform",
+        "vpc"
+      ]
+    },
     {
       "id": "158",
       "date": "Selasa, 4 Januari 2022",
