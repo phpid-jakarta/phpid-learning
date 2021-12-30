@@ -1,7 +1,7 @@
 
 ### PHP On Azure
 
-- Waktu: Selasa, 20 Januari 2022
+- Waktu: Kamis, 20 Januari 2022
 - Pukul: 19:00
 - Pemateri: Agus Kurniawan - Microsoft MVP (Data Platform)
 - Slide: empty
