@@ -1,11 +1,31 @@
 export default {
   "meta": {
     "last_updated": "2021-12-30",
-    "total": 159,
+    "total": 160,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "160",
+      "date": "Selasa, 18 Januari 2022",
+      "time": "19:00",
+      "dateTime": "2022-01-18 19:00:00 +07:00",
+      "speaker": "Deny Julianto - CTO CalsysID & Lecturer AKD",
+      "slide": "empty",
+      "topic": "On-Premiese vs Cloud",
+      "slug": "on-premiese-vs-cloud",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1xCxeoqzN",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/160.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "onprem"
+      ]
+    },
     {
       "id": "159",
       "date": "Selasa, 11 Januari 2022",
