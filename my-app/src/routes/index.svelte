@@ -18,9 +18,9 @@
   });
 </script>
 
-<main id="page-index">
+<section data-page="home">
   <Hero />
-  <article class="app-content">
+  <article class="container mx-auto">
     {#if $showData.length > 0}
       <Pagination />
     {/if}
@@ -35,4 +35,4 @@
   {#if $showData.length > 0}
     <Pagination />
   {/if}
-</main>
+</section>
