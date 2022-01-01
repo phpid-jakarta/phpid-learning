@@ -1,4 +1,4 @@
-<footer class="px-2 sm:px-4 py-2.5">
+<footer class="px-2 sm:px-4 py-8 text-gray-600 dark:text-gray-200">
 	<section class="container mx-auto">
 		<div class="text-center">
 			<span />

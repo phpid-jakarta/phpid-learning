@@ -8,3 +8,7 @@
     @apply font-bold;
   }
 }
+
+#svelte {
+  @apply bg-gray-50 text-gray-600 dark:bg-gray-900 dark:text-gray-200;
+}
