@@ -16,6 +16,10 @@ const config = {
 			precompress: false
 		}),
 
+		prerender: {
+			entries: ['/']
+		},
+
 		// hydrate the <div id="svelte"> element in src/app.html
 		target: '#svelte'
 	}
