@@ -3,57 +3,36 @@
 </script>
 
 <script lang="ts">
-	import Counter from '$lib/Counter.svelte';
+  import { onMount } from "svelte";
+  import { showData, perPage, offsetPage, currentTag } from "../store";
+
+  import { initMasonry } from "$lib/utils";
+
+  import Hero from "$lib/hero/HeroDefault.svelte";
+  import CardItem from "$lib/event-item/CardItem.svelte";
+  import Pagination from "$lib/pagination/Pagination.svelte";
+
+  onMount(() => {
+    currentTag.set('')
+    initMasonry()
+  });
 </script>
 
-<svelte:head>
-	<title>Home</title>
-</svelte:head>
-
-<section>
-	<h1>
-		<div class="welcome">
-			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp" />
-				<img src="svelte-welcome.png" alt="Welcome" />
-			</picture>
-		</div>
-
-		to your new<br />SvelteKit app
-	</h1>
-
-	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
-	</h2>
-
-	<Counter />
-</section>
-
-<style>
-	section {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		flex: 1;
-	}
-
-	h1 {
-		width: 100%;
-	}
-
-	.welcome {
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
-	}
-
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
-	}
-</style>
+<main id="page-index">
+  <Hero />
+  <article class="app-content">
+    {#if $showData.length > 0}
+      <Pagination />
+    {/if}
+    {#if $showData.length > 0}
+      <div id="content-speaker">
+        {#each $showData.slice($offsetPage, $offsetPage + $perPage) as item (`${item.id}${item.slug}`)}
+          <CardItem {item} />
+        {/each}
+      </div>
+    {/if}
+  </article>
+  {#if $showData.length > 0}
+    <Pagination />
+  {/if}
+</main>
