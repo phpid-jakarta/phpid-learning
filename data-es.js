@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2022-01-01",
+    "last_updated": "2022-01-04",
     "total": 162,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -141,9 +141,9 @@ export default {
       "topic": "Deploy Aplikasi PHP Menggunakan AWS Elastic Beanstalk",
       "slug": "deploy-aplikasi-php-menggunakan-aws-elastic-beanstalk",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-156"
       ],
-      "registrasi": "https://fb.me/e/2E4bMGV98",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/156.jpg",
       "deskripsi": "-",
       "tags": [
