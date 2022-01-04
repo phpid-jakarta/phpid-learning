@@ -1,7 +1,7 @@
 export default {
   "meta": {
     "last_updated": "2022-01-04",
-    "total": 162,
+    "total": 163,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
@@ -26,6 +26,26 @@ export default {
         "azure",
         "ci-cd",
         "apps"
+      ]
+    },
+    {
+      "id": "162",
+      "date": "Sabtu, 22 Januari 2022",
+      "time": "19:00",
+      "dateTime": "2022-01-22 19:00:00 +07:00",
+      "speaker": "Fiertra Cahya - BDM for Cloud MultiPolar",
+      "slide": "empty",
+      "topic": "Google Cloud semudah Naik Sepeda",
+      "slug": "google-cloud-semudah-naik-sepeda",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1raBARB7I",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "gcp"
       ]
     },
     {
