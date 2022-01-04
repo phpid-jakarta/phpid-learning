@@ -122,9 +122,9 @@ export default {
       "topic": "Genetic Algorithms",
       "slug": "genetic-algorithms",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-157"
       ],
-      "registrasi": "https://fb.me/e/1s2vG4Z0q",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/157.jpg",
       "deskripsi": "-",
       "tags": [
