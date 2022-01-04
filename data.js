@@ -161,7 +161,7 @@ module.exports = {
       "topic": "How to Automatically Deploy static Website on Amazon S3 using AWS CodeCommit & AWS Pipeline",
       "slug": "how-to-automatically-deploy-static-website-on-amazon-s3-using-aws-codecommit-and-aws-pipeline",
       "videos": [
-        "phpidol-155"
+        "https://tbp.my.id/?phpidol-155"
       ],
       "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/155.jpg",
