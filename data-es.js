@@ -41,7 +41,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1raBARB7I",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/162.jpg",
       "deskripsi": "-",
       "tags": [
         "cloud",
