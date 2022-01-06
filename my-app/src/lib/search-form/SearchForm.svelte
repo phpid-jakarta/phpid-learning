@@ -20,32 +20,26 @@
 
 <form
 	action="/search"
-	class="rounded-lg relative block"
+	class="rounded-lg relative block bg-gradient-to-r dark:from-gray-600/25 dark:to-gray-500/25 from-gray-600/10 to-gray-500/10"
 	method="GET"
 	on:submit|preventDefault={handleSubmit}
 >
-	<div class="absolute inset-y-0 left-0 flex items-center pl-2">
-		<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-			<path
-				d="M15.25 15.25L11.5 11.5L15.25 15.25ZM0.75 7C0.75 3.54822 3.54822 0.75 7 0.75C10.4518 0.75 13.25 3.54822 13.25 7C13.25 10.4518 10.4518 13.25 7 13.25C3.54822 13.25 0.75 10.4518 0.75 7Z"
-				stroke="currentColor"
-				stroke-width="1.5"
-				stroke-linecap="round"
-				stroke-linejoin="round"
-			/>
-		</svg>
+	<div class="absolute inset-y-0 left-0 flex items-center pl-3">
+    <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
+      <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.25 19.25L15.5 15.5M4.75 11C4.75 7.54822 7.54822 4.75 11 4.75C14.4518 4.75 17.25 7.54822 17.25 11C17.25 14.4518 14.4518 17.25 11 17.25C7.54822 17.25 4.75 14.4518 4.75 11Z"></path>
+    </svg>
 	</div>
 
 	<input
-		class="w-full rounded-lg px-4 py-2 pl-9 bg-gray-600/10 dark:bg-black/30 placeholder:text-gray-500 dark:placeholder:text-gray-300"
-		type="text"
-		name="q"
-		value={q}
-		id="q"
-		placeholder="Cari berdasarkan judul..."
-	/>
+    class="bg-transparent rounded-lg w-full pr-4 py-2.5 pl-12 placeholder:text-gray-500 dark:placeholder:text-gray-300"
+    type="text"
+    name="q"
+    value={q}
+    id="q"
+    placeholder="Cari berdasarkan judul..."
+  />
 </form>
-<p class="text-sm mt-4">
-	Tips: Kamu juga bisa mencari topik berdasarkan pembicara favoritmu dengan menggunakan kata kunci: <code class="rounded px-1 bg-blue-700 text-white dark:text-blue-200">from:pembicara</code
+<p class="md:text-sm mt-3 leading-normal">
+	Tips: Kamu juga bisa mencari topik berdasarkan pembicara favoritmu dengan menggunakan kata kunci: <code class="rounded px-1 dark:bg-blue-700/60 bg-blue-700/75 text-white dark:text-blue-200">from:Nama Pembicara</code
 	>
 </p>

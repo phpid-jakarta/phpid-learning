@@ -101,8 +101,8 @@ export const initMasonry = async (): Promise<void> => {
         margin: 20,
         columns: 3,
         breakAt: {
-          520: 1,
-          400: 1
+          1024: 2,
+          640: 1
         }
       });
     }

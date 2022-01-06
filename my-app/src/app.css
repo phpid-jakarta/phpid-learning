@@ -3,12 +3,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  h1, h2, h3, h4 {
-    @apply font-bold;
-  }
-}
-
 #svelte {
   @apply bg-gray-50 text-gray-600 dark:bg-gray-900 dark:text-gray-200;
 }
