@@ -1,6 +1,6 @@
 module.exports = {
   "meta": {
-    "last_updated": "2022-01-04",
+    "last_updated": "2022-01-06",
     "total": 163,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -121,9 +121,9 @@ module.exports = {
       "topic": "Deploy Containerized PHP App on Openstack IaaS Cloud",
       "slug": "deploy-containerized-php-app-on-openstack-iaas-cloud",
       "videos": [
-        "empty"
+        "https://learning.byphp.id/phpidol-158"
       ],
-      "registrasi": "https://fb.me/e/4lUToLMUJ",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/158.jpg",
       "deskripsi": "-",
       "tags": [
