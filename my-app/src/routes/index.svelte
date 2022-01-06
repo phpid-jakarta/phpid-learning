@@ -21,7 +21,7 @@
 
 <section data-page="home">
 	<Hero />
-	<article class="px-4 max-w-5xl mx-auto tracking-content">
+	<article class="max-w-5xl px-4 lg:px-0 mx-auto tracking-content">
 		{#if $showData.length > 0}
 			<Pagination className="mt-8" />
 		{/if}
@@ -39,6 +39,6 @@
 		{/if}
 	</article>
 	{#if $showData.length > 0}
-		<Pagination className="mt-4 px-4" />
+		<Pagination className="mt-4 px-4 lg:px-0" />
 	{/if}
 </section>
