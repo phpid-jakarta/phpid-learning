@@ -47,7 +47,7 @@
 	});
 </script>
 
-<div class="card rounded bg-gradient-to-b from-gray-600 to-gray-500">
+<div class="backdrop-blur-md rounded bg-white/30 dark:bg-black/30">
 	<div class="card-image-wrapper p-2 rounded-t js-image--{item.id}" />
 	<div class="rounded-b p-4 flex flex-wrap flex-col gap-2">
 		<div class="flex flex-wrap gap-2">
@@ -58,50 +58,48 @@
 			<span class="rounded-full px-2 bg-green-700 text-white dark:text-green-200">{item.time} WIB</span>
 		</div>
 
-		<h4 class="card-title">{item.topic}</h4>
+		<h4 class="text-xl2 text-gray-800 dark:text-white">{item.topic}</h4>
+
 		<Speaker speaker={item.speaker} />
 
 		{#if item.tags && item.tags.length > 0}
 			<Tags tags={item.tags} />
 		{/if}
 
-		<div class="card-text">
+		<div class="mt-8 flex justify-between align-center">
 			{#if item.videos[0] && item.videos[0] !== 'empty'}
 				<a
 					href={item.videos[0]}
-					class="card-action"
+					class="text-blue-300 hover:underline"
 					target="_blank"
 					rel="noopener"
-					style="background-image: none"
 					title="Tonton Video"
 				>
-					<button class="btn-secondary">Tonton Video</button>
+					Tonton Video
 				</a>
 			{/if}
 
 			{#if item.registrasi && item.registrasi !== 'empty'}
 				<a
 					href={item.registrasi}
-					class="card-action"
+					class="text-blue-300 hover:underline"
 					target="_blank"
 					rel="noopener"
-					style="background-image: none"
 					title="Registrasi"
 				>
-					<button class="btn-warning">Registrasi</button>
+					Registrasi
 				</a>
 			{/if}
 
 			{#if item.slide && item.slide !== 'empty'}
 				<a
 					href={item.slide}
-					class="card-action"
+					class="text-blue-300 hover:underline"
 					target="_blank"
 					rel="noopener"
-					style="background-image: none"
-					title="Slide"
+					title="Lihat Slide"
 				>
-					<button class="btn-success">Lihat Slide</button>
+					Lihat Slide
 				</a>
 			{/if}
 		</div>
@@ -109,34 +107,12 @@
 </div>
 
 <style>
-	.card {
-		width: 100%;
-		margin-bottom: 13px;
-	}
-
-	@media only screen and (min-width: 700px) {
-		.card {
-			width: calc(33.3333% - 13.3333px);
-			margin-right: 13px;
-		}
-	}
 	.card-image-wrapper {
 		width: auto;
 		min-height: 200px;
 	}
-	.card-title {
-		font-family: 'Neucha', sans-serif;
-	}
+
 	.card-body {
 		min-height: 200px;
-	}
-	.card-action {
-		margin: 0;
-	}
-	.card-body .card-action button {
-		margin: 5px 5px 0 0;
-	}
-	.badge-group {
-		margin-bottom: 1em;
 	}
 </style>

@@ -25,7 +25,7 @@
       <Pagination />
     {/if}
     {#if $showData.length > 0}
-      <div id="content-speaker">
+      <div id="content-speaker" class="grid grid-cols-1 md:grid-cols-3 md:gap-x-8 gap-y-5 md:gap-y-8 mb-8">
         {#each $showData.slice($offsetPage, $offsetPage + $perPage) as item (`${item.id}${item.slug}`)}
           <CardItem {item} />
         {/each}
