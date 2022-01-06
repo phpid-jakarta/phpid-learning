@@ -20,7 +20,7 @@
 
 <form
 	action="/search"
-	class="search-form rounded-lg relative block"
+	class="rounded-lg relative block"
 	method="GET"
 	on:submit|preventDefault={handleSubmit}
 >
@@ -37,7 +37,7 @@
 	</div>
 
 	<input
-		class="w-full rounded-lg px-4 py-2 pl-9 bg-gradient-to-b from-gray-600 to-gray-500 placeholder:text-gray-500 dark:placeholder:text-gray-300"
+		class="w-full rounded-lg px-4 py-2 pl-9 bg-gray-600/10 dark:bg-black/30 placeholder:text-gray-500 dark:placeholder:text-gray-300"
 		type="text"
 		name="q"
 		value={q}
@@ -45,22 +45,7 @@
 		placeholder="Cari berdasarkan judul..."
 	/>
 </form>
-<p class="small tips">
+<p class="text-sm mt-4">
 	Tips: Kamu juga bisa mencari topik berdasarkan pembicara favoritmu dengan menggunakan kata kunci: <code class="rounded px-1 bg-blue-700 text-white dark:text-blue-200">from:pembicara</code
 	>
 </p>
-
-<style>
-	.search-form {
-		display: flex;
-		align-items: center;
-	}
-
-	.search-form button {
-		margin-right: 16px;
-	}
-	.tips {
-		margin-bottom: 16px;
-		font-size: 70%;
-	}
-</style>
