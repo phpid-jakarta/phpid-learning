@@ -19,63 +19,29 @@
   };
 </script>
 
-<style>
-  .pagination {
-    margin: .5em 0;
-    text-align: center;
-  }
-  .page-wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-  }
-  .page-item {
-    list-style: none;
-    text-indent: 0;
-    margin: 0 0.25em;
-  }
-  .page-item::before {
-    content: "";
-    display: none;
-  }
-
-  .is--d {
-    display: none;
-  }
-  /* For desktop only */
-  @media only screen and (min-width: 700px) {
-    .is--d {
-      display: inline;
-    }
-  }
-</style>
-
-<aside class="pagination">
-  <span>Hal {$currentPage} dari {pageCount}</span>
-  <ul class="page-wrapper">
-    <li class="page-item">
+<aside class="m-8">
+  <ul class="flex flex-wrap justify-center items-center gap-2">
+    <li class="relative">
       <button
-        class="btn-small {$currentPage === 1 ? 'btn-primary"' : 'btn-secondary"'}"
+        class="rounded-lg backdrop-blur-md bg-gray-600/10 dark:bg-black/30 py-2 px-4 {$currentPage === 1 ? 'cursor-pointer' : 'cursor-not-allowed'}"
         on:click={e => handleClickPage(e, $currentPage - 1)}>
         &laquo; Sebelumnya
       </button>
     </li>
 
     {#each createArray(pageCount) as i}
-      <li class="page-item is--d">
+      <li class="relative">
         <button
-          class="btn-small {$currentPage === i + 1 ? 'btn-success"' : 'btn-secondary"'}"
+          class="rounded-lg backdrop-blur-md py-2 px-4 {$currentPage === i + 1 ? 'text-white bg-blue-600/75 dark:bg-blue-600/25' : 'bg-gray-600/10 dark:bg-black/30'}"
           on:click={e => handleClickPage(e, i + 1)}>
           {i + 1}
         </button>
       </li>
     {/each}
 
-    <li class="page-item">
+    <li class="relative">
       <button
-        class="btn-small {$currentPage === pageCount ? 'btn-secondary"' : 'btn-primary"'}"
+        class="rounded-lg backdrop-blur-md bg-gray-600/10 dark:bg-black/30 py-2 px-4 {$currentPage === pageCount ? 'cursor-not-allowed' : 'cursor-pointer'}"
         on:click={e => handleClickPage(e, $currentPage + 1)}>
         Berikutnya &raquo;
       </button>
