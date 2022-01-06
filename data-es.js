@@ -121,7 +121,7 @@ export default {
       "topic": "Deploy Containerized PHP App on Openstack IaaS Cloud",
       "slug": "deploy-containerized-php-app-on-openstack-iaas-cloud",
       "videos": [
-        "https://learning.byphp.id/phpidol-158"
+        "https://tbp.my.id/?phpidol-158"
       ],
       "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/158.jpg",
