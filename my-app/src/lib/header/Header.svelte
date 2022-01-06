@@ -8,7 +8,7 @@
 	}
 </script>
 
-<nav class="max-w-5xl px-6 lg:px-0 pt-6 mx-auto relative">
+<nav class="max-w-5xl px-4 lg:px-0 pt-6 mx-auto relative">
 	<Blob className="absolute top-0 right-full dark:text-blue-500 text-blue-500/50" />
 	<div class="flex flex-wrap justify-between items-center">
 		<a href="/" class="flex py-2 text-gray-700 dark:text-white">

@@ -21,7 +21,7 @@
 <section data-section="hero">
   <div class="max-w-5xl mx-auto relative">
     <Blob className="absolute scale-x-[-1] top-32 -right-72 dark:text-amber-500 text-amber-500/50" />
-		<div class="flex flex-col text-center px-8 pt-24">
+		<div class="flex flex-col text-center px-4 pt-24">
 			<div class="flex flex-col">
 				<h1
 					class="text-gray-800 dark:text-white text-3xl md:text-5xl font-semibold md:px-6 lg:w-2/3 tracking-wide md:leading-tight mx-auto"

@@ -39,6 +39,6 @@
 		{/if}
 	</article>
 	{#if $showData.length > 0}
-		<Pagination className="mt-4" />
+		<Pagination className="mt-4 px-4" />
 	{/if}
 </section>
