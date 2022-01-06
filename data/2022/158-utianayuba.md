@@ -5,8 +5,8 @@
 - Pukul: 19:00
 - Pemateri: Utian Ayuba - Cloud Security Architect BTech
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/4lUToLMUJ
+- Video: https://learning.byphp.id/phpidol-158
+- Registrasi: empty
 - Sesi: 158
 - Kategori: cloud, openstack, iaas
 - Deskripsi: -
