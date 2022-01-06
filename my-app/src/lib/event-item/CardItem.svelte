@@ -47,7 +47,7 @@
 	});
 </script>
 
-<div class="backdrop-blur-md rounded bg-white/30 dark:bg-black/30">
+<div class="backdrop-blur-md rounded bg-gray-600/10 dark:bg-black/30">
 	<div class="card-image-wrapper p-2 rounded-t js-image--{item.id}" />
 	<div class="rounded-b p-4 flex flex-wrap flex-col gap-2">
 		<div class="flex flex-wrap gap-2">
@@ -58,7 +58,7 @@
 			<span class="rounded-full px-2 bg-green-700 text-white dark:text-green-200">{item.time} WIB</span>
 		</div>
 
-		<h4 class="text-xl2 text-gray-800 dark:text-white">{item.topic}</h4>
+		<h4 class="text-xl text-gray-800 dark:text-white">{item.topic}</h4>
 
 		<Speaker speaker={item.speaker} />
 
@@ -66,11 +66,11 @@
 			<Tags tags={item.tags} />
 		{/if}
 
-		<div class="mt-8 flex justify-between align-center">
+		<div class="mt-8 flex justify-between items-center">
 			{#if item.videos[0] && item.videos[0] !== 'empty'}
 				<a
 					href={item.videos[0]}
-					class="text-blue-300 hover:underline"
+					class="text-blue-600 dark:text-blue-300 hover:underline"
 					target="_blank"
 					rel="noopener"
 					title="Tonton Video"
@@ -82,7 +82,7 @@
 			{#if item.registrasi && item.registrasi !== 'empty'}
 				<a
 					href={item.registrasi}
-					class="text-blue-300 hover:underline"
+					class="text-blue-600 dark:text-blue-300 hover:underline"
 					target="_blank"
 					rel="noopener"
 					title="Registrasi"
@@ -94,7 +94,7 @@
 			{#if item.slide && item.slide !== 'empty'}
 				<a
 					href={item.slide}
-					class="text-blue-300 hover:underline"
+					class="text-blue-600 dark:text-blue-300 hover:underline"
 					target="_blank"
 					rel="noopener"
 					title="Lihat Slide"
