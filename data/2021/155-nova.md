@@ -5,7 +5,7 @@
 - Pukul: 19:00
 - Pemateri: Nova Laitul Rizkiyah - AWS Certified Cloud Practitioner
 - Slide: empty
-- Video: phpidol-155
+- Video: https://tbp.my.id/?phpidol-155
 - Registrasi: empty
 - Sesi: 155
 - Kategori: aws, static, s3, codecommit, pipeline
