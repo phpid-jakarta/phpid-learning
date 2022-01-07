@@ -12,11 +12,11 @@
 		const newValue = parseInt(val, 10);
 		if (newValue > 0 && newValue <= pageCount) {
 			currentPage.set(newValue);
-			window.scrollTo({
-				top: 100,
-				left: 100,
-				behavior: 'smooth'
-			});
+			// window.scrollTo({
+			// 	top: 100,
+			// 	left: 100,
+			// 	behavior: 'smooth'
+			// });
 		}
 	};
 </script>
