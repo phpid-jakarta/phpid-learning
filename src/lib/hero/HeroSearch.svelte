@@ -32,7 +32,7 @@
 			>
 				<h2>Daftar Webinar</h2>
 				<p>
-					Pencarian {currentKeyword}
+					Pencarian {$currentKeyword}
 				</p>
 			</div>
 		</div>

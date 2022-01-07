@@ -5,9 +5,8 @@
 
 	export let q;
 
-	const handleSubmit = () => {
-		const keyword = q;
-
+	const handleSubmit = (e) => {
+		const keyword = e.target.elements.q.value;
 		currentKeyword.set(keyword);
 
 		setTimeout(() => {
