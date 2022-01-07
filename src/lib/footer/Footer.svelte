@@ -1,4 +1,4 @@
-<footer class="pb-12 mt-16 text-gray-600 dark:text-gray-200">
+<footer class="relative pb-12 mt-16 text-gray-600 dark:text-gray-200">
 	<section class="max-w-5xl mx-auto text-center">
 		Menemukan bug? atau ingin berkontribusi? kunjungi
 		<a
