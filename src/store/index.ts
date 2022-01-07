@@ -1,7 +1,7 @@
 import { writable, readable, derived } from 'svelte/store';
 import { getDistinctTags } from '$lib/utils';
 
-import data from '../../api/data-es';
+import data from '../api/data';
 
 export const originData = readable(data.data, function set() {
 	// eslint-disable-next-line @typescript-eslint/no-empty-function
