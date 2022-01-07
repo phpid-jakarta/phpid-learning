@@ -92,12 +92,7 @@ jobs:
         with:
           node-version: "14.x"
 
-      - name: Perform script toJson checking
-        run: yarn run toJson
-        env:
-          CI: true
-
-      - name: Perform script toTags checking
-        run: yarn run toTags
+      - name: Perform checking script:toJson
+        run: yarn run script:toJson
         env:
           CI: true

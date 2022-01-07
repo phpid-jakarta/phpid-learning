@@ -112,3 +112,12 @@ __sapper__/
 api/data.js
 api/data-es.js
 api/data.json
+
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+.vercel
+.output

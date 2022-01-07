@@ -31,10 +31,7 @@ jobs:
         run: yarn install --frozen-lockfile
 
       - name: Generate file json
-        run: yarn toJson
-
-      - name: Update export script on package.json
-        run: yarn toTags
+        run: yarn script:toJson
 
       - name: Modify last update
         run: |
@@ -67,18 +64,13 @@ jobs:
           node-version: "14.x"
 
       - name: Perform export to static
-        run: yarn export
-
-      - name: Modify last update on sapper
-        run: |
-          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
-          echo $d > __sapper__/export/LAST_UPDATED
+        run: yarn build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./__sapper__/export
+          publish_dir: ./build
           publish_branch: netlify-pages
           full_commit_message: ${{ github.event.head_commit.message }}
           force_orphan: true
@@ -102,10 +94,4 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./api
           publish_branch: api
-
-      # - name: Perform push JSON data to master
-      #   uses: ad-m/github-push-action@v0.6.0
-      #   with:
-      #     github_token: '${{ secrets.PERSONAL_TOKEN }}'
-      #     force: true
 
