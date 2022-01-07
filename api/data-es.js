@@ -1,13 +1,262 @@
 export default {
   "meta": {
-    "last_updated": "2021-11-13",
-    "total": 152,
+    "last_updated": "2022-01-07",
+    "total": 163,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
     {
+      "id": "163",
+      "date": "Selasa, 25 Januari 2022",
+      "time": "19:00",
+      "dateTime": "2022-01-25 19:00:00 +07:00",
+      "speaker": "Ariyolo Sitorus - Devops Engineer AntarAja",
+      "slide": "empty",
+      "topic": "CI/CD for Mobile Apps in Microsoft Environment",
+      "slug": "cicd-for-mobile-apps-in-microsoft-environment",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/6Z7GhcgDN",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/163.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "azure",
+        "ci-cd",
+        "apps"
+      ]
+    },
+    {
+      "id": "162",
+      "date": "Sabtu, 22 Januari 2022",
+      "time": "19:00",
+      "dateTime": "2022-01-22 19:00:00 +07:00",
+      "speaker": "Fiertra Cahya - BDM for Cloud MultiPolar",
+      "slide": "empty",
+      "topic": "Google Cloud semudah Naik Sepeda",
+      "slug": "google-cloud-semudah-naik-sepeda",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1raBARB7I",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/162.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "gcp"
+      ]
+    },
+    {
+      "id": "161",
+      "date": "Kamis, 20 Januari 2022",
+      "time": "19:00",
+      "dateTime": "2022-01-20 19:00:00 +07:00",
+      "speaker": "Agus Kurniawan - Microsoft MVP (Data Platform)",
+      "slide": "empty",
+      "topic": "PHP On Azure",
+      "slug": "php-on-azure",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2gk2J7XIY",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/161.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "azure",
+        "php"
+      ]
+    },
+    {
+      "id": "160",
+      "date": "Selasa, 18 Januari 2022",
+      "time": "19:00",
+      "dateTime": "2022-01-18 19:00:00 +07:00",
+      "speaker": "Deny Julianto - CTO CalsysID & Lecturer AKD",
+      "slide": "empty",
+      "topic": "On-Premiese vs Cloud",
+      "slug": "on-premiese-vs-cloud",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1xCxeoqzN",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/160.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "onprem"
+      ]
+    },
+    {
+      "id": "159",
+      "date": "Selasa, 11 Januari 2022",
+      "time": "19:00",
+      "dateTime": "2022-01-11 19:00:00 +07:00",
+      "speaker": "Luthfi Anandra - Cloud Infrastructur Engineer HappyFresh",
+      "slide": "empty",
+      "topic": "Konfigurasi Dasar Amazon VPC Menggunakan Terraform",
+      "slug": "konfigurasi-dasar-amazon-vpc-menggunakan-terraform",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1lyenT6Fo",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/159.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "aws",
+        "terraform",
+        "vpc"
+      ]
+    },
+    {
+      "id": "158",
+      "date": "Selasa, 4 Januari 2022",
+      "time": "19:00",
+      "dateTime": "2022-01-04 19:00:00 +07:00",
+      "speaker": "Utian Ayuba - Cloud Security Architect BTech",
+      "slide": "empty",
+      "topic": "Deploy Containerized PHP App on Openstack IaaS Cloud",
+      "slug": "deploy-containerized-php-app-on-openstack-iaas-cloud",
+      "videos": [
+        "https://tbp.my.id/?phpidol-158"
+      ],
+      "registrasi": "empty",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/158.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "openstack",
+        "iaas"
+      ]
+    },
+    {
+      "id": "157",
+      "date": "Selasa, 28 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-28 19:00:00 +07:00",
+      "speaker": "Fitria Wulandari - Phd Student, NUI Galway, Ireland",
+      "slide": "empty",
+      "topic": "Genetic Algorithms",
+      "slug": "genetic-algorithms",
+      "videos": [
+        "https://tbp.my.id/?phpidol-157"
+      ],
+      "registrasi": "empty",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/157.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "156",
+      "date": "Rabu, 22 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-22 19:00:00 +07:00",
+      "speaker": "Ananda D.R.",
+      "slide": "empty",
+      "topic": "Deploy Aplikasi PHP Menggunakan AWS Elastic Beanstalk",
+      "slug": "deploy-aplikasi-php-menggunakan-aws-elastic-beanstalk",
+      "videos": [
+        "https://tbp.my.id/?phpidol-156"
+      ],
+      "registrasi": "empty",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/156.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "aws",
+        "beanstalk"
+      ]
+    },
+    {
+      "id": "155",
+      "date": "Selasa, 21 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-21 19:00:00 +07:00",
+      "speaker": "Nova Laitul Rizkiyah - AWS Certified Cloud Practitioner",
+      "slide": "empty",
+      "topic": "How to Automatically Deploy static Website on Amazon S3 using AWS CodeCommit & AWS Pipeline",
+      "slug": "how-to-automatically-deploy-static-website-on-amazon-s3-using-aws-codecommit-and-aws-pipeline",
+      "videos": [
+        "https://tbp.my.id/?phpidol-155"
+      ],
+      "registrasi": "empty",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/155.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "aws",
+        "static",
+        "s3",
+        "codecommit",
+        "pipeline"
+      ]
+    },
+    {
+      "id": "154",
+      "date": "Selasa, 14 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-14 19:00:00 +07:00",
+      "speaker": "Diny Syarifah Sany",
+      "slide": "empty",
+      "topic": "Bagaimana Memulai Pengembangan Game untuk Pemula",
+      "slug": "bagaimana-memulai-pengembangan-game-untuk-pemula",
+      "videos": [
+        "https://tbp.my.id/?phpidol-154"
+      ],
+      "registrasi": "empty",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/154.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "game"
+      ]
+    },
+    {
+      "id": "153",
+      "date": "Selasa, 7 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-07 19:00:00 +07:00",
+      "speaker": "Raudhoh Fitra H - Lead Engineer IYKRA",
+      "slide": "empty",
+      "topic": "Increasing Customer Acquisition Using Customer Segmentation Modelling",
+      "slug": "increasing-customer-acquisition-using-customer-segmentation-modelling",
+      "videos": [
+        "https://tbp.my.id/?phpidol-153"
+      ],
+      "registrasi": "empty",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/153.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "ml",
+        "machine-learning",
+        "customer-acquisition"
+      ]
+    },
+    {
       "id": "152",
+      "date": "Kamis, 2 Desember 2021",
+      "time": "19:00",
+      "dateTime": "2021-12-02 19:00:00 +07:00",
+      "speaker": "Jimmy - AWS Community Builder",
+      "slide": "empty",
+      "topic": "Run & Deploy Laravel Dev & Prod Env in Docker Cont using Laravel Sail & AWS Service",
+      "slug": "run-and-deploy-laravel-dev-and-prod-env-in-docker-cont-using-laravel-sail-and-aws-service",
+      "videos": [
+        "https://tbp.my.id/?phpidol-152"
+      ],
+      "registrasi": "empty",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/152.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "aws",
+        "laravel",
+        "docker"
+      ]
+    },
+    {
+      "id": "151",
       "date": "Selasa, 30 November 2021",
       "time": "19:00",
       "dateTime": "2021-11-30 19:00:00 +07:00",
@@ -16,37 +265,16 @@ export default {
       "topic": "Web Engineering Process",
       "slug": "web-engineering-process",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-151"
       ],
-      "registrasi": "https://fb.me/e/1UeunDgO3",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "registrasi": "empty",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/151.jpg",
       "deskripsi": "-",
       "tags": [
         "stmik",
         "palangkaraya",
         "web",
         "engineering"
-      ]
-    },
-    {
-      "id": "151",
-      "date": "Selasa, 23 November 2021",
-      "time": "19:00",
-      "dateTime": "2021-11-23 19:00:00 +07:00",
-      "speaker": "Sandhika Galih - Dosen Univ. Pasundan",
-      "slide": "empty",
-      "topic": "Membuat Konten Pembelajaran Pemrograman",
-      "slug": "membuat-konten-pembelajaran-pemrograman",
-      "videos": [
-        "empty"
-      ],
-      "registrasi": "https://fb.me/e/1szOpWXPX",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/151.jpg",
-      "deskripsi": "-",
-      "tags": [
-        "unpas",
-        "konten",
-        "pembelajaran"
       ]
     },
     {
@@ -59,9 +287,9 @@ export default {
       "topic": "Ekstraksi Fitur Citra dengan Deep Learning",
       "slug": "ekstraksi-fitur-citra-dengan-deep-learning",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-150"
       ],
-      "registrasi": "https://fb.me/e/2WQeA6tdF",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/150.jpg",
       "deskripsi": "-",
       "tags": [
@@ -79,14 +307,16 @@ export default {
       "topic": "Membuat Konten Pembelajaran Pemrograman",
       "slug": "membuat-konten-pembelajaran-pemrograman",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-149"
       ],
-      "registrasi": "https://fb.me/e/1szOpWXPX",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/149.jpg",
       "deskripsi": "-",
       "tags": [
         "kampus-online",
-        "narotama"
+        "wpu",
+        "online-learning",
+        "tutorial"
       ]
     },
     {
@@ -1578,7 +1808,7 @@ export default {
       "date": "Sabtu, 3 April 2021",
       "time": "19:00",
       "dateTime": "2021-04-03 19:00:00 +07:00",
-      "speaker": "Arieditya -  Ruang Guru",
+      "speaker": "Arieditya - Ruang Guru",
       "slide": "empty",
       "topic": "Jomblo? Ngelamar Yuk! Job Applying 101",
       "slug": "jomblo-ngelamar-yuk-job-applying-101",
