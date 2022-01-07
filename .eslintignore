@@ -4,3 +4,4 @@ cover
 build
 .svelte-kit
 coverage
+src/api
