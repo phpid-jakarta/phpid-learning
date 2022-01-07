@@ -1808,7 +1808,7 @@ export default {
       "date": "Sabtu, 3 April 2021",
       "time": "19:00",
       "dateTime": "2021-04-03 19:00:00 +07:00",
-      "speaker": "Arieditya -  Ruang Guru",
+      "speaker": "Arieditya - Ruang Guru",
       "slide": "empty",
       "topic": "Jomblo? Ngelamar Yuk! Job Applying 101",
       "slug": "jomblo-ngelamar-yuk-job-applying-101",
