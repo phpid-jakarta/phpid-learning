@@ -1,4 +1,3 @@
-
 ### PostgreSQL: DDL dan SQL
 
 - Waktu: Kamis, 14 Mei 2020
@@ -10,4 +9,3 @@
 - Sesi: 25
 - Kategori: database, postgresql
 - Deskripsi: -
-          

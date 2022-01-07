@@ -1,4 +1,3 @@
-
 ### Mari Mengenal Logika Fuzzy, Konsep & Implementasinya
 
 - Waktu: Jumat, 30 Juli 2021
@@ -10,4 +9,3 @@
 - Sesi: 121
 - Kategori: fuzzy, machine learning, ml, science
 - Deskripsi: empty
-          

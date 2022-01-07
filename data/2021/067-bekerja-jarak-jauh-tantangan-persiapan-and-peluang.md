@@ -1,4 +1,3 @@
-
 ### Bekerja Jarak Jauh. Tantangan, Persiapan & Peluang
 
 - Waktu: Senin, 22 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 67
 - Kategori: remote worker, inspiration
 - Deskripsi: empty
-          

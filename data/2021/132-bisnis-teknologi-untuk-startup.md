@@ -1,4 +1,3 @@
-
 ### BISNIS TEKNOLOGI UNTUK STARTUP
 
 - Waktu: Jumat, 3 September 2021
@@ -10,4 +9,3 @@
 - Sesi: 132
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
-          

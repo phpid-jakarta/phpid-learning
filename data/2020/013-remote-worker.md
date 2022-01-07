@@ -1,4 +1,3 @@
-
 ### Remote Worker
 
 - Waktu: Kamis, 30 April 2020
@@ -10,4 +9,3 @@
 - Sesi: 13
 - Kategori: remote worker, freelance
 - Deskripsi: -
-          

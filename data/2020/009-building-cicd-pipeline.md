@@ -1,4 +1,3 @@
-
 ### Building CI/CD Pipeline
 
 - Waktu: Jumat, 24 April 2020
@@ -10,4 +9,3 @@
 - Sesi: 9
 - Kategori: ci/cd, aws
 - Deskripsi: -
-          

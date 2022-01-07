@@ -1,4 +1,3 @@
-
 ### Tips dan Trik Menerima Proyek Website untuk Pemula
 
 - Waktu: Sabtu, 20 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 66
 - Kategori: web, inspiration
 - Deskripsi: empty
-          

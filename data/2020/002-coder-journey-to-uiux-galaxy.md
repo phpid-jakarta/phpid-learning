@@ -1,4 +1,3 @@
-
 ### Coder Journey to UI/UX Galaxy
 
 - Waktu: Jumat, 10 April 2020
@@ -10,4 +9,3 @@
 - Sesi: 2
 - Kategori: ui/ux
 - Deskripsi: -
-          

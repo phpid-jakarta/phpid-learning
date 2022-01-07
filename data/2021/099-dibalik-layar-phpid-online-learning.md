@@ -1,4 +1,3 @@
-
 ### Dibalik Layar PHPID Online Learning
 
 - Waktu: Jumat, 7 Mei 2021
@@ -10,4 +9,3 @@
 - Sesi: 99
 - Kategori: phpid, learning
 - Deskripsi: empty
-          

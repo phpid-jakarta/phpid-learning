@@ -1,4 +1,3 @@
-
 ### Bagaimana Kami Menggunakan PHP Sebagai Bagian dari Platform Solusi Pandemi di Refactory
 
 - Waktu: Kamis, 25 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 69
 - Kategori: php, inspiration
 - Deskripsi: empty
-          

@@ -1,4 +1,3 @@
-
 ### PHP-ML Metode Naive Bayes
 
 - Waktu: Jumat, 2 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 74
 - Kategori: machine learning, php
 - Deskripsi: empty
-          

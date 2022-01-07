@@ -1,4 +1,3 @@
-
 ### RAD with NO-SQL
 
 - Waktu: Selasa, 26 Oktober 2021
@@ -10,4 +9,3 @@
 - Sesi: 145
 - Kategori: rad, nosql
 - Deskripsi: -
-          

@@ -1,4 +1,3 @@
-
 ### MY JOURNEY FROM 'COPAS' DEVELOPER TO CTO
 
 - Waktu: Jumat, 10 September 2021
@@ -10,4 +9,3 @@
 - Sesi: 134
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
-          

@@ -1,4 +1,3 @@
-
 ### PHP Native Series: Datatable
 
 - Waktu: Selasa, 6 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 77
 - Kategori: php
 - Deskripsi: empty
-          

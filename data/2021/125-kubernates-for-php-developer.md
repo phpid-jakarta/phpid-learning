@@ -1,4 +1,3 @@
-
 ### Kubernates for PHP Developer
 
 - Waktu: Jumat, 13 Agustus 2021
@@ -10,4 +9,3 @@
 - Sesi: 125
 - Kategori: kubernates, php
 - Deskripsi: empty
-          

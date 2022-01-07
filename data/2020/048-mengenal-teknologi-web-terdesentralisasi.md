@@ -1,4 +1,3 @@
-
 ### Mengenal Teknologi Web Terdesentralisasi
 
 - Waktu: Minggu, 4 Oktober 2020
@@ -10,4 +9,3 @@
 - Sesi: 48
 - Kategori: web
 - Deskripsi: -
-          

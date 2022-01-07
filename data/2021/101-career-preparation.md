@@ -1,4 +1,3 @@
-
 ### Career Preparation
 
 - Waktu: Kamis, 27 Mei 2021
@@ -10,4 +9,3 @@
 - Sesi: 101
 - Kategori: career, future
 - Deskripsi: empty
-          

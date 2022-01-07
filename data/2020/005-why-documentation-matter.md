@@ -1,4 +1,3 @@
-
 ### Why Documentation Matter
 
 - Waktu: Rabu, 15 April 2020
@@ -10,4 +9,3 @@
 - Sesi: 5
 - Kategori: documentation
 - Deskripsi: -
-          

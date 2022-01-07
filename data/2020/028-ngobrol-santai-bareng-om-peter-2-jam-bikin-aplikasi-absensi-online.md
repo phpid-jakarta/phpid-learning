@@ -1,4 +1,3 @@
-
 ### Ngobrol Santai Bareng om Peter - 2 Jam Bikin Aplikasi Absensi Online
 
 - Waktu: Senin, 1 Juni 2020
@@ -10,4 +9,3 @@
 - Sesi: 28
 - Kategori: inspiration
 - Deskripsi: -
-          

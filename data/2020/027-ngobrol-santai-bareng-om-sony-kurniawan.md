@@ -1,4 +1,3 @@
-
 ### Ngobrol Santai Bareng om Sony Kurniawan
 
 - Waktu: Senin, 18 Mei 2020
@@ -10,4 +9,3 @@
 - Sesi: 27
 - Kategori: inspiration
 - Deskripsi: -
-          

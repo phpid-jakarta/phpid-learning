@@ -1,4 +1,3 @@
-
 ### Konfigurasi Dasar Amazon VPC Menggunakan Terraform
 
 - Waktu: Selasa, 11 Januari 2022

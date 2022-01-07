@@ -1,4 +1,3 @@
-
 ### (Part #2) Delphi. Membangun Mobile Apps menggunakan Web Service (WSquery)
 
 - Waktu: Rabu, 2 Juni 2021
@@ -10,4 +9,3 @@
 - Sesi: 104
 - Kategori: delphi, mobile apps, web service
 - Deskripsi: empty
-          

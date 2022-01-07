@@ -1,4 +1,3 @@
-
 ### Web Accessibility
 
 - Waktu: Sabtu, 13 Juni 2020
@@ -10,4 +9,3 @@
 - Sesi: 33
 - Kategori: web
 - Deskripsi: -
-          

@@ -1,4 +1,3 @@
-
 ### Berkarir sebagai Frontend Developer
 
 - Waktu: Selasa, 28 April 2020
@@ -10,4 +9,3 @@
 - Sesi: 12
 - Kategori: career, frontend
 - Deskripsi: -
-          

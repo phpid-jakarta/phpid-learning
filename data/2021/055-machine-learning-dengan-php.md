@@ -1,4 +1,3 @@
-
 ### Machine Learning dengan PHP
 
 - Waktu: Jumat, 19 Februari 2021
@@ -10,4 +9,3 @@
 - Sesi: 55
 - Kategori: php, machine learning
 - Deskripsi: empty
-          

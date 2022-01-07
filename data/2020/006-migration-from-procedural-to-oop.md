@@ -1,4 +1,3 @@
-
 ### Migration from Procedural to OOP
 
 - Waktu: Kamis, 16 April 2020
@@ -10,4 +9,3 @@
 - Sesi: 6
 - Kategori: php, oop
 - Deskripsi: -
-          

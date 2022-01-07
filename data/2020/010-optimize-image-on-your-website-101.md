@@ -1,4 +1,3 @@
-
 ### Optimize Image on Your Website 101
 
 - Waktu: Sabtu, 25 April 2020
@@ -10,4 +9,3 @@
 - Sesi: 10
 - Kategori: php
 - Deskripsi: -
-          

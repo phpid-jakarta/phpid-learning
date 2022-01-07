@@ -1,4 +1,3 @@
-
 ### From PHP To Data Engineer
 
 - Waktu: Kamis, 3 Juni 2021
@@ -10,4 +9,3 @@
 - Sesi: 105
 - Kategori: php, data engineer
 - Deskripsi: empty
-          

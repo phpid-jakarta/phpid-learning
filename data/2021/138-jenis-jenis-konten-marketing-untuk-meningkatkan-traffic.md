@@ -1,4 +1,3 @@
-
 ### JENIS-JENIS KONTEN MARKETING UNTUK MENINGKATKAN TRAFFIC
 
 - Waktu: Jumat, 24 September 2021
@@ -10,4 +9,3 @@
 - Sesi: 138
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
-          

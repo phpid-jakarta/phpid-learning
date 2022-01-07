@@ -1,4 +1,3 @@
-
 ### Rapid Frontend Ninja Development with NodeJS & CSS Frameworks
 
 - Waktu: Rabu, 17 Februari 2021
@@ -10,4 +9,3 @@
 - Sesi: 56
 - Kategori: nodejs, framework
 - Deskripsi: empty
-          

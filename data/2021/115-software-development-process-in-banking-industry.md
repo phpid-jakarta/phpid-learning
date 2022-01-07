@@ -1,4 +1,3 @@
-
 ### Software Development Process in Banking Industry
 
 - Waktu: Senin, 12 Juli 2021
@@ -10,4 +9,3 @@
 - Sesi: 115
 - Kategori: banking
 - Deskripsi: empty
-          

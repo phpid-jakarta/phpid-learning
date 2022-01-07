@@ -1,4 +1,3 @@
-
 ### Enabling Data Governance
 
 - Waktu: Sabtu, 20 Juni 2020
@@ -10,4 +9,3 @@
 - Sesi: 35
 - Kategori: data governance
 - Deskripsi: -
-          

@@ -1,4 +1,3 @@
-
 ### Membuat Fitur Pencarian Menggunakan Meilisearch
 
 - Waktu: Senin, 26 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 88
 - Kategori: meilisearch, big data
 - Deskripsi: empty
-          

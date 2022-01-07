@@ -1,4 +1,3 @@
-
 ### How to design a good database
 
 - Waktu: Kamis, 9 April 2020
@@ -10,4 +9,3 @@
 - Sesi: 1
 - Kategori: database
 - Deskripsi: -
-          

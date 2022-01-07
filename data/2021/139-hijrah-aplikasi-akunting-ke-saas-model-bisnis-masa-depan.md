@@ -1,4 +1,3 @@
-
 ### HIJRAH APLIKASI AKUNTING KE SAAS. MODEL BISNIS MASA DEPAN
 
 - Waktu: Selasa, 28 September 2021
@@ -10,4 +9,3 @@
 - Sesi: 139
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
-          

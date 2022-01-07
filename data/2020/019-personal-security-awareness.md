@@ -1,4 +1,3 @@
-
 ### Personal Security Awareness
 
 - Waktu: Kamis, 7 Mei 2020
@@ -10,4 +9,3 @@
 - Sesi: 19
 - Kategori: security
 - Deskripsi: -
-          

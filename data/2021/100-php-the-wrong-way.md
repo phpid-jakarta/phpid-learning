@@ -1,4 +1,3 @@
-
 ### PHP The Wrong Way
 
 - Waktu: Jumat, 21 Mei 2021
@@ -10,4 +9,3 @@
 - Sesi: 100
 - Kategori: php, clean code
 - Deskripsi: empty
-          

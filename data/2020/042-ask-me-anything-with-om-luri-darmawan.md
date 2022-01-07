@@ -1,4 +1,3 @@
-
 ### Ask Me Anything with Om Luri Darmawan
 
 - Waktu: Sabtu, 25 Juli 2020
@@ -10,4 +9,3 @@
 - Sesi: 42
 - Kategori: inspiration
 - Deskripsi: Ask Me Anything with om Luri Darmawan. Founder Carik ChatBot paling fenomenal 2020 didaftar di 1000 group telegram/wa/line/messenger.
-          

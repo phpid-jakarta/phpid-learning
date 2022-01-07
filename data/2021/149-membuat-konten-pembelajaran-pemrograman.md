@@ -1,4 +1,3 @@
-
 ### Membuat Konten Pembelajaran Pemrograman
 
 - Waktu: Selasa, 16 November 2021
@@ -10,4 +9,3 @@
 - Sesi: 149
 - Kategori: kampus online, wpu, online learning, tutorial
 - Deskripsi: -
-          

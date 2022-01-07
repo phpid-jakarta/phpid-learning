@@ -1,4 +1,3 @@
-
 ### Strategi Marketing untuk Programmer Freelance
 
 - Waktu: Senin, 3 Mei 2021
@@ -10,4 +9,3 @@
 - Sesi: 95
 - Kategori: marketing, freelance
 - Deskripsi: empty
-          

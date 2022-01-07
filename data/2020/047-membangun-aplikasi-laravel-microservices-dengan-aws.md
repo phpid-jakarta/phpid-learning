@@ -1,4 +1,3 @@
-
 ### Membangun Aplikasi Laravel Microservices dengan AWS
 
 - Waktu: Jumat, 18 September 2020
@@ -9,5 +8,4 @@
 - Registrasi: empty
 - Sesi: 47
 - Kategori: php, laravel, aws
-- Deskripsi: 
-          
+- Deskripsi:

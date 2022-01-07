@@ -1,4 +1,3 @@
-
 ### Rest API dengan PHP OOP
 
 - Waktu: Minggu, 3 Mei 2020
@@ -10,4 +9,3 @@
 - Sesi: 15
 - Kategori: php, oop, api
 - Deskripsi: -
-          

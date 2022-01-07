@@ -1,4 +1,3 @@
-
 ### Live Coding Music - Write Music with Code
 
 - Waktu: Minggu, 17 Mei 2020
@@ -10,4 +9,3 @@
 - Sesi: 23
 - Kategori: programming
 - Deskripsi: -
-          

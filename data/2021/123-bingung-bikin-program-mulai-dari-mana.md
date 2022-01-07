@@ -1,4 +1,3 @@
-
 ### Bingung Bikin Program Mulai Dari Mana?
 
 - Waktu: Sabtu, 07 Agustus 2021
@@ -10,4 +9,3 @@
 - Sesi: 123
 - Kategori: php, beginner
 - Deskripsi: empty
-          

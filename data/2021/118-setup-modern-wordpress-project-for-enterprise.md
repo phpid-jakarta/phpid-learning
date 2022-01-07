@@ -1,4 +1,3 @@
-
 ### Setup Modern WordPress Project for Enterprise
 
 - Waktu: Rabu, 21 Juli 2021
@@ -10,4 +9,3 @@
 - Sesi: 118
 - Kategori: wordpress, php, enterprise
 - Deskripsi: empty
-          

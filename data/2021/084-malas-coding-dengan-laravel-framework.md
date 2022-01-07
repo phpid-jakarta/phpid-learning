@@ -1,4 +1,3 @@
-
 ### Malas Coding dengan Laravel Framework
 
 - Waktu: Kamis, 22 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 84
 - Kategori: laravel
 - Deskripsi: empty
-          

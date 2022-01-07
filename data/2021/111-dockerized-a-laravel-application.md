@@ -1,4 +1,3 @@
-
 ### Dockerized a Laravel Application
 
 - Waktu: Senin, 28 Juni 2021
@@ -10,4 +9,3 @@
 - Sesi: 111
 - Kategori: php, laravel, docker
 - Deskripsi: empty
-          

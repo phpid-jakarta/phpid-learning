@@ -1,4 +1,3 @@
-
 ### How to Become a Solution Analyst for Banking Industry
 
 - Waktu: Minggu, 16 Agustus 2020
@@ -9,5 +8,4 @@
 - Registrasi: empty
 - Sesi: 45
 - Kategori: system analyst
-- Deskripsi: 
-          
+- Deskripsi:

@@ -1,4 +1,3 @@
-
 ### [Cancelled] Story Telling with Data
 
 - Waktu: Jumat, 29 Oktober 2021
@@ -10,4 +9,3 @@
 - Sesi: 146
 - Kategori: machine learning, data visualization
 - Deskripsi: -
-          

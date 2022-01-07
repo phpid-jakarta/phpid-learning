@@ -1,4 +1,3 @@
-
 ### Developer Jadi Pengajar, Why Not?
 
 - Waktu: Sabtu, 4 Juli 2020
@@ -10,4 +9,3 @@
 - Sesi: 38
 - Kategori: inspiration
 - Deskripsi: -
-          

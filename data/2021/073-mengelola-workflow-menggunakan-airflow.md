@@ -1,4 +1,3 @@
-
 ### Mengelola Workflow Menggunakan Airflow
 
 - Waktu: Kamis, 1 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 73
 - Kategori: airflow, python
 - Deskripsi: empty
-          

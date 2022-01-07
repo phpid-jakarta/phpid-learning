@@ -1,4 +1,3 @@
-
 ### Technopreneur Kampung
 
 - Waktu: Selasa, 10 Agustus 2021
@@ -10,4 +9,3 @@
 - Sesi: 124
 - Kategori: technopreneur
 - Deskripsi: empty
-          

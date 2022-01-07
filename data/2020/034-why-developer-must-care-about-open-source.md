@@ -1,4 +1,3 @@
-
 ### Why developer must care about Open Source?
 
 - Waktu: Minggu, 14 Juni 2020
@@ -10,4 +9,3 @@
 - Sesi: 34
 - Kategori: open source
 - Deskripsi: -
-          

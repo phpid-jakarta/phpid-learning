@@ -1,4 +1,3 @@
-
 ### Tips Pendirian Perusahaan untuk Programmer yang ingin Berwirausaha
 
 - Waktu: Jumat, 20 Agustus 2021
@@ -10,4 +9,3 @@
 - Sesi: 127
 - Kategori: entrepreneur
 - Deskripsi: empty
-          

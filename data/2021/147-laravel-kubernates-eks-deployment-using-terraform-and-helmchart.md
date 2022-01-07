@@ -1,4 +1,3 @@
-
 ### Laravel Kubernates (EKS) Deployment Using Terraform & Helmchart
 
 - Waktu: Selasa, 2 November 2021
@@ -10,4 +9,3 @@
 - Sesi: 147
 - Kategori: aws, laravel, kubernates, terraform, helmchart
 - Deskripsi: -
-          

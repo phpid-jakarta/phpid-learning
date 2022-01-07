@@ -1,4 +1,3 @@
-
 ### Membangun Fitur Personalisasi Rekomendasi Tanpa Pengalaman Machine Learning
 
 - Waktu: Rabu, 7 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 78
 - Kategori: ml, machine learning
 - Deskripsi: empty
-          

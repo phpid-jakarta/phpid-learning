@@ -1,4 +1,3 @@
-
 ### Belajar Menghindari SQL Injection Melalui Simulasi
 
 - Waktu: Selasa, 2 Februari 2021
@@ -10,4 +9,3 @@
 - Sesi: 52
 - Kategori: database, security
 - Deskripsi: https://zoom.us/j/95908647932?pwd=b0IvdExudHlRb0ZVbENPYTZ0L2RJZz09
-          

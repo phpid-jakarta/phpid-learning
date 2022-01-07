@@ -1,4 +1,3 @@
-
 ### PHP dan Mikrotik API
 
 - Waktu: Selasa, 2 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 58
 - Kategori: php, api, mikrotik
 - Deskripsi: empty
-          

@@ -1,4 +1,3 @@
-
 ### Mager Entry Data - Tips Sesat untuk Pemalas
 
 - Waktu: Jumat, 23 Juli 2021
@@ -10,4 +9,3 @@
 - Sesi: 119
 - Kategori: php, crud
 - Deskripsi: empty
-          

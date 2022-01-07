@@ -1,4 +1,3 @@
-
 ### IT Governance & User Acceptance Test
 
 - Waktu: Minggu, 28 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 70
 - Kategori: data governance, uat
 - Deskripsi: empty
-          

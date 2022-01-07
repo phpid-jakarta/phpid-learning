@@ -1,4 +1,3 @@
-
 ### Belajar Konsep CRM & Menggunakan Software CRM Gratis
 
 - Waktu: Kamis, 16 Juli 2020
@@ -10,4 +9,3 @@
 - Sesi: 41
 - Kategori: crm
 - Deskripsi: Om Arga Dinata, Konsultan Senior yang banyak menggarap proyek2 CRM di perusahaan-perusahaan terkenal
-          
