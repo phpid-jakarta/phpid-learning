@@ -17,7 +17,7 @@ const config = {
 		}),
 
 		prerender: {
-			entries: ['/']
+			crawl: true
 		},
 
 		// hydrate the <div id="svelte"> element in src/app.html

@@ -1,9 +1,7 @@
 <script>
-  import { originData, allByKeyword } from '../../store';
+  import { originData, allByKeyword, currentKeyword } from '../../store';
 	import Blob from '../decoration/Blob.svelte';
 	import SearchForm from '../search-form/SearchForm.svelte';
-
-  export let q;
 </script>
 
 <section data-section="hero">
@@ -32,7 +30,7 @@
 			>
 				<h2>Daftar Webinar</h2>
 				<p>
-					Pencarian {q}
+					Pencarian {currentKeyword}
 				</p>
 			</div>
 		</div>

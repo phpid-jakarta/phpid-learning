@@ -1,12 +1,5 @@
 <script context="module" lang="ts">
-		/** @type {import('@sveltejs/kit').Load} */
-		export async function load({ url }) {
-		const searchParam = url.searchParams;
-		let q = searchParam.get('q')
-		return {
-			props: { q }
-		};
-	}
+	export const prerender = true;
 </script>
 
 
@@ -20,10 +13,11 @@
 	import CardItem from '$lib/event-item/CardItem.svelte';
 	import Blob from '$lib/decoration/Blob.svelte';
 
-  export let q;
-
   onMount(() => {
-    currentKeyword.set(q);
+		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+		// @ts-ignore
+		const searchParams = new URL(window.location).searchParams
+    currentKeyword.set(searchParams.get('q'));
     initMasonry();
   });
 </script>
@@ -33,7 +27,7 @@
 </svelte:head>
 
 <section data-page="home">
-	<Hero {q} />
+	<Hero />
 	<article class="max-w-5xl px-4 lg:px-0 mx-auto tracking-content">
 		{#if $allByKeyword.length > 0}
 			<div
