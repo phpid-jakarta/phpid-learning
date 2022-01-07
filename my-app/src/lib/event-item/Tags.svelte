@@ -21,7 +21,7 @@
 	{#if tags_w_color && tags_w_color.length > 0}
 		{#each tags_w_color as item (item)}
 			<a
-				class="cursor-pointer text-gray-500 dark:text-gray-400 hover:underline"
+				class="cursor-pointer text-gray-500 dark:text-gray-400 text-sm md:text-xs hover:underline"
 				on:click={(e) => handleClickTag(e, item.tag)}
 				href={`/tag/${item.tag}`}
 				alt={item.tag}

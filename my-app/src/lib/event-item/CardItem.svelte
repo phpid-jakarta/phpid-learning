@@ -15,7 +15,7 @@
 			const img = document.createElement('img');
 			img.classList.add('is--loading');
 			img.classList.add('card-image');
-			img.classList.add('rounded-t');
+			img.classList.add('rounded-lg');
 
 			img.onload = () => {
 				loaded = true;
@@ -47,30 +47,32 @@
 	});
 </script>
 
-<div class="backdrop-blur-md rounded bg-gray-600/10 dark:bg-black/30">
-	<div class="card-image-wrapper p-2 rounded-t js-image--{item.id}" />
-	<div class="rounded-b p-4 flex flex-wrap flex-col gap-2">
-		<div class="flex flex-wrap gap-2">
-			<span class="rounded-full px-2 bg-yellow-700 text-white dark:text-yellow-200">#{item.id}</span>
-			<span class="rounded-full px-2 bg-blue-700 text-white dark:text-blue-200">
+<div class="rounded-lg bg-gradient-to-r from-gray-600/10 to-gray-500/10 dark:from-gray-600/25 dark:to-gray-500/25">
+	<div class="w-auto p-2 rounded-lg js-image--{item.id}" />
+	<div class="rounded-b px-4 pt-1 flex flex-wrap flex-col">
+		<div class="flex flex-wrap gap-1.5">
+			<span class="rounded-full px-1.5 py-0.5 text-sm md:text-xs bg-amber-700/75 dark:bg-amber-700/60 text-white dark:text-amber-200">#{item.id}</span>
+			<span class="rounded-full px-1.5 py-0.5 text-sm md:text-xs bg-blue-700/75 dark:bg-blue-700/60 text-white dark:text-blue-200">
 				{item.date}
 			</span>
-			<span class="rounded-full px-2 bg-green-700 text-white dark:text-green-200">{item.time} WIB</span>
+			<span class="rounded-full px-1.5 py-0.5 text-sm md:text-xs bg-emerald-700/75 dark:bg-emerald-700/60 text-white dark:text-emerald-200">{item.time} WIB</span>
 		</div>
 
-		<h4 class="text-xl text-gray-800 dark:text-white">{item.topic}</h4>
+		<h4 class="text-gray-800 dark:text-white font-semibold mt-2 mb-1">{item.topic}</h4>
 
 		<Speaker speaker={item.speaker} />
 
 		{#if item.tags && item.tags.length > 0}
-			<Tags tags={item.tags} />
+			<div class="mt-2">
+        <Tags tags={item.tags} />
+      </div>
 		{/if}
 
-		<div class="mt-8 flex justify-between items-center">
+		<div class="mt-8 pb-2 flex justify-between items-center">
 			{#if item.videos[0] && item.videos[0] !== 'empty'}
 				<a
 					href={item.videos[0]}
-					class="text-blue-600 dark:text-blue-300 hover:underline"
+					class="text-blue-600 dark:text-blue-300 md:text-sm font-medium hover:underline"
 					target="_blank"
 					rel="noopener"
 					title="Tonton Video"
@@ -82,7 +84,7 @@
 			{#if item.registrasi && item.registrasi !== 'empty'}
 				<a
 					href={item.registrasi}
-					class="text-blue-600 dark:text-blue-300 hover:underline"
+					class="text-blue-600 dark:text-blue-300 md:text-sm font-medium hover:underline"
 					target="_blank"
 					rel="noopener"
 					title="Registrasi"
@@ -94,7 +96,7 @@
 			{#if item.slide && item.slide !== 'empty'}
 				<a
 					href={item.slide}
-					class="text-blue-600 dark:text-blue-300 hover:underline"
+					class="text-blue-600 dark:text-blue-300 md:text-sm font-medium hover:underline"
 					target="_blank"
 					rel="noopener"
 					title="Lihat Slide"
@@ -105,14 +107,3 @@
 		</div>
 	</div>
 </div>
-
-<style>
-	.card-image-wrapper {
-		width: auto;
-		min-height: 200px;
-	}
-
-	.card-body {
-		min-height: 200px;
-	}
-</style>

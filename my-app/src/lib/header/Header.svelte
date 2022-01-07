@@ -1,4 +1,5 @@
 <script lang="ts">
+	import Blob from '../decoration/Blob.svelte';
 	import ThemeSwitcher from '../theme-switcher/ThemeSwitcher.svelte';
 
 	let isOpen = false;
@@ -7,8 +8,9 @@
 	}
 </script>
 
-<nav class="bg-transparent border-gray-200 px-2 sm:px-4 py-2.5">
-	<div class="container flex flex-wrap justify-between items-center mx-auto">
+<nav class="max-w-5xl px-4 lg:px-0 pt-6 mx-auto relative">
+	<Blob className="absolute top-0 right-full dark:text-blue-500 text-blue-500/50" />
+	<div class="flex flex-wrap justify-between items-center">
 		<a href="/" class="flex py-2 text-gray-700 dark:text-white">
 			<svg class="mr-3 h-6" viewBox="0 0 101 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 				<path
@@ -27,7 +29,7 @@
 				on:click={toggleMenu}
 				data-collapse-toggle="mobile-menu"
 				type="button"
-				class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+				class="inline-flex items-center p-2 ml-3 md:text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-600"
 				aria-controls="mobile-menu-2"
 				aria-expanded="false"
 			>
@@ -58,7 +60,7 @@
 		</div>
 
 		<div class="{isOpen ? 'block' : 'hidden'} w-full md:block md:w-auto" id="mobile-menu">
-			<ul class="flex flex-col items-center mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
+			<ul class="flex flex-col items-center mt-4 md:flex-row md:gap-x-12 md:mt-0">
 				<li class="hidden md:block">
 					<ThemeSwitcher />
 				</li>
@@ -95,7 +97,7 @@
 						href="https://s.byphp.id/jadi-pemateri"
 						target="_blank"
 						rel="noopener noreferrer"
-						class="block text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mt-2 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+						class="block text-white bg-blue-800/75 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg md:text-sm px-5 py-2.5 text-center mt-2 md:mr-0 dark:text-blue-200 dark:bg-blue-800/60 dark:hover:bg-blue-700/60 dark:focus:ring-blue-800 outline-none"
 						>Daftar jadi speaker</a
 					>
 				</li>

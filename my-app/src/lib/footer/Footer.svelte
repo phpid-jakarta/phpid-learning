@@ -1,20 +1,17 @@
-<footer class="px-2 sm:px-4 py-8 text-gray-600 dark:text-gray-200">
-	<section class="container mx-auto">
-		<div class="text-center">
-			<span />
-			Menemukan bug? atau ingin berkontribusi? kunjungi
-			<a
-				href="https://github.com/phpid-jakarta/phpid-learning/"
-				target="_blank"
-				rel="noopener"
-				title="Github"
-        class="text-blue-700 hover:text-blue-800 hover:underline"
-			>
-				GitHub
-			</a>
-		</div>
+<footer class="pb-12 mt-16 text-gray-600 dark:text-gray-200">
+	<section class="max-w-5xl mx-auto text-center">
+		Menemukan bug? atau ingin berkontribusi? kunjungi
+		<a
+			href="https://github.com/phpid-jakarta/phpid-learning/"
+			target="_blank"
+			rel="noopener"
+			title="Github"
+       class="dark:text-blue-300 dark:hover:text-blue-400 text-blue-600 hover:text-blue-700 hover:underline"
+		>
+			GitHub
+		</a>
 	</section>
-	<section class="container mx-auto text-center">
+	<section class="max-w-5xl mx-auto text-center mt-2">
 		<p>
 			Dibangun oleh PHPID dengan bantuan
 				<a
@@ -22,11 +19,11 @@
 					target="_blank"
 					rel="noopener"
 					title="Github"
-          class="text-blue-700 hover:text-blue-800 hover:underline"
+          class="dark:text-blue-300 dark:hover:text-blue-400 text-blue-600 hover:text-blue-700 hover:underline"
 				>
 					kontributor
 				</a>
 		</p>
-    <p>© 2020 - sekarang</p>
+    <p class="mt-2">© 2020 - sekarang</p>
 	</section>
 </footer>

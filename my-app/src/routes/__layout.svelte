@@ -4,18 +4,10 @@
 	import '../app.css';
 </script>
 
-<div class="app">
+<div class="app overflow-x-hidden">
 	<Header />
 	<main>
 		<slot />
 	</main>
 	<Footer />
 </div>
-
-<style>
-  .app {
-		background: url("/images/decoration.svg");
-		background-repeat: repeat;
-		width: 100%;
-  }
-</style>
