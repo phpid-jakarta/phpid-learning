@@ -1,4 +1,3 @@
-
 ### How to Secure your Next Job During Covid-19 Pandemic
 
 - Waktu: Selasa, 5 Mei 2020
@@ -10,4 +9,3 @@
 - Sesi: 17
 - Kategori: career
 - Deskripsi: -
-          

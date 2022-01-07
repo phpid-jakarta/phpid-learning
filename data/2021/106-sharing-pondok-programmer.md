@@ -1,4 +1,3 @@
-
 ### Sharing Pondok Programmer
 
 - Waktu: Senin, 7 Juni 2021
@@ -10,4 +9,3 @@
 - Sesi: 106
 - Kategori: sharing, non-tehnical
 - Deskripsi: empty
-          

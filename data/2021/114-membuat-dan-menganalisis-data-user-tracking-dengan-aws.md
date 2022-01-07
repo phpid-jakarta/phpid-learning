@@ -1,4 +1,3 @@
-
 ### Membuat dan Menganalisis Data User Tracking Dengan AWS
 
 - Waktu: Jumat, 9 Juli 2021
@@ -10,4 +9,3 @@
 - Sesi: 114
 - Kategori: aws, data analytics, user tracking
 - Deskripsi: empty
-          

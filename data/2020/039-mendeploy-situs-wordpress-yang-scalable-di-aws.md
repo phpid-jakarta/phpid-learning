@@ -1,4 +1,3 @@
-
 ### Mendeploy Situs Wordpress yang Scalable di AWS
 
 - Waktu: Kamis, 9 Juli 2020
@@ -10,4 +9,3 @@
 - Sesi: 39
 - Kategori: php, wordpress, aws
 - Deskripsi: -
-          

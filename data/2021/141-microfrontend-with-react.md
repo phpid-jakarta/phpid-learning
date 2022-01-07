@@ -1,4 +1,3 @@
-
 ### MicroFrontend With React
 
 - Waktu: Selasa, 5 Oktober 2021
@@ -10,4 +9,3 @@
 - Sesi: 141
 - Kategori: reactjs, micro framework
 - Deskripsi: empty
-          

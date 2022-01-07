@@ -1,4 +1,3 @@
-
 ### From Zero to Hero with Code Igniter
 
 - Waktu: Selasa, 16 Februari 2021
@@ -10,4 +9,3 @@
 - Sesi: 54
 - Kategori: php, framework, code igniter
 - Deskripsi: empty
-          

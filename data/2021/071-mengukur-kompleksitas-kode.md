@@ -1,4 +1,3 @@
-
 ### Mengukur Kompleksitas Kode
 
 - Waktu: Selasa, 30 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 71
 - Kategori: programming
 - Deskripsi: empty
-          

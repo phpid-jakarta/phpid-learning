@@ -1,4 +1,3 @@
-
 ### THE ART OF PRICING: PROJECT vs PRODUCT
 
 - Waktu: Selasa, 14 September 2021
@@ -10,4 +9,3 @@
 - Sesi: 135
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
-          

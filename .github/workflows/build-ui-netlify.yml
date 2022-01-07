@@ -4,14 +4,14 @@ on:
     branches:
       - master
     paths-ignore:
-      - "LAST_UPDATED"
-      - "data.json"
-      - "data.js"
-      - "data-es.js"
-      - "tags.txt"
-      - "tags-prefix.txt"
-      - "_redirect-out"
-      - "package.json"
+      - 'LAST_UPDATED'
+      - 'data.json'
+      - 'data.js'
+      - 'data-es.js'
+      - 'tags.txt'
+      - 'tags-prefix.txt'
+      - '_redirect-out'
+      - 'package.json'
 
 jobs:
   install-deps:
@@ -25,7 +25,7 @@ jobs:
       - name: Setup Node.js 14.x
         uses: actions/setup-node@v1
         with:
-          node-version: "14.x"
+          node-version: '14.x'
 
       - name: Install locked dependencies
         run: yarn install --frozen-lockfile
@@ -42,7 +42,7 @@ jobs:
         uses: actions/cache@v1
         id: cache-deps
         with:
-          path: "."
+          path: '.'
           key: ${{ github.sha }}
 
   build_ui:
@@ -55,13 +55,13 @@ jobs:
         uses: actions/cache@v1
         id: restore-deps
         with:
-          path: "."
+          path: '.'
           key: ${{ github.sha }}
 
       - name: Setup Node.js 14.x
         uses: actions/setup-node@v1
         with:
-          node-version: "14.x"
+          node-version: '14.x'
 
       - name: Perform export to static
         run: yarn build
@@ -85,7 +85,7 @@ jobs:
         uses: actions/cache@v1
         id: restore-deps
         with:
-          path: "."
+          path: '.'
           key: ${{ github.sha }}
 
       - name: Deploy
@@ -94,4 +94,3 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./api
           publish_branch: api
-

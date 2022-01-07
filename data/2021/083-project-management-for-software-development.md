@@ -1,4 +1,3 @@
-
 ### Project Management for Software Development
 
 - Waktu: Rabu, 21 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 83
 - Kategori: project, management
 - Deskripsi: empty
-          

@@ -1,4 +1,3 @@
-
 ### On-Premiese vs Cloud
 
 - Waktu: Selasa, 18 Januari 2022

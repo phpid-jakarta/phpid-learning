@@ -1,4 +1,3 @@
-
 ### 2021, PHP masih cocok untuk dipelajari?
 
 - Waktu: Sabtu, 27 Juni 2020
@@ -10,4 +9,3 @@
 - Sesi: 37
 - Kategori: php
 - Deskripsi: -
-          

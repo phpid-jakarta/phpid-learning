@@ -1,14 +1,16 @@
 <script>
-  import { originData, allByTags } from '../../store';
+	import { originData, allByTags } from '../../store';
 	import Blob from '../decoration/Blob.svelte';
 	import SearchForm from '../search-form/SearchForm.svelte';
 
-  export let tag;
+	export let tag;
 </script>
 
 <section data-section="hero">
-  <div class="max-w-5xl mx-auto relative">
-    <Blob className="absolute scale-x-[-1] top-32 -right-72 dark:text-amber-500 text-amber-500/50" />
+	<div class="max-w-5xl mx-auto relative">
+		<Blob
+			className="absolute scale-x-[-1] top-32 -right-72 dark:text-amber-500 text-amber-500/50"
+		/>
 		<div class="flex flex-col text-center px-4 pt-24">
 			<div class="flex flex-col">
 				<h1

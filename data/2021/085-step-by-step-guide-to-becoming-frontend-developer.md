@@ -1,4 +1,3 @@
-
 ### Step by Step Guide to Becoming FrontEnd Developer
 
 - Waktu: Jumat, 23 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 85
 - Kategori: frontend
 - Deskripsi: empty
-          

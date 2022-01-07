@@ -1,4 +1,3 @@
-
 ### The Essential Art of NLP in Chatbot Ecosystem
 
 - Waktu: Sabtu, 24 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 86
 - Kategori: nlp, machine learning, ml, chat, bot
 - Deskripsi: empty
-          

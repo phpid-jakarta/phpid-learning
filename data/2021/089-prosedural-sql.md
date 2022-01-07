@@ -1,4 +1,3 @@
-
 ### Prosedural SQL
 
 - Waktu: Selasa, 27 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 89
 - Kategori: sql, database
 - Deskripsi: empty
-          

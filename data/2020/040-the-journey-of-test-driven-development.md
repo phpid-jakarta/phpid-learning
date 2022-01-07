@@ -1,4 +1,3 @@
-
 ### The Journey of Test-Driven Development
 
 - Waktu: Selasa, 14 Juli 2020
@@ -10,4 +9,3 @@
 - Sesi: 40
 - Kategori: tdd
 - Deskripsi: Om Freddy Founder Senior Developer, Founder/Pengurus SARCCOM - Software Architect Indonesia Community
-          

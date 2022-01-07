@@ -1,4 +1,3 @@
-
 ### Kebutuhan Lifelong Learning & Top Skill di Masa Depan
 
 - Waktu: Sabtu, 21 Agustus 2021
@@ -10,4 +9,3 @@
 - Sesi: 128
 - Kategori: learning, udemy
 - Deskripsi: empty
-          

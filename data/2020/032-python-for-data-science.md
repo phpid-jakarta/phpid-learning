@@ -1,4 +1,3 @@
-
 ### Python For Data Science
 
 - Waktu: Kamis, 11 Juni 2020
@@ -10,4 +9,3 @@
 - Sesi: 32
 - Kategori: data science, python
 - Deskripsi: -
-          

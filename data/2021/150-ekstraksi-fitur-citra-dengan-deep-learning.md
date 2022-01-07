@@ -1,4 +1,3 @@
-
 ### Ekstraksi Fitur Citra dengan Deep Learning
 
 - Waktu: Selasa, 23 November 2021
@@ -10,4 +9,3 @@
 - Sesi: 150
 - Kategori: kampus online, narotama
 - Deskripsi: -
-          

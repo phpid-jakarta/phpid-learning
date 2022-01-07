@@ -1,4 +1,3 @@
-
 ### Otomasi install LEMP di Centos-7 dengan bash command
 
 - Waktu: Senin, 21 Juni 2021
@@ -10,4 +9,3 @@
 - Sesi: 110
 - Kategori: centos, linux, lemp, bash
 - Deskripsi: empty
-          

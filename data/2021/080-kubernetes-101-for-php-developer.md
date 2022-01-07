@@ -1,4 +1,3 @@
-
 ### Kubernetes 101 for PHP Developer
 
 - Waktu: Jumat, 9 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 80
 - Kategori: kubernates, biznet, open shift
 - Deskripsi: empty
-          

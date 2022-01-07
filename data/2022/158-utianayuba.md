@@ -1,4 +1,3 @@
-
 ### Deploy Containerized PHP App on Openstack IaaS Cloud
 
 - Waktu: Selasa, 4 Januari 2022

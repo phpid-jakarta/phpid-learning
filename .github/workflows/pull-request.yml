@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node.js 14.x
         uses: actions/setup-node@v1
         with:
-          node-version: "14.x"
+          node-version: '14.x'
 
       - name: Install locked dependencies
         run: yarn install --frozen-lockfile
@@ -25,7 +25,7 @@ jobs:
         uses: actions/cache@v1
         id: cache-deps
         with:
-          path: "."
+          path: '.'
           key: ${{ github.sha }}
 
   lint:
@@ -38,16 +38,16 @@ jobs:
         uses: actions/cache@v1
         id: restore-deps
         with:
-          path: "."
+          path: '.'
           key: ${{ github.sha }}
 
       - name: Setup Node.js 14.x
         uses: actions/setup-node@v1
         with:
-          node-version: "14.x"
+          node-version: '14.x'
 
       - name: Lint files
-        run: yarn run lint
+        run: yarn run lint:ci
         env:
           CI: true
 
@@ -61,13 +61,13 @@ jobs:
         uses: actions/cache@v1
         id: restore-deps
         with:
-          path: "."
+          path: '.'
           key: ${{ github.sha }}
 
       - name: Setup Node.js 14.x
         uses: actions/setup-node@v1
         with:
-          node-version: "14.x"
+          node-version: '14.x'
 
       - name: Perform build checking
         run: yarn run build
@@ -84,13 +84,13 @@ jobs:
         uses: actions/cache@v1
         id: restore-deps
         with:
-          path: "."
+          path: '.'
           key: ${{ github.sha }}
 
       - name: Setup Node.js 14.x
         uses: actions/setup-node@v1
         with:
-          node-version: "14.x"
+          node-version: '14.x'
 
       - name: Perform checking script:toJson
         run: yarn run script:toJson

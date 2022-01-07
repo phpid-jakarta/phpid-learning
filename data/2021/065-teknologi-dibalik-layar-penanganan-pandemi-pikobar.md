@@ -1,4 +1,3 @@
-
 ### Teknologi Dibalik Layar Penanganan Pandemi (PIKOBAR)
 
 - Waktu: Jumat, 19 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 65
 - Kategori: inspiration
 - Deskripsi: empty
-          

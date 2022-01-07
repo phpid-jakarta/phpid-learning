@@ -1,4 +1,3 @@
-
 ### SVG untuk e-commerce
 
 - Waktu: Minggu, 25 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 87
 - Kategori: svg, e-commerce
 - Deskripsi: empty
-          

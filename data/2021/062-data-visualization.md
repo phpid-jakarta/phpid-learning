@@ -1,4 +1,3 @@
-
 ### Data Visualization
 
 - Waktu: Selasa, 16 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 62
 - Kategori: data science
 - Deskripsi: empty
-          

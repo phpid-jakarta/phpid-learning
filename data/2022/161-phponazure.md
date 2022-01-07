@@ -1,4 +1,3 @@
-
 ### PHP On Azure
 
 - Waktu: Kamis, 20 Januari 2022
@@ -6,7 +5,7 @@
 - Pemateri: Agus Kurniawan - Microsoft MVP (Data Platform)
 - Slide: empty
 - Video: empty
-- Registrasi: https://fb.me/e/2gk2J7XIY 
+- Registrasi: https://fb.me/e/2gk2J7XIY
 - Sesi: 161
 - Kategori: cloud, azure, php
 - Deskripsi: -

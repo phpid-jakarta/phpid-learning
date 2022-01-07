@@ -1,4 +1,3 @@
-
 ### Sekelumit Seluk-Beluk IT di dunia Manufakturing
 
 - Waktu: Selasa, 31 Agustus 2021
@@ -10,4 +9,3 @@
 - Sesi: 131
 - Kategori: manufacture, it
 - Deskripsi: empty
-          

@@ -1,4 +1,3 @@
-
 ### Digital Marketing Roadmap
 
 - Waktu: Selasa, 9 Februari 2021
@@ -10,4 +9,3 @@
 - Sesi: 53
 - Kategori: digital marketing
 - Deskripsi: https://zoom.us/meeting/register/tJ0vc-uqrjIjH9Qgwcanjc6E_y7ACuTLmTDU
-          

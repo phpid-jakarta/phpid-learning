@@ -1,4 +1,3 @@
-
 ### Codepolitan
 
 - Waktu: Jumat, 15 Mei 2020
@@ -10,4 +9,3 @@
 - Sesi: 26
 - Kategori: inspiration
 - Deskripsi: -
-          

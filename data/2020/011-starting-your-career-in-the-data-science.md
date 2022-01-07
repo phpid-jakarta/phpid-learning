@@ -1,4 +1,3 @@
-
 ### Starting Your Career in the Data Science
 
 - Waktu: Minggu, 26 April 2020
@@ -10,4 +9,3 @@
 - Sesi: 11
 - Kategori: data science, career
 - Deskripsi: -
-          

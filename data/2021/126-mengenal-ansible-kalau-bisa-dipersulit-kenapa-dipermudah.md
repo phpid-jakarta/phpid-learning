@@ -1,4 +1,3 @@
-
 ### Mengenal Ansible. Kalau bisa Dipersulit kenapa Dipermudah?
 
 - Waktu: Selasa, 17 Agustus 2021
@@ -10,4 +9,3 @@
 - Sesi: 126
 - Kategori: ansible, sys-admin, dev-ops
 - Deskripsi: empty
-          

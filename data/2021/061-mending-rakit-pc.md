@@ -1,4 +1,3 @@
-
 ### Mending Rakit PC
 
 - Waktu: Jumat, 12 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 61
 - Kategori: pc built
 - Deskripsi: empty
-          

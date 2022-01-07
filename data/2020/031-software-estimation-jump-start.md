@@ -1,4 +1,3 @@
-
 ### Software Estimation Jump Start
 
 - Waktu: Selasa, 9 Juni 2020
@@ -10,4 +9,3 @@
 - Sesi: 31
 - Kategori: inspiration
 - Deskripsi: -
-          

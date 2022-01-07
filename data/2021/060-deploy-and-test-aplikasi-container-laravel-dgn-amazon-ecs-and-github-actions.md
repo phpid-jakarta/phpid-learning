@@ -1,4 +1,3 @@
-
 ### Deploy & Test Aplikasi Container Laravel dgn Amazon ECS & Github Actions
 
 - Waktu: Rabu, 10 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 60
 - Kategori: php, laravel, aws
 - Deskripsi: empty
-          

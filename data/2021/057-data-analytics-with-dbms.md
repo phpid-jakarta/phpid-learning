@@ -1,4 +1,3 @@
-
 ### Data Analytics with DBMS
 
 - Waktu: Selasa, 23 Februari 2021
@@ -10,4 +9,3 @@
 - Sesi: 57
 - Kategori: database, data analytics
 - Deskripsi: empty
-          

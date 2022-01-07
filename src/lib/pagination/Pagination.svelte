@@ -22,7 +22,9 @@
 </script>
 
 <aside class={className}>
-	<ul class="flex flex-wrap md:justify-center justify-between items-center gap-3 tracking-content md:text-sm">
+	<ul
+		class="flex flex-wrap md:justify-center justify-between items-center gap-3 tracking-content md:text-sm"
+	>
 		<li class="relative">
 			<button
 				class="text-gray-600 dark:text-gray-300 flex items-center gap-x-1.5 rounded-lg bg-gradient-to-r from-gray-600/10 to-gray-500/10 dark:from-gray-600/25 dark:to-gray-500/25 py-1.5 pl-3 pr-4 {$currentPage !==

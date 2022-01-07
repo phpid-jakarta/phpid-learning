@@ -1,4 +1,3 @@
-
 ### Wordpress Theme Development with Vuejs and Sage
 
 - Waktu: Selasa, 20 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 82
 - Kategori: wordpress, vuejs, sage
 - Deskripsi: empty
-          

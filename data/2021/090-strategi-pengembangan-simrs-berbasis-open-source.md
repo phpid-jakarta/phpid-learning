@@ -1,4 +1,3 @@
-
 ### Strategi Pengembangan SIMRS berbasis open source
 
 - Waktu: Rabu, 28 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 90
 - Kategori: simrs, open source
 - Deskripsi: empty
-          

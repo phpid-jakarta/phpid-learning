@@ -1,4 +1,3 @@
-
 ### CAREER HACK: FROM PHP DEVELOPER TO CEO (Reinvented)
 
 - Waktu: Selasa, 21 September 2021
@@ -10,4 +9,3 @@
 - Sesi: 137
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
-          

@@ -1,4 +1,3 @@
-
 ### Memahami Serangan XSS dan CSRF dengan Simulasi Studi Kasus
 
 - Waktu: Jumat, 30 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 92
 - Kategori: xss, csrf, security
 - Deskripsi: empty
-          

@@ -1,4 +1,3 @@
-
 ### JAMStack Untuk PHP Developer
 
 - Waktu: Sabtu, 1 Mei 2021
@@ -10,4 +9,3 @@
 - Sesi: 93
 - Kategori: jamstack, php
 - Deskripsi: empty
-          

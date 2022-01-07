@@ -1,4 +1,3 @@
-
 ### Hadoop Basic
 
 - Waktu: Kamis, 29 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 91
 - Kategori: hadoop, big data, data engineer
 - Deskripsi: empty
-          

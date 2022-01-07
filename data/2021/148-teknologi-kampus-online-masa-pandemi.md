@@ -1,4 +1,3 @@
-
 ### Teknologi Kampus Online Masa Pandemi
 
 - Waktu: Selasa, 9 November 2021
@@ -10,4 +9,3 @@
 - Sesi: 148
 - Kategori: kampus online, ubsi
 - Deskripsi: -
-          

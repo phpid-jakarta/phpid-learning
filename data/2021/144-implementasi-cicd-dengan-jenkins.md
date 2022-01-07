@@ -1,4 +1,3 @@
-
 ### Implementasi CI/CD dengan Jenkins
 
 - Waktu: Jumat, 22 Oktober 2021
@@ -10,4 +9,3 @@
 - Sesi: 144
 - Kategori: jenkins, ci/cd
 - Deskripsi: -
-          

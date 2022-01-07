@@ -1,4 +1,3 @@
-
 ### Increasing Customer Acquisition Using Customer Segmentation Modelling
 
 - Waktu: Selasa, 7 Desember 2021

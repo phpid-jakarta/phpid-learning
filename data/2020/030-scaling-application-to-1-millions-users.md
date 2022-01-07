@@ -1,4 +1,3 @@
-
 ### Scaling Application to 1 Millions Users
 
 - Waktu: Senin, 8 Juni 2020
@@ -10,4 +9,3 @@
 - Sesi: 30
 - Kategori: web, aws
 - Deskripsi: -
-          

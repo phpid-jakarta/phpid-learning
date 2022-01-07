@@ -1,4 +1,3 @@
-
 ### Data Science Methodology
 
 - Waktu: Sabtu, 8 Agustus 2020
@@ -9,5 +8,4 @@
 - Registrasi: empty
 - Sesi: 44
 - Kategori: data science
-- Deskripsi: 
-          
+- Deskripsi:

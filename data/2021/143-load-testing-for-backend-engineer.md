@@ -1,4 +1,3 @@
-
 ### Load Testing for Backend Engineer
 
 - Waktu: Selasa, 19 Oktober 2021
@@ -10,4 +9,3 @@
 - Sesi: 143
 - Kategori: codeigniter
 - Deskripsi: -
-          

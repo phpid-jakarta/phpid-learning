@@ -1,4 +1,3 @@
-
 ### Genetic Algorithms
 
 - Waktu: Selasa, 28 Desember 2021

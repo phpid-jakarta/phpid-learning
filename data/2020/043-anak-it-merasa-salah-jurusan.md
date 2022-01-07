@@ -1,4 +1,3 @@
-
 ### Anak IT merasa salah jurusan?
 
 - Waktu: Sabtu, 1 Agustus 2020
@@ -10,4 +9,3 @@
 - Sesi: 43
 - Kategori: inspiration
 - Deskripsi: How to survive and be a champion in the Technology fields berdasarkan pengalaman, pengamatan, pembelajaran pemateri
-          

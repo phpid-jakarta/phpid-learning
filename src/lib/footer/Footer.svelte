@@ -6,7 +6,7 @@
 			target="_blank"
 			rel="noopener"
 			title="Github"
-       class="dark:text-blue-300 dark:hover:text-blue-400 text-blue-600 hover:text-blue-700 hover:underline"
+			class="dark:text-blue-300 dark:hover:text-blue-400 text-blue-600 hover:text-blue-700 hover:underline"
 		>
 			GitHub
 		</a>
@@ -14,16 +14,16 @@
 	<section class="max-w-5xl mx-auto text-center mt-2">
 		<p>
 			Dibangun oleh PHPID dengan bantuan
-				<a
-					href="https://github.com/phpid-jakarta/phpid-learning/graphs/contributors"
-					target="_blank"
-					rel="noopener"
-					title="Github"
-          class="dark:text-blue-300 dark:hover:text-blue-400 text-blue-600 hover:text-blue-700 hover:underline"
-				>
-					kontributor
-				</a>
+			<a
+				href="https://github.com/phpid-jakarta/phpid-learning/graphs/contributors"
+				target="_blank"
+				rel="noopener"
+				title="Github"
+				class="dark:text-blue-300 dark:hover:text-blue-400 text-blue-600 hover:text-blue-700 hover:underline"
+			>
+				kontributor
+			</a>
 		</p>
-    <p class="mt-2">© 2020 - sekarang</p>
+		<p class="mt-2">© 2020 - sekarang</p>
 	</section>
 </footer>

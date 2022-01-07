@@ -1,4 +1,3 @@
-
 ### gRPC in Go, NodeJS and PHP
 
 - Waktu: Senin, 5 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 76
 - Kategori: php, go, nodejs, grpc
 - Deskripsi: empty
-          

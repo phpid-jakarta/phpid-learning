@@ -1,4 +1,3 @@
-
 ### BEYOND DEVELOPER
 
 - Waktu: Selasa, 7 September 2021
@@ -10,4 +9,3 @@
 - Sesi: 133
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
-          

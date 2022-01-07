@@ -1,4 +1,3 @@
-
 ### Pengalaman Membangun Startup dengan PHP
 
 - Waktu: Rabu, 5 Mei 2021
@@ -10,4 +9,3 @@
 - Sesi: 97
 - Kategori: php, startup
 - Deskripsi: empty
-          

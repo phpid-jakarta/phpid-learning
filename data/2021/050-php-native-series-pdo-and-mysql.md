@@ -1,4 +1,3 @@
-
 ### PHP Native Series: PDO & MySQL
 
 - Waktu: Selasa, 26 Januari 2021
@@ -10,4 +9,3 @@
 - Sesi: 50
 - Kategori: php, database, mysql
 - Deskripsi: -
-          

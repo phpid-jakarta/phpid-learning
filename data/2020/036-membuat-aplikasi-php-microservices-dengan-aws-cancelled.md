@@ -1,4 +1,3 @@
-
 ### Membuat Aplikasi PHP Microservices dengan AWS (cancelled)
 
 - Waktu: Senin, 29 Juni 2020
@@ -10,4 +9,3 @@
 - Sesi: 36
 - Kategori: web, aws
 - Deskripsi: -
-          

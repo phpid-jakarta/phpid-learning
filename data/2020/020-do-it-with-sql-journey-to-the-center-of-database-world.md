@@ -1,4 +1,3 @@
-
 ### Do it with SQL - Journey to the Center of Database World
 
 - Waktu: Jumat, 8 Mei 2020
@@ -10,4 +9,3 @@
 - Sesi: 20
 - Kategori: database
 - Deskripsi: -
-          

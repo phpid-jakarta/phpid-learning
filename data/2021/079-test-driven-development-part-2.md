@@ -1,4 +1,3 @@
-
 ### Test-Driven Development Part #2
 
 - Waktu: Kamis, 8 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 79
 - Kategori: tdd
 - Deskripsi: empty
-          

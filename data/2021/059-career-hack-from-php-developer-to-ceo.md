@@ -1,4 +1,3 @@
-
 ### Career Hack: From PHP Developer to CEO
 
 - Waktu: Selasa, 9 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 59
 - Kategori: career, inspiration
 - Deskripsi: empty
-          

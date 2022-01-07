@@ -1,4 +1,3 @@
-
 ### Membangun Startup untuk Bantu Wujudkan Inklusifitas Bagi Tuli
 
 - Waktu: Senin, 5 Juli 2021
@@ -10,4 +9,3 @@
 - Sesi: 113
 - Kategori: startup, difabilitas
 - Deskripsi: empty
-          

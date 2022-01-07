@@ -1,4 +1,3 @@
-
 ### From Engineer to be Technopreneur
 
 - Waktu: Selasa, 4 Mei 2021
@@ -10,4 +9,3 @@
 - Sesi: 96
 - Kategori: career, developer
 - Deskripsi: empty
-          

@@ -1,4 +1,3 @@
-
 ### MySQL 8.0 Replication & Clustering
 
 - Waktu: Selasa, 23 Maret 2021
@@ -10,4 +9,3 @@
 - Sesi: 68
 - Kategori: database, mysql
 - Deskripsi: empty
-          

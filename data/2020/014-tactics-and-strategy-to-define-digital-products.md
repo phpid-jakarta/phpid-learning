@@ -1,4 +1,3 @@
-
 ### Tactics and Strategy to Define Digital Products
 
 - Waktu: Sabtu, 2 Mei 2020
@@ -10,4 +9,3 @@
 - Sesi: 14
 - Kategori: digital marketing
 - Deskripsi: -
-          

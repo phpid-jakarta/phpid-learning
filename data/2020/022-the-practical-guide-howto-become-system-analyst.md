@@ -1,4 +1,3 @@
-
 ### The Practical Guide howto become System Analyst
 
 - Waktu: Senin, 11 Mei 2020
@@ -10,4 +9,3 @@
 - Sesi: 22
 - Kategori: system analyst
 - Deskripsi: -
-          

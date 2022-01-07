@@ -1,4 +1,3 @@
-
 ### SEO Basic
 
 - Waktu: Minggu, 12 April 2020
@@ -10,4 +9,3 @@
 - Sesi: 3
 - Kategori: seo
 - Deskripsi: -
-          

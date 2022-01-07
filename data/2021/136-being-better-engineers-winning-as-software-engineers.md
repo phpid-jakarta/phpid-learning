@@ -1,4 +1,3 @@
-
 ### BEING BETTER ENGINEERS WINNING AS SOFTWARE ENGINEERS
 
 - Waktu: Jumat, 17 September 2021
@@ -10,4 +9,3 @@
 - Sesi: 136
 - Kategori: startup, itpreneur, bisnis
 - Deskripsi: empty
-          

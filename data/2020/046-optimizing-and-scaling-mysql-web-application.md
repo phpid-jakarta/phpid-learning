@@ -1,4 +1,3 @@
-
 ### Optimizing & Scaling MySQL Web Application
 
 - Waktu: Minggu, 6 September 2020
@@ -9,5 +8,4 @@
 - Registrasi: empty
 - Sesi: 46
 - Kategori: database, mysql
-- Deskripsi: 
-          
+- Deskripsi:

@@ -1,4 +1,3 @@
-
 ### PHP Modernization with Microsoft Azure
 
 - Waktu: Selasa, 24 Agustus 2021
@@ -10,4 +9,3 @@
 - Sesi: 129
 - Kategori: azure, php
 - Deskripsi: empty
-          

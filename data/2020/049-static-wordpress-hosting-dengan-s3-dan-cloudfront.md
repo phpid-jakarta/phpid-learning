@@ -1,4 +1,3 @@
-
 ### Static Wordpress Hosting dengan S3 dan CloudFront
 
 - Waktu: Kamis, 22 Oktober 2020
@@ -10,4 +9,3 @@
 - Sesi: 49
 - Kategori: php, wordpress, aws
 - Deskripsi: -
-          

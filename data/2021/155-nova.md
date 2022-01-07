@@ -1,4 +1,3 @@
-
 ### How to Automatically Deploy static Website on Amazon S3 using AWS CodeCommit & AWS Pipeline
 
 - Waktu: Selasa, 21 Desember 2021

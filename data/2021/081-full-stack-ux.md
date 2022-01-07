@@ -1,4 +1,3 @@
-
 ### Full-Stack UX
 
 - Waktu: Senin, 19 April 2021
@@ -10,4 +9,3 @@
 - Sesi: 81
 - Kategori: uiux
 - Deskripsi: empty
-          

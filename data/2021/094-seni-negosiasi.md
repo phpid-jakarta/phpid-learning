@@ -1,4 +1,3 @@
-
 ### Seni Negosiasi
 
 - Waktu: Minggu, 2 Mei 2021
@@ -10,4 +9,3 @@
 - Sesi: 94
 - Kategori: negosiasi, soft skill
 - Deskripsi: empty
-          

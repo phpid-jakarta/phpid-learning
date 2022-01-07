@@ -1,4 +1,3 @@
-
 ### Implementasi gRPC Web
 
 - Waktu: Rabu, 30 Juni 2021
@@ -10,4 +9,3 @@
 - Sesi: 112
 - Kategori: gRPC, Web
 - Deskripsi: empty
-          

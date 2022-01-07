@@ -1,4 +1,3 @@
-
 ### Spreadsheet Tips & Trick Untuk Umum dan Developer
 
 - Waktu: Senin, 26 Juli 2021
@@ -10,4 +9,3 @@
 - Sesi: 120
 - Kategori: tip, trick, spreadsheet
 - Deskripsi: empty
-          
