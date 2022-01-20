@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Deny Julianto - CTO CalsysID & Lecturer AKD
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1xCxeoqzN
+- Video: https://tbp.my.id/?phpidol-160
+- Registrasi: empty
 - Sesi: 160
 - Kategori: cloud, onprem
 - Deskripsi: -
