@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2022-01-07",
+    "last_updated": "2022-01-20",
     "total": 163,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -99,9 +99,9 @@ export default {
       "topic": "Konfigurasi Dasar Amazon VPC Menggunakan Terraform",
       "slug": "konfigurasi-dasar-amazon-vpc-menggunakan-terraform",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-159"
       ],
-      "registrasi": "https://fb.me/e/1lyenT6Fo",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/159.jpg",
       "deskripsi": "-",
       "tags": [
