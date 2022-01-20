@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Luthfi Anandra - Cloud Infrastructur Engineer HappyFresh
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1lyenT6Fo
+- Video: https://tbp.my.id/?phpidol-159
+- Registrasi: empty
 - Sesi: 159
 - Kategori: cloud, aws, terraform, vpc
 - Deskripsi: -
