@@ -79,9 +79,9 @@ module.exports = {
       "topic": "On-Premiese vs Cloud",
       "slug": "on-premiese-vs-cloud",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-160"
       ],
-      "registrasi": "https://fb.me/e/1xCxeoqzN",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/160.jpg",
       "deskripsi": "-",
       "tags": [
