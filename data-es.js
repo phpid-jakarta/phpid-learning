@@ -58,9 +58,9 @@ export default {
       "topic": "PHP On Azure",
       "slug": "php-on-azure",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-161"
       ],
-      "registrasi": "https://fb.me/e/2gk2J7XIY",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/161.jpg",
       "deskripsi": "-",
       "tags": [
