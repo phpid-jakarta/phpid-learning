@@ -38,9 +38,9 @@ export default {
       "topic": "Google Cloud semudah Naik Sepeda",
       "slug": "google-cloud-semudah-naik-sepeda",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-162"
       ],
-      "registrasi": "https://fb.me/e/1raBARB7I",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/162.jpg",
       "deskripsi": "-",
       "tags": [
