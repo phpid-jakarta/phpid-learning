@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Fiertra Cahya - BDM for Cloud MultiPolar
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1raBARB7I
+- Video: https://tbp.my.id/?phpidol-162
+- Registrasi: empty
 - Sesi: 162
 - Kategori: cloud, gcp
 - Deskripsi: -
