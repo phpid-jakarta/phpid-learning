@@ -2,7 +2,7 @@
 
 - Waktu: Senin, 4 Mei 2020
 - Pukul: 16:00
-- Pemateri: om Prasetyo Wicaksono
+- Pemateri: Prasetyo Wicaksono
 - Slide: empty
 - Video: https://www.facebook.com/peterjkambey/videos/10219532379837894
 - Registrasi: empty

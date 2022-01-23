@@ -2,7 +2,7 @@
 
 - Waktu: Selasa, 9 Juni 2020
 - Pukul: 19:00
-- Pemateri: Om Buyung Bahari
+- Pemateri: Buyung Bahari
 - Slide: empty
 - Video: https://www.facebook.com/peterjkambey/videos/10219872592703003
 - Registrasi: empty

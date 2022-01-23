@@ -2,7 +2,7 @@
 
 - Waktu: Senin, 8 Juni 2020
 - Pukul: 19:00
-- Pemateri: Om Petra Novandi Barus - AWS
+- Pemateri: Petra Novandi Barus - AWS
 - Slide: empty
 - Video: https://www.facebook.com/peterjkambey/videos/10219864037649132
 - Registrasi: empty

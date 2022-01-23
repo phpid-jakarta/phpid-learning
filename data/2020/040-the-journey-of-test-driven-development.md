@@ -8,4 +8,4 @@
 - Registrasi: empty
 - Sesi: 40
 - Kategori: tdd
-- Deskripsi: Om Freddy Founder Senior Developer, Founder/Pengurus SARCCOM - Software Architect Indonesia Community
+- Deskripsi: Freddy Founder - Senior Developer, Founder/Pengurus SARCCOM - Software Architect Indonesia Community

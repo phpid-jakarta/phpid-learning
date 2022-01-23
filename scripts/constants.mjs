@@ -1,3 +1,4 @@
+/* eslint-disable no-useless-escape */
 import appRootDir from 'app-root-dir';
 
 const MONTHNAMES =
@@ -20,6 +21,15 @@ const REGEX_DESKRIPSI = /^- Deskripsi.*/gm;
 
 const ROOT_DIR = appRootDir.get();
 
+const SLUGIFY_OPTION = {
+	replacement: '-', // replace spaces with replacement character, defaults to `-`
+	remove: undefined, // remove characters that match regex, defaults to `undefined`
+	lower: true, // convert to lower case, defaults to `false`
+	strict: true, // strip special characters except replacement, defaults to `false`
+	locale: 'vi', // language code of the locale to use
+	trim: true // trim leading and trailing replacement chars, defaults to `true`
+};
+
 const constants = {
 	REGEX_SECTIONS,
 	REGEX_TITLE,
@@ -33,7 +43,8 @@ const constants = {
 	REGEX_KATEGORI,
 	REGEX_DESKRIPSI,
 	MONTHNAMES,
-	ROOT_DIR
+	ROOT_DIR,
+	SLUGIFY_OPTION
 };
 
 export default constants;

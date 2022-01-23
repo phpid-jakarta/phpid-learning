@@ -2,7 +2,7 @@
 
 - Waktu: Senin, 1 Juni 2020
 - Pukul: 18:00
-- Pemateri: om Peter Kambey - Om Nur Hidayat
+- Pemateri: Peter Kambey & Nur Hidayat
 - Slide: empty
 - Video: https://www.facebook.com/peterjkambey/videos/10219798560652248
 - Registrasi: empty

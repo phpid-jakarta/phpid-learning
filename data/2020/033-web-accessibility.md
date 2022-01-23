@@ -2,7 +2,7 @@
 
 - Waktu: Sabtu, 13 Juni 2020
 - Pukul: 19:00
-- Pemateri: Om Prayudi Utomo
+- Pemateri: Prayudi Utomo
 - Slide: empty
 - Video: https://www.facebook.com/peterjkambey/videos/10219905788772884
 - Registrasi: empty

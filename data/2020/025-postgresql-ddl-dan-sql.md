@@ -2,7 +2,7 @@
 
 - Waktu: Kamis, 14 Mei 2020
 - Pukul: 16:00
-- Pemateri: om Abdul Hadi
+- Pemateri: Abdul Hadi
 - Slide: empty
 - Video: https://www.facebook.com/peterjkambey/videos/10219634513351168
 - Registrasi: empty

@@ -22,10 +22,19 @@
 </script>
 
 <svelte:head>
-	<title>Search... | PHPID Online Learning</title>
+	<title>Pencarian webinar</title>
+
+	<meta property="og:title" content="Pencarian webinar" />
+	<meta
+		property="og:description"
+		content="Pencarian webinar yang tersedia di PHPID Online Learning"
+	/>
+
+	<meta name="twitter:title" content="Pencarian webinar">
+	<meta name="twitter:description" content="Pencarian webinar yang tersedia di PHPID Online Learning">
 </svelte:head>
 
-<section data-page="home">
+<section data-page="search">
 	<Hero />
 	<article class="max-w-5xl px-4 lg:px-0 mx-auto tracking-content">
 		{#if $allByKeyword.length > 0}
