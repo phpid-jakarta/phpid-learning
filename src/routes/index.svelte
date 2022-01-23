@@ -19,6 +19,19 @@
 	});
 </script>
 
+<svelte:head>
+	<title>Belajar daring bersama PHPID</title>
+
+	<meta property="og:title" content="Belajar daring bersama PHPID" />
+	<meta
+		property="og:description"
+		content="Belajar bersama melalui webinar yang diadakan oleh komunitas PHPID"
+	/>
+
+	<meta name="twitter:title" content="Belajar daring bersama PHPID">
+	<meta name="twitter:description" content="Belajar bersama melalui webinar yang diadakan oleh komunitas PHPID">
+</svelte:head>
+
 <section data-page="home">
 	<Hero />
 	<article class="max-w-5xl px-4 lg:px-0 mx-auto tracking-content">
