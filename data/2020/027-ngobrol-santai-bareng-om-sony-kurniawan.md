@@ -2,7 +2,7 @@
 
 - Waktu: Senin, 18 Mei 2020
 - Pukul: 16:00
-- Pemateri: om Sony A Kurniawan
+- Pemateri: Sony A Kurniawan
 - Slide: empty
 - Video: https://www.facebook.com/peterjkambey/videos/10219674327906507
 - Registrasi: empty

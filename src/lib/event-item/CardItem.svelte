@@ -48,7 +48,7 @@
 </script>
 
 <div
-	class="rounded-lg bg-gradient-to-r from-gray-600/10 to-gray-500/10 dark:from-gray-600/25 dark:to-gray-500/25"
+	class="relative rounded-lg bg-gradient-to-r from-gray-600/10 to-gray-500/10 dark:from-gray-600/25 dark:to-gray-500/25"
 >
 	<div class="w-auto p-2 rounded-lg js-image--{item.id}" />
 	<div class="rounded-b px-4 pt-1 flex flex-wrap flex-col">
@@ -70,7 +70,7 @@
 
 		<h4 class="text-gray-800 dark:text-white font-semibold mt-2 mb-1">{item.topic}</h4>
 
-		<Speaker speaker={item.speaker} />
+		<Speaker speaker={item.speaker} speakerSlug={item.speakerSlug} />
 
 		{#if item.tags && item.tags.length > 0}
 			<div class="mt-2">

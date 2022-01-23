@@ -2,7 +2,7 @@
 
 - Waktu: Sabtu, 16 Mei 2020
 - Pukul: 16:00
-- Pemateri: om Stenly Karouw
+- Pemateri: Stenly Karouw
 - Slide: empty
 - Video: empty
 - Registrasi: empty

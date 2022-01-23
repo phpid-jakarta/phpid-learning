@@ -29,6 +29,18 @@ export const allByTags = derived([currentTag, allData], ([$currentTag, $allData]
 	return [];
 });
 
+export const currentSpeaker = writable('');
+
+export const allBySpeakers = derived([currentSpeaker, allData], ([$currentSpeaker, $allData]) => {
+	if ($currentSpeaker) {
+		const r = $allData.filter((i) => {
+			return i.speakerSlug === $currentSpeaker;
+		});
+		return r;
+	}
+	return [];
+});
+
 export const currentPage = writable(1);
 
 export const perPage = writable(24);

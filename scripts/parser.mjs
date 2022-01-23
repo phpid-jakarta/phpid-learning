@@ -1,4 +1,4 @@
-// import path from 'path'
+/* eslint-disable @typescript-eslint/explicit-module-boundary-types */
 
 import slugify from 'slugify';
 import dayjs from 'dayjs';
@@ -9,7 +9,6 @@ import {
 	getAllSectionsData,
 	getContent,
 	getCoverUrl
-	// writeFile,
 } from './utils.mjs';
 
 import constants from './constants.mjs';
@@ -45,14 +44,9 @@ export const parseSessionSection = async (sections) => {
 					.locale('id')
 					.format('YYYY-MM-DD HH:mm:ss');
 
-				const slug = slugify(topic, {
-					replacement: '-', // replace spaces with replacement character, defaults to `-`
-					remove: undefined, // remove characters that match regex, defaults to `undefined`
-					lower: true, // convert to lower case, defaults to `false`
-					strict: true, // strip special characters except replacement, defaults to `false`
-					locale: 'vi', // language code of the locale to use
-					trim: true // trim leading and trailing replacement chars, defaults to `true`
-				});
+				const slug = slugify(topic, constants.SLUGIFY_OPTION);
+				const speakerNameOnly = speaker.split('-')[0];
+				const speakerSlug = slugify(speakerNameOnly, constants.SLUGIFY_OPTION);
 
 				const data = {
 					id: sesi,
@@ -60,6 +54,7 @@ export const parseSessionSection = async (sections) => {
 					time: time,
 					dateTime: `${dateTimeObj} +07:00`,
 					speaker: speaker,
+					speakerSlug: speakerSlug,
 					slide: slide,
 					topic: topic,
 					slug: slug,
@@ -69,32 +64,6 @@ export const parseSessionSection = async (sections) => {
 					deskripsi: deskripsi,
 					tags: tags
 				};
-
-				//         let sesiInt = parseInt(sesi);
-				//         let sesiWithZero = sesiInt;
-				//         if (sesiInt < 10) {
-				//           sesiWithZero = `00${sesiInt}`;
-				//         } else if (sesiInt < 100) {
-				//           sesiWithZero = `0${sesiInt}`;
-				//         } else if (sesiInt > 100) {
-				//           sesiWithZero = `${sesiInt}`;
-				//         }
-				//         writeFile(
-				//           path.resolve(path.resolve(constants.ROOT_DIR, './data-new'), `${sesiWithZero}-${slug}.md`),
-				//           `
-				// ### ${topic}
-
-				// - Waktu: ${date}
-				// - Pukul: ${time}
-				// - Pemateri: ${speaker}
-				// - Slide: ${slide}
-				// - Video: ${videosRaw}
-				// - Registrasi: ${register}
-				// - Sesi: ${sesi}
-				// - Kategori: ${kategori}
-				// - Deskripsi: ${deskripsi}
-				//           `
-				//         )
 
 				allData.push(data);
 			}

@@ -2,7 +2,7 @@
 
 - Waktu: Jumat, 24 April 2020
 - Pukul: 16:30
-- Pemateri: Petra Barus
+- Pemateri: Petra Novandi Barus - AWS
 - Slide: empty
 - Video: https://www.facebook.com/peterjkambey/videos/10219428640684480
 - Registrasi: empty
