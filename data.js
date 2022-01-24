@@ -1,11 +1,33 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-01-24",
-    "total": 164,
+    "total": 165,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "165",
+      "date": "Selasa, 8 Februari 2022",
+      "time": "19:00",
+      "dateTime": "2022-02-08 19:00:00 +07:00",
+      "speaker": "Eddie Ridwan, PhD - Direktur Tehnis OpenDesa",
+      "speakerSlug": "eddie-ridwan-phd",
+      "slide": "empty",
+      "topic": "Penjelmaan Aplikasi Open Source - Studi Kasus OpenSID bagi Desa",
+      "slug": "penjelmaan-aplikasi-open-source-studi-kasus-opensid-bagi-desa",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1mbRHCs03",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/165.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "opendesa",
+        "opensid"
+      ]
+    },
     {
       "id": "164",
       "date": "Selasa, 1 Februari 2022",
