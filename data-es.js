@@ -1,11 +1,34 @@
 export default {
   "meta": {
-    "last_updated": "2022-01-23",
-    "total": 163,
+    "last_updated": "2022-01-24",
+    "total": 164,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "164",
+      "date": "Selasa, 1 Februari 2022",
+      "time": "19:00",
+      "dateTime": "2022-02-01 19:00:00 +07:00",
+      "speaker": "Rogers Setiady-CTO Basicteknology",
+      "speakerSlug": "rogers-setiady",
+      "slide": "empty",
+      "topic": "Membangun MVP dgn Cepat Menggunakan AWS Amplify Studio",
+      "slug": "membangun-mvp-dgn-cepat-menggunakan-aws-amplify-studio",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/655qQ8KLN",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "cloud",
+        "aws",
+        "amplify",
+        "mvp"
+      ]
+    },
     {
       "id": "163",
       "date": "Selasa, 25 Januari 2022",
