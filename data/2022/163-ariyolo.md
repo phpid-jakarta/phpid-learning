@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Ariyolo Sitorus - Devops Engineer AntarAja
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/6Z7GhcgDN
+- Video: https://tbp.my.id/?phpidol-162
+- Registrasi: empty
 - Sesi: 163
 - Kategori: cloud, azure, ci/cd, apps
 - Deskripsi: -
