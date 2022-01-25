@@ -62,9 +62,9 @@ module.exports = {
       "topic": "CI/CD for Mobile Apps in Microsoft Environment",
       "slug": "cicd-for-mobile-apps-in-microsoft-environment",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-162"
       ],
-      "registrasi": "https://fb.me/e/6Z7GhcgDN",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/163.jpg",
       "deskripsi": "-",
       "tags": [
