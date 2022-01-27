@@ -1,11 +1,32 @@
 module.exports = {
   "meta": {
-    "last_updated": "2022-01-25",
-    "total": 165,
+    "last_updated": "2022-01-27",
+    "total": 166,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "166",
+      "date": "Selasa, 15 Februari 2022",
+      "time": "19:00",
+      "dateTime": "2022-02-15 19:00:00 +07:00",
+      "speaker": "Jenuar Dalapang - GoApotik",
+      "speakerSlug": "jenuar-dalapang",
+      "slide": "empty",
+      "topic": "Membangun Komunitas Cerdas Dengan Open Source",
+      "slug": "membangun-komunitas-cerdas-dengan-open-source",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1C3NkQ7bG",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "open-source",
+        "popojicms"
+      ]
+    },
     {
       "id": "165",
       "date": "Selasa, 8 Februari 2022",
