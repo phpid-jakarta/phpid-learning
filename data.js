@@ -1,11 +1,32 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-01-27",
-    "total": 166,
+    "total": 167,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "168",
+      "date": "Selasa, 22 Februari 2022",
+      "time": "19:00",
+      "dateTime": "2022-02-22 19:00:00 +07:00",
+      "speaker": "Hendra Charles - Senior Engineer Xendit",
+      "speakerSlug": "hendra-charles",
+      "slide": "empty",
+      "topic": "Scaling Application with Message Queue",
+      "slug": "scaling-application-with-message-queue",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1yHgOmtaO",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "message-queue",
+        "scaling"
+      ]
+    },
     {
       "id": "166",
       "date": "Selasa, 15 Februari 2022",
