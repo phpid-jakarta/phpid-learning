@@ -20,7 +20,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1C3NkQ7bG",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/166.jpg",
       "deskripsi": "-",
       "tags": [
         "open-source",
