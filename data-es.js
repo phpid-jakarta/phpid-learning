@@ -20,7 +20,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1yHgOmtaO",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/168.jpg",
       "deskripsi": "-",
       "tags": [
         "message-queue",
