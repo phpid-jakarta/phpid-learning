@@ -6,8 +6,9 @@ import appRootDir from 'app-root-dir';
 import constants from './constants.mjs';
 import packageJsonData from '../package.json';
 
-const ROOT_DIR = appRootDir.get();
-const DATA_PATH = path.join(ROOT_DIR, './data');
+export const ROOT_DIR = appRootDir.get();
+export const DATA_PATH = path.join(ROOT_DIR, './data');
+export const QNA_PATH = path.join(ROOT_DIR, './data-qna');
 
 export const writeFile = (pathFile, contentString) => {
 	fs.writeFile(path.resolve(ROOT_DIR, pathFile), contentString, function (err) {
@@ -23,6 +24,25 @@ export const getAllSessionFiles = async () => {
 	const paths = await globby(dirdata);
 
 	return paths;
+};
+
+export const getAllQnaFiles = async () => {
+	const dirdata = `${QNA_PATH}/*.json`;
+	const paths = await globby(dirdata);
+
+	return paths;
+};
+
+export const getContentQna = async (p) => {
+	const c = await fs.readFileSync(p, {
+		encoding: 'utf-8'
+	});
+
+	try {
+		return JSON.parse(c);
+	} catch (error) {
+		return null
+	}
 };
 
 export const getContent = (ctx, regex, titleString) => {

@@ -24,7 +24,7 @@
 		"script:resize": "node --experimental-json-modules ./scripts/resizer.mjs",
 		"script:toJson": "node --experimental-json-modules ./scripts/toJson.mjs",
 		"script:toShortlinks": "node --experimental-json-modules ./scripts/toShortlinks.mjs",
-		"script:toTags": "node --experimental-json-modules ./scripts/toTags.mjs"
+		"script:qna": "node --experimental-json-modules ./scripts/mergeQnA.mjs"
 	},
 	"dependencies": {
 		"@fontsource/fira-mono": "^4.5.0",
