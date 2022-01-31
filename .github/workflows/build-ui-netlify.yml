@@ -34,6 +34,9 @@ jobs:
       - name: Generate file json
         run: yarn script:toJson
 
+      - name: Generate QnA json
+        run: yarn script:qna
+
       - name: Modify last update
         run: |
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`

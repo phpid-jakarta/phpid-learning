@@ -8,7 +8,8 @@ import {
 	getAllSessionFiles,
 	getAllSectionsData,
 	getContent,
-	getCoverUrl
+	getCoverUrl,
+	QNA_PATH,
 } from './utils.mjs';
 
 import constants from './constants.mjs';
@@ -101,5 +102,30 @@ export const parseAllSessions = async () => {
 	} catch (error) {
 		console.error('❌ Error parsing section', error);
 		return [];
+	}
+};
+
+export const parseQnA = async (item, p) => {
+	try {
+		const slug = p.replace(`${QNA_PATH}/`, '').replace('.json', '')
+		const topicSlug = slugify(item.topic, constants.SLUGIFY_OPTION);
+		const questions = item.questions.map(q => {
+			const subTopicSlug = slugify(q.topic, constants.SLUGIFY_OPTION);
+			return {
+				...q,
+				topicSlug: subTopicSlug
+			}
+		})
+		return {
+			slug,
+			topic: item.topic,
+			topicSlug,
+			speaker: item.speaker,
+			link: item.link || 'empty',
+			questions,
+		}
+	} catch (error) {
+		console.error('❌ Error parsing QnA', error);
+		return item;
 	}
 };

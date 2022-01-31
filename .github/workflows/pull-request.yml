@@ -96,3 +96,8 @@ jobs:
         run: yarn run script:toJson
         env:
           CI: true
+
+      - name: Perform checking script:qna
+        run: yarn run script:qna
+        env:
+          CI: true

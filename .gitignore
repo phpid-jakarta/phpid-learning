@@ -109,6 +109,8 @@ package-lock.json
 
 __sapper__/
 .DS_Store
+api/data-qna.js
+api/data-qna.json
 api/data.js
 api/data-es.js
 api/data.json
