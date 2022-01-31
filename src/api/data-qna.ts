@@ -4,6 +4,7 @@ export default [
     "topic": "Project Management",
     "topicSlug": "project-management",
     "speaker": "Gusti Rahmat",
+    "link": "https://www.youtube.com/channel/UCwZNq0D3lJfYCjKdkPfBVzQ",
     "questions": [
       {
         "q": "Apa perbedaan Product Manager dengan Project Manager?",
@@ -27,6 +28,7 @@ export default [
     "topic": "Project Management",
     "topicSlug": "project-management",
     "speaker": "Gusti Rahmat",
+    "link": "https://www.youtube.com/channel/UCwZNq0D3lJfYCjKdkPfBVzQ",
     "questions": [
       {
         "q": "Apa perbedaan Product Manager dengan Project Manager?",

@@ -121,6 +121,7 @@ export const parseQnA = async (item, p) => {
 			topic: item.topic,
 			topicSlug,
 			speaker: item.speaker,
+			link: item.link || 'empty',
 			questions,
 		}
 	} catch (error) {
