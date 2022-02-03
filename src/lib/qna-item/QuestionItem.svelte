@@ -12,7 +12,7 @@
 				<span
 					class="rounded-lg px-1.5 py-0.5 bg-blue-700/75 dark:bg-blue-700/60 text-white dark:text-blue-200 text-sm md:text-xs"
 				>
-					{question.topic}
+					{question.topic || item.topic}
 				</span>
 			</div>
 			<h4 class="text-gray-800 dark:text-white font-semibold my-2">
