@@ -123,7 +123,7 @@ export const parseQnA = async (item, p) => {
 			topicSlug,
 			speaker: item.speaker || '',
 			link: item.link || 'empty',
-			questions,
+			questions: questions || [],
 		}
 	} catch (error) {
 		console.error('❌ Error parsing QnA', error);
