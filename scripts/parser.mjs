@@ -108,9 +108,10 @@ export const parseAllSessions = async () => {
 export const parseQnA = async (item, p) => {
 	try {
 		const slug = p.replace(`${QNA_PATH}/`, '').replace('.json', '')
-		const topicSlug = slugify(item.topic, constants.SLUGIFY_OPTION);
-		const questions = item.questions.map(q => {
-			const subTopicSlug = slugify(q.topic, constants.SLUGIFY_OPTION);
+		const topicSlug = slugify(item.topic || '', constants.SLUGIFY_OPTION);
+                const itemQ = item.questions || item.question || [];
+		const questions = itemQ.map(q => {
+			const subTopicSlug = slugify(q.topic || '', constants.SLUGIFY_OPTION);
 			return {
 				...q,
 				topicSlug: subTopicSlug
@@ -118,9 +119,9 @@ export const parseQnA = async (item, p) => {
 		})
 		return {
 			slug,
-			topic: item.topic,
+			topic: item.topic || '',
 			topicSlug,
-			speaker: item.speaker,
+			speaker: item.speaker || '',
 			link: item.link || 'empty',
 			questions,
 		}
