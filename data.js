@@ -1,7 +1,7 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-02-11",
-    "total": 167,
+    "total": 168,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
@@ -25,6 +25,27 @@ module.exports = {
       "tags": [
         "message-queue",
         "scaling"
+      ]
+    },
+    {
+      "id": "167",
+      "date": "Kamis, 17 Februari 2022",
+      "time": "19:00",
+      "dateTime": "2022-02-17 19:00:00 +07:00",
+      "speaker": "Novri Puji Kurniawan - Associate Product Manager Niagahoster",
+      "speakerSlug": "novri-puji-kurniawan",
+      "slide": "empty",
+      "topic": "Cloud Hosting Technology Niagahoster",
+      "slug": "cloud-hosting-technology-niagahoster",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/28CfznKCF",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/167.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "niagahoster",
+        "cloud-hosting"
       ]
     },
     {
