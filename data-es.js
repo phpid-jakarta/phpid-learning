@@ -80,9 +80,9 @@ export default {
       "topic": "Penjelmaan Aplikasi Open Source - Studi Kasus OpenSID bagi Desa",
       "slug": "penjelmaan-aplikasi-open-source-studi-kasus-opensid-bagi-desa",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-164"
       ],
-      "registrasi": "https://fb.me/e/1mbRHCs03",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/165.jpg",
       "deskripsi": "-",
       "tags": [
@@ -102,9 +102,9 @@ export default {
       "topic": "Membangun MVP dgn Cepat Menggunakan AWS Amplify Studio",
       "slug": "membangun-mvp-dgn-cepat-menggunakan-aws-amplify-studio",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-164"
       ],
-      "registrasi": "https://fb.me/e/655qQ8KLN",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/164.jpg",
       "deskripsi": "-",
       "tags": [
