@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Rogers Setiady-CTO Basicteknology
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/655qQ8KLN
+- Video: https://tbp.my.id/?phpidol-164
+- Registrasi: empty
 - Sesi: 164
 - Kategori: cloud, aws, amplify, mvp
 - Deskripsi: -
