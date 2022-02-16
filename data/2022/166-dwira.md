@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Jenuar Dalapang - GoApotik
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1C3NkQ7bG
+- Video: https://tbp.my.id/?phpidol-166
+- Registrasi: empty
 - Sesi: 166
 - Kategori: open source, popojicms
 - Deskripsi: -
