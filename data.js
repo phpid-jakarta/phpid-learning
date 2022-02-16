@@ -80,7 +80,7 @@ module.exports = {
       "topic": "Penjelmaan Aplikasi Open Source - Studi Kasus OpenSID bagi Desa",
       "slug": "penjelmaan-aplikasi-open-source-studi-kasus-opensid-bagi-desa",
       "videos": [
-        "https://tbp.my.id/?phpidol-164"
+        "https://tbp.my.id/?phpidol-165"
       ],
       "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/165.jpg",
