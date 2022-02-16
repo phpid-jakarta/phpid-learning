@@ -4,7 +4,7 @@
 - Pukul: 19:00
 - Pemateri: Eddie Ridwan, PhD - Direktur Tehnis OpenDesa
 - Slide: empty
-- Video: https://tbp.my.id/?phpidol-164
+- Video: https://tbp.my.id/?phpidol-165
 - Registrasi: empty
 - Sesi: 165
 - Kategori: cloud, opendesa, opensid
