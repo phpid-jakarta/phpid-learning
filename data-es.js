@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2022-02-11",
+    "last_updated": "2022-02-16",
     "total": 168,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -59,9 +59,9 @@ export default {
       "topic": "Membangun Komunitas Cerdas Dengan Open Source",
       "slug": "membangun-komunitas-cerdas-dengan-open-source",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-166"
       ],
-      "registrasi": "https://fb.me/e/1C3NkQ7bG",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/166.jpg",
       "deskripsi": "-",
       "tags": [
@@ -80,9 +80,9 @@ export default {
       "topic": "Penjelmaan Aplikasi Open Source - Studi Kasus OpenSID bagi Desa",
       "slug": "penjelmaan-aplikasi-open-source-studi-kasus-opensid-bagi-desa",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-164"
       ],
-      "registrasi": "https://fb.me/e/1mbRHCs03",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/165.jpg",
       "deskripsi": "-",
       "tags": [
