@@ -1,6 +1,6 @@
 export default {
   "meta": {
-    "last_updated": "2022-02-16",
+    "last_updated": "2022-02-17",
     "total": 168,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
@@ -38,9 +38,9 @@ export default {
       "topic": "Cloud Hosting Technology Niagahoster",
       "slug": "cloud-hosting-technology-niagahoster",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-167"
       ],
-      "registrasi": "https://fb.me/e/28CfznKCF",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/167.jpg",
       "deskripsi": "-",
       "tags": [
