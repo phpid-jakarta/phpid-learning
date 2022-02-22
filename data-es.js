@@ -1,7 +1,7 @@
 export default {
   "meta": {
     "last_updated": "2022-02-22",
-    "total": 169,
+    "total": 170,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
@@ -3565,6 +3565,28 @@ export default {
       "deskripsi": "-",
       "tags": [
         "database"
+      ]
+    },
+    {
+      "id": "17-",
+      "date": "Senin, 7 Maret 2022",
+      "time": "19:00",
+      "dateTime": "2022-03-07 19:00:00 +07:00",
+      "speaker": "Rio Astamal - Developer Advocate AWS Indonesia",
+      "speakerSlug": "rio-astamal",
+      "slide": "empty",
+      "topic": "Simulasi Disaster Recovery LEMP Stack dgn Metode Warm StandBy di AWS",
+      "slug": "simulasi-disaster-recovery-lemp-stack-dgn-metode-warm-standby-di-aws",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/275oeHw4u",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "aws",
+        "lemp",
+        "warm-standby"
       ]
     }
   ]
