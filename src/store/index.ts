@@ -2,23 +2,15 @@ import { writable, readable, derived } from 'svelte/store';
 import { getDistinctTags } from '$lib/utils';
 
 import data from '../api/data';
-import dataQna from '../api/data-qna';
 
 export const originData = readable(data.data, function set() {
 	// eslint-disable-next-line @typescript-eslint/no-empty-function
 	return function destroy() {};
 });
 
-export const originQnaData = readable(dataQna, function set() {
-	// eslint-disable-next-line @typescript-eslint/no-empty-function
-	return function destroy() {};
-});
-
 export const allData = writable(data.data);
-export const allQnaData = writable(dataQna);
 
 export const showData = writable(data.data);
-export const showQnaData = writable(dataQna);
 
 export const allDistictTags = derived(allData, ($allData) => {
 	const r = getDistinctTags($allData);
@@ -84,4 +76,4 @@ export const allByKeyword = derived([currentKeyword, allData], ([$currentKeyword
 	}
 	return [];
 });
-// Eend Search Store
+// End Search Store
