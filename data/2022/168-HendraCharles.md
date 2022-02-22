@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Hendra Charles - Senior Engineer Xendit
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1yHgOmtaO
+- Video: https://tbp.my.id/?phpidol-168
+- Registrasi: empty
 - Sesi: 168
 - Kategori: message queue, scaling
 - Deskripsi: -
