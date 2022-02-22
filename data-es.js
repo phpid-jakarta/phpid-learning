@@ -1,32 +1,11 @@
 export default {
   "meta": {
     "last_updated": "2022-02-22",
-    "total": 171,
+    "total": 170,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
-    {
-      "id": "169",
-      "date": "Sabtu, 26 Februari 2022",
-      "time": "19:00",
-      "dateTime": "2022-02-26 19:00:00 +07:00",
-      "speaker": "Ilham Wahabi - Software Engineer Sembly",
-      "speakerSlug": "ilham-wahabi",
-      "slide": "empty",
-      "topic": "SEO Essentials For Developer",
-      "slug": "seo-essentials-for-developer",
-      "videos": [
-        "empty"
-      ],
-      "registrasi": "https://fb.me/e/19CaVhtZf",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/169.jpg",
-      "deskripsi": "-",
-      "tags": [
-        "seo",
-        "web"
-      ]
-    },
     {
       "id": "168",
       "date": "Selasa, 22 Februari 2022",
