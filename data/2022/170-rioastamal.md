@@ -6,6 +6,6 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://fb.me/e/275oeHw4u
-- Sesi: 17-
+- Sesi: 170
 - Kategori: aws, lemp, warm standby
 - Deskripsi: -
