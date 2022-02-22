@@ -3,9 +3,10 @@
 </script>
 
 <script lang="ts">
-	import { allQnaData } from '../store';
+	import { allQnaByKeyword } from '../store/qna';
 	import Blob from '$lib/decoration/Blob.svelte';
 	import QuestionItem from '$lib/qna-item/QuestionItem.svelte';
+	import Hero from '$lib/hero/HeroQnA.svelte';
 </script>
 
 <svelte:head>
@@ -25,6 +26,8 @@
 </svelte:head>
 
 <section data-page="qna">
+	<Hero />
+
 	<article class="max-w-5xl px-4 lg:px-0 mx-auto tracking-content">
 		<div
 			id="content-speaker"
@@ -34,7 +37,8 @@
 			<Blob
 				className="absolute scale-x-[-1] -bottom-48 right-0 dark:text-red-500 text-red-500/50"
 			/>
-			{#each $allQnaData as item (`${item.slug}`)}
+
+			{#each $allQnaByKeyword as item (`${item.slug}`)}
 				{#each item.questions as q}
 					<QuestionItem {item} question={q} />
 				{/each}
