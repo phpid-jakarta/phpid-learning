@@ -1,10 +1,18 @@
-{"speaker":"Linkoln Park",
-"title":"anonymous",
-"topic":"Corporate vs Software House",
-"link":"https://tbp.my.id/?mbp-5",
-"event_date":"2021-11-15 20:00",
-"questions": [{"q":"mending corporate atau software house? "},
-
-{"q":"tips fullstack padahal basicknya backend"},
-
-{"q":" kenapa programmer malah jadi karyawan?"}]}
+{
+	"speaker": "Linkoln Park",
+	"title": "anonymous",
+	"topic": "Corporate vs Software House",
+	"link": "https://tbp.my.id/?mbp-5",
+	"event_date": "2021-11-15 20:00",
+	"questions": [
+		{
+			"q": "mending corporate atau software house? "
+		},
+		{
+			"q": "tips fullstack padahal basicknya backend"
+		},
+		{
+			"q": " kenapa programmer malah jadi karyawan?"
+		}
+	]
+}

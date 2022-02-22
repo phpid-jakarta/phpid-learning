@@ -36,7 +36,7 @@
 			/>
 			{#each $allQnaData as item (`${item.slug}`)}
 				{#each item.questions as q}
-					<QuestionItem item={item} question={q} />
+					<QuestionItem {item} question={q} />
 				{/each}
 			{/each}
 		</div>

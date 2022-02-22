@@ -1,10 +1,18 @@
-{"speaker":"Gusti Rahmat",
-"title":"Senior Technical  Project Manager Tata Skola",
-"topic":"Project Management",
-"link":"https://tbp.my.id/?mbp-15",
-"event_date":"2022-02-05 19:00",
-"questions": [{"q":"Apa perbedaan Product Manager dengan Project Manager?"},
-
-{"q":"Gimana sih cara shifting karir dari Software Developer ke Project Manager? Dan jenjang karir ke depannya"},
-
-{"q":"Gimana sih cara untuk memprioritaskan tugas yang diberikan?"}]}
+{
+	"speaker": "Gusti Rahmat",
+	"title": "Senior Technical  Project Manager Tata Skola",
+	"topic": "Project Management",
+	"link": "https://tbp.my.id/?mbp-15",
+	"event_date": "2022-02-05 19:00",
+	"questions": [
+		{
+			"q": "Apa perbedaan Product Manager dengan Project Manager?"
+		},
+		{
+			"q": "Gimana sih cara shifting karir dari Software Developer ke Project Manager? Dan jenjang karir ke depannya"
+		},
+		{
+			"q": "Gimana sih cara untuk memprioritaskan tugas yang diberikan?"
+		}
+	]
+}

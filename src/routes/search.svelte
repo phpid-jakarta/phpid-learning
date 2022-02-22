@@ -30,8 +30,11 @@
 		content="Pencarian webinar yang tersedia di PHPID Online Learning"
 	/>
 
-	<meta name="twitter:title" content="Pencarian webinar">
-	<meta name="twitter:description" content="Pencarian webinar yang tersedia di PHPID Online Learning">
+	<meta name="twitter:title" content="Pencarian webinar" />
+	<meta
+		name="twitter:description"
+		content="Pencarian webinar yang tersedia di PHPID Online Learning"
+	/>
 </svelte:head>
 
 <section data-page="search">

@@ -23,8 +23,11 @@
 		content="Daftar semua arsip webinar yang tersedia di PHPID Online Learning"
 	/>
 
-	<meta name="twitter:title" content="Arsip webinar">
-	<meta name="twitter:description" content="Daftar semua arsip webinar yang tersedia di PHPID Online Learning">
+	<meta name="twitter:title" content="Arsip webinar" />
+	<meta
+		name="twitter:description"
+		content="Daftar semua arsip webinar yang tersedia di PHPID Online Learning"
+	/>
 </svelte:head>
 
 <section data-page="archieve">

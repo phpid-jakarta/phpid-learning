@@ -32,7 +32,6 @@ import constants from './constants.mjs';
 			path.resolve(srcDir, './data.ts'),
 			`export default ${JSON.stringify(fileContent, null, 2)}`
 		);
-
 	} catch (error) {
 		console.error('❌ Error execute ./scripts/toJson.js', error);
 	}

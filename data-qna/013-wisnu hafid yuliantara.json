@@ -1,10 +1,18 @@
-{"speaker":"Wisnu Hafid Yuliantara",
-"title":"Full Stack Developer",
-"topic":"Project Management",
-"link":"https://tbp.my.id/?mbp-13",
-"event_date":"2022-01-30 19:00",
-"questions": [{"q":"Bagaimana agar project auto deal ketika ada penawaran? "},
-
-{"q":"Apa saja yang harus ada pada MOU / surat kontrak kerja sama jasa pembuatan software? "},
-
-{"q":"Bagaimana menghandle existing client supaya repeat order & menjadi long term client?"}]}
+{
+	"speaker": "Wisnu Hafid Yuliantara",
+	"title": "Full Stack Developer",
+	"topic": "Project Management",
+	"link": "https://tbp.my.id/?mbp-13",
+	"event_date": "2022-01-30 19:00",
+	"questions": [
+		{
+			"q": "Bagaimana agar project auto deal ketika ada penawaran? "
+		},
+		{
+			"q": "Apa saja yang harus ada pada MOU / surat kontrak kerja sama jasa pembuatan software? "
+		},
+		{
+			"q": "Bagaimana menghandle existing client supaya repeat order & menjadi long term client?"
+		}
+	]
+}
