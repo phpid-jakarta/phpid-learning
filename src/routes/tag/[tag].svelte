@@ -37,8 +37,11 @@
 		content="Daftar webinar dengan topik #{tag} di PHPID Online Learning"
 	/>
 
-	<meta name="twitter:title" content="Webinar dengan topik #{tag}">
-	<meta name="twitter:description" content="Daftar webinar dengan topik #{tag} di PHPID Online Learning">
+	<meta name="twitter:title" content="Webinar dengan topik #{tag}" />
+	<meta
+		name="twitter:description"
+		content="Daftar webinar dengan topik #{tag} di PHPID Online Learning"
+	/>
 </svelte:head>
 
 <section data-page="tag">

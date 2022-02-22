@@ -1,10 +1,18 @@
-{"speaker":"Pudyasto Adhi Wibowo",
-"title":"Web Developer",
-"topic":"New Programmer Career",
-"link":"https://tbp.my.id/?mbp-10",
-"event_date":"2021-12-18 19:00",
-"questions": [{"q":"Apakah kita harus mempelajari semua bahasa pemrograman ? Bagaimana caranya agar kita hafal tentang bahasa pemrograman ? "},
-
-{"q":"Antara desktop, web dan mobile manakah yang lebih baik ? "},
-
-{"q":"Jika ada tawaran project, bagaimana cara saya menentukan harga dari project tersebut ?"}]}
+{
+	"speaker": "Pudyasto Adhi Wibowo",
+	"title": "Web Developer",
+	"topic": "New Programmer Career",
+	"link": "https://tbp.my.id/?mbp-10",
+	"event_date": "2021-12-18 19:00",
+	"questions": [
+		{
+			"q": "Apakah kita harus mempelajari semua bahasa pemrograman ? Bagaimana caranya agar kita hafal tentang bahasa pemrograman ? "
+		},
+		{
+			"q": "Antara desktop, web dan mobile manakah yang lebih baik ? "
+		},
+		{
+			"q": "Jika ada tawaran project, bagaimana cara saya menentukan harga dari project tersebut ?"
+		}
+	]
+}

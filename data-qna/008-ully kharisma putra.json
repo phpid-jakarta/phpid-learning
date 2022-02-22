@@ -1,10 +1,18 @@
-{"speaker":"Ully Kharisma Putra",
-"title":"Content Creator",
-"topic":"New Programmer Career",
-"link":"https://tbp.my.id/?mbp-8",
-"event_date":"2021-12-04 19:00",
-"questions": [{"q":"Cara memulai karir sebagai Programmer ? "},
-
-{"q":"Kemampuan apa yang wajib dimiliki sebagai Programmer ? "},
-
-{"q":"Memilih teknologi yang tepat untuk di pelajari"}]}
+{
+	"speaker": "Ully Kharisma Putra",
+	"title": "Content Creator",
+	"topic": "New Programmer Career",
+	"link": "https://tbp.my.id/?mbp-8",
+	"event_date": "2021-12-04 19:00",
+	"questions": [
+		{
+			"q": "Cara memulai karir sebagai Programmer ? "
+		},
+		{
+			"q": "Kemampuan apa yang wajib dimiliki sebagai Programmer ? "
+		},
+		{
+			"q": "Memilih teknologi yang tepat untuk di pelajari"
+		}
+	]
+}

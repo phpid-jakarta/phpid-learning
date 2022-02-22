@@ -4,14 +4,13 @@
 	"topic": "Third Party API",
 	"link": "https://tbp.my.id/?mbp-4",
 	"event_date": "2021-11-06 20:00",
-	"questions": [{
+	"questions": [
+		{
 			"q": "Mahal ngga integrasi dengan bank langsung, plus minus nya?"
 		},
-
 		{
 			"q": "Perlu ngga web developer belajar API third party? "
 		},
-
 		{
 			"q": "Apa tugas back end developer?"
 		}

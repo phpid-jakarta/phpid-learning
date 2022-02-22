@@ -41,7 +41,7 @@ export const getContentQna = async (p) => {
 	try {
 		return JSON.parse(c);
 	} catch (error) {
-		return null
+		return null;
 	}
 };
 

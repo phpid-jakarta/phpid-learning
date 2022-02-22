@@ -39,8 +39,11 @@
 		content="Daftar webinar oleh {realName} di PHPID Online Learning"
 	/>
 
-	<meta name="twitter:title" content="Webinar oleh {realName}">
-	<meta name="twitter:description" content="Daftar webinar oleh {realName} di PHPID Online Learning">
+	<meta name="twitter:title" content="Webinar oleh {realName}" />
+	<meta
+		name="twitter:description"
+		content="Daftar webinar oleh {realName} di PHPID Online Learning"
+	/>
 </svelte:head>
 
 <section data-page="speaker">

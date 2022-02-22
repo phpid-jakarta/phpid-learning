@@ -1,10 +1,18 @@
-{"speaker":"Tigor Manurung",
-"title":"Solution Analyst",
-"topic":"Learn New Technology",
-"link":"https://tbp.my.id/?mbp-7",
-"event_date":"2021-11-27 19:00",
-"questions": [{"q":"Perlukah programmer menguasai banyak bahasa pemrograman?"},
-
-{"q":"Seberapa penting programmer / IT belajar teknologi terbaru?"},
-
-{"q":"Apa yang harus dipersiapkan untuk dapat bersaing didunia kerja?"}]}
+{
+	"speaker": "Tigor Manurung",
+	"title": "Solution Analyst",
+	"topic": "Learn New Technology",
+	"link": "https://tbp.my.id/?mbp-7",
+	"event_date": "2021-11-27 19:00",
+	"questions": [
+		{
+			"q": "Perlukah programmer menguasai banyak bahasa pemrograman?"
+		},
+		{
+			"q": "Seberapa penting programmer / IT belajar teknologi terbaru?"
+		},
+		{
+			"q": "Apa yang harus dipersiapkan untuk dapat bersaing didunia kerja?"
+		}
+	]
+}

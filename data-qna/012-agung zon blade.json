@@ -1,10 +1,18 @@
-{"speaker":"Agung Zon Blade",
-"title":"Backend Developer",
-"topic":"Proyek Iseng menghasilkan Duit",
-"link":"https://tbp.my.id/?mbp-12",
-"event_date":"2022-01-15 19:00",
-"questions": [{"q":"Buat orang orang baru, project iseng penting gak sih? "},
-
-{"q":"Project iseng jenis apa aja sih yang rekomendasi dikerjakan? "},
-
-{"q":"Project iseng kan engga ada duitnya? fungsinya apa dong?"}]}
+{
+	"speaker": "Agung Zon Blade",
+	"title": "Backend Developer",
+	"topic": "Proyek Iseng menghasilkan Duit",
+	"link": "https://tbp.my.id/?mbp-12",
+	"event_date": "2022-01-15 19:00",
+	"questions": [
+		{
+			"q": "Buat orang orang baru, project iseng penting gak sih? "
+		},
+		{
+			"q": "Project iseng jenis apa aja sih yang rekomendasi dikerjakan? "
+		},
+		{
+			"q": "Project iseng kan engga ada duitnya? fungsinya apa dong?"
+		}
+	]
+}

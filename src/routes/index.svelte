@@ -28,8 +28,11 @@
 		content="Belajar bersama melalui webinar yang diadakan oleh komunitas PHPID"
 	/>
 
-	<meta name="twitter:title" content="Belajar daring bersama PHPID">
-	<meta name="twitter:description" content="Belajar bersama melalui webinar yang diadakan oleh komunitas PHPID">
+	<meta name="twitter:title" content="Belajar daring bersama PHPID" />
+	<meta
+		name="twitter:description"
+		content="Belajar bersama melalui webinar yang diadakan oleh komunitas PHPID"
+	/>
 </svelte:head>
 
 <section data-page="home">

@@ -1,10 +1,18 @@
-{"speaker":"Ahmad Rosid",
-"title":"Remote Worker",
-"topic":"Remote Worker",
-"link":"https://tbp.my.id/?mbp-11",
-"event_date":"2022-01-08 19:00",
-"questions": [{"q":"Bagaimana menembus bekerja remote di luar negri? "},
-
-{"q":"Kenapa harus go internasional? "},
-
-{"q":"Bahasa pemrogramman apa yang diperlukan untuk menembus bekerja secara internasional?"}]}
+{
+	"speaker": "Ahmad Rosid",
+	"title": "Remote Worker",
+	"topic": "Remote Worker",
+	"link": "https://tbp.my.id/?mbp-11",
+	"event_date": "2022-01-08 19:00",
+	"questions": [
+		{
+			"q": "Bagaimana menembus bekerja remote di luar negri? "
+		},
+		{
+			"q": "Kenapa harus go internasional? "
+		},
+		{
+			"q": "Bahasa pemrogramman apa yang diperlukan untuk menembus bekerja secara internasional?"
+		}
+	]
+}
