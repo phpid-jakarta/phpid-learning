@@ -1,7 +1,7 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-02-22",
-    "total": 170,
+    "total": 171,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
@@ -3581,6 +3581,28 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/275oeHw4u",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "aws",
+        "lemp",
+        "warm-standby"
+      ]
+    },
+    {
+      "id": "171",
+      "date": "Selasa, 8 Maret 2022",
+      "time": "19:00",
+      "dateTime": "2022-03-08 19:00:00 +07:00",
+      "speaker": "Arief Rama Syarif - Founder Yayasan Komunitas Open Source",
+      "speakerSlug": "arief-rama-syarif",
+      "slide": "empty",
+      "topic": "Codeless Data Science With Knime",
+      "slug": "codeless-data-science-with-knime",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2nuFPVe0X",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
       "deskripsi": "-",
       "tags": [
