@@ -1,6 +1,6 @@
 export default [
   {
-    "slug": "015-gusti rahmat",
+    "slug": "015-gusti-rahmat",
     "topic": "Project Management",
     "topicSlug": "project-management",
     "speaker": "Gusti Rahmat",
@@ -23,7 +23,7 @@ export default [
     ]
   },
   {
-    "slug": "014-anggara frengky",
+    "slug": "014-anggara-frengky",
     "topic": "Mobile Apps",
     "topicSlug": "mobile-apps",
     "speaker": "Anggara Frengky",
@@ -46,7 +46,7 @@ export default [
     ]
   },
   {
-    "slug": "013-wisnu hafid yuliantara",
+    "slug": "013-wisnu-hafid-yuliantara",
     "topic": "Project Management",
     "topicSlug": "project-management",
     "speaker": "Wisnu Hafid Yuliantara",
@@ -69,7 +69,7 @@ export default [
     ]
   },
   {
-    "slug": "012-agung zon blade",
+    "slug": "012-agung-zon-blade",
     "topic": "Proyek Iseng menghasilkan Duit",
     "topicSlug": "proyek-iseng-menghasilkan-duit",
     "speaker": "Agung Zon Blade",
@@ -92,7 +92,7 @@ export default [
     ]
   },
   {
-    "slug": "011-ahmad rosid",
+    "slug": "011-ahmad-rosid",
     "topic": "Remote Worker",
     "topicSlug": "remote-worker",
     "speaker": "Ahmad Rosid",
@@ -115,7 +115,7 @@ export default [
     ]
   },
   {
-    "slug": "010-pudyasto adhi wibowo",
+    "slug": "010-pudyasto-adhi-wibowo",
     "topic": "New Programmer Career",
     "topicSlug": "new-programmer-career",
     "speaker": "Pudyasto Adhi Wibowo",
@@ -138,7 +138,7 @@ export default [
     ]
   },
   {
-    "slug": "009-andhika adhitia",
+    "slug": "009-andhika-adhitia",
     "topic": "New Programmer Career",
     "topicSlug": "new-programmer-career",
     "speaker": "Andhika Adhitia",
@@ -161,7 +161,7 @@ export default [
     ]
   },
   {
-    "slug": "008-ully kharisma putra",
+    "slug": "008-ully-kharisma-putra",
     "topic": "New Programmer Career",
     "topicSlug": "new-programmer-career",
     "speaker": "Ully Kharisma Putra",
@@ -184,7 +184,7 @@ export default [
     ]
   },
   {
-    "slug": "007-tigor manurung",
+    "slug": "007-tigor-manurung",
     "topic": "Learn New Technology",
     "topicSlug": "learn-new-technology",
     "speaker": "Tigor Manurung",
@@ -207,7 +207,7 @@ export default [
     ]
   },
   {
-    "slug": "007-fakhrul ramadhan",
+    "slug": "007-fakhrul-ramadhan",
     "topic": "Corporate vs Software House",
     "topicSlug": "corporate-vs-software-house",
     "speaker": "Fakhrul Ramadhan",
@@ -230,7 +230,7 @@ export default [
     ]
   },
   {
-    "slug": "006-linkoln park",
+    "slug": "006-linkoln-park",
     "topic": "Corporate vs Software House",
     "topicSlug": "corporate-vs-software-house",
     "speaker": "Linkoln Park",
@@ -253,7 +253,7 @@ export default [
     ]
   },
   {
-    "slug": "005-syarizal ali sadikin",
+    "slug": "005-syarizal-ali-sadikin",
     "topic": "Third Party API",
     "topicSlug": "third-party-api",
     "speaker": "Syahrizal Alisadikin",
@@ -276,7 +276,7 @@ export default [
     ]
   },
   {
-    "slug": "004-Ibnu Sina Wardi",
+    "slug": "004-ibnu-sina-wardi",
     "topic": "Google Cloud",
     "topicSlug": "google-cloud",
     "speaker": "Ibnu Sina Wardy",
