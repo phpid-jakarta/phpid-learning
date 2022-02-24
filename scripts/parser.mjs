@@ -107,7 +107,7 @@ export const parseAllSessions = async () => {
 
 export const parseQnA = async (item, p) => {
 	try {
-		const slug = p.replace(`${QNA_PATH}/`, '').replace('.json', '');
+		const slug = slugify(p.replace(`${QNA_PATH}/`, '').replace('.json', ''), constants.SLUGIFY_OPTION);
 		const topicSlug = slugify(item.topic || '', constants.SLUGIFY_OPTION);
 		const itemQ = item.questions || item.question || [];
 		const questions = itemQ.map((q) => {
@@ -122,7 +122,9 @@ export const parseQnA = async (item, p) => {
 			topic: item.topic || '',
 			topicSlug,
 			speaker: item.speaker || '',
-			link: item.link || 'empty',
+			title: item.title || '',
+			event_date: item.event_date || '',
+			link: item.link || 'https://learning.byphp.id/',
 			questions: questions || []
 		};
 	} catch (error) {

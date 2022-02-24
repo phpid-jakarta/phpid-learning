@@ -15,13 +15,20 @@
 					{question.topic || item.topic}
 				</span>
 			</div>
-			<h4 class="text-gray-800 dark:text-white font-semibold my-2">
+
+			<h4 class="text-gray-800 dark:text-white font-semibold my-4">
 				{question.q}
 			</h4>
 
 			<div class="md:text-sm text-gray-600 dark:text-gray-200">
 				{item.speaker}
 			</div>
+
+			{#if item.title}
+				<div class="md:text-xs text-gray-400 dark:text-gray-400">
+					{item.title}
+				</div>
+			{/if}
 		</div>
 		<div class=" mt-4 flex justify-between items-center">
 			<a

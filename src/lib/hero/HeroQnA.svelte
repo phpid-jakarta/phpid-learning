@@ -23,7 +23,7 @@
 			</div>
 
 
-			<div class="mt-8 sm:w-2/3 lg:w-1/2 mx-auto">
+			<div class="mt-8 w-full md:w-2/3 lg:w-1/2 mx-auto">
 				<SearchForm q="" />
 			</div>
 		</div>
