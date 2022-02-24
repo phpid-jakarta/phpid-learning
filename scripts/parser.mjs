@@ -122,7 +122,9 @@ export const parseQnA = async (item, p) => {
 			topic: item.topic || '',
 			topicSlug,
 			speaker: item.speaker || '',
-			link: item.link || 'empty',
+			title: item.title || '',
+			event_date: item.event_date || '',
+			link: item.link || 'https://learning.byphp.id/',
 			questions: questions || []
 		};
 	} catch (error) {

@@ -15,6 +15,6 @@ import constants from './constants.mjs';
 
 	writeFile(
 		path.resolve(srcDir, './data-qna.ts'),
-		`export default ${JSON.stringify(combinedData, null, 2)}`
+		`export default ${JSON.stringify(combinedData.reverse(), null, 2)}`
 	);
 })();
