@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Ilham Wahabi - Software Engineer Sembly
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/19CaVhtZf
+- Video: https://tbp.my.id/?phpidol-169
+- Registrasi: empty
 - Sesi: 169
 - Kategori: seo, web
 - Deskripsi: -
