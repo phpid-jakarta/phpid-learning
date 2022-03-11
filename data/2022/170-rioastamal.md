@@ -4,7 +4,7 @@
 - Pukul: 19:00
 - Pemateri: Rio Astamal - Developer Advocate AWS Indonesia
 - Slide: empty
-- Video: https://tbp.my.id/?phpidol-171
+- Video: https://tbp.my.id/?phpidol-170
 - Registrasi: empty
 - Sesi: 170
 - Kategori: aws, lemp, warm standby
