@@ -1,0 +1,18 @@
+{
+	"speaker": "Saddam Rajief",
+	"title": "Software Engineer",
+	"topic": "Database Optimization",
+	"link": "https://tbp.my.id/?mbp-16",
+	"event_date": "2022-02-12 19:00",
+	"questions": [
+		{
+			"q": "Apa jenis field MySQL yang harus digunakan untuk menyimpan data Uang, No. KTP, Tanggal Jam / Waktu ?"
+		},
+		{
+			"q": "Bagimana cara optimasi Database MySQL & Query agar aplikasi PHP enggak lemot saat data banyak ?"
+		},
+		{
+			"q": "Apakah kita perlu merelasikan table database dan menggunakan foreign key dalam database design ?"
+		}
+	]
+}
