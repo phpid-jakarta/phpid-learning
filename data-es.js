@@ -60,9 +60,9 @@ export default {
       "topic": "Modern Monolith dgn Laravel, Inertia.js & Vue.js",
       "slug": "modern-monolith-dgn-laravel-inertiajs-and-vuejs",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-172"
       ],
-      "registrasi": "https://fb.me/e/2cQJPOwco",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/172.jpg",
       "deskripsi": "-",
       "tags": [
