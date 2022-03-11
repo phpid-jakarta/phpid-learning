@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Fika Ridaul Maulayya - CoFounder SantriKoding.com
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2cQJPOwco
+- Video: https://tbp.my.id/?phpidol-172
+- Registrasi: empty
 - Sesi: 172
 - Kategori: monlith, laravel, inertia.js, vue.js
 - Deskripsi: -
