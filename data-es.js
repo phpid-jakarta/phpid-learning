@@ -105,7 +105,7 @@ export default {
       "topic": "Simulasi Disaster Recovery LEMP Stack dgn Metode Warm StandBy di AWS",
       "slug": "simulasi-disaster-recovery-lemp-stack-dgn-metode-warm-standby-di-aws",
       "videos": [
-        "https://tbp.my.id/?phpidol-171"
+        "https://tbp.my.id/?phpidol-170"
       ],
       "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/170.jpg",
