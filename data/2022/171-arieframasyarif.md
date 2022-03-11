@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Arief Rama Syarif - Founder Yayasan Komunitas Open Source
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2nuFPVe0X
+- Video: https://tbp.my.id/?phpidol-171
+- Registrasi: empty
 - Sesi: 171
 - Kategori: aws, lemp, warm standby
 - Deskripsi: -
