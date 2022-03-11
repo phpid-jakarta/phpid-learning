@@ -127,9 +127,9 @@ export default {
       "topic": "SEO Essentials For Developer",
       "slug": "seo-essentials-for-developer",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-169"
       ],
-      "registrasi": "https://fb.me/e/19CaVhtZf",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/169.jpg",
       "deskripsi": "-",
       "tags": [
