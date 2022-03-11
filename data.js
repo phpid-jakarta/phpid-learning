@@ -83,9 +83,9 @@ module.exports = {
       "topic": "Codeless Data Science With Knime",
       "slug": "codeless-data-science-with-knime",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-171"
       ],
-      "registrasi": "https://fb.me/e/2nuFPVe0X",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/171.jpg",
       "deskripsi": "-",
       "tags": [
