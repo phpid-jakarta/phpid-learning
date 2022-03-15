@@ -21,7 +21,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/3cEMUxbRs",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/175.jpg",
       "deskripsi": "-",
       "tags": [
         "whatsapp",
