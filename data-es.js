@@ -60,9 +60,9 @@ export default {
       "topic": "Account Recovery Management with Whatsapp OTP via Qiscus",
       "slug": "account-recovery-management-with-whatsapp-otp-via-qiscus",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-175"
       ],
-      "registrasi": "https://fb.me/e/3cEMUxbRs",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/175.jpg",
       "deskripsi": "-",
       "tags": [
