@@ -81,9 +81,9 @@ export default {
       "topic": "(Reinvented) How to Design a Good Database",
       "slug": "reinvented-how-to-design-a-good-database",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-174"
       ],
-      "registrasi": "https://fb.me/e/32e9CPjlg",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/174.jpg",
       "deskripsi": "-",
       "tags": [
@@ -101,9 +101,9 @@ export default {
       "topic": "Mobile Development with Flutter",
       "slug": "mobile-development-with-flutter",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-173"
       ],
-      "registrasi": "https://fb.me/e/1IrGl74TZ",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/173.jpg",
       "deskripsi": "-",
       "tags": [
