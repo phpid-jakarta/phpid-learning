@@ -81,9 +81,9 @@ module.exports = {
       "topic": "(Reinvented) How to Design a Good Database",
       "slug": "reinvented-how-to-design-a-good-database",
       "videos": [
-        "https://tbp.my.id/?phpidol-174"
+        "empty"
       ],
-      "registrasi": "empty",
+      "registrasi": "https://fb.me/e/32e9CPjlg",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/174.jpg",
       "deskripsi": "-",
       "tags": [
