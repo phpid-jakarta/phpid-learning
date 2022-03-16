@@ -2,11 +2,32 @@
 export default {
   "meta": {
     "last_updated": "2022-03-16",
-    "total": 176,
+    "total": 177,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "177",
+      "date": "Selasa, 22 Maret 2022",
+      "time": "19:00",
+      "dateTime": "2022-03-22 19:00:00 +07:00",
+      "speaker": "Prayudi Utomo, Head of Kolla Education",
+      "speakerSlug": "prayudi-utomo-head-of-kolla-education",
+      "slide": "empty",
+      "topic": "Semesta & Ontologi User Experience",
+      "slug": "semesta-and-ontologi-user-experience",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1VIerd1WS",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "ui",
+        "ux"
+      ]
+    },
     {
       "id": "176",
       "date": "Kamis, 17 Maret 2022",
@@ -60,9 +81,9 @@ export default {
       "topic": "(Reinvented) How to Design a Good Database",
       "slug": "reinvented-how-to-design-a-good-database",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-174"
       ],
-      "registrasi": "https://fb.me/e/32e9CPjlg",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/174.jpg",
       "deskripsi": "-",
       "tags": [
