@@ -21,7 +21,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1VIerd1WS",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/177.jpg",
       "deskripsi": "-",
       "tags": [
         "ui",
@@ -42,7 +42,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1l3qiL1tX",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/176.jpg",
       "deskripsi": "-",
       "tags": [
         "golang",
