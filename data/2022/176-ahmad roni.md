@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Ahmad Roni Purwanto - IT Consultant
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1l3qiL1tX
+- Video: https://tbp.my.id/?phpidol-176
+- Registrasi: empty
 - Sesi: 176
 - Kategori: golang, oop
 - Deskripsi: -
