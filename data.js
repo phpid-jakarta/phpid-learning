@@ -2,11 +2,33 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-03-22",
-    "total": 177,
+    "total": 178,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "178",
+      "date": "Rabu, 23 Maret 2022",
+      "time": "19:00",
+      "dateTime": "2022-03-23 19:00:00 +07:00",
+      "speaker": "Dihan Laksana A - Tech Fellow Engineer Refactory",
+      "speakerSlug": "dihan-laksana-a",
+      "slide": "empty",
+      "topic": "Switch Karir ke Dunia Programming melalui Intensive Probation 2022",
+      "slug": "switch-karir-ke-dunia-programming-melalui-intensive-probation-2022",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2fhWi01Kw",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/178.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "refactory",
+        "intensive-probation",
+        "career"
+      ]
+    },
     {
       "id": "177",
       "date": "Selasa, 22 Maret 2022",
