@@ -2,11 +2,32 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-03-23",
-    "total": 178,
+    "total": 179,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "179",
+      "date": "Selasa, 29 Maret 2022",
+      "time": "19:00",
+      "dateTime": "2022-03-29 19:00:00 +07:00",
+      "speaker": "Irfan Maulana - Principal Engineering Web Tokopedia",
+      "speakerSlug": "irfan-maulana",
+      "slide": "empty",
+      "topic": "Kinerja Web 101 (edisi 2022 Reinvented)",
+      "slug": "kinerja-web-101-edisi-2022-reinvented",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/27GwiFJrM",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "web",
+        "performance"
+      ]
+    },
     {
       "id": "178",
       "date": "Rabu, 23 Maret 2022",
