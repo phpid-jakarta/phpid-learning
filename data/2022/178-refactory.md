@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Dihan Laksana A - Tech Fellow Engineer Refactory
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2fhWi01Kw
+- Video: https://tbp.my.id/?phpidol-178
+- Registrasi: empty
 - Sesi: 178
 - Kategori: refactory, intensive probation, career
 - Deskripsi: -
