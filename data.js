@@ -18,9 +18,9 @@ module.exports = {
       "topic": "Switch Karir ke Dunia Programming melalui Intensive Probation 2022",
       "slug": "switch-karir-ke-dunia-programming-melalui-intensive-probation-2022",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-178"
       ],
-      "registrasi": "https://fb.me/e/2fhWi01Kw",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/178.jpg",
       "deskripsi": "-",
       "tags": [
