@@ -2,11 +2,31 @@
 export default {
   "meta": {
     "last_updated": "2022-04-05",
-    "total": 181,
+    "total": 182,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "182",
+      "date": "Kamis, 7 April 2022",
+      "time": "21:00",
+      "dateTime": "2022-04-07 21:00:00 +07:00",
+      "speaker": "Fadhil Dzikri Muhammad - Founder of Apookat",
+      "speakerSlug": "fadhil-dzikri-muhammad",
+      "slide": "empty",
+      "topic": "Menjadi Social Media Spesialis yang banyak di cari Perusahaan - Digital Marketing",
+      "slug": "menjadi-social-media-spesialis-yang-banyak-di-cari-perusahaan-digital-marketing",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://us06web.zoom.us/meeting/register/tZ0rcuqsqjoqG93sbnglnFingg1Dg-aons72",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/182.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "digital-marketing"
+      ]
+    },
     {
       "id": "181",
       "date": "Rabu, 6 April 2022",
