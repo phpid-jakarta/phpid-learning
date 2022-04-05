@@ -38,9 +38,9 @@ export default {
       "topic": "Kinerja Web 101 (edisi 2022 Reinvented)",
       "slug": "kinerja-web-101-edisi-2022-reinvented",
       "videos": [
-        "empty"
+        "https://tbp.my.id/?phpidol-179"
       ],
-      "registrasi": "https://fb.me/e/27GwiFJrM",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/179.jpg",
       "deskripsi": "-",
       "tags": [
