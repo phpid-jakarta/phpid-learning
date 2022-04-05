@@ -2,11 +2,31 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-04-05",
-    "total": 179,
+    "total": 180,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "180",
+      "date": "Selasa, 5 April 2022",
+      "time": "21:00",
+      "dateTime": "2022-04-05 21:00:00 +07:00",
+      "speaker": "Fadhil Dzikri Muhammad - Founder of Apookat",
+      "speakerSlug": "fadhil-dzikri-muhammad",
+      "slide": "empty",
+      "topic": "Serunya berkarir di dunia Digital Marketer - Digital Marketing",
+      "slug": "serunya-berkarir-di-dunia-digital-marketer-digital-marketing",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/or3edbFWQ",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/180.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "digital-marketing"
+      ]
+    },
     {
       "id": "179",
       "date": "Selasa, 29 Maret 2022",
