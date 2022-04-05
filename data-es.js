@@ -41,7 +41,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://us06web.zoom.us/meeting/register/tZ0rcuqsqjoqG93sbnglnFingg1Dg-aons72",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/181.jpg",
       "deskripsi": "-",
       "tags": [
         "digital-marketing"
