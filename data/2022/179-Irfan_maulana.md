@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Irfan Maulana - Principal Engineering Web Tokopedia
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/27GwiFJrM
+- Video: https://tbp.my.id/?phpidol-179
+- Registrasi: empty
 - Sesi: 179
 - Kategori: web, performance
 - Deskripsi: -
