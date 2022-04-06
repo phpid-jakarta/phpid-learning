@@ -4,8 +4,8 @@
 - Pukul: 21:00
 - Pemateri: Fadhil Dzikri Muhammad - Founder of Apookat
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/or3edbFWQ
+- Video: https://www.youtube.com/watch?v=FgZkXHRqy_s
+- Registrasi: empty
 - Sesi: 180
 - Kategori: digital marketing
 - Deskripsi: -
