@@ -6,6 +6,6 @@
 - Slide: empty
 - Video: empty
 - Registrasi: https://us06web.zoom.us/meeting/register/tZcuf-mtrT4jGNPu8d1Ggf1D1KZL2D41yhvk
-- Sesi: 184
+- Sesi: 185
 - Kategori: digital agency
 - Deskripsi: -
