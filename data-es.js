@@ -8,6 +8,26 @@ export default {
   },
   "data": [
     {
+      "id": "185",
+      "date": "Minggu, 10 April 2022",
+      "time": "21:00",
+      "dateTime": "2022-04-10 21:00:00 +07:00",
+      "speaker": "Coach Andikha Wijaya Kurniawan - Founder & CEO of AWK Academy, IdeaxDigital.com & IDHOST.ID",
+      "speakerSlug": "coach-andikha-wijaya-kurniawan",
+      "slide": "empty",
+      "topic": "Pengembangan Digital Agency, VC pentingkah? - Digital Agency",
+      "slug": "pengembangan-digital-agency-vc-pentingkah-digital-agency",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://us06web.zoom.us/meeting/register/tZcuf-mtrT4jGNPu8d1Ggf1D1KZL2D41yhvk",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/185.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "digital-agency"
+      ]
+    },
+    {
       "id": "184",
       "date": "Sabtu, 9 April 2022",
       "time": "21:00",
@@ -17,26 +37,6 @@ export default {
       "slide": "empty",
       "topic": "Membangun Bootstrap Digital Agency - Digital Agency",
       "slug": "membangun-bootstrap-digital-agency-digital-agency",
-      "videos": [
-        "empty"
-      ],
-      "registrasi": "https://us06web.zoom.us/meeting/register/tZcuf-mtrT4jGNPu8d1Ggf1D1KZL2D41yhvk",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/184.jpg",
-      "deskripsi": "-",
-      "tags": [
-        "digital-agency"
-      ]
-    },
-    {
-      "id": "184",
-      "date": "Minggu, 10 April 2022",
-      "time": "21:00",
-      "dateTime": "2022-04-10 21:00:00 +07:00",
-      "speaker": "Coach Andikha Wijaya Kurniawan - Founder & CEO of AWK Academy, IdeaxDigital.com & IDHOST.ID",
-      "speakerSlug": "coach-andikha-wijaya-kurniawan",
-      "slide": "empty",
-      "topic": "Pengembangan Digital Agency, VC pentingkah? - Digital Agency",
-      "slug": "pengembangan-digital-agency-vc-pentingkah-digital-agency",
       "videos": [
         "empty"
       ],
