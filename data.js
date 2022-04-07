@@ -2,11 +2,31 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-04-07",
-    "total": 182,
+    "total": 183,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "183",
+      "date": "Jumat, 8 April 2022",
+      "time": "21:00",
+      "dateTime": "2022-04-08 21:00:00 +07:00",
+      "speaker": "Coach Andikha Wijaya Kurniawan - Founder & CEO of AWK Academy, IdeaxDigital.com & IDHOST.ID",
+      "speakerSlug": "coach-andikha-wijaya-kurniawan",
+      "slide": "empty",
+      "topic": "Peluang Digital Agency di Indonesia - Digital Agency",
+      "slug": "peluang-digital-agency-di-indonesia-digital-agency",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://us06web.zoom.us/meeting/register/tZcuf-mtrT4jGNPu8d1Ggf1D1KZL2D41yhvk",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "digital-agency"
+      ]
+    },
     {
       "id": "182",
       "date": "Kamis, 7 April 2022",
