@@ -58,9 +58,9 @@ module.exports = {
       "topic": "Peluang Digital Agency di Indonesia - Digital Agency",
       "slug": "peluang-digital-agency-di-indonesia-digital-agency",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=IO60RXFZvVk"
       ],
-      "registrasi": "https://us06web.zoom.us/meeting/register/tZcuf-mtrT4jGNPu8d1Ggf1D1KZL2D41yhvk",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/183.jpg",
       "deskripsi": "-",
       "tags": [
