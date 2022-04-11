@@ -1,6 +1,6 @@
 ### Maximize Your Potential to Achieve Your Career Aspiration / Career Planning - Career in IT
 
-- Waktu: Selasa, 11 April 2022
+- Waktu: Selasa, 12 April 2022
 - Pukul: 21:00
 - Pemateri: Tengku Annisa Febrina - Senior Recruitment Consultant
 - Slide: empty
