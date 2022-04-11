@@ -31,9 +31,9 @@ export default {
     },
     {
       "id": "187",
-      "date": "Selasa, 11 April 2022",
+      "date": "Selasa, 12 April 2022",
       "time": "21:00",
-      "dateTime": "2022-04-11 21:00:00 +07:00",
+      "dateTime": "2022-04-12 21:00:00 +07:00",
       "speaker": "Tengku Annisa Febrina - Senior Recruitment Consultant",
       "speakerSlug": "tengku-annisa-febrina",
       "slide": "empty",
