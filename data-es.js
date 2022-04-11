@@ -43,7 +43,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://us06web.zoom.us/meeting/register/tZwof-qgqTsuE9ITaihclrSevXL4IKHwRb2H",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/187.jpg",
       "deskripsi": "-",
       "tags": [
         "career",
