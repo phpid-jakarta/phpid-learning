@@ -2,11 +2,33 @@
 export default {
   "meta": {
     "last_updated": "2022-04-11",
-    "total": 187,
+    "total": 188,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "188",
+      "date": "Rabu, 13 April 2022",
+      "time": "21:00",
+      "dateTime": "2022-04-13 21:00:00 +07:00",
+      "speaker": "Edo Eka Putra - Senior Recruitment Consultant",
+      "speakerSlug": "edo-eka-putra",
+      "slide": "empty",
+      "topic": "How to Excel in Interviews - Career in IT",
+      "slug": "how-to-excel-in-interviews-career-in-it",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://us06web.zoom.us/meeting/register/tZwof-qgqTsuE9ITaihclrSevXL4IKHwRb2H",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "career",
+        "potential",
+        "planning"
+      ]
+    },
     {
       "id": "187",
       "date": "Selasa, 11 April 2022",
