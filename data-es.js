@@ -2,11 +2,31 @@
 export default {
   "meta": {
     "last_updated": "2022-04-13",
-    "total": 189,
+    "total": 190,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "190",
+      "date": "Jumat, 15 April 2022",
+      "time": "21:00",
+      "dateTime": "2022-04-15 21:00:00 +07:00",
+      "speaker": "Eko Suprapto Wibowo - remoteworker.id",
+      "speakerSlug": "eko-suprapto-wibowo",
+      "slide": "empty",
+      "topic": "Trend Remote Work: focus to PHP? - Remote Work",
+      "slug": "trend-remote-work-focus-to-php-remote-work",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://us06web.zoom.us/meeting/register/tZYodeipqz8pGNUA3piuK8ngZAQvsaNjsSVF",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "remote-work"
+      ]
+    },
     {
       "id": "189",
       "date": "Kamis, 14 April 2022",
