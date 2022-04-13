@@ -100,9 +100,9 @@ export default {
       "topic": "Maximize Your Potential to Achieve Your Career Aspiration / Career Planning - Career in IT",
       "slug": "maximize-your-potential-to-achieve-your-career-aspiration-career-planning-career-in-it",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=5ldUPD-_AX8&list=PLkjdOLGFcmyD-31fyn5AdtifS31j1dSXk&index=2"
       ],
-      "registrasi": "https://us06web.zoom.us/meeting/register/tZwof-qgqTsuE9ITaihclrSevXL4IKHwRb2H",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/187.jpg",
       "deskripsi": "-",
       "tags": [
