@@ -4,8 +4,8 @@
 - Pukul: 21:00
 - Pemateri: Tengku Annisa Febrina - Senior Recruitment Consultant
 - Slide: empty
-- Video: empty
-- Registrasi: https://us06web.zoom.us/meeting/register/tZwof-qgqTsuE9ITaihclrSevXL4IKHwRb2H
+- Video: https://www.youtube.com/watch?v=5ldUPD-_AX8&list=PLkjdOLGFcmyD-31fyn5AdtifS31j1dSXk&index=2
+- Registrasi: empty
 - Sesi: 187
 - Kategori: career, potential, planning
 - Deskripsi: -
