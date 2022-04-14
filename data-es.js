@@ -58,9 +58,9 @@ export default {
       "topic": "Totally Worth Fighting For? - Remote Work",
       "slug": "totally-worth-fighting-for-remote-work",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=T-ujmjd9lfU"
       ],
-      "registrasi": "https://us06web.zoom.us/meeting/register/tZYodeipqz8pGNUA3piuK8ngZAQvsaNjsSVF",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/189.jpg",
       "deskripsi": "-",
       "tags": [
