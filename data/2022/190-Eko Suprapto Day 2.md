@@ -4,8 +4,8 @@
 - Pukul: 21:00
 - Pemateri: Eko Suprapto Wibowo - remoteworker.id
 - Slide: empty
-- Video: empty
-- Registrasi: https://us06web.zoom.us/meeting/register/tZYodeipqz8pGNUA3piuK8ngZAQvsaNjsSVF
+- Video: https://www.youtube.com/watch?v=GSNyYTDMoOQ
+- Registrasi: empty
 - Sesi: 190
 - Kategori: remote work
 - Deskripsi: -
