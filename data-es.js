@@ -78,9 +78,9 @@ export default {
       "topic": "The Importance of Personal Branding - Remote Work",
       "slug": "the-importance-of-personal-branding-remote-work",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=IYfzZIyTNQo"
       ],
-      "registrasi": "https://us06web.zoom.us/meeting/register/tZYodeipqz8pGNUA3piuK8ngZAQvsaNjsSVF",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/191.jpg",
       "deskripsi": "-",
       "tags": [
