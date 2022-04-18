@@ -15,8 +15,8 @@ module.exports = {
       "speaker": "Dony Ekoprilawanto",
       "speakerSlug": "dony-ekoprilawanto",
       "slide": "empty",
-      "topic": "Agility And Team",
-      "slug": "agility-and-team",
+      "topic": "Agility And Team: Agile Manifesto dengan 4 Value & 12 Manifesto",
+      "slug": "agility-and-team-agile-manifesto-dengan-4-value-and-12-manifesto",
       "videos": [
         "empty"
       ],
