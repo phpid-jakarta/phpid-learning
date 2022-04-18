@@ -1,4 +1,4 @@
-###  Agility And Team
+###  Agility And Team: Agile Manifesto dengan 4 Value & 12 Manifesto
 
 - Waktu: Senin, 18 April 2022
 - Pukul: 21:00
