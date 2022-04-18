@@ -98,9 +98,9 @@ export default {
       "topic": "Trend Remote Work: focus to PHP? - Remote Work",
       "slug": "trend-remote-work-focus-to-php-remote-work",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=GSNyYTDMoOQ"
       ],
-      "registrasi": "https://us06web.zoom.us/meeting/register/tZYodeipqz8pGNUA3piuK8ngZAQvsaNjsSVF",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/190.jpg",
       "deskripsi": "-",
       "tags": [
