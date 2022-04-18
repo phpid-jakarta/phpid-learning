@@ -2,11 +2,31 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-04-18",
-    "total": 193,
+    "total": 194,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "194",
+      "date": "Rabu, 20 April 2022",
+      "time": "21:00",
+      "dateTime": "2022-04-20 21:00:00 +07:00",
+      "speaker": "Dony Ekoprilawanto",
+      "speakerSlug": "dony-ekoprilawanto",
+      "slide": "empty",
+      "topic": "Agility And Team: Mengadaptasi Agile Manifesto",
+      "slug": "agility-and-team-mengadaptasi-agile-manifesto",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://us06web.zoom.us/meeting/register/tZ0uc-irqTwuH9M_YyRs_UpmHEckpnECaZLb",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/194.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "humanizing-human"
+      ]
+    },
     {
       "id": "193",
       "date": "Selasa, 18 April 2022",
