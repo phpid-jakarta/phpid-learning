@@ -38,9 +38,9 @@ module.exports = {
       "topic": "Agility And Team: Use Case Agile Manifesto Menghasilkan dan Mengirimkan Produk kepada Customer",
       "slug": "agility-and-team-use-case-agile-manifesto-menghasilkan-dan-mengirimkan-produk-kepada-customer",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=5BbDZX76G9E"
       ],
-      "registrasi": "https://us06web.zoom.us/meeting/register/tZ0uc-irqTwuH9M_YyRs_UpmHEckpnECaZLb",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/193.jpg",
       "deskripsi": "-",
       "tags": [
