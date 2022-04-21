@@ -4,8 +4,8 @@
 - Pukul: 21:00
 - Pemateri: Dony Ekoprilawanto
 - Slide: empty
-- Video: empty
-- Registrasi: https://us06web.zoom.us/meeting/register/tZ0uc-irqTwuH9M_YyRs_UpmHEckpnECaZLb 
+- Video: https://www.youtube.com/watch?v=5BbDZX76G9E
+- Registrasi: empty
 - Sesi: 193
 - Kategori: humanizing human
 - Deskripsi: -
