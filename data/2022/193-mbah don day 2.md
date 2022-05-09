@@ -1,6 +1,6 @@
 ###  Agility And Team: Use Case Agile Manifesto Menghasilkan dan Mengirimkan Produk kepada Customer
 
-- Waktu: Selasa, 18 April 2022
+- Waktu: Selasa, 19 April 2022
 - Pukul: 21:00
 - Pemateri: Dony Ekoprilawanto
 - Slide: empty
