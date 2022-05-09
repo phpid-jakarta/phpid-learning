@@ -18,9 +18,9 @@ export default {
       "topic": "Agility And Team: Mengadaptasi Agile Manifesto",
       "slug": "agility-and-team-mengadaptasi-agile-manifesto",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=cY221OeDwR4"
       ],
-      "registrasi": "https://us06web.zoom.us/meeting/register/tZ0uc-irqTwuH9M_YyRs_UpmHEckpnECaZLb",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/194.jpg",
       "deskripsi": "-",
       "tags": [
