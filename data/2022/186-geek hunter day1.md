@@ -4,8 +4,8 @@
 - Pukul: 21:00
 - Pemateri: Belianny Putri - Senior Recruitment Consultant
 - Slide: empty
-- Video: empty
-- Registrasi: https://us06web.zoom.us/meeting/register/tZwof-qgqTsuE9ITaihclrSevXL4IKHwRb2H
+- Video: https://www.youtube.com/watch?v=La7zokVS9V0
+- Registrasi: empty
 - Sesi: 186
 - Kategori: career
 - Deskripsi: -
