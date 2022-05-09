@@ -29,9 +29,9 @@ module.exports = {
     },
     {
       "id": "193",
-      "date": "Selasa, 18 April 2022",
+      "date": "Selasa, 19 April 2022",
       "time": "21:00",
-      "dateTime": "2022-04-18 21:00:00 +07:00",
+      "dateTime": "2022-04-19 21:00:00 +07:00",
       "speaker": "Dony Ekoprilawanto",
       "speakerSlug": "dony-ekoprilawanto",
       "slide": "empty",
