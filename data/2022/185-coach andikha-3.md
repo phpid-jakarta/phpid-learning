@@ -4,8 +4,8 @@
 - Pukul: 21:00
 - Pemateri: Coach Andikha Wijaya Kurniawan - Founder & CEO of AWK Academy, IdeaxDigital.com & IDHOST.ID
 - Slide: empty
-- Video: empty
-- Registrasi: https://us06web.zoom.us/meeting/register/tZcuf-mtrT4jGNPu8d1Ggf1D1KZL2D41yhvk
+- Video: https://www.youtube.com/watch?v=I_XAvRcPa-I
+- Registrasi: empty
 - Sesi: 185
 - Kategori: digital agency
 - Deskripsi: -
