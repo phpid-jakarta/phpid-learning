@@ -182,9 +182,9 @@ export default {
       "topic": "How to Build a Good CV - Career in IT",
       "slug": "how-to-build-a-good-cv-career-in-it",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=La7zokVS9V0"
       ],
-      "registrasi": "https://us06web.zoom.us/meeting/register/tZwof-qgqTsuE9ITaihclrSevXL4IKHwRb2H",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/186.jpg",
       "deskripsi": "-",
       "tags": [
