@@ -2,11 +2,33 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-05-11",
-    "total": 194,
+    "total": 195,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "195",
+      "date": "Kamis, 12 Mei 2022",
+      "time": "19:00",
+      "dateTime": "2022-05-12 19:00:00 +07:00",
+      "speaker": "Maria Gabriel - Tech Lead Qiscus",
+      "speakerSlug": "maria-gabriel",
+      "slide": "empty",
+      "topic": "Harnessing Chatbot AI to Transform Customer Experience",
+      "slug": "harnessing-chatbot-ai-to-transform-customer-experience",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/mkNVvkCPO",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "CX",
+        "chatbot",
+        "ai"
+      ]
+    },
     {
       "id": "194",
       "date": "Rabu, 20 April 2022",
