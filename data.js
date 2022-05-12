@@ -2,11 +2,34 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-05-12",
-    "total": 196,
+    "total": 197,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "197",
+      "date": "Kamis, 19 Mei 2022",
+      "time": "19:00",
+      "dateTime": "2022-05-19 19:00:00 +07:00",
+      "speaker": "Hendry Zheng - Sr Engineer Xendit",
+      "speakerSlug": "hendry-zheng",
+      "slide": "empty",
+      "topic": "Howto Receive & Notification via Callback in PHP (By Xendit)",
+      "slug": "howto-receive-and-notification-via-callback-in-php-by-xendit",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1rDs0Tm75",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/197.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "xendit",
+        "notification",
+        "php",
+        "callback"
+      ]
+    },
     {
       "id": "196",
       "date": "Selasa, 17 Mei 2022",
