@@ -21,7 +21,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1niqLa77P",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/196.jpg",
       "deskripsi": "-",
       "tags": [
         "ec2",
