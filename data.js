@@ -87,7 +87,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/mkNVvkCPO",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/195.jpg",
       "deskripsi": "-",
       "tags": [
         "CX",
