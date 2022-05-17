@@ -29,7 +29,7 @@ module.exports = {
       ]
     },
     {
-      "id": "198",
+      "id": "197",
       "date": "Kamis, 19 Mei 2022",
       "time": "19:00",
       "dateTime": "2022-05-19 19:00:00 +07:00",
@@ -42,7 +42,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/1rDs0Tm75",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/198.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/197.jpg",
       "deskripsi": "-",
       "tags": [
         "xendit",
