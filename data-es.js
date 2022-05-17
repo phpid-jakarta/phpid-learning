@@ -9,6 +9,27 @@ export default {
   "data": [
     {
       "id": "198",
+      "date": "Selasa, 24 Mei 2022",
+      "time": "19:00",
+      "dateTime": "2022-05-24 19:00:00 +07:00",
+      "speaker": "Gusti Rahmat - Tehnical Project Manager",
+      "speakerSlug": "gusti-rahmat",
+      "slide": "empty",
+      "topic": "Software Development Waste",
+      "slug": "software-development-waste",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1oATzDpt3",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/198.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "software",
+        "development"
+      ]
+    },
+    {
+      "id": "198",
       "date": "Kamis, 19 Mei 2022",
       "time": "19:00",
       "dateTime": "2022-05-19 19:00:00 +07:00",
@@ -28,27 +49,6 @@ export default {
         "notification",
         "php",
         "callback"
-      ]
-    },
-    {
-      "id": "197",
-      "date": "Selasa, 24 Mei 2022",
-      "time": "19:00",
-      "dateTime": "2022-05-24 19:00:00 +07:00",
-      "speaker": "Gusti Rahmat - Tehnical Project Manager",
-      "speakerSlug": "gusti-rahmat",
-      "slide": "empty",
-      "topic": "Software Development Waste",
-      "slug": "software-development-waste",
-      "videos": [
-        "empty"
-      ],
-      "registrasi": "https://fb.me/e/1oATzDpt3",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/197.jpg",
-      "deskripsi": "-",
-      "tags": [
-        "software",
-        "development"
       ]
     },
     {
