@@ -8,6 +8,29 @@ module.exports = {
   },
   "data": [
     {
+      "id": "198",
+      "date": "Kamis, 19 Mei 2022",
+      "time": "19:00",
+      "dateTime": "2022-05-19 19:00:00 +07:00",
+      "speaker": "Hendry Zheng - Sr Engineer Xendit",
+      "speakerSlug": "hendry-zheng",
+      "slide": "empty",
+      "topic": "Howto Receive & Notification via Callback in PHP (By Xendit)",
+      "slug": "howto-receive-and-notification-via-callback-in-php-by-xendit",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1rDs0Tm75",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/198.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "xendit",
+        "notification",
+        "php",
+        "callback"
+      ]
+    },
+    {
       "id": "197",
       "date": "Selasa, 24 Mei 2022",
       "time": "19:00",
@@ -26,29 +49,6 @@ module.exports = {
       "tags": [
         "software",
         "development"
-      ]
-    },
-    {
-      "id": "197",
-      "date": "Kamis, 19 Mei 2022",
-      "time": "19:00",
-      "dateTime": "2022-05-19 19:00:00 +07:00",
-      "speaker": "Hendry Zheng - Sr Engineer Xendit",
-      "speakerSlug": "hendry-zheng",
-      "slide": "empty",
-      "topic": "Howto Receive & Notification via Callback in PHP (By Xendit)",
-      "slug": "howto-receive-and-notification-via-callback-in-php-by-xendit",
-      "videos": [
-        "empty"
-      ],
-      "registrasi": "https://fb.me/e/1rDs0Tm75",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/197.jpg",
-      "deskripsi": "-",
-      "tags": [
-        "xendit",
-        "notification",
-        "php",
-        "callback"
       ]
     },
     {
