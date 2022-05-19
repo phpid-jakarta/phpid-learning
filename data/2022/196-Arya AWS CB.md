@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Aryya Widigdha - DevOps Eng KiteWorks
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1niqLa77P
+- Video: https://www.youtube.com/watch?v=3oY2eN_OhzI
+- Registrasi: empty
 - Sesi: 196
 - Kategori: ec2, aws, opensearch
 - Deskripsi: -
