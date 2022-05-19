@@ -62,9 +62,9 @@ export default {
       "topic": "Monitoring Web in EC2 using AWS OpenSearch",
       "slug": "monitoring-web-in-ec2-using-aws-opensearch",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=3oY2eN_OhzI"
       ],
-      "registrasi": "https://fb.me/e/1niqLa77P",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/196.jpg",
       "deskripsi": "-",
       "tags": [
