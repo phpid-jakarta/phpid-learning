@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Maria Gabriel - Tech Lead Qiscus
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/mkNVvkCPO
+- Video: https://www.youtube.com/watch?v=Ie_fD3JEjBA
+- Registrasi: empty
 - Sesi: 195
 - Kategori: CX, chatbot, ai
 - Deskripsi: -
