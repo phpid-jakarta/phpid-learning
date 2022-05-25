@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Gusti Rahmat - Tehnical Project Manager
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1oATzDpt3
+- Video: https://www.youtube.com/watch?v=0mx49qwCqfE
+- Registrasi: empty
 - Sesi: 198
 - Kategori: software, development
 - Deskripsi: -
