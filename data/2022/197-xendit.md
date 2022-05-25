@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Hendry Zheng - Sr Engineer Xendit
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1rDs0Tm75
+- Video: https://www.youtube.com/watch?v=-ziUQuTjec0
+- Registrasi: empty
 - Sesi: 197
 - Kategori: xendit, notification, php, callback
 - Deskripsi: -
