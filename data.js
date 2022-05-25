@@ -18,9 +18,9 @@ module.exports = {
       "topic": "Software Development Waste",
       "slug": "software-development-waste",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=0mx49qwCqfE"
       ],
-      "registrasi": "https://fb.me/e/1oATzDpt3",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/198.jpg",
       "deskripsi": "-",
       "tags": [
