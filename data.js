@@ -2,11 +2,33 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-06-03",
-    "total": 200,
+    "total": 201,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "201",
+      "date": "Selasa, 21 Juni 2022",
+      "time": "19:00",
+      "dateTime": "2022-06-21 19:00:00 +07:00",
+      "speaker": "Amrullah Maulana Fiqri - Eksternal Mentor Niagahoster",
+      "speakerSlug": "amrullah-maulana-fiqri",
+      "slide": "empty",
+      "topic": "Kiat Memenangkan Zero Moment of Truth di Mesin Pencari bagi UMKM & Startup Pemula",
+      "slug": "kiat-memenangkan-zero-moment-of-truth-di-mesin-pencari-bagi-umkm-and-startup-pemula",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2rP210O9F",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/201.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "ZMOT",
+        "UMKM",
+        "Startup"
+      ]
+    },
     {
       "id": "200",
       "date": "Rabu, 15 Juni 2022",
