@@ -2,11 +2,32 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-06-03",
-    "total": 199,
+    "total": 200,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "200",
+      "date": "Rabu, 15 Juni 2022",
+      "time": "20:00",
+      "dateTime": "2022-06-15 20:00:00 +07:00",
+      "speaker": "Dolly Aswin - Software Director Xtend Indonesia",
+      "speakerSlug": "dolly-aswin",
+      "slide": "empty",
+      "topic": "Is PHP Dead?",
+      "slug": "is-php-dead",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2JVIIDGzl",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/200.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "php",
+        "future"
+      ]
+    },
     {
       "id": "199",
       "date": "Selasa, 7 Juni 2022",
