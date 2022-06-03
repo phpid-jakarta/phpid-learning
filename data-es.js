@@ -2,11 +2,32 @@
 export default {
   "meta": {
     "last_updated": "2022-06-03",
-    "total": 201,
+    "total": 202,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "202",
+      "date": "Selasa, 28 Juni 2022",
+      "time": "19:00",
+      "dateTime": "2022-06-28 19:00:00 +07:00",
+      "speaker": "Albert Suwandhi - Cloud Engineer",
+      "speakerSlug": "albert-suwandhi",
+      "slide": "empty",
+      "topic": "Query & Analyze Data From Cloud Using SQL",
+      "slug": "query-and-analyze-data-from-cloud-using-sql",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1ozoWrG7n",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/202.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "software",
+        "development"
+      ]
+    },
     {
       "id": "201",
       "date": "Selasa, 21 Juni 2022",
