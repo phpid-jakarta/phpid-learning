@@ -2,11 +2,34 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-06-03",
-    "total": 198,
+    "total": 199,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "199",
+      "date": "Selasa, 7 Juni 2022",
+      "time": "19:00",
+      "dateTime": "2022-06-07 19:00:00 +07:00",
+      "speaker": "Ajang Rahmat - Founder Kelas Robot",
+      "speakerSlug": "ajang-rahmat",
+      "slide": "empty",
+      "topic": "IoT berbasis Microcontroller ESP32 & PHP MQTT Server",
+      "slug": "iot-berbasis-microcontroller-esp32-and-php-mqtt-server",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/3evWxAVzw",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/199.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "iot",
+        "microcontroller",
+        "mqtt",
+        "esp32"
+      ]
+    },
     {
       "id": "198",
       "date": "Selasa, 24 Mei 2022",
