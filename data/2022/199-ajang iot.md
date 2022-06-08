@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Ajang Rahmat - Founder Kelas Robot
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/3evWxAVzw
+- Video: https://youtu.be/wwFFdLLBhx4
+- Registrasi: empty
 - Sesi: 199
 - Kategori: iot, microcontroller, mqtt, esp32
 - Deskripsi: -
