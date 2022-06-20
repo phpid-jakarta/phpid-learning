@@ -4,8 +4,8 @@
 - Pukul: 20:00
 - Pemateri: Dolly Aswin - Software Director Xtend Indonesia
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2JVIIDGzl
+- Video: https://www.youtube.com/watch?v=OSyJdPTjLvo
+- Registrasi: empty
 - Sesi: 200
 - Kategori: php, future
 - Deskripsi: -
