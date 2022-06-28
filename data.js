@@ -21,7 +21,7 @@ module.exports = {
         "empty"
       ],
       "registrasi": "https://fb.me/e/3zxdi6uhy",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/203.jpg",
       "deskripsi": "-",
       "tags": [
         "education",
