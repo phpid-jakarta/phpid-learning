@@ -2,11 +2,31 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-07-12",
-    "total": 205,
+    "total": 206,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "206",
+      "date": "Selasa, 26 Juli 2022",
+      "time": "19:00",
+      "dateTime": "2022-07-26 19:00:00 +07:00",
+      "speaker": "Titis Nur Pratomo - SEO Specialist Danapel Media Indonesia",
+      "speakerSlug": "titis-nur-pratomo",
+      "slide": "empty",
+      "topic": "SEO Opportunity For Business",
+      "slug": "seo-opportunity-for-business",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/nxxY0dEp8",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "wordpress"
+      ]
+    },
     {
       "id": "205",
       "date": "Selasa, 19 Juli 2022",
