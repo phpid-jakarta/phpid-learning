@@ -21,7 +21,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/nxxY0dEp8",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/206.jpg",
       "deskripsi": "-",
       "tags": [
         "wordpress"
@@ -41,7 +41,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/3cU6lABV3",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/205.jpg",
       "deskripsi": "-",
       "tags": [
         "wordpress"
@@ -61,7 +61,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/4tbJf1ay8",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/204.jpg",
       "deskripsi": "-",
       "tags": [
         "wordpress"
