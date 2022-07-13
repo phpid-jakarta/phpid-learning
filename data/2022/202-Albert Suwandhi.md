@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Albert Suwandhi - Cloud Engineer
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1ozoWrG7n
+- Video: https://www.youtube.com/watch?v=ExaxKOSr524
+- Registrasi: empty
 - Sesi: 202
 - Kategori: software, development
 - Deskripsi: -
