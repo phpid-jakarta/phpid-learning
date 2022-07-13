@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Setia Budi | Indonesia Belajar Youtube Channel 
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/3zxdi6uhy
+- Video: https://www.youtube.com/watch?v=2muQYpcheIs
+- Registrasi: empty
 - Sesi: 203
 - Kategori: education, story
 - Deskripsi: -
