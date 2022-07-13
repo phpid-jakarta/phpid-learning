@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Sinar Hadi Wijaya - WP Gresik 
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/4tbJf1ay8
+- Video: https://www.youtube.com/watch?v=xMxtmYF7Tqk
+- Registrasi: empty
 - Sesi: 204
 - Kategori: wordpress
 - Deskripsi: -
