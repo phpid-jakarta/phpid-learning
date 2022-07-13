@@ -58,9 +58,9 @@ export default {
       "topic": "Kontribusi dalam Komunitas WordPress",
       "slug": "kontribusi-dalam-komunitas-wordpress",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=xMxtmYF7Tqk"
       ],
-      "registrasi": "https://fb.me/e/4tbJf1ay8",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/204.jpg",
       "deskripsi": "-",
       "tags": [
