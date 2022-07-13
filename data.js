@@ -78,9 +78,9 @@ module.exports = {
       "topic": "A Brief Story of IT Education Channel Indonesia Belajar",
       "slug": "a-brief-story-of-it-education-channel-indonesia-belajar",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=2muQYpcheIs"
       ],
-      "registrasi": "https://fb.me/e/3zxdi6uhy",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/203.jpg",
       "deskripsi": "-",
       "tags": [
