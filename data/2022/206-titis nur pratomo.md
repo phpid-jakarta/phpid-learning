@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Titis Nur Pratomo - SEO Specialist Danapel Media Indonesia 
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/nxxY0dEp8
+- Video: https://www.youtube.com/watch?v=ZztRIkGNnYE
+- Registrasi: empty
 - Sesi: 206
 - Kategori: wordpress
 - Deskripsi: -
