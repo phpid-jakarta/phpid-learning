@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Aris Setiawan - CTO Danapel Media Indonesia 
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/3cU6lABV3
+- Video: https://www.youtube.com/watch?v=TZY-qV7bjX0
+- Registrasi: empty
 - Sesi: 205
 - Kategori: wordpress
 - Deskripsi: -
