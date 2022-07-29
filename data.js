@@ -18,9 +18,9 @@ module.exports = {
       "topic": "SEO Opportunity For Business",
       "slug": "seo-opportunity-for-business",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=ZztRIkGNnYE"
       ],
-      "registrasi": "https://fb.me/e/nxxY0dEp8",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/206.jpg",
       "deskripsi": "-",
       "tags": [
