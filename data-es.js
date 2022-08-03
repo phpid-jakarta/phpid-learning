@@ -21,7 +21,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://youtu.be/ZxwKQPGNzcg",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/208.jpg",
       "deskripsi": "-",
       "tags": [
         "e-wallet",
