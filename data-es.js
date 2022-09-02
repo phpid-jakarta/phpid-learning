@@ -2,11 +2,32 @@
 export default {
   "meta": {
     "last_updated": "2022-09-02",
-    "total": 210,
+    "total": 211,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "212",
+      "date": "Selasa, 20 September 2022",
+      "time": "19:00",
+      "dateTime": "2022-09-20 19:00:00 +07:00",
+      "speaker": "Rian Andrian - Head of Product & Analysis at JDS",
+      "speakerSlug": "rian-andrian",
+      "slide": "empty",
+      "topic": "Government Digital Transformation",
+      "slug": "government-digital-transformation",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "[https://fb.me/e/1X00OTqjz](https://fb.me/e/1IePT55tt)",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/212.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "e-gov",
+        "digital-transformation"
+      ]
+    },
     {
       "id": "211",
       "date": "Kamis, 8 September 2022",
