@@ -2,11 +2,33 @@
 export default {
   "meta": {
     "last_updated": "2022-09-02",
-    "total": 209,
+    "total": 210,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "211",
+      "date": "Kamis, 8 September 2022",
+      "time": "19:00",
+      "dateTime": "2022-09-08 19:00:00 +07:00",
+      "speaker": "Takat Wijaksono - Software Engineer / IT Consultant",
+      "speakerSlug": "takat-wijaksono",
+      "slide": "empty",
+      "topic": "Kolaborasi Web Service dengan VBA",
+      "slug": "kolaborasi-web-service-dengan-vba",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/3vdFjFUad",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/211.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "web-service",
+        "vba",
+        "integrasi"
+      ]
+    },
     {
       "id": "210",
       "date": "Selasa, 7 September 2022",
