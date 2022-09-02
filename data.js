@@ -31,7 +31,7 @@ module.exports = {
     },
     {
       "id": "210",
-      "date": "Selasa, 7 September 2022",
+      "date": "Rabu, 7 September 2022",
       "time": "19:00",
       "dateTime": "2022-09-07 19:00:00 +07:00",
       "speaker": "Glenn Maatita - Head of Engineering",
