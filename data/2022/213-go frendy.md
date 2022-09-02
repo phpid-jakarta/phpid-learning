@@ -5,7 +5,7 @@
 - Pemateri: Go Frendy Gunawan
 - Slide: empty
 - Video: empty
-- Registrasi: https://fb.me/e/3MttwSNXV  
+- Registrasi: https://fb.me/e/3MttwSNXV
 - Sesi: 213
 - Kategori: data engineer
 - Deskripsi: -
