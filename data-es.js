@@ -103,9 +103,9 @@ export default {
       "topic": "Website Development Service Alternative for UMKM",
       "slug": "website-development-service-alternative-for-umkm",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=yIT-rjc92SI"
       ],
-      "registrasi": "https://fb.me/e/1AckpZyyc",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/209.jpg",
       "deskripsi": "-",
       "tags": [
