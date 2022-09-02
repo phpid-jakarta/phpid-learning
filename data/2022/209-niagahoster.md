@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Mas Aji Gustiawan
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/1AckpZyyc
+- Video: https://www.youtube.com/watch?v=yIT-rjc92SI
+- Registrasi: empty
 - Sesi: 209
 - Kategori: umkm, website
 - Deskripsi: -
