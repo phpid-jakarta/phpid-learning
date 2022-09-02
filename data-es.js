@@ -2,11 +2,33 @@
 export default {
   "meta": {
     "last_updated": "2022-09-02",
-    "total": 208,
+    "total": 209,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "210",
+      "date": "Selasa, 7 September 2022",
+      "time": "19:00",
+      "dateTime": "2022-09-07 19:00:00 +07:00",
+      "speaker": "Glenn Maatita - Head of Engineering",
+      "speakerSlug": "glenn-maatita",
+      "slide": "empty",
+      "topic": "Documentation as Code",
+      "slug": "documentation-as-code",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/1X00OTqjz",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/210.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "docs",
+        "code",
+        "best-practise"
+      ]
+    },
     {
       "id": "209",
       "date": "Selasa, 23 Agustus 2022",
