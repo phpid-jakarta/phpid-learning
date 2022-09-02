@@ -1,6 +1,6 @@
 ###  Documentation as Code 
 
-- Waktu: Selasa, 7 September 2022
+- Waktu: Rabu, 7 September 2022
 - Pukul: 19:00
 - Pemateri: Glenn Maatita - Head of Engineering
 - Slide: empty
