@@ -40,11 +40,11 @@ export default {
       "videos": [
         "empty"
       ],
-      "registrasi": "[https://fb.me/e/1X00OTqjz](https://fb.me/e/1IePT55tt)",
+      "registrasi": "https://fb.me/e/1IePT55tt",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/212.jpg",
       "deskripsi": "-",
       "tags": [
-        "e-gov",
+        "egov",
         "digital-transformation"
       ]
     },
