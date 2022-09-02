@@ -2,11 +2,31 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-09-02",
-    "total": 211,
+    "total": 212,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "213",
+      "date": "Selasa, 22 September 2022",
+      "time": "19:00",
+      "dateTime": "2022-09-22 19:00:00 +07:00",
+      "speaker": "Go Frendy Gunawan",
+      "speakerSlug": "go-frendy-gunawan",
+      "slide": "empty",
+      "topic": "Data Engineering: What We Do & How We Do It",
+      "slug": "data-engineering-what-we-do-and-how-we-do-it",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/3MttwSNXV",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/213.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "data-engineer"
+      ]
+    },
     {
       "id": "212",
       "date": "Selasa, 20 September 2022",
