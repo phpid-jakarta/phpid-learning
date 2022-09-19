@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Takat Wijaksono - Software Engineer / IT Consultant
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/3vdFjFUad 
+- Video: https://www.youtube.com/watch?v=A3xOViTkb5s
+- Registrasi: empty
 - Sesi: 211
 - Kategori: web service, vba, integrasi
 - Deskripsi: -
