@@ -1,6 +1,6 @@
 ###  Data Engineering: What We Do & How We Do It
 
-- Waktu: Selasa, 22 September 2022
+- Waktu: Kamis, 22 September 2022
 - Pukul: 19:00
 - Pemateri: Go Frendy Gunawan
 - Slide: empty
