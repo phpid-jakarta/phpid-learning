@@ -9,7 +9,7 @@ export default {
   "data": [
     {
       "id": "213",
-      "date": "Selasa, 22 September 2022",
+      "date": "Kamis, 22 September 2022",
       "time": "19:00",
       "dateTime": "2022-09-22 19:00:00 +07:00",
       "speaker": "Go Frendy Gunawan",
