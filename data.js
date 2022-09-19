@@ -81,9 +81,9 @@ module.exports = {
       "topic": "Documentation as Code",
       "slug": "documentation-as-code",
       "videos": [
-        "empty"
+        "https://www.youtube.com/watch?v=nmYc9IM13d0"
       ],
-      "registrasi": "https://fb.me/e/1X00OTqjz",
+      "registrasi": "empty",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/210.jpg",
       "deskripsi": "-",
       "tags": [
