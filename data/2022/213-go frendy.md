@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Go Frendy Gunawan
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/3MttwSNXV
+- Video: https://www.youtube.com/watch?v=CTaXS75mtA0
+- Registrasi: empty
 - Sesi: 213
 - Kategori: data engineer
 - Deskripsi: -
