@@ -2,11 +2,33 @@
 export default {
   "meta": {
     "last_updated": "2022-10-05",
-    "total": 215,
+    "total": 216,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "217",
+      "date": "Kamis, 27 Oktober 2022",
+      "time": "19:00",
+      "dateTime": "2022-10-27 19:00:00 +07:00",
+      "speaker": "Beny Ibrani - Cloud Solution Arch Intel ID",
+      "speakerSlug": "beny-ibrani",
+      "slide": "empty",
+      "topic": "Amazon S3: Introduction Hands-On S3 Policy",
+      "slug": "amazon-s3-introduction-hands-on-s3-policy",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/k0TrAJU5H",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/217.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "s3",
+        "aws",
+        "policy"
+      ]
+    },
     {
       "id": "216",
       "date": "Selasa, 18 Oktober 2022",
