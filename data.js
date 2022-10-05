@@ -2,11 +2,33 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-10-05",
-    "total": 213,
+    "total": 214,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "215",
+      "date": "Selasa, 11 Oktober 2022",
+      "time": "19:00",
+      "dateTime": "2022-10-11 19:00:00 +07:00",
+      "speaker": "Nur Hidayat",
+      "speakerSlug": "nur-hidayat",
+      "slide": "empty",
+      "topic": "Banyak Jalan Menuju Roma. Deployment Aplikasi Web Yii2 dengan Jenkins",
+      "slug": "banyak-jalan-menuju-roma-deployment-aplikasi-web-yii2-dengan-jenkins",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/3vp5yRhwR",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/215.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "yii",
+        "jenkins",
+        "deploy"
+      ]
+    },
     {
       "id": "214",
       "date": "Kamis, 6 Oktober 2022",
