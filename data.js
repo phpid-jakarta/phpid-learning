@@ -2,11 +2,31 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-10-05",
-    "total": 212,
+    "total": 213,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "214",
+      "date": "Kamis, 6 Oktober 2022",
+      "time": "19:00",
+      "dateTime": "2022-10-06 19:00:00 +07:00",
+      "speaker": "Ratih Apriliana - Solution & Support Specialist Qiscus",
+      "speakerSlug": "ratih-apriliana",
+      "slide": "empty",
+      "topic": "Winning Client's Heart with IT Support",
+      "slug": "winning-clients-heart-with-it-support",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "https://fb.me/e/2XsHwXgI2",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/214.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "crm"
+      ]
+    },
     {
       "id": "213",
       "date": "Kamis, 22 September 2022",
