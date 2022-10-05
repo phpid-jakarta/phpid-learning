@@ -42,7 +42,7 @@ export default {
       "videos": [
         "empty"
       ],
-      "registrasi": "Theresia Tanzil - Blogger Proses.ID",
+      "registrasi": "https://fb.me/e/270yd7lLs",
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/216.jpg",
       "deskripsi": "-",
       "tags": [
