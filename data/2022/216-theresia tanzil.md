@@ -5,7 +5,7 @@
 - Pemateri: Theresia Tanzil
 - Slide: empty
 - Video: empty
-- Registrasi: Theresia Tanzil - Blogger Proses.ID
+- Registrasi: https://fb.me/e/270yd7lLs
 - Sesi: 216
 - Kategori: scrapp, scrapy
 - Deskripsi: -
