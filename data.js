@@ -2,11 +2,32 @@
 module.exports = {
   "meta": {
     "last_updated": "2022-10-05",
-    "total": 214,
+    "total": 215,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "216",
+      "date": "Selasa, 18 Oktober 2022",
+      "time": "19:00",
+      "dateTime": "2022-10-18 19:00:00 +07:00",
+      "speaker": "Theresia Tanzil",
+      "speakerSlug": "theresia-tanzil",
+      "slide": "empty",
+      "topic": "Web Scrapping. Dari Website jadi Database",
+      "slug": "web-scrapping-dari-website-jadi-database",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "Theresia Tanzil - Blogger Proses.ID",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/216.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "scrapp",
+        "scrapy"
+      ]
+    },
     {
       "id": "215",
       "date": "Selasa, 11 Oktober 2022",
