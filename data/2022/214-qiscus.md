@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Ratih Apriliana - Solution & Support Specialist Qiscus
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2XsHwXgI2
+- Video: https://www.youtube.com/watch?v=TuEqijQl2TU
+- Registrasi: empty
 - Sesi: 214
-- Kategori: crm
+- Kategori: crm, it support
 - Deskripsi: -
