@@ -340,9 +340,9 @@ module.exports = {
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/201.jpg",
       "deskripsi": "-",
       "tags": [
-        "ZMOT",
-        "UMKM",
-        "Startup"
+        "zmot",
+        "umkm",
+        "startup"
       ]
     },
     {
@@ -472,7 +472,7 @@ module.exports = {
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/195.jpg",
       "deskripsi": "-",
       "tags": [
-        "CX",
+        "cx",
         "chatbot",
         "ai"
       ]
@@ -948,8 +948,8 @@ module.exports = {
       "tags": [
         "monlith",
         "laravel",
-        "inertia.js",
-        "vue.js"
+        "inertiajs",
+        "vuejs"
       ]
     },
     {
@@ -1144,7 +1144,7 @@ module.exports = {
       "tags": [
         "cloud",
         "azure",
-        "ci-cd",
+        "cicd",
         "apps"
       ]
     },
@@ -1558,7 +1558,7 @@ module.exports = {
       "deskripsi": "-",
       "tags": [
         "jenkins",
-        "ci-cd"
+        "cicd"
       ]
     },
     {
@@ -2241,8 +2241,8 @@ module.exports = {
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/112.jpg",
       "deskripsi": "empty",
       "tags": [
-        "gRPC",
-        "Web"
+        "grpc",
+        "web"
       ]
     },
     {
@@ -4390,7 +4390,7 @@ module.exports = {
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/9.jpg",
       "deskripsi": "-",
       "tags": [
-        "ci-cd",
+        "cicd",
         "aws"
       ]
     },
@@ -4534,7 +4534,7 @@ module.exports = {
       "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/2.jpg",
       "deskripsi": "-",
       "tags": [
-        "ui-ux"
+        "uiux"
       ]
     },
     {
