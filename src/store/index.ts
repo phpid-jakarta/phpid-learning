@@ -15,9 +15,9 @@ export const showData = writable(data.data);
 export const allDistictTags = derived(allData, ($allData) => {
 	const r = getDistinctTags($allData);
 	return {
-    tags: r.tags || [],
-    withCount: r.withCount || {},
-  }
+		tags: r.tags || [],
+		withCount: r.withCount || {}
+	};
 });
 
 export const currentTag = writable('');

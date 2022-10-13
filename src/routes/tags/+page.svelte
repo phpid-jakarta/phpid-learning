@@ -27,11 +27,11 @@
 <section data-page="tags">
 	<Hero withSearch={false} withDateStats={false} />
 	<article class="max-w-5xl px-4 lg:px-0 mx-auto tracking-content">
-    <div
-      class="text-center mt-16 flex flex-col text-xl font-semibold leading-normal tracking-wide text-gray-600 dark:text-gray-200"
-    >
-      <h2>Daftar topik webinar</h2>
-    </div>
+		<div
+			class="text-center mt-16 flex flex-col text-xl font-semibold leading-normal tracking-wide text-gray-600 dark:text-gray-200"
+		>
+			<h2>Daftar topik webinar</h2>
+		</div>
 		{#if $allDistictTags.tags.length > 0}
 			<div id="content-speaker" class="container mx-auto mt-10 relative">
 				<Blob className="absolute top-32 left-0 dark:text-emerald-500 text-emerald-500/50" />
@@ -44,12 +44,12 @@
 							class="cursor-pointer rounded-full p-2 text-sm md:text-xs bg-blue-700/75 dark:bg-blue-700/60 text-white dark:text-blue-200 relative hover:underline"
 							alt={item.tag}
 							href={`/tag/${item.tag}`}
-              style="background-color: {item.bg};color: {item.fg};"
+							style="background-color: {item.bg};color: {item.fg};"
 						>
 							#{item.tag}
-              <span class="rounded-full bg-orange-700 text-white px-1">
-                {$allDistictTags.withCount[`${item.tag}`]}
-              </span>
+							<span class="rounded-full bg-orange-700 text-white px-1">
+								{$allDistictTags.withCount[`${item.tag}`]}
+							</span>
 						</a>
 					{/each}
 				</div>
