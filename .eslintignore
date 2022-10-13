@@ -1,8 +1,9 @@
-data
-api
-cover
-coverage
-src/api
+/src/api
+/data
+/data-qna
+/api
+/cover
+/coverage
 
 .DS_Store
 node_modules

@@ -20,34 +20,55 @@ jobs:
     name: Install dependencies
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Setup Node.js 14.x
-        uses: actions/setup-node@v1
+      - name: Install Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: '14.x'
+          node-version: 16
 
-      - name: Install locked dependencies
-        run: yarn install --frozen-lockfile
+      - uses: pnpm/action-setup@v2.2.2
+        name: Install pnpm
+        id: pnpm-install
+        with:
+          version: 7.5.1
+          run_install: false
+
+      - name: Get pnpm store directory
+        id: pnpm-cache
+        run: |
+          echo "::set-output name=pnpm_cache_dir::$(pnpm store path)"
+
+      - uses: actions/cache@v3
+        name: Setup pnpm cache
+        with:
+          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
+      - name: Install dependencies
+        run: pnpm install
 
       - name: Generate file json
-        run: yarn script:toJson
+        run: pnpm run script:toJson
 
       - name: Generate QnA json
-        run: yarn script:qna
+        run: pnpm run script:qna
 
       - name: Modify last update
         run: |
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > LAST_UPDATED
 
-      - name: Cache dependencies
-        uses: actions/cache@v1
-        id: cache-deps
+      - uses: actions/cache@v3
+        name: Cache project
         with:
           path: '.'
-          key: ${{ github.sha }}
+          key: ${{ runner.os }}-${{ github.sha }}-cache-project
+          restore-keys: |
+            ${{ runner.os }}-${{ github.sha }}-cache-project
 
   build_ui:
     if: github.repository == 'phpid-jakarta/phpid-learning'
@@ -55,20 +76,38 @@ jobs:
     runs-on: ubuntu-latest
     name: Export to Static
     steps:
-      - name: Restore cached dependencies
-        uses: actions/cache@v1
-        id: restore-deps
+      - name: Restore project
+        uses: actions/cache@v3
+        id: restore-project
         with:
           path: '.'
-          key: ${{ github.sha }}
+          key: ${{ runner.os }}-${{ github.sha }}-cache-project
 
-      - name: Setup Node.js 14.x
-        uses: actions/setup-node@v1
+      - name: Install Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: '14.x'
+          node-version: 16
+
+      - uses: pnpm/action-setup@v2.2.2
+        name: Install pnpm
+        id: pnpm-install
+        with:
+          version: 7.5.1
+          run_install: false
+
+      - name: Get pnpm store directory
+        id: pnpm-cache
+        run: |
+          echo "::set-output name=pnpm_cache_dir::$(pnpm store path)"
+
+      - uses: actions/cache@v3
+        name: Restore pnpm cache
+        with:
+          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
 
       - name: Perform export to static
-        run: yarn build
+        run: pnpm run sync && pnpm run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
@@ -85,12 +124,12 @@ jobs:
     runs-on: ubuntu-latest
     name: Push JSON Data
     steps:
-      - name: Restore cached dependencies
-        uses: actions/cache@v1
-        id: restore-deps
+      - name: Restore project
+        uses: actions/cache@v3
+        id: restore-project
         with:
           path: '.'
-          key: ${{ github.sha }}
+          key: ${{ runner.os }}-${{ github.sha }}-cache-project
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
