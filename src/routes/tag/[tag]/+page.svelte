@@ -1,18 +1,6 @@
-<script context="module" lang="ts">
-	export const prerender = true;
-
-	/** @type {import('@sveltejs/kit').Load} */
-	export async function load({ params }) {
-		const { tag } = params;
-		return {
-			props: { tag }
-		};
-	}
-</script>
-
 <script lang="ts">
 	import { onMount } from 'svelte';
-	import { allByTags, currentTag } from '../../store';
+	import { allByTags, currentTag } from '../../../store';
 
 	import { initMasonry } from '$lib/utils';
 
@@ -20,32 +8,33 @@
 	import CardItem from '$lib/event-item/CardItem.svelte';
 	import Blob from '$lib/decoration/Blob.svelte';
 
-	export let tag;
+  /** @type {import('./$types').PageData} */
+  export let data;
 
 	onMount(() => {
-		currentTag.set(tag);
+		currentTag.set(data.tag);
 		initMasonry();
 	});
 </script>
 
 <svelte:head>
-	<title>Webinar dengan topik #{tag}</title>
+	<title>Webinar dengan topik #{data.tag}</title>
 
-	<meta property="og:title" content="Webinar dengan topik #{tag}" />
+	<meta property="og:title" content="Webinar dengan topik #{data.tag}" />
 	<meta
 		property="og:description"
-		content="Daftar webinar dengan topik #{tag} di PHPID Online Learning"
+		content="Daftar webinar dengan topik #{data.tag} di PHPID Online Learning"
 	/>
 
-	<meta name="twitter:title" content="Webinar dengan topik #{tag}" />
+	<meta name="twitter:title" content="Webinar dengan topik #{data.tag}" />
 	<meta
 		name="twitter:description"
-		content="Daftar webinar dengan topik #{tag} di PHPID Online Learning"
+		content="Daftar webinar dengan topik #{data.tag} di PHPID Online Learning"
 	/>
 </svelte:head>
 
 <section data-page="tag">
-	<Hero {tag} />
+	<Hero tag={data.tag} />
 	<article class="max-w-5xl px-4 lg:px-0 mx-auto tracking-content">
 		{#if $allByTags.length > 0}
 			<div
