@@ -67,6 +67,13 @@ jobs:
         with:
           node-version: 16
 
+      - uses: pnpm/action-setup@v2.2.2
+        name: Install pnpm
+        id: pnpm-install
+        with:
+          version: 7.5.1
+          run_install: false
+
       - name: Lint files
         run: pnpm run lint
         env:
@@ -90,6 +97,13 @@ jobs:
         with:
           node-version: 16
 
+      - uses: pnpm/action-setup@v2.2.2
+        name: Install pnpm
+        id: pnpm-install
+        with:
+          version: 7.5.1
+          run_install: false
+
       - name: Perform build checking
         run: pnpm run build
         env:
@@ -112,6 +126,13 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
+
+      - uses: pnpm/action-setup@v2.2.2
+        name: Install pnpm
+        id: pnpm-install
+        with:
+          version: 7.5.1
+          run_install: false
 
       - name: Perform checking script:toJson
         run: pnpm run script:toJson
