@@ -16,6 +16,15 @@
 	const dataStart = getDateOnly($originData[dataLength - 1].date);
 	const dataEnd = getDateOnly($originData[0].date);
 	const dateRange = `${dataStart} - ${dataEnd}`;
+
+	/**
+	 * @type {boolean}
+	 */
+	export let withSearch;
+	/**
+	 * @type {boolean}
+	 */
+	export let withDateStats;
 </script>
 
 <section data-section="hero">
@@ -37,18 +46,22 @@
 				</p>
 			</div>
 
-			<div class="mt-8 sm:w-2/3 lg:w-1/2 mx-auto">
-				<SearchForm q="" />
-			</div>
+			{#if withSearch}
+				<div class="mt-8 sm:w-2/3 lg:w-1/2 mx-auto">
+					<SearchForm q="" />
+				</div>
+			{/if}
 
-			<div
-				class="mt-16 flex flex-col text-xl font-semibold leading-normal tracking-wide text-gray-600 dark:text-gray-200"
-			>
-				<h2>Daftar Webinar</h2>
-				<p>
-					{dateRange}
-				</p>
-			</div>
+			{#if withDateStats}
+				<div
+					class="mt-16 flex flex-col text-xl font-semibold leading-normal tracking-wide text-gray-600 dark:text-gray-200"
+				>
+					<h2>Daftar Webinar</h2>
+					<p>
+						{dateRange}
+					</p>
+				</div>
+			{/if}
 		</div>
 	</div>
 </section>
