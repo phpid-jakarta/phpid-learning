@@ -127,7 +127,7 @@ jobs:
           key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
 
       - name: Perform build checking
-        run: pnpm run build
+        run: pnpm run sync && pnpm run build
         env:
           CI: true
 
