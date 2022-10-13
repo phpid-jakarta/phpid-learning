@@ -1,4 +1,4 @@
-###  Amazon S3: Introduction Hands-On S3 Policy
+### Amazon S3: Introduction Hands-On S3 Policy
 
 - Waktu: Kamis, 27 Oktober 2022
 - Pukul: 19:00

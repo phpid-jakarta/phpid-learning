@@ -9,9 +9,9 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-    prerender: {
+		prerender: {
 			crawl: true
-		},
+		}
 	}
 };
 

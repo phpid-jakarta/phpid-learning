@@ -1,4 +1,4 @@
-###  Documentation as Code 
+### Documentation as Code
 
 - Waktu: Rabu, 7 September 2022
 - Pukul: 19:00

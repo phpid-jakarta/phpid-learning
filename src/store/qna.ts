@@ -26,19 +26,25 @@ export const currentQnaKeyword = writable('');
 
 export const allQnaByKeyword = derived([currentQnaKeyword], ([$currentQnaKeyword]) => {
 	if ($currentQnaKeyword) {
-		const foundQna = dataQna.filter((i) => {
-			// search the topic instead
-      const matchQuestions = i.questions.filter(q => q.q.toLocaleLowerCase().includes($currentQnaKeyword.toLowerCase()));
+		const foundQna = dataQna
+			.filter((i) => {
+				// search the topic instead
+				const matchQuestions = i.questions.filter((q) =>
+					q.q.toLocaleLowerCase().includes($currentQnaKeyword.toLowerCase())
+				);
 
-			return matchQuestions.length > 0;
-		}).map(i => {
-      const matchQuestions = i.questions.filter(q => q.q.toLocaleLowerCase().includes($currentQnaKeyword.toLowerCase()));
+				return matchQuestions.length > 0;
+			})
+			.map((i) => {
+				const matchQuestions = i.questions.filter((q) =>
+					q.q.toLocaleLowerCase().includes($currentQnaKeyword.toLowerCase())
+				);
 
-			return {
-				...i,
-				questions: matchQuestions,
-			}
-		});
+				return {
+					...i,
+					questions: matchQuestions
+				};
+			});
 
 		return foundQna;
 	}

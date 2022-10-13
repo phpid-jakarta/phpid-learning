@@ -7,8 +7,8 @@
 	import CardItem from '$lib/event-item/CardItem.svelte';
 	import Blob from '$lib/decoration/Blob.svelte';
 
-  /** @type {import('./$types').PageData} */
-  export let data;
+	/** @type {import('./$types').PageData} */
+	export let data;
 
 	onMount(() => {
 		currentSpeaker.set(data.speaker);

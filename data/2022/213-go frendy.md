@@ -1,4 +1,4 @@
-###  Data Engineering: What We Do & How We Do It
+### Data Engineering: What We Do & How We Do It
 
 - Waktu: Kamis, 22 September 2022
 - Pukul: 19:00

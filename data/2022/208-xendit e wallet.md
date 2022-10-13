@@ -1,4 +1,4 @@
-###  Receive Payment via e-wallet via Xendit 
+### Receive Payment via e-wallet via Xendit
 
 - Waktu: Selasa, 16 Agustus 2022
 - Pukul: 19:00

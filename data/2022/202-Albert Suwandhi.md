@@ -1,4 +1,4 @@
-###  Query & Analyze Data From Cloud Using SQL
+### Query & Analyze Data From Cloud Using SQL
 
 - Waktu: Selasa, 28 Juni 2022
 - Pukul: 19:00

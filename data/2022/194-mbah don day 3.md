@@ -1,4 +1,4 @@
-###  Agility And Team: Mengadaptasi Agile Manifesto
+### Agility And Team: Mengadaptasi Agile Manifesto
 
 - Waktu: Rabu, 20 April 2022
 - Pukul: 21:00
