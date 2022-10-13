@@ -1,6 +1,6 @@
 # Belajar daring bersama PHPID
 
-![PHPID](https://img.shields.io/badge/PHPID-Community-blue?cacheSeconds=604800) ![Contribution](https://img.shields.io/badge/Contributions-Welcome-Brightemerald.svg?cacheSeconds=604800) [![Build UI for Netlify](https://github.com/phpid-jakarta/phpid-learning/actions/workflows/build-ui-netlify.yml/badge.svg)](https://github.com/phpid-jakarta/phpid-learning/actions/workflows/build-ui-netlify.yml)
+![PHPID](https://img.shields.io/badge/PHPID-Community-blue?cacheSeconds=604800) ![Contribution](https://img.shields.io/badge/Contributions-Welcome-Brightemerald.svg?cacheSeconds=604800) [![Deployment](https://github.com/phpid-jakarta/phpid-learning/actions/workflows/deployment.yml/badge.svg)](https://github.com/phpid-jakarta/phpid-learning/actions/workflows/deployment.yml)
 
 ## Data bisa juga diakses lewat
 
@@ -8,6 +8,28 @@
 - JSON: Lihat di branch [api](https://github.com/phpid-jakarta/phpid-learning/tree/api)
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 - Calon Pemateri yang berminat mengisi PHPID-OL: [s.byphp.id/jadi-pemateri](https://s.byphp.id/jadi-pemateri)
+
+## Jalankan projek
+
+Membutuhkan `Node.js` versi 16 keatas dan `pnpm` versi 7.
+
+- Install dependency
+
+```bash
+pnpm i
+```
+
+- Jalankan development
+
+```bash
+pnpm run dev
+```
+
+- Build untuk production
+
+```bash
+pnpm run build
+```
 
 ## Bantu kami
 

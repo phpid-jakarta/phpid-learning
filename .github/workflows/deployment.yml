@@ -1,4 +1,4 @@
-name: Build UI for Netlify
+name: Deployment
 on:
   workflow_dispatch:
   push:
