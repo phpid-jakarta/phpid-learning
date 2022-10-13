@@ -4,7 +4,7 @@ import path from 'path';
 import appRootDir from 'app-root-dir';
 
 import constants from './constants.mjs';
-import packageJsonData from '../package.json' assert { type: "json" };
+import packageJsonData from '../package.json' assert { type: 'json' };
 
 export const ROOT_DIR = appRootDir.get();
 export const DATA_PATH = path.join(ROOT_DIR, './data');
