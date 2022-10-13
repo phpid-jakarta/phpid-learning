@@ -36,7 +36,7 @@
 </svelte:head>
 
 <section data-page="home">
-	<Hero />
+	<Hero withSearch={true} withDateStats={true} />
 	<article class="max-w-5xl px-4 lg:px-0 mx-auto tracking-content">
 		{#if $showData.length > 0}
 			<Pagination className="mt-8" />

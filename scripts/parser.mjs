@@ -37,7 +37,7 @@ export const parseSessionSection = async (sections) => {
 				const cover = getCoverUrl(sesi);
 				const deskripsi = getContent(ctx, constants.REGEX_DESKRIPSI, '- Deskripsi:');
 				const kategori = getContent(ctx, constants.REGEX_KATEGORI, '- Kategori:');
-				const tags = kategori.split(',').map((i) => i.trim().replace('/', '-').replace(' ', '-'));
+				const tags = kategori.split(',').map((i) => slugify(i, constants.SLUGIFY_OPTION));
 
 				const dateWithoutDay = date.split(',')[1];
 				const datetime = `${dateWithoutDay.trim()} ${time.trim()}`;
