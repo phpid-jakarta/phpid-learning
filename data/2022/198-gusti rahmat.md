@@ -1,4 +1,4 @@
-###  Software Development Waste
+### Software Development Waste
 
 - Waktu: Selasa, 24 Mei 2022
 - Pukul: 19:00

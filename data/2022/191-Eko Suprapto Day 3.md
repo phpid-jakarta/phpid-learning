@@ -1,4 +1,4 @@
-###  The Importance of Personal Branding - Remote Work
+### The Importance of Personal Branding - Remote Work
 
 - Waktu: Sabtu, 16 April 2022
 - Pukul: 21:00

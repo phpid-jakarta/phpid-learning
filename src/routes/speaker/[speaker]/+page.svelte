@@ -1,48 +1,34 @@
-<script context="module" lang="ts">
-	export const prerender = true;
-	import data from '../../api/data';
-
-	/** @type {import('@sveltejs/kit').Load} */
-	export async function load({ params }) {
-		const { speaker } = params;
-		const item = data.data.find((i) => i.speakerSlug === speaker);
-		return {
-			props: { speaker, realName: item?.speaker || speaker }
-		};
-	}
-</script>
-
 <script lang="ts">
 	import { onMount } from 'svelte';
-	import { allBySpeakers, currentSpeaker } from '../../store';
+	import { allBySpeakers, currentSpeaker } from '../../../store';
 
 	import { initMasonry } from '$lib/utils';
 
 	import CardItem from '$lib/event-item/CardItem.svelte';
 	import Blob from '$lib/decoration/Blob.svelte';
 
-	export let speaker;
-	export let realName;
+	/** @type {import('./$types').PageData} */
+	export let data;
 
 	onMount(() => {
-		currentSpeaker.set(speaker);
+		currentSpeaker.set(data.speaker);
 		initMasonry();
 	});
 </script>
 
 <svelte:head>
-	<title>Webinar oleh {realName}</title>
+	<title>Webinar oleh {data.realName}</title>
 
-	<meta property="og:title" content="Webinar oleh {realName}" />
+	<meta property="og:title" content="Webinar oleh {data.realName}" />
 	<meta
 		property="og:description"
-		content="Daftar webinar oleh {realName} di PHPID Online Learning"
+		content="Daftar webinar oleh {data.realName} di PHPID Online Learning"
 	/>
 
-	<meta name="twitter:title" content="Webinar oleh {realName}" />
+	<meta name="twitter:title" content="Webinar oleh {data.realName}" />
 	<meta
 		name="twitter:description"
-		content="Daftar webinar oleh {realName} di PHPID Online Learning"
+		content="Daftar webinar oleh {data.realName} di PHPID Online Learning"
 	/>
 </svelte:head>
 

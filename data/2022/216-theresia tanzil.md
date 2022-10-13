@@ -1,4 +1,4 @@
-###  Web Scrapping. Dari Website jadi Database
+### Web Scrapping. Dari Website jadi Database
 
 - Waktu: Selasa, 18 Oktober 2022
 - Pukul: 19:00

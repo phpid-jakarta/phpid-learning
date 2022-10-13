@@ -2,7 +2,7 @@
 	import { currentPage, perPage, totalPage } from '../../store';
 	import { createArray } from '../utils';
 
-	export let className = null;
+	export let className = '';
 
 	let pageCount;
 	$: pageCount = Math.ceil($totalPage / $perPage);

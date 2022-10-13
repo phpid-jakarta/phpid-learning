@@ -1,4 +1,4 @@
-###  Winning Client's Heart with IT Support
+### Winning Client's Heart with IT Support
 
 - Waktu: Kamis, 6 Oktober 2022
 - Pukul: 19:00

@@ -1,4 +1,4 @@
-###  Harnessing Chatbot AI to Transform Customer Experience
+### Harnessing Chatbot AI to Transform Customer Experience
 
 - Waktu: Kamis, 12 Mei 2022
 - Pukul: 19:00

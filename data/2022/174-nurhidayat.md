@@ -1,4 +1,4 @@
-### (Reinvented) How to Design a Good Database 
+### (Reinvented) How to Design a Good Database
 
 - Waktu: Sabtu, 12 Maret 2022
 - Pukul: 19:00

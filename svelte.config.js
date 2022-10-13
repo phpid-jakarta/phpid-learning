@@ -8,20 +8,10 @@ const config = {
 	preprocess: preprocess(),
 
 	kit: {
-		adapter: adapter({
-			// default options are shown
-			pages: 'build',
-			assets: 'build',
-			fallback: null,
-			precompress: false
-		}),
-
+		adapter: adapter(),
 		prerender: {
 			crawl: true
-		},
-
-		// hydrate the <div id="svelte"> element in src/app.html
-		target: '#svelte'
+		}
 	}
 };
 

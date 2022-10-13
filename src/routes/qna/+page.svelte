@@ -3,34 +3,31 @@
 </script>
 
 <script lang="ts">
-	import { onMount } from 'svelte';
-	import { allData, currentTag } from '../store';
-
-	import ArchieveItem from '$lib/event-item/ArchieveItem.svelte';
+	import { allQnaByKeyword } from '../../store/qna';
 	import Blob from '$lib/decoration/Blob.svelte';
-
-	onMount(() => {
-		currentTag.set('');
-	});
+	import QuestionItem from '$lib/qna-item/QuestionItem.svelte';
+	import Hero from '$lib/hero/HeroQnA.svelte';
 </script>
 
 <svelte:head>
-	<title>Arsip webinar</title>
+	<title>Tanya jawab</title>
 
-	<meta property="og:title" content="Arsip webinar" />
+	<meta property="og:title" content="Tanya jawab" />
 	<meta
 		property="og:description"
-		content="Daftar semua arsip webinar yang tersedia di PHPID Online Learning"
+		content="Daftar tanya jawab yang tersedia di PHPID Online Learning"
 	/>
 
-	<meta name="twitter:title" content="Arsip webinar" />
+	<meta name="twitter:title" content="Tanya jawab" />
 	<meta
 		name="twitter:description"
-		content="Daftar semua arsip webinar yang tersedia di PHPID Online Learning"
+		content="Daftar tanya jawab yang tersedia di PHPID Online Learning"
 	/>
 </svelte:head>
 
-<section data-page="archieve">
+<section data-page="qna">
+	<Hero />
+
 	<article class="max-w-5xl px-4 lg:px-0 mx-auto tracking-content">
 		<div
 			id="content-speaker"
@@ -40,8 +37,11 @@
 			<Blob
 				className="absolute scale-x-[-1] -bottom-48 right-0 dark:text-red-500 text-red-500/50"
 			/>
-			{#each $allData as item (`${item.id}${item.slug}`)}
-				<ArchieveItem {item} />
+
+			{#each $allQnaByKeyword as item (`${item.slug}`)}
+				{#each item.questions as q}
+					<QuestionItem {item} question={q} />
+				{/each}
 			{/each}
 		</div>
 	</article>

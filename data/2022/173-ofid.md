@@ -1,4 +1,4 @@
-### Mobile Development with Flutter 
+### Mobile Development with Flutter
 
 - Waktu: Sabtu, 12 Maret 2022
 - Pukul: 19:00

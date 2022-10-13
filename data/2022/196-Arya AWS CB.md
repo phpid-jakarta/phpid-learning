@@ -1,4 +1,4 @@
-###  Monitoring Web in EC2 using AWS OpenSearch
+### Monitoring Web in EC2 using AWS OpenSearch
 
 - Waktu: Selasa, 17 Mei 2022
 - Pukul: 19:00

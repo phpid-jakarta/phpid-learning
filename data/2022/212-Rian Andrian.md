@@ -1,4 +1,4 @@
-###  Government Digital Transformation 
+### Government Digital Transformation
 
 - Waktu: Selasa, 20 September 2022
 - Pukul: 19:00

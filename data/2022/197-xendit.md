@@ -1,4 +1,4 @@
-###  Howto Receive & Notification via Callback in PHP (By Xendit)
+### Howto Receive & Notification via Callback in PHP (By Xendit)
 
 - Waktu: Kamis, 19 Mei 2022
 - Pukul: 19:00

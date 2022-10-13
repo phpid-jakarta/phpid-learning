@@ -4,7 +4,7 @@
 
 <script lang="ts">
 	import { onMount } from 'svelte';
-	import { allByKeyword, currentKeyword } from '../store';
+	import { allByKeyword, currentKeyword } from '../../store';
 
 	import { initMasonry } from '$lib/utils';
 

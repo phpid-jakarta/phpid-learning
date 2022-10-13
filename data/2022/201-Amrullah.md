@@ -1,4 +1,4 @@
-###  Kiat Memenangkan Zero Moment of Truth di Mesin Pencari bagi UMKM & Startup Pemula
+### Kiat Memenangkan Zero Moment of Truth di Mesin Pencari bagi UMKM & Startup Pemula
 
 - Waktu: Selasa, 21 Juni 2022
 - Pukul: 19:00
