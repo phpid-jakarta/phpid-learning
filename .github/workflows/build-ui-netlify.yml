@@ -15,9 +15,9 @@ on:
       - 'package.json'
 
 jobs:
-  install-deps:
+  deploy-to-prod:
     if: github.repository == 'phpid-jakarta/phpid-learning'
-    name: Install dependencies
+    name: Deploy to production
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
