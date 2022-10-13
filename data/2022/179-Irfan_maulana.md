@@ -2,7 +2,7 @@
 
 - Waktu: Selasa, 29 Maret 2022
 - Pukul: 19:00
-- Pemateri: Irfan Maulana - Principal Engineering Web Tokopedia
+- Pemateri: Irfan Maulana
 - Slide: empty
 - Video: https://tbp.my.id/?phpidol-179
 - Registrasi: empty
