@@ -43,7 +43,7 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Generate file json
+      - name: Run image resizer script
         run: script:resize
 
       - name: Modify last update
@@ -51,7 +51,7 @@ jobs:
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > LAST_UPDATED
 
-      - name: Commit changes
+      - name: Commit compressed image
         run: |
           git config --local user.email "mazipanneh@gmail.com"
           git config --local user.name "mazipan"
