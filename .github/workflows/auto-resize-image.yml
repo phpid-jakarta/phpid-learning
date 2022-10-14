@@ -9,7 +9,7 @@ on:
 jobs:
   resize-image:
     if: github.repository == 'phpid-jakarta/phpid-learning'
-    name: Deploy to production
+    name: Resize big image
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -44,7 +44,7 @@ jobs:
         run: pnpm install
 
       - name: Run image resizer script
-        run: script:resize
+        run: pnpm run script:resize
 
       - name: Modify last update
         run: |
