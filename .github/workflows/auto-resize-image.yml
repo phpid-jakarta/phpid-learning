@@ -1,0 +1,75 @@
+name: Image Resizer
+on:
+  workflow_dispatch:
+
+  schedule:
+  # See https://crontab.guru/#0_17_*_*_6
+  - cron: "0 17 * * 6"
+
+jobs:
+  resize-image:
+    if: github.repository == 'phpid-jakarta/phpid-learning'
+    name: Deploy to production
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      - uses: pnpm/action-setup@v2.2.2
+        name: Install pnpm
+        id: pnpm-install
+        with:
+          version: 7.5.1
+          run_install: false
+
+      - name: Get pnpm store directory
+        id: pnpm-cache
+        run: |
+          echo "::set-output name=pnpm_cache_dir::$(pnpm store path)"
+
+      - uses: actions/cache@v3
+        name: Setup pnpm cache
+        with:
+          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Generate file json
+        run: script:resize
+
+      - name: Modify last update
+        run: |
+          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
+          echo $d > LAST_UPDATED
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "mazipanneh@gmail.com"
+          git config --local user.name "mazipan"
+          git add -A
+
+          git commit -m "CI: Auto resize image 🏞"
+
+      - uses: actions/cache@v3
+        name: Cache project
+        with:
+          path: '.'
+          key: ${{ runner.os }}-${{ github.sha }}-cache-project
+          restore-keys: |
+            ${{ runner.os }}-${{ github.sha }}-cache-project
+
+      - name: GitHub push to master
+        uses: ad-m/github-push-action@master
+        with:
+          force-with-lease: true
+          directory: "."
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
