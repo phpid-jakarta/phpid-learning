@@ -3,8 +3,8 @@ on:
   workflow_dispatch:
 
   schedule:
-  # See https://crontab.guru/#0_17_*_*_6
-  - cron: "0 17 * * 6"
+    # See https://crontab.guru/#0_17_*_*_6
+    - cron: '0 17 * * 6'
 
 jobs:
   resize-image:
@@ -71,5 +71,5 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           force-with-lease: true
-          directory: "."
+          directory: '.'
           github_token: ${{ secrets.PERSONAL_TOKEN }}
