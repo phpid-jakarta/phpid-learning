@@ -48,34 +48,35 @@
 				{#each $allByTags as item (`${item.id}${item.slug}`)}
 					<CardItem {item} />
 				{/each}
-				<a
-					href="/tags"
-					class="flex items-center gap-x-1.5 justify-center bg-gradient-to-r rounded-lg py-1.5 px-3 text-gray-600 dark:text-gray-300 from-gray-600/10 to-gray-500/10 dark:from-gray-600/25 dark:to-gray-500/25 text-center"
-					>Lihat semua topik
-					<svg
-						width="20"
-						height="20"
-						viewBox="0 0 20 20"
-						fill="none"
-						xmlns="http://www.w3.org/2000/svg"
-					>
-						<path
-							d="M11.4583 5.625L16.0417 10L11.4583 14.375"
-							stroke="currentColor"
-							stroke-width="1.5"
-							stroke-linecap="round"
-							stroke-linejoin="round"
-						/>
-						<path
-							d="M15.8333 10H3.95834"
-							stroke="currentColor"
-							stroke-width="1.5"
-							stroke-linecap="round"
-							stroke-linejoin="round"
-						/>
-					</svg>
-				</a>
 			</div>
 		{/if}
+
+		<a
+			href="/tags"
+			class="flex items-center gap-x-1.5 justify-center bg-gradient-to-r rounded-lg p-4 text-gray-600 dark:text-gray-300 from-gray-600/10 to-gray-500/10 dark:from-gray-600/25 dark:to-gray-500/25 text-center"
+			>Lihat semua topik
+			<svg
+				width="20"
+				height="20"
+				viewBox="0 0 20 20"
+				fill="none"
+				xmlns="http://www.w3.org/2000/svg"
+			>
+				<path
+					d="M11.4583 5.625L16.0417 10L11.4583 14.375"
+					stroke="currentColor"
+					stroke-width="1.5"
+					stroke-linecap="round"
+					stroke-linejoin="round"
+				/>
+				<path
+					d="M15.8333 10H3.95834"
+					stroke="currentColor"
+					stroke-width="1.5"
+					stroke-linecap="round"
+					stroke-linejoin="round"
+				/>
+			</svg>
+		</a>
 	</article>
 </section>
