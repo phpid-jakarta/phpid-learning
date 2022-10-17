@@ -67,9 +67,20 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-${{ github.sha }}-cache-project
 
-      - name: GitHub push to master
-        uses: ad-m/github-push-action@master
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v4
+
+      - name: Check outputs
+        if: ${{ steps.cpr.outputs.pull-request-number }}
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
         with:
-          force-with-lease: true
-          directory: '.'
-          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          delete-branch: true
+          title: 'CHORE: [BOT] Auto resize image'
+          reviewers: mazipan
+          labels: |
+            bot
+            automerge
