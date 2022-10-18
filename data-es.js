@@ -2,11 +2,33 @@
 export default {
   "meta": {
     "last_updated": "2022-10-18",
-    "total": 216,
+    "total": 217,
     "credits": "PHPID Community",
     "ui": "https://s.byphp.id/learning"
   },
   "data": [
+    {
+      "id": "218",
+      "date": "Kamis, 20 Oktober 2022",
+      "time": "19:00",
+      "dateTime": "2022-10-20 19:00:00 +07:00",
+      "speaker": "Rijal - Backend Engineer @ Lomotif",
+      "speakerSlug": "rijal",
+      "slide": "empty",
+      "topic": "Concurrent Programming In Go",
+      "slug": "concurrent-programming-in-go",
+      "videos": [
+        "empty"
+      ],
+      "registrasi": "",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/218.jpg",
+      "deskripsi": "-",
+      "tags": [
+        "go",
+        "concurrent",
+        "async"
+      ]
+    },
     {
       "id": "217",
       "date": "Kamis, 27 Oktober 2022",
