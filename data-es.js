@@ -21,7 +21,7 @@ export default {
         "empty"
       ],
       "registrasi": "https://fb.me/e/2beeRthPt",
-      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/not-found.jpg",
+      "cover": "https://github.com/phpid-jakarta/phpid-learning/raw/master/cover/219.jpg",
       "deskripsi": "-",
       "tags": [
         "customer-service",
