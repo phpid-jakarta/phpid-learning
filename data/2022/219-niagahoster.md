@@ -4,8 +4,8 @@
 - Pukul: 19:00
 - Pemateri: Daniel Indra Kusworo - Customer Operasional Manager
 - Slide: empty
-- Video: empty
-- Registrasi: https://fb.me/e/2beeRthPt
+- Video: https://www.youtube.com/watch?v=jYd6b-RbXy4
+- Registrasi: empty
 - Sesi: 219
 - Kategori: customer service, cms, wordpress
 - Deskripsi: -
