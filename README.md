@@ -4,7 +4,7 @@
 
 ## Data bisa juga diakses lewat
 
-- Web UI: [learning.byphp.id](https://learning.byphp.id)
+- Web UI: https://learning-byphpid.netlify.app/
 - JSON: Lihat di branch [api](https://github.com/phpid-jakarta/phpid-learning/tree/api)
 - [Carik Bot](https://carik.id/) keyword: jadwal event phpid
 - Calon Pemateri yang berminat mengisi PHPID-OL: [s.byphp.id/jadi-pemateri](https://s.byphp.id/jadi-pemateri)
