@@ -127,7 +127,7 @@ export const parseQnA = async (item, p) => {
 			speaker: item.speaker || '',
 			title: item.title || '',
 			event_date: item.event_date || '',
-			link: item.link || 'https://learning.byphp.id/',
+			link: item.link || 'https://learning-byphpid.netlify.app/',
 			questions: questions || []
 		};
 	} catch (error) {

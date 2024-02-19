@@ -4,7 +4,7 @@ module.exports = {
 		last_updated: '2021-10-07',
 		total: 0,
 		credits: 'PHPID Community',
-		ui: 'https://learning.byphp.id'
+		ui: 'https://learning-byphpid.netlify.app'
 	},
 	data: []
 };
