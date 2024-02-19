@@ -1,0 +1,1 @@
+import{e as t}from"./index-141bbf7b.js";function e({params:o}){if(o.tag)return{tag:o.tag};throw t(404,"Not found")}const a=Object.freeze(Object.defineProperty({__proto__:null,load:e},Symbol.toStringTag,{value:"Module"}));export{a as _,e as l};
